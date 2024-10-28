@@ -1,1 +1,27 @@
-{}
+{
+  "marjans": {
+    "mainLink": "https://www.marjane.ma/contenu/nos-catalogues",
+    "marjan": {
+      "name": "Marjane",
+      "link": "https://player.flipsnack.com/?hash=RkM3QUVFRUVGQjUrMW41eWtraGJkYw%3D%3D&slug=cataloguemarjane1",
+      "thumbnail": "https://api-ayaline.marjane.ma/cms/v2/assets/f463f0ef-ce41-4015-91cf-b62c579669e3",
+      "date": "Du 23 Octobre au 14 Novembre 2024"
+    },
+    "marjanMarket": {
+      "name": "Marjane Market",
+      "link": "https://player.flipsnack.com/?hash=RkM3QUVFRUVGQjUrdmszcXV1MTZyaA%3D%3D&slug=cataloguemarjane4",
+      "thumbnail": "https://api-ayaline.marjane.ma/cms/v2/assets/76a59b06-470c-45f7-b58c-5ccd887c34fb",
+      "date": "Du 23 Octobre au 14 Novembre 2024"
+    }
+  },
+  "bims": {
+    "bim1": {
+      "date": "À partir de Vendredi 1 Novembre",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-10-Spot%20BIM%2001%20Novembre%202024%20WEB2.jpg",
+      "images": [
+        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-10-Spot%20BIM%2001%20Novembre%202024%20WEB2.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-21-Spot%20BIM%2001%20Novembre%202024%20WEB.jpg"
+      ] 
+    }
+  }
+}
