@@ -16,11 +16,20 @@
   },
   "bims": {
     "bim1": {
-      "date": "À partir de 1 Novembre",
+      "date": "À partir de Vendredi 1 Novembre",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-10-Spot%20BIM%2001%20Novembre%202024%20WEB2.jpg",
       "images": [
         "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-10-Spot%20BIM%2001%20Novembre%202024%20WEB2.jpg",
         "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-21-Spot%20BIM%2001%20Novembre%202024%20WEB.jpg"
+      ]
+    },
+    "bim2": {
+      "date": "À partir de Mardi 5 Novembre",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-31-Groupe%20spot%20BIM%2005%20Nov%202024%20WEB.jpg",
+      "images": [
+        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-31-Groupe%20spot%20BIM%2005%20Nov%202024%20WEB.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-46-Groupe%20spot%20BIM%2005%20Nov%202024%20WEB2.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-53-Groupe%20spot%20BIM%2005%20Nov%202024%20WEB3.jpg"
       ]
     }   
   }
