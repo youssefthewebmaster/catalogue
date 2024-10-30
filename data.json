@@ -41,6 +41,56 @@
         "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-22-28-Edpl%20Promo%2018%20Octobre%202024%20WEB3.jpg"
       ]
     }  
+  },
+  "carrefours": {
+    "carrefour1": {
+      "name": "Carrefour",
+      "title": "Halloween chez Carrefour",
+      "thumbnail": "https://carrefourmaroc.ma/wp-content/uploads/2024/10/Couv_Catalogue-Halloween-Digital-2024_150k.jpg",
+      "date": "Du 23 Octobre au 14 Novembre 2024",
+      "images": [
+        "https://online.fliphtml5.com/hxkby/novc/files/large/a10b49b7281602f771ee1d076d4cee2e.webp",
+        "https://online.fliphtml5.com/hxkby/novc/files/large/b6ac4281b390330e407fac8b32a097d0.webp",
+        "https://online.fliphtml5.com/hxkby/novc/files/large/247654b9eff50100678216188ab1069a.webp"
+      ]
+    },
+    "carrefour2": {
+      "name": "Carrefour",
+      "title": "Célébrons votre fidélité chez Carrefour",
+      "thumbnail": "https://carrefourmaroc.ma/wp-content/uploads/2024/10/Celebrons-votre-fidelite.jpg",
+      "date": "Du  24 octobre au 13 novembre 2024",
+      "images": [
+        "https://online.fliphtml5.com/hxkby/hzqa/files/large/1b7a6e096bba894fb5b3fd58ede3c819.webp",
+        "https://online.fliphtml5.com/hxkby/hzqa/files/large/cdf6f3e16f9784d4ba882f8e213e23bc.webp",
+        "https://online.fliphtml5.com/hxkby/hzqa/files/large/7fc730a1068da8010161381cc9a62878.webp",
+        "https://online.fliphtml5.com/hxkby/hzqa/files/large/bb66fd3753b0a5acc66a3cc59703e15c.webp",
+        "https://online.fliphtml5.com/hxkby/hzqa/files/large/86233d5d62fe6865f9009da9f5a128ff.webp",
+        "https://online.fliphtml5.com/hxkby/hzqa/files/large/945204f8588e6b081c5577f9e004bc2c.webp",
+        "https://online.fliphtml5.com/hxkby/hzqa/files/large/4829c1b63d532d1ebdb065646c112997.webp",
+        "https://online.fliphtml5.com/hxkby/hzqa/files/large/9d2c44858e3f66985560090c2b5d9ed1.webp"
+      ]
+    },
+    "carrefour3": {
+      "name": "Carrefour",
+      "title": "عروض لا تقاوم في الأجهزة المنزلية",
+      "thumbnail": "https://carrefourmaroc.ma/wp-content/uploads/2024/10/Flyer-CRF-Boost-NON-AL-du-24-Oct-au-03-Nov-2024-1-1152x1782.jpg",
+      "date": "du 24 Octobre au 03 novembre 2024",
+      "images": [
+        "https://online.fliphtml5.com/hxkby/nuqv/files/large/08eb3deee952461727d7681d7c991eb1.webp",
+        "https://online.fliphtml5.com/hxkby/nuqv/files/large/7debd58349309cf65a75db0cb30679f8.webp"
+      ]
+    },
+    "carrefour4": {
+      "name": "Carrefour",
+      "title": "Goutez la difference chez Carrefour",
+      "thumbnail": "https://carrefourmaroc.ma/wp-content/uploads/2024/10/CRF_Flyer_Festival-marche-du-10-au-16-octobre-2024-1-scaled-1152x1800.jpg",
+      "date": "Du 16 octobre au 10 octobre 2024",
+      "images": [
+        "https://online.fliphtml5.com/hxkby/gaja/files/large/d524bb9cb5610c858224d2297367d793.webp",
+        "https://online.fliphtml5.com/hxkby/gaja/files/large/f7bc82720a2dd77ad9d78835bd7471cc.webp",
+        "https://online.fliphtml5.com/hxkby/gaja/files/large/c12ba9bf7ea2e2706fea6df53ff7370d.webp"
+      ]
+    }
   }
 }
 
