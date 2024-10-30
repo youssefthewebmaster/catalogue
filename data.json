@@ -31,7 +31,16 @@
         "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-46-Groupe%20spot%20BIM%2005%20Nov%202024%20WEB2.jpg",
         "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-53-Groupe%20spot%20BIM%2005%20Nov%202024%20WEB3.jpg"
       ]
-    }   
+    },
+    "bim3": {
+      "date": "Prix valable du 21 Octobre ",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-22-14-Edpl%20Promo%2018%20Octobre%202024%20WEB2.jpg",
+      "images": [
+        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-22-14-Edpl%20Promo%2018%20Octobre%202024%20WEB2.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-22-21-Edpl%20Promo%2018%20Octobre%202024%20WEB.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-22-28-Edpl%20Promo%2018%20Octobre%202024%20WEB3.jpg"
+      ]
+    }  
   }
 }
 
