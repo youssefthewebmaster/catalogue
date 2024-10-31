@@ -44,7 +44,6 @@
   },
   "carrefours": {
     "carrefour1": {
-      "name": "Carrefour",
       "title": "Halloween chez Carrefour",
       "thumbnail": "https://carrefourmaroc.ma/wp-content/uploads/2024/10/Couv_Catalogue-Halloween-Digital-2024_150k.jpg",
       "date": "Du 23 Octobre au 14 Novembre 2024",
@@ -55,7 +54,6 @@
       ]
     },
     "carrefour2": {
-      "name": "Carrefour",
       "title": "Célébrons votre fidélité chez Carrefour",
       "thumbnail": "https://carrefourmaroc.ma/wp-content/uploads/2024/10/Celebrons-votre-fidelite.jpg",
       "date": "Du  24 octobre au 13 novembre 2024",
@@ -71,7 +69,6 @@
       ]
     },
     "carrefour3": {
-      "name": "Carrefour",
       "title": "عروض لا تقاوم في الأجهزة المنزلية",
       "thumbnail": "https://carrefourmaroc.ma/wp-content/uploads/2024/10/Flyer-CRF-Boost-NON-AL-du-24-Oct-au-03-Nov-2024-1-1152x1782.jpg",
       "date": "du 24 Octobre au 03 novembre 2024",
@@ -81,7 +78,6 @@
       ]
     },
     "carrefour4": {
-      "name": "Carrefour",
       "title": "Goutez la difference chez Carrefour",
       "thumbnail": "https://carrefourmaroc.ma/wp-content/uploads/2024/10/CRF_Flyer_Festival-marche-du-10-au-16-octobre-2024-1-scaled-1152x1800.jpg",
       "date": "Du 16 octobre au 10 octobre 2024",
@@ -90,7 +86,27 @@
         "https://online.fliphtml5.com/hxkby/gaja/files/large/f7bc82720a2dd77ad9d78835bd7471cc.webp",
         "https://online.fliphtml5.com/hxkby/gaja/files/large/c12ba9bf7ea2e2706fea6df53ff7370d.webp"
       ]
+    },
+    "carrefourMarket1": {
+      "title": "Célébrons votre fidélité chez Carrefour Market",
+      "thumbnail": "https://carrefourmarket.ma/wp-content/uploads/2024/10/promos-carrefourmarket-2024-maroc-.jpg",
+      "date": "Du 24 octobre au 13 novembre 2024",
+      "images": [
+        "https://carrefourmarket.ma/wp-content/uploads/2024/10/promos-carrefourmarket-2024-maroc-.jpg",
+        "https://online.fliphtml5.com/hxkby/gmtv/files/large/90c0cd839edec596aace386f39c0702c.webp",
+        "https://online.fliphtml5.com/hxkby/gmtv/files/large/271dcc199f40305cb90fdf681fcf106c.webp",
+        "https://online.fliphtml5.com/hxkby/gmtv/files/large/3840d3fe5c5d1d75efa6cf7dfbbcdb02.webp",
+        "https://online.fliphtml5.com/hxkby/gmtv/files/large/408a1ec38f10947615bd5d3897981999.webp"
+      ]
+    },
+    "carrefourMarket2": {
+      "title": "Meilleurs promos chez Carrefour Market",
+      "thumbnail": "https://carrefourmarket.ma/wp-content/uploads/2024/10/promos-carrefour-2024.jpg",
+      "date": "Du 17 octobre au 23 octobre 2024",
+      "images": [
+        "https://online.fliphtml5.com/hxkby/cyxp/files/large/66df93bc9f30ea15c6d524ce6473116c.webp",
+        "https://online.fliphtml5.com/hxkby/cyxp/files/large/4f22f21533fbbf04ea9e5d3fc4d0aa0a.webp"
+      ]
     }
   }
 }
-
