@@ -130,5 +130,32 @@
       "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2031%20Octobre%20au%2006%20Novembre%202024%203.jpg",
       "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2031%20Octobre%20au%2006%20Novembre%202024%202.jpg"
     ]
+  },
+  "Atacadão": {
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%2017%20octobre%20au%2006%20novembre%202024.jpg",
+    "date": "Du Jeudi 17 Octobre au 06 Novembre 2024",
+    "images": [
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%2017%20octobre%20au%2006%20novembre%202024.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%2017%20octobre%20au%2006%20novembre%202024%207.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%2017%20octobre%20au%2006%20novembre%202024%206.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%2017%20octobre%20au%2006%20novembre%202024%205.jpg"
+    ]
+  },
+  "Aswak Assalam": {
+    "thumbnail": "https://www.aswakassalam.com/Catalogue-octobre-2024/files/mobile/1.jpg",
+    "date": "Du Jeudi 18 Octobre au 03 Novembre 2024",
+    "images": [
+      "https://www.aswakassalam.com/Catalogue-octobre-2024/files/mobile/1.jpg",
+      "https://www.aswakassalam.com/Catalogue-octobre-2024/files/mobile/2.jpg",
+      "https://www.aswakassalam.com/Catalogue-octobre-2024/files/mobile/3.jpg"
+    ]
+  },
+  "Supeco": {
+    "thumbnail": "https://supeco.ma/wp-content/uploads/2024/10/Supeco-du-24-octobre-au-13-novembre-2024.png",
+    "date": "Du 24 octobre au 13 novembre 2024",
+    "images": [
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2024%20octobre%20au%2013%20novembre%202024.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2024%20octobre%20au%2013%20novembre%202024%201.jpg"
+    ]
   }
 }
