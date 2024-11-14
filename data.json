@@ -88,31 +88,22 @@
   },
   "bims": {
     "bim1": {
-      "date": "À partir de Vendredi 1 Novembre",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-10-Spot%20BIM%2001%20Novembre%202024%20WEB2.jpg",
+      "date": "À partir de Vendredi 15 Novembre",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/14-11-2024-19-27-45-Spot%20BIM%2015%20NOV%202024%20WEB2.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-10-Spot%20BIM%2001%20Novembre%202024%20WEB2.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-21-Spot%20BIM%2001%20Novembre%202024%20WEB.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/14-11-2024-19-27-45-Spot%20BIM%2015%20NOV%202024%20WEB2.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/14-11-2024-19-27-59-Spot%20BI.M%2015%20NOV%202024%20WEB.jpg"
       ]
     },
     "bim2": {
-      "date": "À partir de Mardi 5 Novembre",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-31-Groupe%20spot%20BIM%2005%20Nov%202024%20WEB.jpg",
+      "date": "À partir de Mardi 19 Novembre",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/14-11-2024-19-28-06-G%20Spot%20BIM%2019%20Novembre%2020243.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-31-Groupe%20spot%20BIM%2005%20Nov%202024%20WEB.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-46-Groupe%20spot%20BIM%2005%20Nov%202024%20WEB2.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-19-53-Groupe%20spot%20BIM%2005%20Nov%202024%20WEB3.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/14-11-2024-19-28-06-G%20Spot%20BIM%2019%20Novembre%2020243.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/14-11-2024-19-28-13-G%20Spot%20BIM%2019%20Novembre%2020242.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/14-11-2024-19-28-20-G%20Spot%20BIM%2019%20Novembre%202024.jpg"
       ]
-    },
-    "bim3": {
-      "date": "Prix valable du 21 Octobre ",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-22-14-Edpl%20Promo%2018%20Octobre%202024%20WEB2.jpg",
-      "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-22-14-Edpl%20Promo%2018%20Octobre%202024%20WEB2.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-22-21-Edpl%20Promo%2018%20Octobre%202024%20WEB.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/28-10-2024-12-22-28-Edpl%20Promo%2018%20Octobre%202024%20WEB3.jpg"
-      ]
-    }  
+    } 
   },
   "carrefours": {
     "carrefour1": {
