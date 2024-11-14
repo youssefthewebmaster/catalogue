@@ -133,36 +133,31 @@
       ]
     },
     "carrefourMarket1": {
-      "title": "Célébrons votre fidélité chez Carrefour Market",
-      "thumbnail": "https://carrefourmarket.ma/wp-content/uploads/2024/10/promos-carrefourmarket-2024-maroc-.jpg",
-      "date": "Du 24 octobre au 13 novembre 2024",
+      "title": "célébrons votre fidélité avec des promos chez Carrefour Market",
+      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2963-flyer-2242/paginas/med3/00001.webp",
+      "date": "Du 14 au 20 novembre 2024",
       "images": [
-        "https://carrefourmarket.ma/wp-content/uploads/2024/10/promos-carrefourmarket-2024-maroc-.jpg",
-        "https://online.fliphtml5.com/hxkby/gmtv/files/large/90c0cd839edec596aace386f39c0702c.webp",
-        "https://online.fliphtml5.com/hxkby/gmtv/files/large/271dcc199f40305cb90fdf681fcf106c.webp",
-        "https://online.fliphtml5.com/hxkby/gmtv/files/large/3840d3fe5c5d1d75efa6cf7dfbbcdb02.webp",
-        "https://online.fliphtml5.com/hxkby/gmtv/files/large/408a1ec38f10947615bd5d3897981999.webp"
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2963-flyer-2242/paginas/med3/00001.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2963-flyer-2242/paginas/med3/00002.webp",
       ]
-    },
-    "carrefourMarket2": {
-      "title": "Meilleurs promos chez Carrefour Market",
-      "thumbnail": "https://carrefourmarket.ma/wp-content/uploads/2024/10/promos-carrefour-2024.jpg",
-      "date": "Du 17 octobre au 23 octobre 2024",
-      "images": [
-        "https://online.fliphtml5.com/hxkby/cyxp/files/large/66df93bc9f30ea15c6d524ce6473116c.webp",
-        "https://online.fliphtml5.com/hxkby/cyxp/files/large/4f22f21533fbbf04ea9e5d3fc4d0aa0a.webp"
-      ]
-    },
+    }
     "carrefourGourmet": {
       "title": "La fête de tous les gourmets",
-      "thumbnail": "https://carrefourmarket.ma/wp-content/uploads/2024/10/La-fete-de-tous-les-gourmets.jpg",
+      "thumbnail": "https://online.fliphtml5.com/hxkby/xmmt/files/large/ecc0f187291148b318b02cd11e273726.webp?1729677581&1729677581",
       "date": "Du 24 octobre au 13 novembre 2024",
       "images": [
-        "https://online.fliphtml5.com/hxkby/xmmt/files/large/ecc0f187291148b318b02cd11e273726.webp",
-        "https://online.fliphtml5.com/hxkby/xmmt/files/large/f6e352c4147dd50fb5525bedd53f69eb.webp",
-        "https://online.fliphtml5.com/hxkby/xmmt/files/large/227a99e73505be04a8ef27f1d32fdc0b.webp",
-        "https://online.fliphtml5.com/hxkby/xmmt/files/large/7efde6b558503672e623921c53cfc39b.webp",
-        "https://online.fliphtml5.com/hxkby/xmmt/files/large/1b9ce2bb5837e644a7db560192758450.webp"
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/ecc0f187291148b318b02cd11e273726.webp?1729677581&1729677581",
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/f6e352c4147dd50fb5525bedd53f69eb.webp?1729677581&1729677581",
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/227a99e73505be04a8ef27f1d32fdc0b.webp?1729677581&1729677581",
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/7efde6b558503672e623921c53cfc39b.webp?1729677581&1729677581",
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/1b9ce2bb5837e644a7db560192758450.webp?1729677581&1729677581",
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/aac315ea1457ce7210999ec0143b6623.webp?1729677581&1729677581",
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/deebad5a778b428e4d996c11cdf51284.webp?1729677581&1729677581",
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/e64c7552089a2365900ba0c8e4e163f3.webp?1729677581&1729677581",
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/6d3c9f116494bfa099bdc20ab57746fd.webp?1729677581&1729677581",
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/0bd19c49d58415b4a5cdb5fdef2642a3.webp?1729677581&1729677581",
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/3696c760e5612305f6a9bfc285a04c73.webp?1729677581&1729677581",
+        "https://online.fliphtml5.com/hxkby/xmmt/files/large/e30fb4a941e05f825b7d8463537438a8.webp?1729677581&1729677581",
       ]
     }
   },
