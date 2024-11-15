@@ -107,6 +107,21 @@
   },
   "carrefours": {
     "carrefour1": {
+      "title": "Les célébrations Carrefour",
+      "thumbnail": "https://hmizate.ma/img/cms/4d9b82ee226b6013699e8d6121a809ee.webp",
+      "date": "Du 14 novembre au 15 décembre 2024",
+      "images": [
+        "https://hmizate.ma/img/cms/4d9b82ee226b6013699e8d6121a809ee.webp",
+        "https://hmizate.ma/img/cms/cc1c60a92dae25214a1b759a9d8f2d34.webp",
+        "https://hmizate.ma/img/cms/901d292d835c4b88da9ac1ec0d39a147.webp",
+        "https://hmizate.ma/img/cms/a36a6c89be52450c5e05be9ff9a9fa4e.webp",
+        "https://hmizate.ma/img/cms/c18a5e513483b1f17938bcc8c5d343ef.webp",
+        "https://hmizate.ma/img/cms/3dc1e21ff928b9952734f07495ff5147.webp",
+        "https://hmizate.ma/img/cms/d6a7ed46e2cca9c06393291a552bf3bb.webp",
+        "https://hmizate.ma/img/cms/8ab8601a7c6b6175f0364a45b77924eb.webp"
+      ]
+    },
+    "carrefour2": {
       "title": "Célébrons votre fidélité avec des promos chez Carrefour",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2945-flyer-2222/paginas/med3/00001.webp",
       "date": "Du 14 au 20 novembre 2024",
@@ -117,7 +132,8 @@
         "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2945-flyer-2222/paginas/med3/00004.webp"
       ]
     },
-    "carrefour2": {
+    
+    "carrefour3": {
       "title": "La collection Automne-Hiver TEX",
       "thumbnail": "https://online.fliphtml5.com/hxkby/epfh/files/large/b0c81c7cbe9837a220ceaa4468860f8b.webp?1731314008&1731314008",
       "date": "Du 07 novembre 2024",
