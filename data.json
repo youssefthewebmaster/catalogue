@@ -303,11 +303,14 @@
   },
   "Supeco": {
     "title": "Les promos de Supeco",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2024%20octobre%20au%2013%20novembre%202024.jpg",
-    "date": "Du 24 octobre au 13 novembre 2024",
+    "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2942-flyer-2219/paginas/med3/00001.webp",
+    "date": "Valable du 13/11/2024 au 27/11/2024",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2024%20octobre%20au%2013%20novembre%202024.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2024%20octobre%20au%2013%20novembre%202024%201.jpg"
+      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2942-flyer-2219/paginas/med3/00001.webp",
+      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2942-flyer-2219/paginas/med3/00002.webp",
+      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2942-flyer-2219/paginas/med3/00003.webp",
+      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2942-flyer-2219/paginas/med3/00004.webp",
+      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2942-flyer-2219/paginas/med3/00005.webp"
     ]
   }
 }
