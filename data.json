@@ -73,23 +73,28 @@
     }
   },
   "bims": {
-    "bim1": {
-      "date": "À partir de Mardi 28 Novembre au 1 Décembre",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-47-01-4%20Days%2029%20NOV%2001%20De%CC%81c%202024.jpg",
-      "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-47-01-4%20Days%2029%20NOV%2001%20De%CC%81c%202024.jpg"  
-      ]
-    },
     "bim2": {
-      "date": "À partir de Vendredi 29 Novembre",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/22-11-2024-19-33-23-Spot%20BIM%2029%20Nov%2003%20De%CC%81c%202024%20Web.jpg",
+      "date": "À partir de Vendredi 06 Décembre",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-44-31-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020247.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/22-11-2024-19-33-23-Spot%20BIM%2029%20Nov%2003%20De%CC%81c%202024%20Web.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/22-11-2024-19-33-31-Spot%20BIM%2029%20Nov%2003%20De%CC%81c%202024%20Web2.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/22-11-2024-19-33-38-Spot%20BIM%2029%20Nov%2003%20De%CC%81c%202024%20Web3.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-44-31-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020247.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-44-40-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020248.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-44-47-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020249.jpg"
       ]
     },
     "bim3": {
+      "date": "À partir de Mardi 10 Décembre",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-45-04-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%202024.jpg",
+      "images": [
+        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-45-04-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%202024.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-45-12-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020243.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-45-20-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020242.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-45-28-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020245.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-45-36-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020244.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-45-44-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020246.jpg"
+      ]
+    },
+    "bim1": {
       "date": "À partir de Mardi 03 Décembre",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/22-11-2024-19-33-54-Spot%20BIM%2029%20Nov%2003%20De%CC%81c%202024%20Web5.jpg",
       "images": [
