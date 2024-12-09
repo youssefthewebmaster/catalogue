@@ -35,15 +35,15 @@
   },
   "bims": {
     "bim2": {
-      "date": "À partir de Vendredi 06 Décembre",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-44-31-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020247.jpg",
+      "date": "À partir de Vendredi 13 Décembre",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-27-Spot%20BIM%2013%20De%CC%81c%2020242.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-44-31-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020247.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-44-40-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020248.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-44-47-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020249.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-27-Spot%20BIM%2013%20De%CC%81c%2020242.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-34-Spot%20BIM%2013%20De%CC%81c%202024.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-41-Spot%20BIM%2013%20De%CC%81c%2020243.jpg"
       ]
     },
-    "bim3": {
+    "bim1": {
       "date": "À partir de Mardi 10 Décembre",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-45-04-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%202024.jpg",
       "images": [
@@ -55,12 +55,12 @@
         "https://cdn3.bim.ma/uploads/ma/Files/28-11-2024-18-45-44-Aff%20Fin%20d'anne%CC%81e%2006%20-10%20De%CC%81c%2020246.jpg"
       ]
     },
-    "bim1": {
-      "date": "À partir de Mardi 03 Décembre",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/22-11-2024-19-33-54-Spot%20BIM%2029%20Nov%2003%20De%CC%81c%202024%20Web5.jpg",
+    "bim3": {
+      "date": "À partir de Mardi 17 Décembre",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-49-G%20Spot%20BIM%2017%20De%CC%81c%2020242.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/22-11-2024-19-33-54-Spot%20BIM%2029%20Nov%2003%20De%CC%81c%202024%20Web5.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/22-11-2024-19-34-01-Spot%20BIM%2029%20Nov%2003%20De%CC%81c%202024%20Web4.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-49-G%20Spot%20BIM%2017%20De%CC%81c%2020242.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-55-G%20Spot%20BIM%2017%20De%CC%81c%202024.jpg"
       ]
     }
   },
