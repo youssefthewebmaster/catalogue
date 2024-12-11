@@ -144,19 +144,21 @@
     },
     "carrefourMarket1": {
       "title": "Célébrons avec vous chez Carrefour Market",
-      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3037-flyer-2309/paginas/med3/00001.webp",
-      "date": "Du 21 novembre au 11 Décembre 2024",
+      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00001.webp",
+      "date": "Du 12 au 31 Décembre 2024",
       "images": [
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3037-flyer-2309/paginas/med3/00001.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3037-flyer-2309/paginas/med3/00002.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3037-flyer-2309/paginas/med3/00003.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3037-flyer-2309/paginas/med3/00006.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3037-flyer-2309/paginas/med3/00007.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3037-flyer-2309/paginas/med3/00008.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3037-flyer-2309/paginas/med3/00009.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3037-flyer-2309/paginas/med3/00010.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3037-flyer-2309/paginas/med3/00011.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3037-flyer-2309/paginas/med3/00012.webp"
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00001.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00004.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00005.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00006.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00007.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00008.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00009.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00010.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00011.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00012.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00002.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00003.webp"
       ]
     },
     "carrefourGourmet": {
