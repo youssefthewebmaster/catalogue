@@ -1,4 +1,21 @@
 {
+  "news": {
+    "new1": {
+      "date": "",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-27-Spot%20BIM%2013%20De%CC%81c%2020242.jpg",
+      "link": ""
+    },
+    "new2": {
+      "date": "",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-27-Spot%20BIM%2013%20De%CC%81c%2020242.jpg",
+      "link": ""
+    },
+    "new3": {
+      "date": "",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-27-Spot%20BIM%2013%20De%CC%81c%2020242.jpg",
+      "link": ""
+    }
+  },
   "marjans": {
     "mainLink": "https://www.marjane.ma/contenu/nos-catalogues",
     "marjan": {
