@@ -1,14 +1,14 @@
 {
   "news": {
-    "new1": {
+    "new2": {
       "date": "Offre de 18 Décembre 2024",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/470231946_458623550618256_4719923145765985509_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2AFeI61dSshipgPecUI3ekV0GzkwGAOcoIdr11rd57P9tXXVZu3SneSEfHU2OgckpH4&_nc_ohc=MoElnXjx0q8Q7kNvgHpLbxy&_nc_gid=7cb30cdc7b6a468faf51e2c4d70fafe5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUyNDk0MzM2ODYyNDA1NjA4NQ%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYARFDJ2Du0PBXtGZHbhPPI8UeST9ey6Qx6D4lnfD7TuNw&oe=67679967&_nc_sid=7a9f4b",
       "link": "kazyon1"
     },
-    "new2": {
-      "date": "Du 29 Novembre au 18 Décembre 2024",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-27-Spot%20BIM%2013%20De%CC%81c%2020242.jpg",
-      "link": "marjaneMarket"
+    "new1": {
+      "date": "Du 19 au 25 Décembre 2024",
+      "thumbnail": "https://hmizate.ma/img/cms/470160473_456747054139239_7131769221524205482_n.jpg",
+      "link": "kazyon2"
     },
     "new3": {
       "date": "Du 14 novembre au 15 décembre 2024",
@@ -287,12 +287,18 @@
   },
   "Kazyon2": {
     "title": "Les promos de Kazyon",
-    "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/470221246_457871697360108_3323348173099593786_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=rpW3sn3kPHgQ7kNvgFk41qE&_nc_gid=38aa20080ddd4d8a9f3267f08ea1fa76&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUyNDIxODc2MzYyNjE3MDY0OQ%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYBvi0xOpcrHTu7gp8xi6w2v36CNFjaoRpStaOK0F7dgbg&oe=67665CF4&_nc_sid=7a9f4b",
-    "date": "Offre du 17 Décembre 2024",
+    "thumbnail": "https://hmizate.ma/img/cms/470160473_456747054139239_7131769221524205482_n.jpg",
+    "date": "Offre du 19 au 25 Décembre 2024",
     "images": [
-      "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/470221246_457871697360108_3323348173099593786_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=rpW3sn3kPHgQ7kNvgFk41qE&_nc_gid=38aa20080ddd4d8a9f3267f08ea1fa76&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUyNDIxODc2MzYyNjE3MDY0OQ%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYBvi0xOpcrHTu7gp8xi6w2v36CNFjaoRpStaOK0F7dgbg&oe=67665CF4&_nc_sid=7a9f4b",
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/470227549_457874327359845_8077558658000874065_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=109&_nc_ohc=EaiPN9mytewQ7kNvgElRxO_&_nc_gid=38aa20080ddd4d8a9f3267f08ea1fa76&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUyNDIxODc2MzQ1MDIyMDA1Mw%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYCM5k2xq5X9YhSNjrzJAGFq_LHJYZYBjXy7wYUJOAC7oA&oe=67667C4B&_nc_sid=7a9f4b",
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/470206560_457871727360105_4087596317339150129_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=109&_nc_ohc=m2azb3LFmLsQ7kNvgGPd3LV&_nc_gid=38aa20080ddd4d8a9f3267f08ea1fa76&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUyNDIxODc2MzQyNDkxNTE5MQ%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYBa3RomK31F63wWOFwpIgL6rlOm2Rk_sDpQfxy230fdkw&oe=6766691A&_nc_sid=7a9f4b"
+      "https://hmizate.ma/img/cms/470160473_456747054139239_7131769221524205482_n.jpg",
+      "https://hmizate.ma/img/cms/470169761_456747104139234_3457889979401989825_n.jpg",
+      "https://hmizate.ma/img/cms/470187039_456747050805906_1456529264577386186_n.jpg",
+      "https://hmizate.ma/img/cms/470188139_456747274139217_7352583074995487668_n.jpg",
+      "https://hmizate.ma/img/cms/470179056_456747220805889_5965362106720922423_n.jpg",
+      "https://hmizate.ma/img/cms/470169256_456747147472563_2082953892142415743_n.jpg",
+      "https://hmizate.ma/img/cms/470170979_456747187472559_4764074491590293450_n.jpg",
+      "https://hmizate.ma/img/cms/470190081_456747180805893_5711461337093032959_n.jpg",
+      "https://hmizate.ma/img/cms/470193281_456747150805896_4854590908843076960_n.jpg"
     ]
   },
   "Kazyon1": {
