@@ -26,29 +26,29 @@
       "link": "bim1"
     },
     "new6": {
-      "date": "Du 14 novembre au 15 décembre 2024",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-27-Spot%20BIM%2013%20De%CC%81c%2020242.jpg",
-      "link": "kazyon"
+      "date": "Du 12 au 31 Décembre 2024",
+      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3279-flyer-2547/paginas/med3/00001.webp",
+      "link": "carrefour2"
     },
     "new7": {
-      "date": "Du 23 Novembre au 31 Décembre 2024",
-      "thumbnail": "https://hmizate.ma/img/cms/DPL%20BD-Black-friday-2-3_page-0001.jpg",
-      "link": "bim1"
+      "date": "Du 13 au 31 Décembre 2024",
+      "thumbnail": "https://hmizate.ma/img/cms/d%C3%A9pliant%20FDA2024%20DIGITAL_page-0001.jpg",
+      "link": "marjane"
     },
     "new8": {
-      "date": "Du 22 Novembre au 8 Décembre 2024",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-27-Spot%20BIM%2013%20De%CC%81c%2020242.jpg",
+      "date": "Du 13 au 31 Décembre 2024",
+      "thumbnail": "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0001.jpg",
       "link": "marjaneMarket"
     },
     "new9": {
-      "date": "Du 14 novembre au 15 décembre 2024",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-27-Spot%20BIM%2013%20De%CC%81c%2020242.jpg",
+      "date": "Offre du 12 au 18 Décembre 2024",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20D%C3%A9cembre%202024%203.jpg",
       "link": "kazyon"
     },
     "new10": {
-      "date": "Du 14 novembre au 15 décembre 2024",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-12-2024-17-22-27-Spot%20BIM%2013%20De%CC%81c%2020242.jpg",
-      "link": "kazyon"
+      "date": "Offre Du 17 Décembre au 08 Janvier 2024",
+      "thumbnail": "https://hmizate.ma/img/cms/1_9.jpg",
+      "link": "aswak"
     }
   },
   "marjans": {
@@ -113,7 +113,6 @@
     },
     "marjanMarket": {
       "name": "Marjane Market",
-      "link": "https://player.flipsnack.com/?hash=RkM3QUVFRUVGQjUrdmszcXV1MTZyaA%3D%3D&slug=cataloguemarjane4",
       "thumbnail": "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0001.jpg",
       "date": "Du 13 au 31 Décembre 2024",
       "images": [
