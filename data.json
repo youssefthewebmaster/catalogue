@@ -6,9 +6,9 @@
       "link": "kazyon1"
     },
     "new3": {
-      "date": "Du 19 Décembre au 25 Janvier 2024",
-      "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/470635743_459642013849743_3780654949646168995_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AGK1FOpuvWrNJiN5h40H9oE8MynByK8xLTWABiTQrLom_eLoB25UQAK3nNJxPn8ew8&_nc_ohc=VVoH9y8XFOAQ7kNvgHmT_XQ&_nc_gid=7b2d91fd18924ff8a654c727bac81252&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUyNTk1ODMyMTQzNzk2OTc3NA%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYAcddxbG93YV5hp_nd2Du1P7JicSvLo8QFX9vsOhXm5Zg&oe=6768FA62&_nc_sid=7a9f4b",
-      "link": "kazyon"
+      "date": "Du 17 Décembre au 08 Janvier 2024",
+      "thumbnail": "https://hmizate.ma/img/cms/1_9.jpg",
+      "link": "aswak"
     },
     "new4": {
       "date": "À partir de Mardi 24 Décembre",
@@ -331,63 +331,12 @@
       "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3171-flyer-2440/paginas/med3/00001.webp",
       "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3171-flyer-2440/paginas/med3/00002.webp"
     ]
-  },
-  "Atacadão1": {
-    "link": "atacadao1",
-    "title": "Les promos d'Atacadão",
-    "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3171-flyer-2440/paginas/med3/00001.webp",
-    "date": "Du 05 au 17 Décembre 2024",
-    "images": [
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3171-flyer-2440/paginas/med3/00001.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3171-flyer-2440/paginas/med3/00002.webp"
-    ]
-  },
+  }
   "AswakAssalam": {
     "link": "aswak",
     "title": "Les promos d'Aswak Assalam",
     "thumbnail": "https://hmizate.ma/img/cms/1_9.jpg",
-    "date": "Offre Du 17 Décembre au 08 Janvier 2024",
-    "images": [
-      "https://hmizate.ma/img/cms/1_9.jpg",
-      "https://hmizate.ma/img/cms/2_6.jpg",
-      "https://hmizate.ma/img/cms/3_8.jpg",
-      "https://hmizate.ma/img/cms/4_7.jpg",
-      "https://hmizate.ma/img/cms/7_6.jpg",
-      "https://hmizate.ma/img/cms/9_5.jpg",
-      "https://hmizate.ma/img/cms/11_5.jpg",
-      "https://hmizate.ma/img/cms/12_5.jpg",
-      "https://hmizate.ma/img/cms/14_6.jpg",
-      "https://hmizate.ma/img/cms/17_4.jpg",
-      "https://hmizate.ma/img/cms/19_6.jpg",
-      "https://hmizate.ma/img/cms/20_6.jpg",
-      "https://hmizate.ma/img/cms/23_5.jpg",
-      "https://hmizate.ma/img/cms/24_5.jpg",
-      "https://hmizate.ma/img/cms/25_3.jpg",
-      "https://hmizate.ma/img/cms/26_3.jpg",
-      "https://hmizate.ma/img/cms/27_4.jpg",
-      "https://hmizate.ma/img/cms/28_4.jpg",
-      "https://hmizate.ma/img/cms/29_3.jpg",
-      "https://hmizate.ma/img/cms/30_4.jpg",
-      "https://hmizate.ma/img/cms/31_3.jpg",
-      "https://hmizate.ma/img/cms/32_4.jpg",
-      "https://hmizate.ma/img/cms/33_2.jpg",
-      "https://hmizate.ma/img/cms/34_2.jpg",
-      "https://hmizate.ma/img/cms/35_1.jpg",
-      "https://hmizate.ma/img/cms/36_1.jpg",
-      "https://hmizate.ma/img/cms/37_1.jpg",
-      "https://hmizate.ma/img/cms/38_1.jpg",
-      "https://hmizate.ma/img/cms/41_1.jpg",
-      "https://hmizate.ma/img/cms/42_1.jpg",
-      "https://hmizate.ma/img/cms/45.jpg",
-      "https://hmizate.ma/img/cms/46_1.jpg",
-      "https://hmizate.ma/img/cms/48.jpg"
-    ]
-  },
-  "AswakAssalam1": {
-    "link": "aswak1",
-    "title": "Les promos d'Aswak Assalam",
-    "thumbnail": "https://hmizate.ma/img/cms/1_9.jpg",
-    "date": "Offre Du 17 Décembre au 08 Janvier 2024",
+    "date": "Du 17 Décembre au 08 Janvier 2024",
     "images": [
       "https://hmizate.ma/img/cms/1_9.jpg",
       "https://hmizate.ma/img/cms/2_6.jpg",
