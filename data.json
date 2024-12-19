@@ -56,7 +56,7 @@
   },
   "marjans": {
     "marjan": {
-      "title": "Les promos de Marjane",
+      "title": "Marjane",
       "link": "marjane",
       "thumbnail": "https://hmizate.ma/img/cms/d%C3%A9pliant%20FDA2024%20DIGITAL_page-0001.jpg",
       "date": "Du 13 au 31 Décembre 2024",
@@ -114,7 +114,7 @@
       ]
     },
     "marjanMarket": {
-      "title": "Les promos de Marjane Market",
+      "title": "Marjane Market",
       "thumbnail": "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0001.jpg",
       "date": "Du 13 au 31 Décembre 2024",
       "link": "marjaneMarket",
@@ -136,6 +136,7 @@
   },
   "bims": {
     "bim2": {
+      "title": "Bim",
       "link": "bim2",
       "date": "À partir de Vendredi 20 Décembre",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/16-12-2024-12-56-07-Spot%2020%20De%CC%81cembre%2020242.jpg",
@@ -145,6 +146,7 @@
       ]
     },
     "bim3": {
+      "title": "Bim",
       "link": "bim3",
       "date": "À partir de Mardi 24 Décembre",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/16-12-2024-12-56-26-Groupe%20spot%2024%20De%CC%81cembre%202024%20WEB2.jpg",
@@ -154,6 +156,7 @@
       ]
     },
     "bim1": {
+      "title": "Bim",
       "link": "bim1",
       "date": "À partir de Mardi 17 Décembre",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/469756235_904555045143979_2607121537305018586_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTgxeDExODEuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=HdfghWsn2XwQ7kNvgH7NNEr&_nc_gid=0f58622e75234964b27ca16eeac611d0&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUyMDk5MjI4MTIzNzE0NjY2Mw%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYDmEq0wrAyioVKz7sJLeTa8Ilm6VC6tkn0xc5JjRYHzyg&oe=676487CB&_nc_sid=7a9f4b",
@@ -165,6 +168,7 @@
   },
   "carrefours": {
     "carrefour3": {
+      "title": "Carrefour",
       "link": "carrefour3",
       "thumbnail": "https://hmizate.ma/img/cms/4d9b82ee226b6013699e8d6121a809ee.webp",
       "date": "Du 14 novembre au 15 décembre 2024",
@@ -180,6 +184,7 @@
       ]
     },
     "carrefour2": {
+      "title": "Carrefour",
       "link": "carrefour2",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3279-flyer-2547/paginas/med3/00001.webp",
       "date": "Du 12 au 31 Décembre 2024",
@@ -227,6 +232,7 @@
       ]
     },
     "carrefour1": {
+      "title": "Carrefour",
       "link": "carrefour1",
       "thumbnail": "https://hmizate.ma/img/cms/7e88d83ef1493f60f38b736633b507c0.webp",
       "date": "Du 28 novembre au 29 décembre 2024",
@@ -242,6 +248,7 @@
       ]
     },
     "carrefourMarket1": {
+      "title": "Carrefour Market",
       "link": "carrefourMarket1",
       "title": "Célébrons avec vous chez Carrefour Market",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3281-flyer-2549/paginas/med3/00001.webp",
@@ -262,6 +269,7 @@
       ]
     },
     "carrefourGourmet": {
+      "title": "Carrefour Gourmet",
       "link": "carrefourGourmet",
       "title": "Les saveurs festives Chez Carrefour Gourmet",
       "thumbnail": "https://hmizate.ma/img/cms/468006581_999640772202917_2521318649397503905_n.jpg",
@@ -283,7 +291,7 @@
   },
   "Kazyon": {
     "link": "kazyon",
-    "title": "Les promos de Kazyon",
+    "title": "Kazyon",
     "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/470635743_459642013849743_3780654949646168995_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AGK1FOpuvWrNJiN5h40H9oE8MynByK8xLTWABiTQrLom_eLoB25UQAK3nNJxPn8ew8&_nc_ohc=VVoH9y8XFOAQ7kNvgHmT_XQ&_nc_gid=7b2d91fd18924ff8a654c727bac81252&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUyNTk1ODMyMTQzNzk2OTc3NA%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYAcddxbG93YV5hp_nd2Du1P7JicSvLo8QFX9vsOhXm5Zg&oe=6768FA62&_nc_sid=7a9f4b",
     "date": "Du 19 au 25 Décembre 2024",
     "images": [
@@ -296,6 +304,7 @@
     ]
   },
   "Kazyon2": {
+    "title": "Kazyon",
     "link": "kazyon2",
     "title": "Les promos de Kazyon",
     "thumbnail": "https://hmizate.ma/img/cms/470160473_456747054139239_7131769221524205482_n.jpg",
@@ -313,6 +322,7 @@
     ]
   },
   "Kazyon1": {
+    "title": "Kazyon",
     "link": "kazyon1",
     "title": "Les promos de Kazyon",
     "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2019%20au%2025%20D%C3%A9cembre%202024.jpg",
@@ -325,8 +335,8 @@
     ]
   },
   "Atacadão": {
+    "title": "Atacadão",
     "link": "atacadao",
-    "title": "Les promos d'Atacadão",
     "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3171-flyer-2440/paginas/med3/00001.webp",
     "date": "Du 05 au 17 Décembre 2024",
     "images": [
@@ -335,6 +345,7 @@
     ]
   },
   "AswakAssalam": {
+    "title": "Aswak Assalam",
     "link": "aswak",
     "title": "Les promos d'Aswak Assalam",
     "thumbnail": "https://hmizate.ma/img/cms/1_9.jpg",
@@ -377,7 +388,7 @@
   },
   "Supeco": {
     "link": "supeco",
-    "title": "Les promos de Supeco",
+    "title": "Supeco",
     "thumbnail": "https://hmizate.ma/img/cms/470231569_892337273057672_2774544131725830858_n.jpg",
     "date": "Du 12 au 31 Décembre 2024",
     "images": [
@@ -387,7 +398,7 @@
   },
   "Supeco1": {
     "link": "supeco1",
-    "title": "Les promos de Supeco",
+    "title": "Supeco",
     "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t51.29350-15/470480429_606037491907976_3058492725977519038_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2AFdOFQCn8sOqJS_etojGrWEhxBLWVlWbL47WriAf-nSODsIdeHesG0xDfHZhQli--4&_nc_ohc=l24M7G0BENgQ7kNvgGoJaEs&_nc_gid=65cefb7f77f94eb9b2663f6edc506216&edm=AONqaaQBAAAA&ccb=7-5&ig_cache_key=MzUyNTk3ODQ3NzkzNzk1NDY4Mg%3D%3D.3-ccb7-5&oh=00_AYCddroN8Kde_K1-5rQBWezvviwAwUbRXrxgnz4hSb2CVw&oe=676912F7&_nc_sid=4e3341",
     "date": "Du 20 au 22 Décembre 2024",
     "images": [
@@ -396,7 +407,7 @@
   },
   "Kitea": {
     "link": "kitea",
-    "title": "Soldes 2024",
+    "title": "Kitea",
     "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-2858-flyer-2136/paginas/med3/00001.webp",
     "date": "Offre Valable jusqu'au 22/12/2024",
     "images": [
