@@ -1,6 +1,7 @@
 {
   "news": {
     "new2": {
+      "title": "Les promos de Kazyon",
       "date": "Du 19 Décembre au 25 Janvier 2024",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2019%20au%2025%20D%C3%A9cembre%202024.jpg",
       "link": "kazyon1"
@@ -53,9 +54,8 @@
     }    
   },
   "marjans": {
-    "mainLink": "https://www.marjane.ma/contenu/nos-catalogues",
     "marjan": {
-      "name": "Marjane",
+      "title": "Les promos de Marjane",
       "link": "marjane",
       "thumbnail": "https://hmizate.ma/img/cms/d%C3%A9pliant%20FDA2024%20DIGITAL_page-0001.jpg",
       "date": "Du 13 au 31 Décembre 2024",
@@ -113,7 +113,7 @@
       ]
     },
     "marjanMarket": {
-      "name": "Marjane Market",
+      "title": "Les promos de Marjane Market",
       "thumbnail": "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0001.jpg",
       "date": "Du 13 au 31 Décembre 2024",
       "link": "marjaneMarket",
