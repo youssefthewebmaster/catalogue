@@ -1,40 +1,40 @@
 {
   "news": {
-    "new2": {
-      "title": "Kazyon",
-      "date": "Du 26 Décembre au 1 Janvier 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20d%C3%A9cembre%20au%201er%20janvier%202025%204.jpg",
-      "link": "kazyon2"
-    },
     "new1": {
+      "title": "Kazyon",
+      "date": "Du 02 au 08 Janvier 2025",
+      "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/471229538_466080573205887_5631748398583758929_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AEqsWIitIK-o_on7E7-iD6FeWNIkBkhrGl4VbuX6gXl3tHtzRUfZ71R9iolTBsfQ0w&_nc_ohc=4jM2Q2CtEasQ7kNvgEd6mq0&_nc_gid=ec7def15b7f34c9486908c3e9ff1b290&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUzMzE1NzQ2MDIzMTc3NzAwNw%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYBQQ37hbFvJf8COtrHO0ZFYqJUJnOmVK3a1AqwlWJTyKw&oe=6776227A&_nc_sid=7a9f4b",
+      "link": "kazyon"
+    },
+    "new2": {
       "title": "Bim",
       "date": "Du 28 au 29 Décembre 2024",
       "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/471786392_466135413200403_5126510848035747719_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AGE_KLctSrA7vUc57ZPJkgCvN018ZMUy6-HHPzBoycQpezR8edOl-AFBptFX2wmBew&_nc_ohc=C6hxpTWfLI4Q7kNvgHJ8u27&_nc_gid=01279e97dda64ae2ad7100adf0eca979&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUzMjQ5MzA2NTMxMzI3NjAzMw%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYAxtThp4iJFfemSd_RcTSdMlFcD15X9xeoC8bQHmCOR0w&oe=677572CF&_nc_sid=7a9f4b",
       "link": "kazyon1"
     },
     "new3": {
+      "title": "Kazyon",
+      "date": "Du 26 Décembre au 1 Janvier 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20d%C3%A9cembre%20au%201er%20janvier%202025%204.jpg",
+      "link": "kazyon2"
+    },
+    "new4": {
       "title": "Bim",
       "date": "À partir de 31 Décembre",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/23-12-2024-14-11-26-WEB%20Spot%20BIM%2027-31%20De%CC%81c%2020242.jpg",
       "link": "bim2"
     },
-    "new4": {
+    "new5": {
       "title": "Supeco",
       "date": "Du 27 au 29 Décembre 2024",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t51.29350-15/470973983_620065310681308_5243754594293102888_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYyOTM1MC5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=lE_NTQvBgGUQ7kNvgFCxuKS&_nc_gid=c6265ee7b0724391865cbd7a4a0d9871&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzUzMDg4NjgyMzg5MjM1ODkyOA%3D%3D.3-ccb7-5&oh=00_AYCR7g1hpfspvBLbH6NCONMxNh8K8RtCKMp4XPXmpP-F7w&oe=6772C03A&_nc_sid=7a9f4b",
       "link": "supeco"
     },
-    "new5": {
+    "new6": {
       "title": "Aswak Assalam",
       "date": "Du 17 Décembre au 08 Janvier 2024",
       "thumbnail": "https://hmizate.ma/img/cms/1_9.jpg",
       "link": "aswak"
-    },
-    "new6": {
-      "title": "Bim",
-      "date": "À partir de Mardi 24 Décembre",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/16-12-2024-12-56-26-Groupe%20spot%2024%20De%CC%81cembre%202024%20WEB2.jpg",
-      "link": "bim3"
     },
     "new7": {
       "title": "Marjane Market",
