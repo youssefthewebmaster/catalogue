@@ -7,46 +7,46 @@
       "link": "marjane"
     },
     "new2": {
+      "title": "Marjane Market",
+      "date": "Du 26 Décembre au 16 Janvier 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0001.jpg",
+      "link": "marjaneMarket"
+    },
+    "new3": {
       "title": "Kazyon",
       "date": "Du 30 Décembre au 08 Janvier 2024",
       "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/472136643_468052423008702_6810316349048165260_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2AGdOXeglxzYPvqmnC3UyohQ6IDsdju2GRAM9JteuEg04alkKwsrpKWsi4YLurrhuLk&_nc_ohc=A-fgD4ROHB8Q7kNvgEgWB_q&_nc_gid=2a1b515119f14263bcb613e993233d5e&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUzNDQ2MDc3Njk3NTIxMjU5MA%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYBMwYV6vryuBDV9OQg8Cmmu343_VRmoIQtJ42TMSYSCuQ&oe=677B6767&_nc_sid=7a9f4b",
       "link": "kazyon1"
     },
-    "new3": {
+    "new4": {
       "title": "Bim",
       "date": "À partir de Vendredi 03 Janvier",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-46-58-Spot%20BIM%20%2003%20%20Janvier%202025.jpg",
       "link": "bim2"
     },
-    "new4": {
+    "new5": {
       "title": "Bim",
       "date": "À partir de Vendredi 07 Janvier",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-47-11-Spot%20BIM%20%2007%20Janvier%2020252.jpg",
       "link": "bim3"
     },
-    "new5": {
+    "new6": {
       "title": "Kazyon",
       "date": "Du 26 Décembre au 1 Janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20d%C3%A9cembre%20au%201er%20janvier%202025%204.jpg",
       "link": "kazyon2"
     },
-    "new6": {
+    "new7": {
       "title": "Kazyon",
       "date": "Du 02 au 08 Janvier 2025",
       "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/471229538_466080573205887_5631748398583758929_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AEqsWIitIK-o_on7E7-iD6FeWNIkBkhrGl4VbuX6gXl3tHtzRUfZ71R9iolTBsfQ0w&_nc_ohc=4jM2Q2CtEasQ7kNvgEd6mq0&_nc_gid=ec7def15b7f34c9486908c3e9ff1b290&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUzMzE1NzQ2MDIzMTc3NzAwNw%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYBQQ37hbFvJf8COtrHO0ZFYqJUJnOmVK3a1AqwlWJTyKw&oe=6776227A&_nc_sid=7a9f4b",
       "link": "kazyon"
     },
-    "new7": {
+    "new8": {
       "title": "Aswak Assalam",
       "date": "Du 17 Décembre au 08 Janvier 2024",
       "thumbnail": "https://hmizate.ma/img/cms/1_9.jpg",
       "link": "aswak"
-    },
-    "new8": {
-      "title": "Marjane Market",
-      "date": "Du 13 au 31 Décembre 2024",
-      "thumbnail": "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0001.jpg",
-      "link": "marjaneMarket"
     },
     "new9": {
       "title": "Carrefour Market",
@@ -116,22 +116,21 @@
     },
     "marjanMarket": {
       "title": "Marjane Market",
-      "thumbnail": "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0001.jpg",
-      "date": "Du 13 au 31 Décembre 2024",
+      "thumbnail": "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0001.jpg",
+      "date": "Du 26 Décembre au 16 Janvier 2025",
       "link": "marjaneMarket",
       "images": [
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0001.jpg",
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0002.jpg",
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0003.jpg",
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0004.jpg",
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0005.jpg",
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0006.jpg",
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0007.jpg",
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0008.jpg",
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0009.jpg",
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0010.jpg",
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0011.jpg",
-        "https://hmizate.ma/img/cms/DPL%20noel%20(3)_page-0012.jpg"
+        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0001.jpg",
+        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0002.jpg",
+        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0004.jpg",
+        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0005.jpg",
+        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0006.jpg",
+        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0007.jpg",
+        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0009.jpg",
+        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0008.jpg",
+        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0010.jpg",
+        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0011.jpg",
+        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0012.jpg"
       ]
     }
   },
