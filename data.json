@@ -1,58 +1,58 @@
 {
   "news": {
     "new1": {
+      "title": "Bim",
+      "date": "Offre de Vendredi 07 Janvier",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-47-11-Spot%20BIM%20%2007%20Janvier%2020252.jpg",
+      "link": "bim3"
+    },
+    "new2": {
       "title": "Kazyon",
       "date": "Offre de 06 Janvier 2024",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/472558497_472238625923415_5310597229613330396_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=M0xrEWH5TDIQ7kNvgGpuMu4&_nc_gid=19f466e7185a4dd896fb8382ae0243bf&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzUzODcxNDI5MDk2NjA0NjY5OQ%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYCjlrxB07ru9CAZdNagIqajAj_-8_KDoqje5FMCOQC3iQ&oe=67817491&_nc_sid=7a9f4b",
       "link": "kazyon1"
     },
-    "new2": {
+    "new3": {
       "title": "Kazyon",
       "date": "Du 9 au 15 Janvier 2025",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/472456825_471827819297829_7437397124136234026_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2AGWlMQ97LRUnykPccKLpModwrSohqGtUIXOnTLd-nGzFjdXYtj5h6OLBMyLKBQ5UOo&_nc_ohc=mtaOHszZprwQ7kNvgG_Vvs-&_nc_gid=6006760f5dcd4be286493f052c49686d&edm=AONqaaQAAAAA&ccb=7-5&ig_cache_key=MzUzODIzMzYwMDA3MzIwMDAxOA%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYAhERCNKRY9ZETxPd365iDMJjTXJ-zgWUyj_dW2W-Q1Cg&oe=677F6057&_nc_sid=4e3341",
       "link": "kazyon2"
     },
-    "new3": {
+    "new4": {
       "title": "Atacadão",
       "date": "Du 02 au 15 Janvier 2025",
       "thumbnail": "https://scontent.fcmn3-2.fna.fbcdn.net/v/t39.30808-6/471673371_980836344080188_4577319017429168035_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=SPx-vFL2wyIQ7kNvgGISvUj&_nc_zt=23&_nc_ht=scontent.fcmn3-2.fna&_nc_gid=AFfyX0oQWKhi5nv5lsHF3cw&oh=00_AYD6kXp-YDCW9xn8qh4RndFHYhQgVL7BI8p0ec9rJG7HSw&oe=677D7C06",
       "link": "atacadao"
     },
-    "new4": {
+    "new5": {
       "title": "Supeco",
       "date": "Du 03 au 05 Janvier 2024",
       "thumbnail": "https://instagram.fcmn3-1.fna.fbcdn.net/v/t51.29350-15/472215566_4020611144886163_2543609650254063009_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.fcmn3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=f9Y1kmAKutgQ7kNvgF-iHSg&_nc_gid=861f870899c448e29c5c53bfa267dcf6&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzUzNjczNDU3NjcyODIwMjg5MQ%3D%3D.3-ccb7-5&oh=00_AYBIV_8q-EIj4cLGs4--ByK_GtbTjjt-f6j5HPhryvbKBg&oe=677D5BB8&_nc_sid=7a9f4b",
       "link": "supeco"
     },
-    "new5": {
+    "new6": {
       "title": "Kitea",
       "date": "Offre du 1er au 31 Janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/BROCHURE%20HIVER%202025_WEB_page-0001.jpg",
       "link": "Kitea"
     },
-    "new6": {
+    "new7": {
       "title": "Carrefour Market",
-      "date": "Du 02 au 08 Janvier 2024",
+      "date": "Du 02 au 08 Janvier 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3538-flyer-2794/paginas/med3/00001.webp",
       "link": "carrefourMarket1"
     },
-    "new7": {
+    "new8": {
       "title": "Marjane",
-      "date": "Du 26 Décembre au 16 Janvier 2025",
+      "date": "Du 26 au 16 Janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/DEPLIANT%20DIGITALE%20BLANC%20&%20LAVAGE%202025_page-0001.jpg",
       "link": "marjane"
     },
-    "new8": {
+    "new9": {
       "title": "Marjane Market",
-      "date": "Du 26 Décembre au 16 Janvier 2025",
+      "date": "Du 26 au 16 Janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0001.jpg",
       "link": "marjaneMarket"
-    },
-    "new9": {
-      "title": "Bim",
-      "date": "À partir de Vendredi 07 Janvier",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-47-11-Spot%20BIM%20%2007%20Janvier%2020252.jpg",
-      "link": "bim3"
     },
     "new10": {
       "title": "Kazyon",
@@ -135,30 +135,29 @@
     }
   },
   "bims": {
-    "bim1": {
-      "title": "Bim",
-      "link": "bim1",
-      "date": "À partir de Mardi 31 Décembre",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/23-12-2024-14-11-26-WEB%20Spot%20BIM%2027-31%20De%CC%81c%2020242.jpg",
-      "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/23-12-2024-14-11-26-WEB%20Spot%20BIM%2027-31%20De%CC%81c%2020242.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/23-12-2024-14-11-33-WEB%20Spot%20BIM%2027-31%20De%CC%81c%2020243.jpg"
-      ]
-    },
     "bim2": {
       "title": "Bim",
-      "link": "bim2",
-      "date": "À partir de Vendredi 03 Janvier",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-46-58-Spot%20BIM%20%2003%20%20Janvier%202025.jpg",
+      "link": "bim1",
+      "date": "Vendredi 10 Janvier 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-32-Spot%20BIM%2010-14%20Janvier%202025%20WEB.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-46-58-Spot%20BIM%20%2003%20%20Janvier%202025.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-47-04-Spot%20BIM%20%200.3%20%20Janvier%202025.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-32-Spot%20BIM%2010-14%20Janvier%202025%20WEB.jpg"
       ]
     },
     "bim3": {
       "title": "Bim",
+      "link": "bim2",
+      "date": "Mardi 14 Janvier 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-39-Spot%20BIM%2010-14%20Janvier%202025%20WEB2.jpg",
+      "images": [
+        "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-39-Spot%20BIM%2010-14%20Janvier%202025%20WEB2.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-47-Spot%20BIM%2010-14%20Janvier%202025%20WEB3.jpg"
+      ]
+    },
+    "bim1": {
+      "title": "Bim",
       "link": "bim3",
-      "date": "À partir de Vendredi 07 Janvier",
+      "date": "Mardi 07 Janvier 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-47-11-Spot%20BIM%20%2007%20Janvier%2020252.jpg",
       "images": [
         "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-47-11-Spot%20BIM%20%2007%20Janvier%2020252.jpg",
