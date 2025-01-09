@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Carrefour",
+      "date": "De 09 au 29 Janvier 2024",
+      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00001.webp",
+      "link": "carrefour1"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "A partir de 08 Janvier",
       "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/472666407_606673855295164_2633693328247104474_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AGoQMibXm6Rs1BUV13IY62dRoEDyM5lEecgGSpkAbuFt2uTFNK7cezfeWLYrHRVuCg&_nc_ohc=qrvC_Ihh4IcQ7kNvgFczuSu&_nc_gid=18778833f6704a09a7cb847ea8957d22&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0MDI0NDU2ODA4NDkxNTc4Ng%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYDfxBFVVeIWOp1wTHQD9CESfUGPt6CBnFkuUAvMAjhy0g&oe=6784921A&_nc_sid=7a9f4b",
       "link": "aswak"
     },
-    "new2": {
+    "new3": {
       "title": "Supeco",
       "date": "Du 10 au 12 Janvier 2025",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t51.29350-15/471745634_1260728558550253_8282167637219815000_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYyOTM1MC5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2AFDj5_lln1gE1-1B4gmw3voWHypM83nbIfalC8iJ_Kh1c_kxds7G7taWJlkp05w63w&_nc_ohc=iMhb2nL6QYoQ7kNvgFn6Rap&_nc_gid=bcc99528347c44ebb971c4a6bb4faf7a&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzU0MDkxMjc2Mzc1MzIyMDIwODEwMjEwODAwNzY3MzA4ODk%3D.3-ccb7-5&oh=00_AYBBtVYVI0a_LUyojtmqT7pRUl80SvDjnsFKqOyjpg9UOQ&oe=6784AF1B&_nc_sid=7a9f4b",
       "link": "supeco"
     },
-    "new3": {
+    "new4": {
       "title": "Bim",
       "date": "Vendredi 10 Janvier 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-32-Spot%20BIM%2010-14%20Janvier%202025%20WEB.jpg",
       "link": "bim1"
-    },
-    "new4": {
-      "title": "Kazyon",
-      "date": "Offre de 08 Janvier 2025",
-      "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/472560520_473575812456363_1435494702927119447_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AFqQkZjIdF5EbBKeINTErBQTum9Qe9LqYb507KnjB5JotAPluj46nuzgeiRl6PQr7Y&_nc_ohc=y2ECjqddyUMQ7kNvgHBeOd8&_nc_gid=f783f78654834a82b82a9cae8725a6b3&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0MDE2MzYyNTY0ODQzOTIwNw%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYCg0dDAINVZrqtQhWybWA6aSHB0IXPzxr5HgDD3MMi7mQ&oe=67838E59&_nc_sid=7a9f4b",
-      "link": "kazyon1"
     },
     "new5": {
       "title": "Kazyon",
@@ -166,20 +166,32 @@
     }
   },
   "carrefours": {
-    "carrefour3": {
+    "carrefour1": {
       "title": "Carrefour",
-      "link": "carrefour3",
-      "thumbnail": "https://hmizate.ma/img/cms/4d9b82ee226b6013699e8d6121a809ee.webp",
-      "date": "Du 14 novembre au 15 décembre 2024",
+      "link": "carrefour1",
+      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00001.webp",
+      "date": "De 09 au 29 Janvier 2024",
       "images": [
-        "https://hmizate.ma/img/cms/4d9b82ee226b6013699e8d6121a809ee.webp",
-        "https://hmizate.ma/img/cms/cc1c60a92dae25214a1b759a9d8f2d34.webp",
-        "https://hmizate.ma/img/cms/901d292d835c4b88da9ac1ec0d39a147.webp",
-        "https://hmizate.ma/img/cms/a36a6c89be52450c5e05be9ff9a9fa4e.webp",
-        "https://hmizate.ma/img/cms/c18a5e513483b1f17938bcc8c5d343ef.webp",
-        "https://hmizate.ma/img/cms/3dc1e21ff928b9952734f07495ff5147.webp",
-        "https://hmizate.ma/img/cms/d6a7ed46e2cca9c06393291a552bf3bb.webp",
-        "https://hmizate.ma/img/cms/8ab8601a7c6b6175f0364a45b77924eb.webp"
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00001.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00012.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00013.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00014.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00015.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00016.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00017.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00018.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00019.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00020.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00002.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00003.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00004.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00005.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00006.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00007.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00008.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00009.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00010.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00011.webp"
       ]
     },
     "carrefour2": {
@@ -230,20 +242,20 @@
         "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3279-flyer-2547/paginas/med3/00038.webp"
       ]
     },
-    "carrefour1": {
+    "carrefour3": {
       "title": "Carrefour",
-      "link": "carrefour1",
-      "thumbnail": "https://hmizate.ma/img/cms/7e88d83ef1493f60f38b736633b507c0.webp",
-      "date": "Du 28 novembre au 29 décembre 2024",
+      "link": "carrefour3",
+      "thumbnail": "https://hmizate.ma/img/cms/4d9b82ee226b6013699e8d6121a809ee.webp",
+      "date": "Du 14 novembre au 15 décembre 2024",
       "images": [
-        "https://hmizate.ma/img/cms/7e88d83ef1493f60f38b736633b507c0.webp",
-        "https://hmizate.ma/img/cms/4c8ccc9babcf38ccfd704b4d52924ad4.webp",
-        "https://hmizate.ma/img/cms/750d01729e01cf35e04d5260b3a8008a.webp",
-        "https://hmizate.ma/img/cms/20214178ca931be3c14e205092543336.webp",
-        "https://hmizate.ma/img/cms/1d06f936c0088f60d7efb05329bedaca.webp",
-        "https://hmizate.ma/img/cms/9dc4bce470df22a25370a284d5845c9e.webp",
-        "https://hmizate.ma/img/cms/4475d49d8cfda3ec9541b3f24a77ca5d.webp",
-        "https://hmizate.ma/img/cms/8f2a91b9584e1f615fbb622af6020aba.webp"
+        "https://hmizate.ma/img/cms/4d9b82ee226b6013699e8d6121a809ee.webp",
+        "https://hmizate.ma/img/cms/cc1c60a92dae25214a1b759a9d8f2d34.webp",
+        "https://hmizate.ma/img/cms/901d292d835c4b88da9ac1ec0d39a147.webp",
+        "https://hmizate.ma/img/cms/a36a6c89be52450c5e05be9ff9a9fa4e.webp",
+        "https://hmizate.ma/img/cms/c18a5e513483b1f17938bcc8c5d343ef.webp",
+        "https://hmizate.ma/img/cms/3dc1e21ff928b9952734f07495ff5147.webp",
+        "https://hmizate.ma/img/cms/d6a7ed46e2cca9c06393291a552bf3bb.webp",
+        "https://hmizate.ma/img/cms/8ab8601a7c6b6175f0364a45b77924eb.webp"
       ]
     },
     "carrefourMarket1": {
