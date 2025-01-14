@@ -135,18 +135,9 @@
     }
   },
   "bims": {
-    "bim2": {
+    "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "Vendredi 10 Janvier 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-32-Spot%20BIM%2010-14%20Janvier%202025%20WEB.jpg",
-      "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-32-Spot%20BIM%2010-14%20Janvier%202025%20WEB.jpg"
-      ]
-    },
-    "bim3": {
-      "title": "Bim",
-      "link": "bim2",
       "date": "Mardi 14 Janvier 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-39-Spot%20BIM%2010-14%20Janvier%202025%20WEB2.jpg",
       "images": [
@@ -154,14 +145,30 @@
         "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-47-Spot%20BIM%2010-14%20Janvier%202025%20WEB3.jpg"
       ]
     },
-    "bim1": {
+    "bim2": {
+      "title": "Bim",
+      "link": "bim2",
+      "date": "Vendredi 17 Janvier 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-18-Web%20Spot%20Chaaban%2017%20Janv%2020252.jpg",
+      "images": [
+        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-18-Web%20Spot%20Chaaban%2017%20Janv%2020252.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-27-Web%20Spot%20Chaaban%2017%20Janv%2020255.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-36-Web%20Spot%20Chaaban%2017%20Janv%2020253.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-48-Web%20Spot%20Chaaban%2017%20Janv%2020254.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-58-Web%20Spot%20Chaaban%2017%20Janv%202025.jpg"
+      ]
+    },
+    "bim3": {
       "title": "Bim",
       "link": "bim3",
-      "date": "Mardi 07 Janvier 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-47-11-Spot%20BIM%20%2007%20Janvier%2020252.jpg",
+      "date": "Mardi 21 Janvier 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-46-17-Web%20Groupe%20Spot%20Chaaban%2021%20Janv%2020255.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-47-11-Spot%20BIM%20%2007%20Janvier%2020252.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/30-12-2024-19-47-18-Spot%20BIM%20%2007%20Janvier%202025.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-46-17-Web%20Groupe%20Spot%20Chaaban%2021%20Janv%2020255.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-46-35-Web%20Groupe%20Spot%20Chaaban%2021%20Janv%2020253.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-46-43-Web%20Groupe%20Spot%20Chaaban%2021%20Janv%2020254.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-46-53-Web%20Groupe%20Spot%20Chaaban%2021%20Janv%202025.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-47-03-Web%20Groupe%20Spot%20Chaaban%2021%20Janv%2020252.jpg"
       ]
     }
   },
