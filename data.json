@@ -1,52 +1,52 @@
 {
   "news": {
     "new1": {
+      "title": "Atacadão",
+      "date": "Du 16 au 29 Janvier 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/473729305_990737916423364_3663261789417746864_n.jpg",
+      "link": "atacadao"
+    },
+    "new2": {
       "title": "Bim",
       "date": "Vendredi 17 Janvier 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-18-Web%20Spot%20Chaaban%2017%20Janv%2020252.jpg",
       "link": "bim2"
     },
-    "new2": {
+    "new3": {
       "title": "Kazyon",
       "date": "Du 16 au 22 Janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2016%20au%2022%20Janvier%202025%204.jpg",
       "link": "kazyon"
     },
-    "new3": {
+    "new4": {
       "title": "Aswak Assalam",
       "date": "A partir de 15 Janvier",
       "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/473293673_611613104801239_5273597447514882420_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AGWAlfCZL0lLowUGH6ulzSBU5_K_K7gHynipopOrKkmFh34q_KxhGvAJUltAcO6Qqw&_nc_ohc=3uqiO2gs51wQ7kNvgEQ5wYl&_nc_gid=2fffe02b81c24bbf97c1d0ebe8aa80f5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NTUxNjk0NzgzMjI1NDg2MA%3D%3D.3-ccb7-5&oh=00_AYCpYI6_UcnstmLQh9abe-nfMzkEmeV9dE1oqg89q3HG2w&oe=678C9EFB&_nc_sid=7a9f4b",
       "link": "aswak"
     },
-    "new4": {
+    "new5": {
       "title": "Marjane Market",
       "date": "Du 26 au 16 Janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0001.jpg",
       "link": "marjaneMarket"
     },
-    "new5": {
+    "new6": {
       "title": "Supeco",
       "date": "Du 09 au 29 Janvier 2025",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/473237892_911531214471611_4247606356450296424_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2AF19D8LaSZF_EpWbKotqNZzNQ8opDM8lVqTtLdo-85GSWLaVOiKQYLNdkYQaXCUHnA&_nc_ohc=x9Y-xlu9eYwQ7kNvgG2FG9G&_nc_gid=1848884165af4fab9e9e13cbe5cead34&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0MTc0NDY0MTkwMjkwODQ1MQ%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYC-BBMMfCtv8Bjaqhb0sz-ly1vwiy--eRtuk1YeOWQHzg&oe=6785E9C8&_nc_sid=7a9f4b",
       "link": "supeco"
     },
-    "new6": {
+    "new7": {
       "title": "Carrefour",
       "date": "De 09 au 29 Janvier 2024",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00001.webp",
       "link": "carrefour1"
     },
-    "new7": {
+    "new8": {
       "title": "Kazyon",
       "date": "Du 9 au 15 Janvier 2025",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/472456825_471827819297829_7437397124136234026_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2AGWlMQ97LRUnykPccKLpModwrSohqGtUIXOnTLd-nGzFjdXYtj5h6OLBMyLKBQ5UOo&_nc_ohc=mtaOHszZprwQ7kNvgG_Vvs-&_nc_gid=6006760f5dcd4be286493f052c49686d&edm=AONqaaQAAAAA&ccb=7-5&ig_cache_key=MzUzODIzMzYwMDA3MzIwMDAxOA%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYAhERCNKRY9ZETxPd365iDMJjTXJ-zgWUyj_dW2W-Q1Cg&oe=677F6057&_nc_sid=4e3341",
       "link": "kazyon2"
-    },
-    "new8": {
-      "title": "Atacadão",
-      "date": "Du 02 au 15 Janvier 2025",
-      "thumbnail": "https://scontent.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/471673371_980836344080188_4577319017429168035_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=rJvXS2cR50MQ7kNvgHkxilf&_nc_oc=AdiYudPM5pn08rUQeS6xE2U0X5eotOsf4IaDjnBWo2zcPsD0ps9n9lVGdD3BGvRYMnU&_nc_zt=23&_nc_ht=scontent.fcmn1-4.fna&_nc_gid=A6jX5ZQHgzNVwrBpGnZljY4&oh=00_AYDFdONNxpjbuXGU-WTR7I-nPWVq_6n0fSmxlQyFyqH1aw&oe=6784BC46",
-      "link": "atacadao"
     },
     "new9": {
       "title": "Kitea",
@@ -350,11 +350,11 @@
   "Atacadão": {
     "title": "Atacadão",
     "link": "atacadao",
-    "thumbnail": "https://scontent.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/471673371_980836344080188_4577319017429168035_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=rJvXS2cR50MQ7kNvgHkxilf&_nc_oc=AdiYudPM5pn08rUQeS6xE2U0X5eotOsf4IaDjnBWo2zcPsD0ps9n9lVGdD3BGvRYMnU&_nc_zt=23&_nc_ht=scontent.fcmn1-4.fna&_nc_gid=A6jX5ZQHgzNVwrBpGnZljY4&oh=00_AYDFdONNxpjbuXGU-WTR7I-nPWVq_6n0fSmxlQyFyqH1aw&oe=6784BC46",
-    "date": "Du 02 au 15 Janvier 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/473729305_990737916423364_3663261789417746864_n.jpg",
+    "date": "Du 16 au 29 Janvier 2025",
     "images": [
-      "https://scontent.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/471673371_980836344080188_4577319017429168035_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=f727a1&_nc_ohc=rJvXS2cR50MQ7kNvgHkxilf&_nc_oc=AdiYudPM5pn08rUQeS6xE2U0X5eotOsf4IaDjnBWo2zcPsD0ps9n9lVGdD3BGvRYMnU&_nc_zt=23&_nc_ht=scontent.fcmn1-4.fna&_nc_gid=A6jX5ZQHgzNVwrBpGnZljY4&oh=00_AYDFdONNxpjbuXGU-WTR7I-nPWVq_6n0fSmxlQyFyqH1aw&oe=6784BC46",
-      "https://scontent.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/472272398_980836347413521_536643867054535648_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=BolLiEE-A4sQ7kNvgFu9N_p&_nc_oc=Adg9EsXzNjZtGI26eMlHygnwgfg_6nSMxUx4uUwU0F6JiL28AMmP3LHJ1w2ngF-MIBQ&_nc_zt=23&_nc_ht=scontent.fcmn1-4.fna&_nc_gid=A-RGsrRwVET99Gk9T9XXmjo&oh=00_AYCnqjkDAhx5BHFINatXpoBOj7R0CL-VVxMavgwS2Ox2MA&oe=67849D97"
+      "https://hmizate.ma/img/cms/473729305_990737916423364_3663261789417746864_n.jpg",
+      "https://hmizate.ma/img/cms/473627769_990737919756697_1088685404740104972_n.jpg"
     ]
   },
   "AswakAssalam": {
