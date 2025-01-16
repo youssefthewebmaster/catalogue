@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Aswak Assalam",
+      "date": "Du 17 Janvier au Février 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-1.jpg",
+      "link": "aswak"
+    },
+    "new2": {
       "title": "Atacadão",
       "date": "Du 16 au 29 Janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/473729305_990737916423364_3663261789417746864_n.jpg",
       "link": "atacadao"
     },
-    "new2": {
+    "new3": {
       "title": "Bim",
       "date": "Vendredi 17 Janvier 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-18-Web%20Spot%20Chaaban%2017%20Janv%2020252.jpg",
       "link": "bim2"
     },
-    "new3": {
+    "new4": {
       "title": "Kazyon",
       "date": "Du 16 au 22 Janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2016%20au%2022%20Janvier%202025%204.jpg",
       "link": "kazyon"
-    },
-    "new4": {
-      "title": "Aswak Assalam",
-      "date": "A partir de 15 Janvier",
-      "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/473293673_611613104801239_5273597447514882420_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AGWAlfCZL0lLowUGH6ulzSBU5_K_K7gHynipopOrKkmFh34q_KxhGvAJUltAcO6Qqw&_nc_ohc=3uqiO2gs51wQ7kNvgEQ5wYl&_nc_gid=2fffe02b81c24bbf97c1d0ebe8aa80f5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NTUxNjk0NzgzMjI1NDg2MA%3D%3D.3-ccb7-5&oh=00_AYCpYI6_UcnstmLQh9abe-nfMzkEmeV9dE1oqg89q3HG2w&oe=678C9EFB&_nc_sid=7a9f4b",
-      "link": "aswak"
     },
     "new5": {
       "title": "Marjane Market",
@@ -360,17 +360,33 @@
   "AswakAssalam": {
     "title": "Aswak Assalam",
     "link": "aswak",
-    "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/473293673_611613104801239_5273597447514882420_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AGWAlfCZL0lLowUGH6ulzSBU5_K_K7gHynipopOrKkmFh34q_KxhGvAJUltAcO6Qqw&_nc_ohc=3uqiO2gs51wQ7kNvgEQ5wYl&_nc_gid=2fffe02b81c24bbf97c1d0ebe8aa80f5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NTUxNjk0NzgzMjI1NDg2MA%3D%3D.3-ccb7-5&oh=00_AYCpYI6_UcnstmLQh9abe-nfMzkEmeV9dE1oqg89q3HG2w&oe=678C9EFB&_nc_sid=7a9f4b",
-    "date": "A partir de 15 Janvier",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-1.jpg",
+    "date": "Du 17 Janvier au Février 2025",
     "images": [
-      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/473293673_611613104801239_5273597447514882420_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AGWAlfCZL0lLowUGH6ulzSBU5_K_K7gHynipopOrKkmFh34q_KxhGvAJUltAcO6Qqw&_nc_ohc=3uqiO2gs51wQ7kNvgEQ5wYl&_nc_gid=2fffe02b81c24bbf97c1d0ebe8aa80f5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NTUxNjk0NzgzMjI1NDg2MA%3D%3D.3-ccb7-5&oh=00_AYCpYI6_UcnstmLQh9abe-nfMzkEmeV9dE1oqg89q3HG2w&oe=678C9EFB&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/473703230_611613144801235_400327931939873391_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AGWAlfCZL0lLowUGH6ulzSBU5_K_K7gHynipopOrKkmFh34q_KxhGvAJUltAcO6Qqw&_nc_ohc=Bi3YQ8oTUBgQ7kNvgEIJnrJ&_nc_gid=2fffe02b81c24bbf97c1d0ebe8aa80f5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NTUxNjk0ODkxNDI2NjkwNw%3D%3D.3-ccb7-5&oh=00_AYDV9IxevlcujpSc5C_7EzodR9r3ih7pGEj2cwTfdKGJNQ&oe=678CA1B3&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/473766362_611613121467904_641026940507506927_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AGWAlfCZL0lLowUGH6ulzSBU5_K_K7gHynipopOrKkmFh34q_KxhGvAJUltAcO6Qqw&_nc_ohc=VYjO833se7QQ7kNvgGlD983&_nc_gid=2fffe02b81c24bbf97c1d0ebe8aa80f5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NTUxNjk0NjYwNzUwOTMwMA%3D%3D.3-ccb7-5&oh=00_AYAajRq12mFki-uAAm5HrZuqr7HmGYfRvFELBbNBTbLRdg&oe=678CA2F3&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/473598712_611613178134565_9012526365072444101_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2AGWAlfCZL0lLowUGH6ulzSBU5_K_K7gHynipopOrKkmFh34q_KxhGvAJUltAcO6Qqw&_nc_ohc=848gQc2rMKcQ7kNvgFgP0Bw&_nc_gid=2fffe02b81c24bbf97c1d0ebe8aa80f5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NTUxNjk0ODQ2OTYzMzQyNg%3D%3D.3-ccb7-5&oh=00_AYDLzbIL6updJw_IOq-KXcgo2zJBoSQqlGdOxwKLGpCdLQ&oe=678CC3AE&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/473673990_611613034801246_5720370019027139797_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AGWAlfCZL0lLowUGH6ulzSBU5_K_K7gHynipopOrKkmFh34q_KxhGvAJUltAcO6Qqw&_nc_ohc=qWIUoKj1iZEQ7kNvgGkV082&_nc_gid=2fffe02b81c24bbf97c1d0ebe8aa80f5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NTUxNjk0ODkyMjc3MzkwMA%3D%3D.3-ccb7-5&oh=00_AYCAgJadxOMXalktjRljoANRcgxrfzE0znaC8vDsvRRqnw&oe=678CC6F7&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/473832490_611613181467898_7518625057294954640_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AGWAlfCZL0lLowUGH6ulzSBU5_K_K7gHynipopOrKkmFh34q_KxhGvAJUltAcO6Qqw&_nc_ohc=34CtDA8doOkQ7kNvgFE034B&_nc_gid=2fffe02b81c24bbf97c1d0ebe8aa80f5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NTUxNjk0NjYwNzUyNjYyMQ%3D%3D.3-ccb7-5&oh=00_AYDJPq3a1GrTFNDMuQSbmkYBr395hwnjPn40j1Myb34MGw&oe=678C9E7C&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/473591318_611613071467909_6541228808696288496_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2AGWAlfCZL0lLowUGH6ulzSBU5_K_K7gHynipopOrKkmFh34q_KxhGvAJUltAcO6Qqw&_nc_ohc=IiSt-ogl0d8Q7kNvgHAm94c&_nc_gid=2fffe02b81c24bbf97c1d0ebe8aa80f5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NTUxNjk0NzQxMjY4NzE2NQ%3D%3D.3-ccb7-5&oh=00_AYCacQQJx62JIbCJabxCIurqeJzJoimQgheyNTRwoHx1jQ&oe=678CCE92&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/473746228_611613091467907_5334798109613136961_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjAweDEyMDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AGWAlfCZL0lLowUGH6ulzSBU5_K_K7gHynipopOrKkmFh34q_KxhGvAJUltAcO6Qqw&_nc_ohc=8ynx1lS8f_IQ7kNvgFq-Ct6&_nc_gid=2fffe02b81c24bbf97c1d0ebe8aa80f5&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NTUxNjk0NjQwNjA4ODA4MQ%3D%3D.3-ccb7-5&oh=00_AYCaTjie-gP5oesFD2qk3_VdVS_q_IVYqSMlNG7EpotJiA&oe=678CB973&_nc_sid=7a9f4b"
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-3.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-4.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-5.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-6.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-7.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-8.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-9.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-10.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-11.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-12.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-13.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-14.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-15.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-16.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-17.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-18.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-19.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-20.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-21.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-22.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-23.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-24.jpg"
     ]
   },
   "Supeco": {
