@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Marjane Market",
+      "date": "Du 18 au 19 Janvier 2025",
+      "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/474093870_903247165308004_8567373295295822225_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AGZ1RT1z83VntWM4L1DP49RajrwETKGjfPB5T2BhPwycK64cXwv15Holh4FvrJ7MYk&_nc_ohc=IVwBZKvYZm4Q7kNvgHQNNTV&_nc_gid=cd2932722003437b969fd122eedaef0a&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0Njc0NjM0NzE4MjQzNDI2MQ%3D%3D.3-ccb7-5&oh=00_AYDxv2WvdiwWZMd_HWfYL0W5GMApB7Vqu2d6aiIZsfPlAg&oe=679121EB&_nc_sid=7a9f4b",
+      "link": "marjaneMarket"
+    },
+    "new2": {
       "title": "Kazyon",
       "date": "Du 18 au 19 Janvier 2025",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/473416035_480815911732353_252664371966554135_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2AErjBoQZMw9gA3r7E2ZZgcIF3O23YNGCCwi_neX8ksc5bGe_UOgUBOkBu-tA7628y4&_nc_ohc=proP-QKC-qMQ7kNvgE3qm2q&_nc_gid=7705c97a88b44ecb82e8b906dc4c87e6&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0NzcxMzQzMzk5NjQ3MjQwNw%3D%3D.3-ccb7-5&oh=00_AYB3cCzrMmEHyP2ad5Udogj3Ei6SNoiPqeJ1u04LAhiZ4w&oe=679106DE&_nc_sid=7a9f4b",
       "link": "kazyon1"
     },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "Du 17 Janvier au 9 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20Janvier%20au%209%20Fevrier%202025-1.jpg",
       "link": "aswak"
     },
-    "new3": {
+    "new4": {
       "title": "Atacadão",
       "date": "Du 16 au 29 Janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/473729305_990737916423364_3663261789417746864_n.jpg",
       "link": "atacadao"
-    },
-    "new4": {
-      "title": "Bim",
-      "date": "Vendredi 17 Janvier 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-18-Web%20Spot%20Chaaban%2017%20Janv%2020252.jpg",
-      "link": "bim2"
     },
     "new5": {
       "title": "Kazyon",
@@ -31,28 +31,28 @@
       "link": "kazyon"
     },
     "new6": {
-      "title": "Marjane Market",
-      "date": "Du 26 au 16 Janvier 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0001.jpg",
-      "link": "marjaneMarket"
-    },
-    "new7": {
       "title": "Supeco",
       "date": "Du 09 au 29 Janvier 2025",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/473237892_911531214471611_4247606356450296424_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-586271b6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2AF19D8LaSZF_EpWbKotqNZzNQ8opDM8lVqTtLdo-85GSWLaVOiKQYLNdkYQaXCUHnA&_nc_ohc=x9Y-xlu9eYwQ7kNvgG2FG9G&_nc_gid=1848884165af4fab9e9e13cbe5cead34&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0MTc0NDY0MTkwMjkwODQ1MQ%3D%3D.3-ccb7-5-cb30a688f7-586271b6&oh=00_AYC-BBMMfCtv8Bjaqhb0sz-ly1vwiy--eRtuk1YeOWQHzg&oe=6785E9C8&_nc_sid=7a9f4b",
       "link": "supeco"
     },
-    "new8": {
+    "new7": {
       "title": "Carrefour",
       "date": "De 09 au 29 Janvier 2024",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3593-flyer-2848/paginas/med3/00001.webp",
       "link": "carrefour1"
     },
-    "new9": {
+    "new8": {
       "title": "Kitea",
       "date": "Offre du 1er au 31 Janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/BROCHURE%20HIVER%202025_WEB_page-0001.jpg",
       "link": "kitea"
+    },
+    "new9": {
+      "title": "Bim",
+      "date": "Vendredi 17 Janvier 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-18-Web%20Spot%20Chaaban%2017%20Janv%2020252.jpg",
+      "link": "bim2"
     },
     "new10": {
       "title": "Kazyon",
@@ -116,21 +116,14 @@
     },
     "marjanMarket": {
       "title": "Marjane Market",
-      "thumbnail": "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0001.jpg",
-      "date": "Du 26 Décembre au 16 Janvier 2025",
+      "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/474093870_903247165308004_8567373295295822225_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AGZ1RT1z83VntWM4L1DP49RajrwETKGjfPB5T2BhPwycK64cXwv15Holh4FvrJ7MYk&_nc_ohc=IVwBZKvYZm4Q7kNvgHQNNTV&_nc_gid=cd2932722003437b969fd122eedaef0a&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0Njc0NjM0NzE4MjQzNDI2MQ%3D%3D.3-ccb7-5&oh=00_AYDxv2WvdiwWZMd_HWfYL0W5GMApB7Vqu2d6aiIZsfPlAg&oe=679121EB&_nc_sid=7a9f4b",
+      "date": "Du 18 au 19 Janvier 2025",
       "link": "marjaneMarket",
       "images": [
-        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0001.jpg",
-        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0002.jpg",
-        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0004.jpg",
-        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0005.jpg",
-        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0006.jpg",
-        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0007.jpg",
-        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0009.jpg",
-        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0008.jpg",
-        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0010.jpg",
-        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0011.jpg",
-        "https://hmizate.ma/img/cms/DPL%20FIN%20DANNEE%20BD%20(1)_page-0012.jpg"
+        "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/474093870_903247165308004_8567373295295822225_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AGZ1RT1z83VntWM4L1DP49RajrwETKGjfPB5T2BhPwycK64cXwv15Holh4FvrJ7MYk&_nc_ohc=IVwBZKvYZm4Q7kNvgHQNNTV&_nc_gid=cd2932722003437b969fd122eedaef0a&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0Njc0NjM0NzE4MjQzNDI2MQ%3D%3D.3-ccb7-5&oh=00_AYDxv2WvdiwWZMd_HWfYL0W5GMApB7Vqu2d6aiIZsfPlAg&oe=679121EB&_nc_sid=7a9f4b",
+        "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/474030719_903247158641338_8261589313600442202_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AGZ1RT1z83VntWM4L1DP49RajrwETKGjfPB5T2BhPwycK64cXwv15Holh4FvrJ7MYk&_nc_ohc=VAmi5TUySUgQ7kNvgGM_MBV&_nc_gid=cd2932722003437b969fd122eedaef0a&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0Njc0NjM0NjgwNTA1Mzc0NA%3D%3D.3-ccb7-5&oh=00_AYDsx_XPcvBqEL-xLJL18iMWkFW5euKHUnIAyY-RqCMAJw&oe=6791341A&_nc_sid=7a9f4b",
+        "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/472791642_903247155308005_6356750364280963665_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2AGZ1RT1z83VntWM4L1DP49RajrwETKGjfPB5T2BhPwycK64cXwv15Holh4FvrJ7MYk&_nc_ohc=NnaADeWi4tUQ7kNvgHtQj53&_nc_gid=cd2932722003437b969fd122eedaef0a&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0Njc0NjM0NjcyOTU3OTMxNg%3D%3D.3-ccb7-5&oh=00_AYD3ejpBBTKJrLeePsNAJGVxr90HKncdZlD156JnpeTUuw&oe=67913232&_nc_sid=7a9f4b",
+        "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/471172548_903247161974671_8819860305447782466_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AGZ1RT1z83VntWM4L1DP49RajrwETKGjfPB5T2BhPwycK64cXwv15Holh4FvrJ7MYk&_nc_ohc=RMjcItfBd4sQ7kNvgGT9MPJ&_nc_gid=cd2932722003437b969fd122eedaef0a&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU0Njc0NjM0NzE3NDE5NjM0OA%3D%3D.3-ccb7-5&oh=00_AYB_59S7HqXmJDDI9qz__nELAg4F749vCiNt79_mpVEiBg&oe=679141E9&_nc_sid=7a9f4b"
       ]
     }
   },
