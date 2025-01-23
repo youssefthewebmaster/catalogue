@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Bim",
+      "date": "Vendredi 24 Janvier 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/17-01-2025-14-25-18-Spot%20Bim%2024%20JANVIER%2020252.jpg",
+      "link": "bim2"
+    },
+    "new2": {
       "title": "Kazyon",
       "date": "Du 23 au 29 janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20janvier%202025%204-min.jpg",
       "link": "kazyon2"
     },
-    "new2": {
+    "new3": {
       "title": "Marjane",
       "date": "Du 21 Janvier au 05 Février 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3827-flyer-3072/paginas/med3/00001.webp",
       "link": "marjane"
     },
-    "new3": {
+    "new4": {
       "title": "Marjane Market",
       "date": "Du 21 Janvier au 05 Février 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3815-flyer-3060/paginas/med3/00001.webp",
       "link": "marjaneMarket"
     },
-    "new4": {
+    "new5": {
       "title": "Kazyon",
       "date": "Mercredi 22 Janvier 2025",
       "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/474520430_483354368145174_764703274431780948_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2AFlBTTulvXjI0jGSUA90X-BZRAsqx-s6TUXBOMYSYQCaLM6kF4d7WEEo2GzMEx9xuE&_nc_ohc=ebOUtiaDYhoQ7kNvgHbfAbs&_nc_gid=90a057a3b39a489280c634ac09a9bce2&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU1MDMxMDYzNzUwMDgwNDU5Ng%3D%3D.3-ccb7-5&oh=00_AYCQ12S3IL3j115vvEiTF5O73mqYH9ecZ2FP-IqUwAp_RQ&oe=6795E028&_nc_sid=7a9f4b",
       "link": "kazyon1"
-    },
-    "new5": {
-      "title": "Bim",
-      "date": "Mardi 21 Janvier 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-46-17-Web%20Groupe%20Spot%20Chaaban%2021%20Janv%2020255.jpg",
-      "link": "bim3"
     },
     "new6": {
       "title": "Aswak Assalam",
@@ -137,29 +137,6 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "Mardi 14 Janvier 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-39-Spot%20BIM%2010-14%20Janvier%202025%20WEB2.jpg",
-      "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-39-Spot%20BIM%2010-14%20Janvier%202025%20WEB2.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/3-01-2025-18-41-47-Spot%20BIM%2010-14%20Janvier%202025%20WEB3.jpg"
-      ]
-    },
-    "bim2": {
-      "title": "Bim",
-      "link": "bim2",
-      "date": "Vendredi 17 Janvier 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-18-Web%20Spot%20Chaaban%2017%20Janv%2020252.jpg",
-      "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-18-Web%20Spot%20Chaaban%2017%20Janv%2020252.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-27-Web%20Spot%20Chaaban%2017%20Janv%2020255.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-36-Web%20Spot%20Chaaban%2017%20Janv%2020253.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-48-Web%20Spot%20Chaaban%2017%20Janv%2020254.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-45-58-Web%20Spot%20Chaaban%2017%20Janv%202025.jpg"
-      ]
-    },
-    "bim3": {
-      "title": "Bim",
-      "link": "bim3",
       "date": "Mardi 21 Janvier 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-46-17-Web%20Groupe%20Spot%20Chaaban%2021%20Janv%2020255.jpg",
       "images": [
@@ -168,6 +145,26 @@
         "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-46-43-Web%20Groupe%20Spot%20Chaaban%2021%20Janv%2020254.jpg",
         "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-46-53-Web%20Groupe%20Spot%20Chaaban%2021%20Janv%202025.jpg",
         "https://cdn3.bim.ma/uploads/ma/Files/13-01-2025-19-47-03-Web%20Groupe%20Spot%20Chaaban%2021%20Janv%2020252.jpg"
+      ]
+    },
+    "bim2": {
+      "title": "Bim",
+      "link": "bim2",
+      "date": "Vendredi 24 Janvier 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/17-01-2025-14-25-18-Spot%20Bim%2024%20JANVIER%2020252.jpg",
+      "images": [
+        "https://cdn3.bim.ma/uploads/ma/Files/17-01-2025-14-25-18-Spot%20Bim%2024%20JANVIER%2020252.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/17-01-2025-14-25-25-Spot%20Bim%2024%20JANVIER%202025.jpg"
+      ]
+    },
+    "bim3": {
+      "title": "Bim",
+      "link": "bim3",
+      "date": "Mardi 28 Janvier 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/17-01-2025-14-25-32-Groupe%20Spot%20Bim%2028%20JANVIER%202025.jpg",
+      "images": [
+        "https://cdn3.bim.ma/uploads/ma/Files/17-01-2025-14-25-32-Groupe%20Spot%20Bim%2028%20JANVIER%202025.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/17-01-2025-14-25-38-Groupe%20Spot%20Bim%2028%20JANVIER%2020252.jpg"
       ]
     }
   },
