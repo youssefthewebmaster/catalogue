@@ -1,6 +1,8 @@
 {
     "update": {
-        "update": "yes"
+        "update": "yes",
+        "current": 1,
+        "new": 1.5
     },
     "beins": {
         "res1080": {
@@ -8,8 +10,3 @@
         }
     }
 }
-
-
-
-
-
