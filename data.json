@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon",
+      "date": "Lundi 03 Février 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-02-02%20183737.png",
+      "link": "kazyon"
+    },
+    "new2": {
       "title": "Supeco",
       "date": "Du 30 au 19 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2030%20janvier%20au%2019%20fevrier%202025-min.jpg",
       "link": "supeco"
     },
-    "new2": {
+    "new3": {
       "title": "Atacadão",
       "date": "Du 30 au 19 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2030%20janvier%20au%2019%20f%C3%A9vrier%202025%201-min.jpg",
       "link": "atacadao"
     },
-    "new3": {
+    "new4": {
       "title": "Carrefour Market",
       "date": "Du 16 au 29 Janvier 2025",
       "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/475758850_1020634756763802_3471598374900747501_n.jpg?stp=c0.75.1080.1200a_dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2AFNr75YncqdW0wUQRaPmRz9aWg8Zz7e9BPmeQDZer6Kmez-ucVS1R4fhUb01XuFVKM&_nc_ohc=DPsknDGpgXUQ7kNvgGR60fO&_nc_gid=853de64b286e4bb7895ccfab638de649&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU1Njg2NzY5NTMzODIwODUxMg%3D%3D.3-ccb7-5&oh=00_AYDLxILR60b-Xi55pCVA6hnqETQqrYCu37Y-9mpPZwbfww&oe=67A2F658&_nc_sid=7a9f4b",
       "link": "carrefourMarket1"
     },
-    "new4": {
+    "new5": {
       "title": "Carrefour",
       "date": "Du 30 au 19 Février 2025",
       "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/475867002_1017904923710530_5075743393926098779_n.jpg?stp=c0.75.1080.1200a_dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AH6Hka0M0JcViAHt0KWQ8L72PejQVyMhl18bY76gVwdq9Gri6KdpoGa-DMPMFX16No&_nc_ohc=Zv8rmBunujgQ7kNvgHEK1Oz&_nc_gid=4d35f3745e1c48e6859d89f5e4b8309a&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU1NzEwMjg1NTg1Mzk1NDcwMw%3D%3D.3-ccb7-5&oh=00_AYB842hewA4GNd-KW0I78CJYKYbnKrqPYr48Mps1Nf3n9w&oe=67A2F097&_nc_sid=7a9f4b",
       "link": "carrefour2"
-    },
-    "new5": {
-      "title": "Kazyon",
-      "date": "Du 01 au 02 Février 2025",
-      "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/475774335_490776314069646_618599291702495518_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2AH_dcN2ilgZeZnPRh-w_e6QBilWDudv41lxFdRfDWfmtMuBDRHL3cNHYiI6rvP0GmE&_nc_ohc=21xn1bKgPREQ7kNvgGPvncH&_nc_gid=b5c5fc4821a14135b515c8f0eccf7100&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU1Nzg2MDIzOTEwMjYzNTI5MQ%3D%3D.3-ccb7-5&oh=00_AYCZ9xFQL33X0Ys7DXOoFPV6aGcqCAVd_bq6237qkkhMIA&oe=67A2EA5B&_nc_sid=7a9f4b",
-      "link": "kazyon2"
     },
     "new6": {
       "title": "Bim",
@@ -258,13 +258,12 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-01-28%20211227.png",
-    "date": "Mercredi 29 Janvier 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-02-02%20183737.png",
+    "date": "Lundi 03 Février 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-01-28%20211227.png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-01-28%20211253.png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-01-28%20211314.png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-01-28%20211335.png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-02-02%20183737.png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-02-02%20183802.png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-02-02%20183820.png"
     ]
   },
   "Kazyon1": {
