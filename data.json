@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon",
+      "date": "Du 06 au 12 Février 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%206%20au%2012%20f%C3%A9vrier%202025%201-min.jpg",
+      "link": "kazyon"
+    },
+    "new2": {
       "title": "Kitea",
       "date": "Du 01 au 28 Février 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00001.webp",
       "link": "kitea"
-    },
-    "new2": {
-      "title": "Kazyon",
-      "date": "Offre de 05 Février 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-02-04%20212128.png",
-      "link": "kazyon2"
     },
     "new3": {
       "title": "Supeco",
@@ -255,12 +255,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-02-02%20183737.png",
-    "date": "Lundi 03 Février 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%206%20au%2012%20f%C3%A9vrier%202025%201-min.jpg",
+    "date": "Du 06 au 12 Février 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-02-02%20183737.png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-02-02%20183802.png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Screenshot%202025-02-02%20183820.png"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%206%20au%2012%20f%C3%A9vrier%202025%201-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%206%20au%2012%20f%C3%A9vrier%202025%202-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%206%20au%2012%20f%C3%A9vrier%202025%203-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%206%20au%2012%20f%C3%A9vrier%202025%204-min.jpg"
     ]
   },
   "Kazyon1": {
