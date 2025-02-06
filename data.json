@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Bim",
+      "date": "Vendredi 07 Février 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/3-02-2025-16-51-44-WEBSpot%20Bim%2007-11%20Fe%CC%81vrier%2020255.jpg",
+      "link": "bim2"
+    },
+    "new2": {
       "title": "Marjane Market",
       "date": "Du 06 au 20 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0001-min.jpg",
       "link": "marjaneMarket"
     },
-    "new2": {
+    "new3": {
       "title": "Marjane",
       "date": "Du 06 au 20 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/d%C3%A9pliant%20digital%20CHAABANE%20HYPER_page-0001-min.jpg",
       "link": "marjane"
     },
-    "new3": {
+    "new4": {
       "title": "Kazyon",
       "date": "Du 06 au 12 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%206%20au%2012%20f%C3%A9vrier%202025%201-min.jpg",
       "link": "kazyon"
     },
-    "new4": {
+    "new5": {
       "title": "Kitea",
       "date": "Du 01 au 28 Février 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00001.webp",
       "link": "kitea"
-    },
-    "new5": {
-      "title": "Bim",
-      "date": "Mardi 04 Février 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/3-02-2025-16-52-53-WebSpot%20BIM%2031%20Janv%2004%20Fe%CC%81v%2020253.jpg",
-      "link": "bim1"
     },
     "new6": {
       "title": "Carrefour",
