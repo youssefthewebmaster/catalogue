@@ -2,8 +2,8 @@
   "news": {
     "new1": {
       "title": "Kazyon",
-      "date": "Offre de 10 Février 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazyonLundi%20(1).png",
+      "date": "Offre de 11 Février 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(1).png",
       "link": "kazyon2"
     },
     "new2": {
@@ -304,13 +304,12 @@
   "Kazyon2": {
     "title": "Kazyon",
     "link": "kazyon2",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazyonLundi%20(1).png",
-    "date": "Offre de 10 Février 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(1).png",
+    "date": "Offre de 11 Février 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazyonLundi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazyonLundi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazyonLundi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazyonLundi%20(4).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(3).png"
     ]
   },
   "Atacadão": {
