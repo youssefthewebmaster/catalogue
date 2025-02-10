@@ -1,46 +1,46 @@
 {
   "news": {
     "new1": {
+      "title": "Supeco",
+      "date": "Offre de 11 Février 2025",
+      "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t51.29350-15/476561663_622952400280109_745282243038078991_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MC5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2AHh9-hWArfHcC-_Qw4zDrSdykfcGr_K8imtKGQMnpB7k3TnJX349MNAt9SoAZg2Qmc&_nc_ohc=JElrEreKI-MQ7kNvgHCwMPM&_nc_gid=36509a8d30e049b2aa337ae46e5d115a&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzU2NDg3MzQzNDM5MTYzNzU1Ng%3D%3D.3-ccb7-5&oh=00_AYDDvep90koF5dzKaKTra6PmCu0sxGb4_PnrUFMR_zpuPQ&oe=67B0511F&_nc_sid=7a9f4b",
+      "link": "supeco1"
+    },
+    "new2": {
       "title": "Bim",
       "date": "Mardi 11 Février 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/3-02-2025-16-52-06-WEBSpot%20Bim%2007-11%20Fe%CC%81vrier%202025.jpg",
       "link": "bim3"
     },
-    "new2": {
+    "new3": {
       "title": "Kazyon",
       "date": "Offre de 11 Février 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(1).png",
       "link": "kazyon2"
     },
-    "new3": {
+    "new4": {
       "title": "Atacadão",
       "date": "Du 07 Février au 16 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/476346863_1006485021515320_4158203889800477152_n-min.jpg",
       "link": "atacadao1"
     },
-    "new4": {
+    "new5": {
       "title": "Carrefour",
       "date": "Du 30 au 19 Février 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3962-flyer-3202/paginas/med3/00001.webp",
       "link": "carrefour1"
     },
-    "new5": {
+    "new6": {
       "title": "Marjane Market",
       "date": "Du 06 au 20 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0001-min.jpg",
       "link": "marjaneMarket"
     },
-    "new6": {
+    "new7": {
       "title": "Marjane",
       "date": "Du 06 au 20 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/d%C3%A9pliant%20digital%20CHAABANE%20HYPER_page-0001-min.jpg",
       "link": "marjane"
-    },
-    "new7": {
-      "title": "Kazyon",
-      "date": "Du 06 au 12 Février 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%206%20au%2012%20f%C3%A9vrier%202025%201-min.jpg",
-      "link": "kazyon"
     },
     "new8": {
       "title": "Kitea",
@@ -387,10 +387,10 @@
   "Supeco1": {
     "link": "supeco1",
     "title": "Supeco",
-    "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t51.29350-15/476076757_8452143158219058_924819508332340658_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MC5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2AHwuWdBtQWwpHy6y1DOAyd6qrhA2kBTGwDY_Roj9_tmQXMuSvMIaL4VGnRYM0nlXL8&_nc_ohc=BseSnCz_Qi0Q7kNvgFsnVrQ&_nc_gid=e52a9296131945308be902df28489102&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzU1OTk2OTA3MDIyNjg0MDIzMDExMTYzODkzNTk5ODUwODI%3D.3-ccb7-5&oh=00_AYBN8Ht2_WZ20z-IxfvBqJO8HbDTOdnRdw-Fi5m3s2Pv_A&oe=67A6C3B7&_nc_sid=7a9f4b",
-    "date": "Offre de 04 Février 2025",
+    "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t51.29350-15/476561663_622952400280109_745282243038078991_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MC5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2AHh9-hWArfHcC-_Qw4zDrSdykfcGr_K8imtKGQMnpB7k3TnJX349MNAt9SoAZg2Qmc&_nc_ohc=JElrEreKI-MQ7kNvgHCwMPM&_nc_gid=36509a8d30e049b2aa337ae46e5d115a&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzU2NDg3MzQzNDM5MTYzNzU1Ng%3D%3D.3-ccb7-5&oh=00_AYDDvep90koF5dzKaKTra6PmCu0sxGb4_PnrUFMR_zpuPQ&oe=67B0511F&_nc_sid=7a9f4b",
+    "date": "Offre de 11 Février 2025",
     "images": [
-      "https://instagram.fcmn1-4.fna.fbcdn.net/v/t51.29350-15/476076757_8452143158219058_924819508332340658_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MC5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2AHwuWdBtQWwpHy6y1DOAyd6qrhA2kBTGwDY_Roj9_tmQXMuSvMIaL4VGnRYM0nlXL8&_nc_ohc=BseSnCz_Qi0Q7kNvgFsnVrQ&_nc_gid=e52a9296131945308be902df28489102&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzU1OTk2OTA3MDIyNjg0MDIzMDExMTYzODkzNTk5ODUwODI%3D.3-ccb7-5&oh=00_AYBN8Ht2_WZ20z-IxfvBqJO8HbDTOdnRdw-Fi5m3s2Pv_A&oe=67A6C3B7&_nc_sid=7a9f4b"
+      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t51.29350-15/476561663_622952400280109_745282243038078991_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MC5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2AHh9-hWArfHcC-_Qw4zDrSdykfcGr_K8imtKGQMnpB7k3TnJX349MNAt9SoAZg2Qmc&_nc_ohc=JElrEreKI-MQ7kNvgHCwMPM&_nc_gid=36509a8d30e049b2aa337ae46e5d115a&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzU2NDg3MzQzNDM5MTYzNzU1Ng%3D%3D.3-ccb7-5&oh=00_AYDDvep90koF5dzKaKTra6PmCu0sxGb4_PnrUFMR_zpuPQ&oe=67B0511F&_nc_sid=7a9f4b"
     ]
   },
   "Kitea": {
