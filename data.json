@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon",
+      "date": "Offre de 18 Février 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(1).png",
+      "link": "kazyon2"
+    },
+    "new2": {
       "title": "Bim",
       "date": "Vendredi 18 Février 2025",
       "thumbnail": "https://instagram.fcmn3-2.fna.fbcdn.net/v/t39.30808-6/479676630_632863109342905_4138939112247267318_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn3-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2AFPwqyJOx0qRjb40QtJxkJhg8Tw-Xhd96q1hTM2Ojkc4qj_MOu7CvYoClke-a2hyqQ&_nc_ohc=_BdSy1gY2yMQ7kNvgFng2lQ&_nc_gid=1682f841f91f47fd87dc6ca71eeeba42&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU2ODQ2MDEzNzU0ODE2NDExMw%3D%3D.3-ccb7-5&oh=00_AYCK1nXscQ5iMTDEchDuRFHKzq6npfG5nsgxJvHIrWsa_Q&oe=67B8B6A4&_nc_sid=7a9f4b",
       "link": "bim2"
     },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de 17 Février 2025",
       "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/478443694_631920059437210_8470041038514126278_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AHNvEamUYA8upG67mWE8Il2TAXRPt2riJeVfBHKTIrr2lUxXMOAtmKHIHj4e9IXrV4&_nc_ohc=46UERyyDNsgQ7kNvgGdqx_i&_nc_gid=35a2601ca8dd465b8de01bbfff636685&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU2NzIyMzk4NTcxMzU1NDIzMQ%3D%3D.3-ccb7-5&oh=00_AYBA6XN7IadaGnlAYlT4aLec3CEpZzTcdmNLcbX6FAjl7g&oe=67B40B01&_nc_sid=7a9f4b",
       "link": "aswak"
-    },
-    "new3": {
-      "title": "Kazyon",
-      "date": "Offre de 17 Février 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(1).png",
-      "link": "kazyon2"
     },
     "new4": {
       "title": "Marjane",
@@ -355,11 +355,12 @@
   "Kazyon2": {
     "title": "Kazyon",
     "link": "kazyon2",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(1).png",
-    "date": "Offre de 17 Février 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(1).png",
+    "date": "Offre de 18 Février 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(2).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(3).png"
     ]
   },
   "Atacadão": {
