@@ -1,46 +1,46 @@
 {
   "news": {
     "new1": {
+      "title": "Marjane Market",
+      "date": "Du 21 Février au 9 Mars 2025",
+      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00001.webp",
+      "link": "marjaneMarket1"
+    },
+    "new2": {
       "title": "Bim",
       "date": "Offre Vendredi 21 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/catalogue%20BIM%20vendredi%2021%20f%C3%A9vrier%202025-1.jpg",
       "link": "bim2"
     },
-    "new2": {
+    "new3": {
       "title": "Carrefour",
       "date": "Du 20 Février au 12 Mars 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00001.webp",
       "link": "carrefour1"
     },
-    "new3": {
+    "new4": {
       "title": "Kazyon",
       "date": "Offre du 20 au 26 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20f%C3%A9vrier%202025%201.jpg",
       "link": "kazyon2"
     },
-    "new4": {
+    "new5": {
       "title": "Supeco",
       "date": "Du 20 Février au 12 Mars 2025",
       "thumbnail": "https://online.fliphtml5.com/hxkby/bath/files/large/a2c36b775cbf1aae32af00be3a782447.webp?1739885216&1739885216",
       "link": "supeco"
     },
-    "new5": {
+    "new6": {
       "title": "Aswak Assalam",
       "date": "Du 20 Février au 16 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/1-min.jpg",
       "link": "aswak"
     },
-    "new6": {
+    "new7": {
       "title": "Marjane",
       "date": "Du 14 au 16 Février 2025",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/478340962_972346741666405_308264084842827665_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2AHS-wGTcF1LZJQxyblQsl6RDGbueorAPqq5bRzl0eJkNjFJta0OIaTT2eAnieckGX4&_nc_ohc=mQrKtuvpM-oQ7kNvgHaIHiX&_nc_gid=6e803e8c42e5453c96fd6e74b5aa74dc&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU2NzE3OTk0MjkyMDMyMDQ3NA%3D%3D.3-ccb7-5&oh=00_AYCogvY6c6nv7jLG3vFMmG3g5gupaRruFXm0T3iV-qmgaQ&oe=67B62158&_nc_sid=7a9f4b",
       "link": "marjane1"
-    },
-    "new7": {
-      "title": "Marjane Market",
-      "date": "Du 14 au 16 Février 2025",
-      "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/476779274_922419030057484_1116217366152342093_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AHUIU9jmFFzUifSLyQYpN85Ir2V2waia8O8osv2FbKggvLaeJ-x5orLyiBnREgPYGU&_nc_ohc=R1T8tuTQphwQ7kNvgFISGYT&_nc_gid=86418d024882476c915524f04e719ea4&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU2NzA3MTAyOTIxOTgyNzYwMQ%3D%3D.3-ccb7-5&oh=00_AYA0gsag1OFE4CAijy8Sps-TP-EveBKPKYLr94FdupMI4w&oe=67B4CE67&_nc_sid=7a9f4b",
-      "link": "marjaneMarket1"
     },
     "new8": {
       "title": "Kazyon",
@@ -131,21 +131,24 @@
     },
     "marjanMarket": {
       "title": "Marjane Market",
-      "thumbnail": "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0001-min.jpg",
-      "date": "Du 06 au 20 Février 2025",
+      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00001.webp",
+      "date": "Du 21 Février au 9 Mars 2025",
       "link": "marjaneMarket",
       "images": [
-        "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0001-min.jpg",
-        "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0002-min.jpg",
-        "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0003-min.jpg",
-        "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0004-min.jpg",
-        "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0005-min.jpg",
-        "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0006-min.jpg",
-        "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0007-min.jpg",
-        "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0009-min.jpg",
-        "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0010-min.jpg",
-        "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0011-min.jpg",
-        "https://hmizate.ma/img/cms/DPL%20Chaaban%20(4)%20(1)_page-0012-min.jpg"
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00001.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00002.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00003.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00004.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00005.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00007.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00008.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00009.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00010.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00011.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00012.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00014.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00015.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00016.webp"
       ]
     },
     "marjanMarket1": {
