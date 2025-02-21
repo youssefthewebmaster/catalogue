@@ -7,58 +7,58 @@
       "link": "marjaneMarket1"
     },
     "new2": {
+      "title": "Atacadão",
+      "date": "Du 21 Février au 12 Mars 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025-min.jpg",
+      "link": "atacadao"
+    },
+    "new3": {
       "title": "Bim",
       "date": "Offre Vendredi 21 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/catalogue%20BIM%20vendredi%2021%20f%C3%A9vrier%202025-1.jpg",
       "link": "bim2"
     },
-    "new3": {
+    "new4": {
       "title": "Carrefour",
       "date": "Du 20 Février au 12 Mars 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00001.webp",
       "link": "carrefour1"
     },
-    "new4": {
+    "new5": {
       "title": "Kazyon",
       "date": "Offre du 20 au 26 Février 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20f%C3%A9vrier%202025%201.jpg",
       "link": "kazyon2"
     },
-    "new5": {
+    "new6": {
       "title": "Supeco",
       "date": "Du 20 Février au 12 Mars 2025",
       "thumbnail": "https://online.fliphtml5.com/hxkby/bath/files/large/a2c36b775cbf1aae32af00be3a782447.webp?1739885216&1739885216",
       "link": "supeco"
     },
-    "new6": {
+    "new7": {
       "title": "Aswak Assalam",
       "date": "Du 20 Février au 16 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/1-min.jpg",
       "link": "aswak"
     },
-    "new7": {
+    "new8": {
       "title": "Marjane",
       "date": "Du 14 au 16 Février 2025",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/478340962_972346741666405_308264084842827665_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2AHS-wGTcF1LZJQxyblQsl6RDGbueorAPqq5bRzl0eJkNjFJta0OIaTT2eAnieckGX4&_nc_ohc=mQrKtuvpM-oQ7kNvgHaIHiX&_nc_gid=6e803e8c42e5453c96fd6e74b5aa74dc&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU2NzE3OTk0MjkyMDMyMDQ3NA%3D%3D.3-ccb7-5&oh=00_AYCogvY6c6nv7jLG3vFMmG3g5gupaRruFXm0T3iV-qmgaQ&oe=67B62158&_nc_sid=7a9f4b",
       "link": "marjane1"
     },
-    "new8": {
+    "new9": {
       "title": "Kazyon",
       "date": "Du 13 Février au 1 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/FB_IMG_1739213480407.jpg",
       "link": "kazyon1"
     },
-    "new9": {
+    "new10": {
       "title": "Carrefour Market",
       "date": "Du 12 au 19 Février 2025",
       "thumbnail": "https://instagram.fcmn3-1.fna.fbcdn.net/v/t39.30808-6/476656970_1029282135899064_72565732548490188_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn3-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2AF8WYZM5LW1sRSFuicGRL6WOtjTJ2cTwKXMHZmMEUj6UCFuflOZUYJi-f3-FlV5iQY&_nc_ohc=Ez27SKZDVjsQ7kNvgHu4E9L&_nc_gid=e69bc94f456e42ed97d19f259d5abb9a&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU2NTY5MjU4NzA4MDg2MzA5Mw%3D%3D.3-ccb7-5&oh=00_AYAPzIbvZp4mw3EPbWkmt4dCWZLMYrNWm7qs2RGq4FILig&oe=67B257AE&_nc_sid=7a9f4b",
       "link": "carrefourMarket1"
-    },
-    "new10": {
-      "title": "Atacadão",
-      "date": "Du 07 Février au 16 Avril 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/476346863_1006485021515320_4158203889800477152_n-min.jpg",
-      "link": "atacadao1"
     }
   },
   "marjans": {
@@ -386,17 +386,17 @@
   "Atacadão": {
     "title": "Atacadão",
     "link": "atacadao",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2030%20janvier%20au%2019%20f%C3%A9vrier%202025%201-min.jpg",
-    "date": "Offre du 30 au 19 Février 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025-min.jpg",
+    "date": "Du 21 Février au 12 Mars 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2030%20janvier%20au%2019%20f%C3%A9vrier%202025%201-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2030%20janvier%20au%2019%20f%C3%A9vrier%202025%202-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2030%20janvier%20au%2019%20f%C3%A9vrier%202025%203-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2030%20janvier%20au%2019%20f%C3%A9vrier%202025%204-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2030%20janvier%20au%2019%20f%C3%A9vrier%202025%205-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2030%20janvier%20au%2019%20f%C3%A9vrier%202025%206-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2030%20janvier%20au%2019%20f%C3%A9vrier%202025%207-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2030%20janvier%20au%2019%20f%C3%A9vrier%202025%208-min.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025%208-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025%207-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025%206-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025%205-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025%204-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025%202-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025%203-min.jpg"
     ]
   },
   "Atacadão1": {
