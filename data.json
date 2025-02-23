@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon",
+      "date": "Offre de 24 Février 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(1).png",
+      "link": "kazyon"
+    },
+    "new2": {
       "title": "Supeco",
       "date": "Offre de 21 au 23 Février 2025",
       "thumbnail": "https://instagram.fcmn2-2.fna.fbcdn.net/v/t39.30808-6/480271326_940126608278738_8144139791591160499_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn2-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2AG-sLIKPSIPNmEVVtkafiIByiRepAaqh6tlECI-fKBdYcS21L7besioVQ7rzB2_zyM&_nc_ohc=7vXajJ9pWL0Q7kNvgFT9-1n&_nc_gid=13fb8344bfd048f79941b0c795901faf&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MTU3OTY4NDgxMjgyNzMyMQ%3D%3D.3-ccb7-5&oh=00_AYACDn4nXqVJn39O71qZockuKMWugRC4ThfKEHfsHPWTtA&oe=67BFDB2E&_nc_sid=7a9f4b",
       "link": "supeco1"
     },
-    "new2": {
+    "new3": {
       "title": "Marjane",
       "date": "Du 23 Février au 09 Mars 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4118-flyer-3347/paginas/med3/00001.webp",
       "link": "marjane"
-    },
-    "new3": {
-      "title": "Kazyon",
-      "date": "Offre du 22 au 23 Février 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/FB_IMG_1739213480407.jpg",
-      "link": "kazyon"
     },
     "new4": {
       "title": "Marjane Market",
@@ -312,15 +312,11 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/481249323_506098879204056_4802693623868296803_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2AF_0ngbUjHwhYnQgyrqyJW5ZB6Kh0VE2mnTo7osEueJVpaEtVziY9fNy24xCq8sAVM&_nc_ohc=krqf13XzvA4Q7kNvgGfNlq5&_nc_gid=8987e149b78a4fa3896f3309fa63631b&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzA4MDU0OTE3MTM5MDUyMA%3D%3D.3-ccb7-5&oh=00_AYCc6ghBKSfWVUZagNAQgyMszhYI6zO0O9Ok0HRsm5Yzzg&oe=67BEDBA1&_nc_sid=7a9f4b",
-    "date": "Offre du 22 au 23 Février 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(1).png",
+    "date": "Offre de 24 Février 2025",
     "images": [
-      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/481249323_506098879204056_4802693623868296803_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2AF_0ngbUjHwhYnQgyrqyJW5ZB6Kh0VE2mnTo7osEueJVpaEtVziY9fNy24xCq8sAVM&_nc_ohc=krqf13XzvA4Q7kNvgGfNlq5&_nc_gid=8987e149b78a4fa3896f3309fa63631b&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzA4MDU0OTE3MTM5MDUyMA%3D%3D.3-ccb7-5&oh=00_AYCc6ghBKSfWVUZagNAQgyMszhYI6zO0O9Ok0HRsm5Yzzg&oe=67BEDBA1&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/480667079_506098909204053_6481136411868938594_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2AF_0ngbUjHwhYnQgyrqyJW5ZB6Kh0VE2mnTo7osEueJVpaEtVziY9fNy24xCq8sAVM&_nc_ohc=ya2ZUwGR9GwQ7kNvgFMlWrF&_nc_gid=8987e149b78a4fa3896f3309fa63631b&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzA4MDU0OTM4MTA3NjU3NA%3D%3D.3-ccb7-5&oh=00_AYAACd80AwWDJ-FbKvVqIMTSPZL8VngceN67egFFgUpPEw&oe=67BEBC8E&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/480527430_506098822537395_5393315737764330091_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AF_0ngbUjHwhYnQgyrqyJW5ZB6Kh0VE2mnTo7osEueJVpaEtVziY9fNy24xCq8sAVM&_nc_ohc=6cRc51VExYkQ7kNvgEUuYO6&_nc_gid=8987e149b78a4fa3896f3309fa63631b&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzA4MDU0OTM0NzMxODI0Mw%3D%3D.3-ccb7-5&oh=00_AYB5oLYyEn7-023ObalfAO-jaw6bDoC8fHxoYQfNNsY5kA&oe=67BEC735&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/481115041_506099125870698_6050725408482066735_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2AF_0ngbUjHwhYnQgyrqyJW5ZB6Kh0VE2mnTo7osEueJVpaEtVziY9fNy24xCq8sAVM&_nc_ohc=_oBl2SmEO9IQ7kNvgGO3OsZ&_nc_gid=8987e149b78a4fa3896f3309fa63631b&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzA4MDU0OTA0NTMyNTY5MA%3D%3D.3-ccb7-5&oh=00_AYCItmW5JpJlgG6Q7qz0hNLfxASdmrxe6H82wMv0cJxaQA&oe=67BECBCB&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/480577311_506099039204040_1416790914279757204_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2AF_0ngbUjHwhYnQgyrqyJW5ZB6Kh0VE2mnTo7osEueJVpaEtVziY9fNy24xCq8sAVM&_nc_ohc=CAEU72aunvsQ7kNvgFXGO-k&_nc_gid=8987e149b78a4fa3896f3309fa63631b&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzA4MDU1MTEzNDEyMzI0MA%3D%3D.3-ccb7-5&oh=00_AYDWOvt3UjOtfh_OeLTR4GQcSjBJhHwDR_5oV70YaqElyQ&oe=67BEE54A&_nc_sid=7a9f4b",
-      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/480665615_506098985870712_2883567867244496758_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2AF_0ngbUjHwhYnQgyrqyJW5ZB6Kh0VE2mnTo7osEueJVpaEtVziY9fNy24xCq8sAVM&_nc_ohc=IOjR21LF-N4Q7kNvgEIhe1g&_nc_gid=8987e149b78a4fa3896f3309fa63631b&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzA4MDU0OTY5OTY4MzMzMg%3D%3D.3-ccb7-5&oh=00_AYASPAIYxYcSv_G54AWDVOkyK2ZvJI1ez1KinhIELVQcUw&oe=67BEDFE7&_nc_sid=7a9f4b"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(2).png"
     ]
   },
   "Kazyon1": {
