@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de 25 Février 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(1).png",
+      "link": "kazyon"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "A partir de 24 Février 2025",
       "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/480787971_639250788704137_7655902511776584870_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2AGF3NObNNTaJSeJAfHwDXAyU0I_5K3MKH6D4fm1Ns5n76tOw_2zFIVknd8NiflurPE&_nc_ohc=L3EQSnIlrmoQ7kNvgG0yvmC&_nc_gid=61e69ea9eab34086b97b18bf549930ca&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3NDM4MDYxODYzMzkwOTk5Mg%3D%3D.3-ccb7-5&oh=00_AYCfIDod6aRG4ya3ixfFuaBUaq5WBlMR6Y44iH2vhbuBvQ&oe=67C17DA4&_nc_sid=7a9f4b",
       "link": "aswak1"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de 24 Février 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(1).png",
-      "link": "kazyon"
     },
     "new3": {
       "title": "Supeco Market",
@@ -312,11 +312,12 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(1).png",
-    "date": "Offre de 24 Février 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(1).png",
+    "date": "Offre de 25 Février 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Lundi%20(2).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardi%20(3).png"
     ]
   },
   "Kazyon1": {
