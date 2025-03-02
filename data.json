@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de  04 Mars 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%204%20mars%202025%202-min.jpg",
+      "link": "bim3"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "A partir de 03 Mars 2025",
       "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/481265109_642959184999964_2191001775660124992_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AEXRD2HulD_66cruts2pTPMeHjmIwKrBM3OipDoYhzg2gxRYWRXOyvOHfliQ3Mefic&_nc_ohc=obCEcPo6t9EQ7kNvgGUSAsH&_nc_gid=471f218c2ab54a9597c7b9fe73018a93&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3NzkzMTE1MjA0ODEwNTEwNg%3D%3D.3-ccb7-5&oh=00_AYBK1vnHAzXw19qWijqa7JYdzMiVzYZ0yBXD3MXIJRZz6Q&oe=67CA9820&_nc_sid=7a9f4b",
       "link": "aswak1"
-    },
-    "new2": {
-      "title": "Bim Market",
-      "date": "Offre Vendredi 28 Février 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2028%20f%C3%A9vrier%202025-min.jpg",
-      "link": "bim2"
     },
     "new3": {
       "title": "Carrefour Market",
@@ -195,11 +195,12 @@
     "bim3": {
       "title": "Bim",
       "link": "bim3",
-      "date": "Vendredi 21 Février 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/catalogue%20BIM%20vendredi%2021%20f%C3%A9vrier%202025-1.jpg",
+      "date": "Mardi 04 Mars 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%204%20mars%202025%202-min.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/catalogue%20BIM%20vendredi%2021%20f%C3%A9vrier%202025-1.jpg",
-        "https://hmizate.ma/img/cms/catalogue%20BIM%20vendredi%2021%20f%C3%A9vrier%202025-2.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%204%20mars%202025%202-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%204%20mars%202025%201-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%204%20mars%202025-min.jpg"
       ]
     }
   },
