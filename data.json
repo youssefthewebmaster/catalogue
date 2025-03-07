@@ -1,64 +1,64 @@
 {
   "news": {
     "new1": {
+      "title": "Supeco Market",
+      "date": "Offre de 07 au 09 Mars 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supeco.png",
+      "link": "supeco1"
+    },
+    "new2": {
       "title": "Carrefour Market",
-      "date": "Offre de 070 au 12 Mars 2025",
+      "date": "Offre de 07 au 12 Mars 2025",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/480730151_1037534198407191_1623384833371053385_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AEwIlo4E_sk49dejCk03ixjUFahUNQDSngiUMS0dugV6Ap3FfREXvENXMahA3KyJD8&_nc_ohc=bYkA5k-OJd4Q7kNvgEzS6Gy&_nc_gid=2c8bd8e212d543c9815f1612fe237131&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzUyNjY3NDI2MDg1MzMwOA%3D%3D.3-ccb7-5&oh=00_AYHeylZN3mIfb-JZUicAsfQk3chYaH3-biq90jR9_yXMcg&oe=67D099FE&_nc_sid=7a9f4b",
       "link": "carrefourMarket1"
     },
-    "new2": {
+    "new3": {
       "title": "Bim Market",
       "date": "A partir de  07 Mars 2025",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/482242168_963894155876734_5884257428780397129_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTgxeDExODEuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AHreUKd1FfG8oUwUoN_anCA_juetyW1vMP3eYJAyYsC54WE0rdEpt-8ZRIadgfdEiE&_nc_ohc=HV1b0Q8YrE8Q7kNvgHGCUjO&_nc_gid=8a2d9f19af3f4a7c9d5cb11bacd6da0c&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU4MTEwNzg5MDA4MjM5NTgxMg%3D%3D.3-ccb7-5&oh=00_AYDT4jtd_5O_OPF2-4EH_YrNrLru4mRGs9khtcRnYU5svQ&oe=67CEA54C&_nc_sid=7a9f4b",
       "link": "bim1"
     },
-    "new3": {
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre de 06 au 12 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%206%20au%2012%20mars%202025-2-min.jpg",
       "link": "kazyon"
     },
-    "new4": {
+    "new5": {
       "title": "Aswak Assalam",
       "date": "A partir de 03 Mars 2025",
       "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/481265109_642959184999964_2191001775660124992_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AEXRD2HulD_66cruts2pTPMeHjmIwKrBM3OipDoYhzg2gxRYWRXOyvOHfliQ3Mefic&_nc_ohc=obCEcPo6t9EQ7kNvgGUSAsH&_nc_gid=471f218c2ab54a9597c7b9fe73018a93&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3NzkzMTE1MjA0ODEwNTEwNg%3D%3D.3-ccb7-5&oh=00_AYBK1vnHAzXw19qWijqa7JYdzMiVzYZ0yBXD3MXIJRZz6Q&oe=67CA9820&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new5": {
+    "new6": {
       "title": "Kazyon Market",
       "date": "Du 27 Février 05 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20f%C3%A9vrier%20au%205%20mars%202025%204-min.jpg",
       "link": "kazyon2"
     },
-    "new6": {
+    "new7": {
       "title": "Marjane Méga",
       "date": "Du 23 Février au 09 Mars 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4118-flyer-3347/paginas/med3/00001.webp",
       "link": "marjane"
     },
-    "new7": {
+    "new8": {
       "title": "Marjane Market",
       "date": "Du 21 Février au 9 Mars 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00001.webp",
       "link": "marjaneMarket1"
     },
-    "new8": {
+    "new9": {
       "title": "Atacadão Market",
       "date": "Du 21 Février au 12 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025-min.jpg",
       "link": "atacadao"
     },
-    "new9": {
+    "new10": {
       "title": "Carrefour Méga",
       "date": "Du 20 Février au 12 Mars 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00001.webp",
       "link": "carrefour1"
-    },
-    "new10": {
-      "title": "Supeco Market",
-      "date": "Du 20 Février au 12 Mars 2025",
-      "thumbnail": "https://online.fliphtml5.com/hxkby/bath/files/large/a2c36b775cbf1aae32af00be3a782447.webp?1739885216&1739885216",
-      "link": "supeco"
     }
   },
   "marjans": {
@@ -455,10 +455,10 @@
   "Supeco1": {
     "link": "supeco1",
     "title": "Supeco",
-    "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t51.29350-15/481610440_539898488514849_581569958441680478_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MC5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2AFkjAfSA6o8LmtWmG5I9lubIth7bTafXb17ALLg5P8NT0ibYN9rbngNZphEuLKmXeg&_nc_ohc=rdQXrtxuXrYQ7kNvgHuIdTn&_nc_gid=fc2d9d4aed65472380a1e9116a936a9d&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzU3NTAxOTEwMjM3ODkxMjA3NDExNDQyNTEzNDM4NjE4MDc%3D.3-ccb7-5&oh=00_AYD7kLpqAl3ffQp9NnR55R_68WSc159AbOQ_J9xaiIUVpg&oe=67C2D694&_nc_sid=7a9f4b",
-    "date": "Offre de 25 Février 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supeco.png",
+    "date": "Offre de 07 au 09 Mars 2025",
     "images": [
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t51.29350-15/481610440_539898488514849_581569958441680478_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MC5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2AFkjAfSA6o8LmtWmG5I9lubIth7bTafXb17ALLg5P8NT0ibYN9rbngNZphEuLKmXeg&_nc_ohc=rdQXrtxuXrYQ7kNvgHuIdTn&_nc_gid=fc2d9d4aed65472380a1e9116a936a9d&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzU3NTAxOTEwMjM3ODkxMjA3NDExNDQyNTEzNDM4NjE4MDc%3D.3-ccb7-5&oh=00_AYD7kLpqAl3ffQp9NnR55R_68WSc159AbOQ_J9xaiIUVpg&oe=67C2D694&_nc_sid=7a9f4b"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supeco.png"
     ]
   },
   "Kitea": {
