@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de 11 Mars 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025%202-min.jpg",
+      "link": "bim2"
+    },
+    "new2": {
       "title": "Kazyon Market",
       "date": "Offre de Lundi 10 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(1).png",
       "link": "kazyon2"
     },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de 08 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswakassalam%20(1).png",
       "link": "aswak1"
     },
-    "new3": {
+    "new4": {
       "title": "Supeco Market",
       "date": "Offre de 07 au 09 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supeco.png",
       "link": "supeco1"
     },
-    "new4": {
+    "new5": {
       "title": "Carrefour Market",
       "date": "Offre de 07 au 12 Mars 2025",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/480730151_1037534198407191_1623384833371053385_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AEwIlo4E_sk49dejCk03ixjUFahUNQDSngiUMS0dugV6Ap3FfREXvENXMahA3KyJD8&_nc_ohc=bYkA5k-OJd4Q7kNvgEzS6Gy&_nc_gid=2c8bd8e212d543c9815f1612fe237131&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzUyNjY3NDI2MDg1MzMwOA%3D%3D.3-ccb7-5&oh=00_AYHeylZN3mIfb-JZUicAsfQk3chYaH3-biq90jR9_yXMcg&oe=67D099FE&_nc_sid=7a9f4b",
       "link": "carrefourMarket1"
-    },
-    "new5": {
-      "title": "Bim Market",
-      "date": "A partir de  07 Mars 2025",
-      "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/482242168_963894155876734_5884257428780397129_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTgxeDExODEuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AHreUKd1FfG8oUwUoN_anCA_juetyW1vMP3eYJAyYsC54WE0rdEpt-8ZRIadgfdEiE&_nc_ohc=HV1b0Q8YrE8Q7kNvgHGCUjO&_nc_gid=8a2d9f19af3f4a7c9d5cb11bacd6da0c&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU4MTEwNzg5MDA4MjM5NTgxMg%3D%3D.3-ccb7-5&oh=00_AYDT4jtd_5O_OPF2-4EH_YrNrLru4mRGs9khtcRnYU5svQ&oe=67CEA54C&_nc_sid=7a9f4b",
-      "link": "bim1"
     },
     "new6": {
       "title": "Kazyon Market",
@@ -152,13 +152,12 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "Offre Vendredi 28 Février 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2028%20f%C3%A9vrier%202025-min.jpg",
+      "date": "A partir de 11 Mars 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025%202-min.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2028%20f%C3%A9vrier%202025-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2028%20f%C3%A9vrier%202025%203-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2028%20f%C3%A9vrier%202025%201-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2028%20f%C3%A9vrier%202025%202-min.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025%202-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025%201-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025-min.jpg"
       ]
     },
     "bim3": {
