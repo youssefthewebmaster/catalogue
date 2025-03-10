@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Lundi 10 Mars 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(1).png",
+      "link": "kazyon2"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "A partir de 08 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswakassalam%20(1).png",
       "link": "aswak1"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre du 08 au 09 Mars 2025",
-      "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/482067488_516718488142095_8036944569229434115_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AHV9WgKM43c_613QCj2_rTYxrdOC8Gz8nevCunPGSYbaNb2SA0GAOry1zo_-C_JNkQ&_nc_ohc=Tb-l29Lh80oQ7kNvgHhHaYo&_nc_gid=446a08b48aab4939b48f66bd045015e8&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU4MzI1Nzc3MTE5MzM1NTY4MQ%3D%3D.3-ccb7-5&oh=00_AYHkhAZsI0syUXstd-tLQovzGubVPBylhfU8wuqaoCXD_g&oe=67D1DEFD&_nc_sid=7a9f4b",
-      "link": "kazyon2"
     },
     "new3": {
       "title": "Supeco Market",
@@ -329,13 +329,12 @@
   "Kazyon2": {
     "title": "Kazyon",
     "link": "kazyon2",
-    "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/482067488_516718488142095_8036944569229434115_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AHV9WgKM43c_613QCj2_rTYxrdOC8Gz8nevCunPGSYbaNb2SA0GAOry1zo_-C_JNkQ&_nc_ohc=Tb-l29Lh80oQ7kNvgHhHaYo&_nc_gid=446a08b48aab4939b48f66bd045015e8&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU4MzI1Nzc3MTE5MzM1NTY4MQ%3D%3D.3-ccb7-5&oh=00_AYHkhAZsI0syUXstd-tLQovzGubVPBylhfU8wuqaoCXD_g&oe=67D1DEFD&_nc_sid=7a9f4b",
-    "date": "Offre du 08 au 09 Mars 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(1).png",
+    "date": "Offre de Lundi 10 Mars 2025",
     "images": [
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/482067488_516718488142095_8036944569229434115_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AHV9WgKM43c_613QCj2_rTYxrdOC8Gz8nevCunPGSYbaNb2SA0GAOry1zo_-C_JNkQ&_nc_ohc=Tb-l29Lh80oQ7kNvgHhHaYo&_nc_gid=446a08b48aab4939b48f66bd045015e8&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU4MzI1Nzc3MTE5MzM1NTY4MQ%3D%3D.3-ccb7-5&oh=00_AYHkhAZsI0syUXstd-tLQovzGubVPBylhfU8wuqaoCXD_g&oe=67D1DEFD&_nc_sid=7a9f4b",
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/481945914_516718441475433_4236994635070873612_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2AHV9WgKM43c_613QCj2_rTYxrdOC8Gz8nevCunPGSYbaNb2SA0GAOry1zo_-C_JNkQ&_nc_ohc=JefWR0Xc54oQ7kNvgF77E2y&_nc_gid=446a08b48aab4939b48f66bd045015e8&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU4MzI1Nzc3MjA0ODg2OTA5NA%3D%3D.3-ccb7-5&oh=00_AYF8EaY4Vd77VPJOdDeNF2IsTbGQ3OEupMNk9IuDbTz6pw&oe=67D1FBAA&_nc_sid=7a9f4b",
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/482258683_516718501475427_5260394431119340014_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AHV9WgKM43c_613QCj2_rTYxrdOC8Gz8nevCunPGSYbaNb2SA0GAOry1zo_-C_JNkQ&_nc_ohc=XU_CH7FuX7sQ7kNvgFx5fuz&_nc_gid=446a08b48aab4939b48f66bd045015e8&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU4MzI1Nzc3MjI5MjA2MjE3MA%3D%3D.3-ccb7-5&oh=00_AYHV8l1VSEAfqk0oYxMV8lwUZCoY6gPIirj8EN_lESh9nw&oe=67D1F070&_nc_sid=7a9f4b",
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/481767816_516718381475439_2340010203783738607_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4yMDQ4eDIwNDguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AHV9WgKM43c_613QCj2_rTYxrdOC8Gz8nevCunPGSYbaNb2SA0GAOry1zo_-C_JNkQ&_nc_ohc=nQUesRGBAzoQ7kNvgEnyy6T&_nc_gid=446a08b48aab4939b48f66bd045015e8&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU4MzI1Nzc3MjE5OTkwOTY5MQ%3D%3D.3-ccb7-5&oh=00_AYGRrzosNXUPBQ8890R36-wOtv0u_GFHFDe9kFX5kuwEAQ&oe=67D1E863&_nc_sid=7a9f4b"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(3).png"
     ]
   },
   "Atacadão": {
@@ -468,7 +467,3 @@
     ]
   }
 }
-
-
-
-
