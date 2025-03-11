@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de 12 Mars 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazM%20(1).png",
+      "link": "kazyon2"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "A partir de 11 Mars 2025",
       "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/482243680_650627997566416_444269772537514658_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AHWcY9zcHOCpGKKqVsqvFfxRcsJkwfvV-kKeFCGdFeIljKzKsYTd8hqu3rJl4klrLQ&_nc_ohc=DMwZArsqpJYQ7kNvgGH0WxS&_nc_gid=6505f0251aa04d2c967e128ad05e19f2&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU4NTQ0NzM2NzE3MzA1Nzg2NA%3D%3D.3-ccb7-5&oh=00_AYEY410siSGkvPO58PzekV9w4XSyhWHSkXkAU4RHqfDJQg&oe=67D5D95B&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new2": {
+    "new3": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 11 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoMardi.png",
       "link": "supeco1"
-    },
-    "new3": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 11 Mars 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardiKaz%20(1).png",
-      "link": "kazyon2"
     },
     "new4": {
       "title": "Bim Market",
@@ -328,11 +328,11 @@
   "Kazyon2": {
     "title": "Kazyon",
     "link": "kazyon2",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardiKaz%20(1).png",
-    "date": "Offre de Mardi 11 Mars 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazM%20(1).png",
+    "date": "Offre de Mercredi 12 Mars 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardiKaz%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardiKaz%20(2).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazM%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazM%20(2).png"
     ]
   },
   "Atacadão": {
