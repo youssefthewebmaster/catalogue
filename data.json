@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mardi 11 Mars 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardiKaz%20(1).png",
+      "link": "kazyon2"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "A partir de 11 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025%202-min.jpg",
       "link": "bim2"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Lundi 10 Mars 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(1).png",
-      "link": "kazyon2"
     },
     "new3": {
       "title": "Aswak Assalam",
@@ -328,12 +328,11 @@
   "Kazyon2": {
     "title": "Kazyon",
     "link": "kazyon2",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(1).png",
-    "date": "Offre de Lundi 10 Mars 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardiKaz%20(1).png",
+    "date": "Offre de Mardi 11 Mars 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(3).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardiKaz%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardiKaz%20(2).png"
     ]
   },
   "Atacadão": {
