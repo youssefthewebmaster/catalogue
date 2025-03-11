@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Supeco Market",
+      "date": "Offre de Mardi 11 Mars 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoMardi.png",
+      "link": "supeco1"
+    },
+    "new2": {
       "title": "Kazyon Market",
       "date": "Offre de Mardi 11 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/mardiKaz%20(1).png",
       "link": "kazyon2"
     },
-    "new2": {
+    "new3": {
       "title": "Bim Market",
       "date": "A partir de 11 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025%202-min.jpg",
       "link": "bim2"
     },
-    "new3": {
+    "new4": {
       "title": "Aswak Assalam",
       "date": "A partir de 08 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswakassalam%20(1).png",
       "link": "aswak1"
-    },
-    "new4": {
-      "title": "Supeco Market",
-      "date": "Offre de 07 au 09 Mars 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supeco.png",
-      "link": "supeco1"
     },
     "new5": {
       "title": "Carrefour Market",
@@ -434,10 +434,10 @@
   "Supeco1": {
     "link": "supeco1",
     "title": "Supeco",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supeco.png",
-    "date": "Offre de 07 au 09 Mars 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoMardi.png",
+    "date": "Offre de Mardi 11 Mars 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supeco.png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoMardi.png"
     ]
   },
   "Kitea": {
