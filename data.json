@@ -1,64 +1,64 @@
 {
   "news": {
     "new1": {
+      "title": "Carrefour Méga",
+      "date": "Offre de 13 au 26 Mars 2025",
+      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00001.webp",
+      "link": "carrefour1"
+    },
+    "new2": {
       "title": "Kazyon Market",
       "date": "Offre de 13 au 19 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20mars%202025%204-min.jpg",
       "link": "kazyon1"
     },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de 11 Mars 2025",
       "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/482243680_650627997566416_444269772537514658_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AHWcY9zcHOCpGKKqVsqvFfxRcsJkwfvV-kKeFCGdFeIljKzKsYTd8hqu3rJl4klrLQ&_nc_ohc=DMwZArsqpJYQ7kNvgGH0WxS&_nc_gid=6505f0251aa04d2c967e128ad05e19f2&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU4NTQ0NzM2NzE3MzA1Nzg2NA%3D%3D.3-ccb7-5&oh=00_AYEY410siSGkvPO58PzekV9w4XSyhWHSkXkAU4RHqfDJQg&oe=67D5D95B&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new3": {
+    "new4": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 11 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoMardi.png",
       "link": "supeco1"
     },
-    "new4": {
+    "new5": {
       "title": "Bim Market",
       "date": "A partir de 11 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025%202-min.jpg",
       "link": "bim2"
     },
-    "new5": {
+    "new6": {
       "title": "Carrefour Market",
       "date": "Offre de 07 au 12 Mars 2025",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/480730151_1037534198407191_1623384833371053385_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AEwIlo4E_sk49dejCk03ixjUFahUNQDSngiUMS0dugV6Ap3FfREXvENXMahA3KyJD8&_nc_ohc=bYkA5k-OJd4Q7kNvgEzS6Gy&_nc_gid=2c8bd8e212d543c9815f1612fe237131&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzUyNjY3NDI2MDg1MzMwOA%3D%3D.3-ccb7-5&oh=00_AYHeylZN3mIfb-JZUicAsfQk3chYaH3-biq90jR9_yXMcg&oe=67D099FE&_nc_sid=7a9f4b",
       "link": "carrefourMarket1"
     },
-    "new6": {
+    "new7": {
       "title": "Kazyon Market",
       "date": "Offre de 06 au 12 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%206%20au%2012%20mars%202025-2-min.jpg",
       "link": "kazyon"
     },
-    "new7": {
+    "new8": {
       "title": "Marjane Méga",
       "date": "Du 23 Février au 09 Mars 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4118-flyer-3347/paginas/med3/00001.webp",
       "link": "marjane"
     },
-    "new8": {
+    "new9": {
       "title": "Marjane Market",
       "date": "Du 21 Février au 9 Mars 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00001.webp",
       "link": "marjaneMarket1"
     },
-    "new9": {
+    "new10": {
       "title": "Atacadão Market",
       "date": "Du 21 Février au 12 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20f%C3%A9vrier%20au%2012%20mars%202025-min.jpg",
       "link": "atacadao"
-    },
-    "new10": {
-      "title": "Carrefour Méga",
-      "date": "Du 20 Février au 12 Mars 2025",
-      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00001.webp",
-      "link": "carrefour1"
     }
   },
   "marjans": {
@@ -176,64 +176,38 @@
     "carrefour1": {
       "title": "Carrefour",
       "link": "carrefour1",
-      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00001.webp",
-      "date": "Du 20 Février au 12 Mars 2025",
+      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00001.webp",
+      "date": "Offre de 13 au 26 Mars 2025",
       "images": [
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00001.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00003.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00005.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00006.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00008.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00010.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00011.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00012.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00013.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00014.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00016.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00017.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00019.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00020.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00021.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00022.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00023.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00024.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00025.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00027.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00028.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00029.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00030.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00031.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00032.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00033.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00034.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00035.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00036.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00037.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00038.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00039.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00040.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00041.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00042.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00043.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00044.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00045.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00046.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00048.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00049.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00050.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00051.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00052.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00053.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00054.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00055.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4081-flyer-3312/paginas/med3/00056.webp"
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00001.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00003.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00004.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00005.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00006.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00007.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00008.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00010.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00011.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00012.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00013.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00014.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00015.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00016.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00017.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00018.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00019.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00020.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00021.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00022.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00023.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00024.webp"
       ]
     },
     "carrefourMarket1": {
       "title": "Carrefour Market",
       "link": "carrefourMarket1",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/480730151_1037534198407191_1623384833371053385_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AEwIlo4E_sk49dejCk03ixjUFahUNQDSngiUMS0dugV6Ap3FfREXvENXMahA3KyJD8&_nc_ohc=bYkA5k-OJd4Q7kNvgEzS6Gy&_nc_gid=2c8bd8e212d543c9815f1612fe237131&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzUyNjY3NDI2MDg1MzMwOA%3D%3D.3-ccb7-5&oh=00_AYHeylZN3mIfb-JZUicAsfQk3chYaH3-biq90jR9_yXMcg&oe=67D099FE&_nc_sid=7a9f4b",
-      "date": "Offre de 070 au 12 Mars 2025",
+      "date": "Offre de 07 au 12 Mars 2025",
       "images": [
         "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/480730151_1037534198407191_1623384833371053385_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AEwIlo4E_sk49dejCk03ixjUFahUNQDSngiUMS0dugV6Ap3FfREXvENXMahA3KyJD8&_nc_ohc=bYkA5k-OJd4Q7kNvgEzS6Gy&_nc_gid=2c8bd8e212d543c9815f1612fe237131&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzUyNjY3NDI2MDg1MzMwOA%3D%3D.3-ccb7-5&oh=00_AYHeylZN3mIfb-JZUicAsfQk3chYaH3-biq90jR9_yXMcg&oe=67D099FE&_nc_sid=7a9f4b",
         "https://instagram.fcmn3-2.fna.fbcdn.net/v/t39.30808-6/480795683_1037534301740514_1739915335362354279_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn3-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2AEwIlo4E_sk49dejCk03ixjUFahUNQDSngiUMS0dugV6Ap3FfREXvENXMahA3KyJD8&_nc_ohc=vEHQGtcEFg0Q7kNvgGiJXfj&_nc_gid=2c8bd8e212d543c9815f1612fe237131&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU3MzUyNjY3MzgwNzg1NDY0Mw%3D%3D.3-ccb7-5&oh=00_AYEaTsp5Gvv3Lq7rEexsfuavA7Aw0gkvpLXGxaht-WEU8g&oe=67D07687&_nc_sid=7a9f4b",
