@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Supeco Market",
+      "date": "Offre de 13 au 26 Mars 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2013%20au%2026%20mars%202025%203-min.jpg",
+      "link": "supeco"
+    },
+    "new2": {
       "title": "Atacadão Market",
       "date": "Offre de 13 au 26 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/480942640_1032127815617707_715110102876888078_n-min.jpg",
       "link": "atacadao"
     },
-    "new2": {
+    "new3": {
       "title": "Carrefour Méga",
       "date": "Offre de 13 au 26 Mars 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4337-flyer-3549/paginas/med3/00001.webp",
       "link": "carrefour1"
     },
-    "new3": {
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre de 13 au 19 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20mars%202025%204-min.jpg",
       "link": "kazyon1"
     },
-    "new4": {
+    "new5": {
       "title": "Aswak Assalam",
       "date": "A partir de 11 Mars 2025",
       "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/482243680_650627997566416_444269772537514658_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AHWcY9zcHOCpGKKqVsqvFfxRcsJkwfvV-kKeFCGdFeIljKzKsYTd8hqu3rJl4klrLQ&_nc_ohc=DMwZArsqpJYQ7kNvgGH0WxS&_nc_gid=6505f0251aa04d2c967e128ad05e19f2&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU4NTQ0NzM2NzE3MzA1Nzg2NA%3D%3D.3-ccb7-5&oh=00_AYEY410siSGkvPO58PzekV9w4XSyhWHSkXkAU4RHqfDJQg&oe=67D5D95B&_nc_sid=7a9f4b",
       "link": "aswak1"
-    },
-    "new5": {
-      "title": "Supeco Market",
-      "date": "Offre de Mardi 11 Mars 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoMardi.png",
-      "link": "supeco1"
     },
     "new6": {
       "title": "Bim Market",
@@ -380,13 +380,12 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco",
-    "thumbnail": "https://online.fliphtml5.com/hxkby/bath/files/large/a2c36b775cbf1aae32af00be3a782447.webp?1739885216&1739885216",
-    "date": "Du 20 Février au 12 Mars 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2013%20au%2026%20mars%202025%203-min.jpg",
+    "date": "Offre de 13 au 26 Mars 2025",
     "images": [
-      "https://online.fliphtml5.com/hxkby/bath/files/large/a2c36b775cbf1aae32af00be3a782447.webp?1739885216&1739885216",
-      "https://online.fliphtml5.com/hxkby/bath/files/large/8dc9fad645a7cc3d189b5db1307a6990.webp?1739885216&1739885216",
-      "https://online.fliphtml5.com/hxkby/bath/files/large/a6c1cf4009bf8fdf4dce95472186eb9e.webp?1739885216&1739885216",
-      "https://online.fliphtml5.com/hxkby/bath/files/large/03fe683bad05fd8d1d12c988f3bd0eec.webp?1739885216&1739885216"
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2013%20au%2026%20mars%202025%203-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2013%20au%2026%20mars%202025%205-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2013%20au%2026%20mars%202025%204-min.jpg"
     ]
   },
   "Supeco1": {
