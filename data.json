@@ -2,8 +2,8 @@
   "news": {
     "new1": {
       "title": "Kazyon Market",
-      "date": "Offre de Lundi 17 Mars 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLun%20(1).png",
+      "date": "Offre de Mardi 18 Mars 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMar%20(1).png",
       "link": "kazyon2"
     },
     "new2": {
@@ -290,11 +290,11 @@
   "Kazyon2": {
     "title": "Kazyon",
     "link": "kazyon2",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLun%20(1).png",
-    "date": "Offre de Lundi 17 Mars 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMar%20(1).png",
+    "date": "Offre de Mardi 18 Mars 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLun%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLun%20(2).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMar%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMar%20(2).png"
     ]
   },
   "Atacadão": {
