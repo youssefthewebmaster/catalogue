@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mardi 19 Mars 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMer%20(1).png",
+      "link": "kazyon2"
+    },
+    "new2": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 18 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecMar.png",
       "link": "supeco"
     },
-    "new2": {
+    "new3": {
       "title": "Bim Market",
       "date": "Offre de Mardi 18 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2018%20mars%202025%201-min.jpg",
       "link": "bim3"
-    },
-    "new3": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 18 Mars 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMar%20(1).png",
-      "link": "kazyon2"
     },
     "new4": {
       "title": "Carrefour Market",
@@ -295,11 +295,13 @@
   "Kazyon2": {
     "title": "Kazyon",
     "link": "kazyon2",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMar%20(1).png",
-    "date": "Offre de Mardi 18 Mars 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMer%20(1).png",
+    "date": "Offre de Mardi 19 Mars 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMar%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMar%20(2).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMer%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMer%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMer%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMer%20(4).png"
     ]
   },
   "Atacadão": {
