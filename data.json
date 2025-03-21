@@ -8,8 +8,8 @@
     },
     "new2": {
       "title": "Supeco Market",
-      "date": "Offre du 21 au 23 Mars 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoWeek.png",
+      "date": "Offre du 22 au 23 Mars 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoWeekNew%20(1).png",
       "link": "supeco1"
     },
     "new3": {
@@ -395,11 +395,13 @@
   "Supeco1": {
     "link": "supeco1",
     "title": "Supeco",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoWeek.png",
-    "date": "Offre du 21 au 23 Mars 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoWeekNew%20(1).png",
+    "date": "Offre du 22 au 23 Mars 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoWeek.png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoWeek1.png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoWeekNew%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoWeekNew%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoWeekNew%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoWeekNew%20(4).png"
     ]
   },
   "Kitea": {
@@ -427,6 +429,3 @@
     ]
   }
 }
-
-
-
