@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "Offre de Mardi 25 Mars 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-13-13-SPOT%20BIM%2021-25%20MARS%2020254.jpg",
+      "link": "bim2"
+    },
+    "new2": {
       "title": "Kazyon Market",
       "date": "Offre de Mardi 25 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
       "link": "kazyon2"
     },
-    "new2": {
+    "new3": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 25 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoMardi.png",
       "link": "supeco1"
     },
-    "new3": {
+    "new4": {
       "title": "Carrefour Méga",
       "date": "Offre de 24 au 26 Mars 2025",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/485358505_1056849966482692_8135557864719515807_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEkUyc0PQg5baODmrZBvuH578rW9pFyqGQ2pdIVrqHtfVwiHvElfpG5L7xRQF-9ijM&_nc_ohc=1booFTbLwj0Q7kNvgEpOCpi&_nc_gid=V4pHns_k_eX18FzH5HjHzQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU5NDcwMzExNzcxMjM5NDc1Mw%3D%3D.3-ccb7-5&oh=00_AYFlLghA5ByfB9juUX-EUMlGoyUWy2nlmu8-oKknzi_BXQ&oe=67E70D80&_nc_sid=7a9f4b",
       "link": "carrefour2"
-    },
-    "new4": {
-      "title": "Bim Market",
-      "date": "A partir de 21 Mars 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2021%20Mars%202025%201-min.jpg",
-      "link": "bim1"
     },
     "new5": {
       "title": "Kazyon Market",
@@ -152,12 +152,11 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "A partir de 11 Mars 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025%202-min.jpg",
+      "date": "Offre de Mardi 25 Mars 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-13-13-SPOT%20BIM%2021-25%20MARS%2020254.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025%202-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025%201-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2011%20mars%202025-min.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-13-13-SPOT%20BIM%2021-25%20MARS%2020254.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-14-23-SPOT%20BIM%2021-25%20MARS%2020255.jpg"
       ]
     },
     "bim3": {
