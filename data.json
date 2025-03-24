@@ -1,40 +1,40 @@
 {
   "news": {
     "new1": {
+      "title": "Aswak Assalam",
+      "date": "A partir de 25 Mars 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(1).png",
+      "link": "aswak1"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "Offre de Mardi 25 Mars 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-13-13-SPOT%20BIM%2021-25%20MARS%2020254.jpg",
       "link": "bim2"
     },
-    "new2": {
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre de Mardi 25 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
       "link": "kazyon2"
     },
-    "new3": {
+    "new4": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 25 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoMardi.png",
       "link": "supeco1"
     },
-    "new4": {
+    "new5": {
       "title": "Carrefour Méga",
       "date": "Offre de 24 au 26 Mars 2025",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/485358505_1056849966482692_8135557864719515807_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEkUyc0PQg5baODmrZBvuH578rW9pFyqGQ2pdIVrqHtfVwiHvElfpG5L7xRQF-9ijM&_nc_ohc=1booFTbLwj0Q7kNvgEpOCpi&_nc_gid=V4pHns_k_eX18FzH5HjHzQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU5NDcwMzExNzcxMjM5NDc1Mw%3D%3D.3-ccb7-5&oh=00_AYFlLghA5ByfB9juUX-EUMlGoyUWy2nlmu8-oKknzi_BXQ&oe=67E70D80&_nc_sid=7a9f4b",
       "link": "carrefour2"
     },
-    "new5": {
+    "new6": {
       "title": "Kazyon Market",
       "date": "Offre de 20 au 26 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%204-min_1.jpg",
       "link": "Kazyon"
-    },
-    "new6": {
-      "title": "Aswak Assalam",
-      "date": "A partir de 19 Mars 2025",
-      "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/484714364_655975887031627_3600292480555536424_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QFSbrcXuCggW-kAS-9t3uLHsEgWAiBA3cfGgbL6XUQP4I59LiRB6BjktsPNsxgNBAQ&_nc_ohc=S3z6I0VvQVEQ7kNvgGqbmwd&_nc_gid=Guies-k2WgSWp-B3bycEJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU5MDU3NzMxMzA4NzA3MzUyOQ%3D%3D.3-ccb7-5&oh=00_AYFiT2x2p7kWvIR-M0UP8tftSBjIVWuqLTVotsabYeUrAA&oe=67DFCC67&_nc_sid=7a9f4b",
-      "link": "aswak1"
     },
     "new7": {
       "title": "Carrefour Market",
@@ -385,13 +385,23 @@
   "AswakAssalam1": {
     "title": "Aswak Assalam",
     "link": "aswak1",
-    "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/484714364_655975887031627_3600292480555536424_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QFSbrcXuCggW-kAS-9t3uLHsEgWAiBA3cfGgbL6XUQP4I59LiRB6BjktsPNsxgNBAQ&_nc_ohc=S3z6I0VvQVEQ7kNvgGqbmwd&_nc_gid=Guies-k2WgSWp-B3bycEJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU5MDU3NzMxMzA4NzA3MzUyOQ%3D%3D.3-ccb7-5&oh=00_AYFiT2x2p7kWvIR-M0UP8tftSBjIVWuqLTVotsabYeUrAA&oe=67DFCC67&_nc_sid=7a9f4b",
-    "date": "A partir de Mercredi 19 Mars 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(1).png",
+    "date": "A partir de 25 Mars 2025",
     "images": [
-      "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/484714364_655975887031627_3600292480555536424_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QFSbrcXuCggW-kAS-9t3uLHsEgWAiBA3cfGgbL6XUQP4I59LiRB6BjktsPNsxgNBAQ&_nc_ohc=S3z6I0VvQVEQ7kNvgGqbmwd&_nc_gid=Guies-k2WgSWp-B3bycEJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU5MDU3NzMxMzA4NzA3MzUyOQ%3D%3D.3-ccb7-5&oh=00_AYFiT2x2p7kWvIR-M0UP8tftSBjIVWuqLTVotsabYeUrAA&oe=67DFCC67&_nc_sid=7a9f4b",
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/484937249_655975877031628_8207164535450416606_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QFSbrcXuCggW-kAS-9t3uLHsEgWAiBA3cfGgbL6XUQP4I59LiRB6BjktsPNsxgNBAQ&_nc_ohc=o-BXdmtJ6aUQ7kNvgF9kDo1&_nc_gid=Guies-k2WgSWp-B3bycEJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU5MDU3NzMxMzk4NDU4OTIwMg%3D%3D.3-ccb7-5&oh=00_AYF9RH2dXp_yAA-XQsrNlng-oPtUIu6Yr5vNhg_AXyyP_g&oe=67DFC04B&_nc_sid=7a9f4b",
-      "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/484795345_655975867031629_4054417827554812265_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFSbrcXuCggW-kAS-9t3uLHsEgWAiBA3cfGgbL6XUQP4I59LiRB6BjktsPNsxgNBAQ&_nc_ohc=osGj6-rpjI0Q7kNvgEK_aJO&_nc_gid=Guies-k2WgSWp-B3bycEJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU5MDU3NzMxMjcyNjQxOTE2Mw%3D%3D.3-ccb7-5&oh=00_AYFaMLIdm06xNPtJrGZ0fimhEodZqeXJqs9A3xonELf2oA&oe=67DF9F2C&_nc_sid=7a9f4b",
-      "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/485009823_655975880364961_2746337151719961003_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFSbrcXuCggW-kAS-9t3uLHsEgWAiBA3cfGgbL6XUQP4I59LiRB6BjktsPNsxgNBAQ&_nc_ohc=CKQniShGx0IQ7kNvgGYNkAP&_nc_gid=Guies-k2WgSWp-B3bycEJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU5MDU3NzMxMjk0NDQ5ODAxOA%3D%3D.3-ccb7-5&oh=00_AYHL9ujuSAbjVEdJxMgNZ-7OCEbSTjwf6PF39cTF-5HgYA&oe=67DFD19E&_nc_sid=7a9f4b"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(4).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(5).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(6).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(7).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(8).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(9).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(10).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(11).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(12).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(13).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(14).png"
     ]
   },
   "Supeco": {
