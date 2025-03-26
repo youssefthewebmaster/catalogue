@@ -1,64 +1,64 @@
 {
   "news": {
     "new1": {
+      "title": "Marjane Market",
+      "date": "Du 25 Mars au 8 Avril 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0001-min_1.jpg",
+      "link": "marjaneMarket"
+    },
+    "new2": {
       "title": "Kazyon Market",
       "date": "Offre de Mercredi 26 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazMercredi%20(1).png",
       "link": "kazyon2"
     },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de 25 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(1).png",
       "link": "aswak1"
     },
-    "new3": {
+    "new4": {
       "title": "Bim Market",
       "date": "Offre de Mardi 25 Mars 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-13-13-SPOT%20BIM%2021-25%20MARS%2020254.jpg",
       "link": "bim2"
     },
-    "new4": {
+    "new5": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 25 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoMardi.png",
       "link": "supeco1"
     },
-    "new5": {
+    "new6": {
       "title": "Carrefour Méga",
       "date": "Offre de 24 au 26 Mars 2025",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/485358505_1056849966482692_8135557864719515807_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEkUyc0PQg5baODmrZBvuH578rW9pFyqGQ2pdIVrqHtfVwiHvElfpG5L7xRQF-9ijM&_nc_ohc=1booFTbLwj0Q7kNvgEpOCpi&_nc_gid=V4pHns_k_eX18FzH5HjHzQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU5NDcwMzExNzcxMjM5NDc1Mw%3D%3D.3-ccb7-5&oh=00_AYFlLghA5ByfB9juUX-EUMlGoyUWy2nlmu8-oKknzi_BXQ&oe=67E70D80&_nc_sid=7a9f4b",
       "link": "carrefour2"
     },
-    "new6": {
+    "new7": {
       "title": "Kazyon Market",
       "date": "Offre de 20 au 26 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%204-min_1.jpg",
       "link": "Kazyon"
     },
-    "new7": {
+    "new8": {
       "title": "Carrefour Market",
       "date": "A partir de 16 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/carrefourMarket%20(1).png",
       "link": "carrefourMarket1"
     },
-    "new8": {
+    "new9": {
       "title": "Atacadão Market",
       "date": "Offre de 13 au 26 Mars 2025",
       "thumbnail": "https://hmizate.ma/img/cms/480942640_1032127815617707_715110102876888078_n-min.jpg",
       "link": "atacadao"
     },
-    "new9": {
+    "new10": {
       "title": "Marjane Méga",
       "date": "Du 23 Février au 09 Mars 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4118-flyer-3347/paginas/med3/00001.webp",
       "link": "marjane"
-    },
-    "new10": {
-      "title": "Marjane Market",
-      "date": "Du 21 Février au 9 Mars 2025",
-      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00001.webp",
-      "link": "marjaneMarket1"
     }
   },
   "marjans": {
@@ -116,24 +116,17 @@
     },
     "marjanMarket": {
       "title": "Marjane Market",
-      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00001.webp",
-      "date": "Du 21 Février au 9 Mars 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0001-min_1.jpg",
+      "date": "Du 25 Mars au 8 Avril 2025",
       "link": "marjaneMarket",
       "images": [
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00001.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00002.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00003.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00004.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00005.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00007.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00008.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00009.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00010.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00011.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00012.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00014.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00015.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4114-flyer-3343/paginas/med3/00016.webp"
+        "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0001-min_1.jpg",
+        "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0002-min_1.jpg",
+        "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0003-min_1.jpg",
+        "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0004-min_1.jpg",
+        "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0005-min_1.jpg",
+        "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0007-min_1.jpg",
+        "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0008-min_1.jpg"
       ]
     }
   },
