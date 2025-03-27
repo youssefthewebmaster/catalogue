@@ -7,52 +7,52 @@
       "link": "carrefour1"
     },
     "new2": {
+      "title": "Carrefour Gourmet",
+      "date": "Offre de 27 Mars au 16 Avril 2025",
+      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00001.webp",
+      "link": "carrefourGourmet"
+    },
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre de 27 Mars au 2 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%202%20avril%202025%204-min.jpg",
       "link": "Kazyon1"
     },
-    "new3": {
+    "new4": {
       "title": "Marjane Méga",
       "date": "Du 26 Mars au 8 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/D%C3%A9pliant%20Aid%20El%20fitr%20Digital%20(3)_page-0001-min.jpg",
       "link": "marjane"
     },
-    "new4": {
+    "new5": {
       "title": "Marjane Market",
       "date": "Du 26 Mars au 8 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0001-min_1.jpg",
       "link": "marjaneMarket"
     },
-    "new5": {
+    "new6": {
       "title": "Kazyon Market",
       "date": "Offre de Mercredi 26 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazMercredi%20(1).png",
       "link": "kazyon2"
     },
-    "new6": {
+    "new7": {
       "title": "Aswak Assalam",
       "date": "A partir de 25 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/aswak%20(1).png",
       "link": "aswak1"
     },
-    "new7": {
+    "new8": {
       "title": "Bim Market",
       "date": "Offre de Mardi 25 Mars 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-13-13-SPOT%20BIM%2021-25%20MARS%2020254.jpg",
       "link": "bim2"
     },
-    "new8": {
+    "new9": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 25 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoMardi.png",
       "link": "supeco1"
-    },
-    "new9": {
-      "title": "Carrefour Market",
-      "date": "A partir de 16 Mars 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/carrefourMarket%20(1).png",
-      "link": "carrefourMarket1"
     },
     "new10": {
       "title": "Atacadão Market",
@@ -240,20 +240,21 @@
     "carrefourGourmet": {
       "title": "Carrefour Gourmet",
       "link": "carrefourGourmet",
-      "thumbnail": "https://hmizate.ma/img/cms/468006581_999640772202917_2521318649397503905_n.jpg",
-      "date": "Du 21 novembre au 11 Décembre 2024",
+      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00001.webp",
+      "date": "Offre de 27 Mars au 16 Avril 2025",
       "images": [
-        "https://hmizate.ma/img/cms/468006581_999640772202917_2521318649397503905_n.jpg",
-        "https://hmizate.ma/img/cms/467673083_999640692202925_4412419489572223676_n.jpg",
-        "https://hmizate.ma/img/cms/467867881_999640598869601_2024717983044912454_n.jpg",
-        "https://hmizate.ma/img/cms/467672439_999640622202932_8749913732385605631_n.jpg",
-        "https://hmizate.ma/img/cms/467672646_999640895536238_4052449220008409566_n.jpg",
-        "https://hmizate.ma/img/cms/467651129_999640775536250_1128994868629088821_n.jpg",
-        "https://hmizate.ma/img/cms/467672176_999640515536276_7589692564810048690_n.jpg",
-        "https://hmizate.ma/img/cms/467312306_999640872202907_743317131412014759_n.jpg",
-        "https://hmizate.ma/img/cms/467470689_999640638869597_9100410474804945725_n.jpg",
-        "https://hmizate.ma/img/cms/466977706_999640568869604_9104160629344229803_n.jpg",
-        "https://hmizate.ma/img/cms/466930500_999640542202940_8203426120737412407_n.jpg"
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00001.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00002.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00003.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00004.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00005.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00006.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00007.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00008.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00009.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00010.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00011.webp",
+        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00012.webp"
       ]
     }
   },
