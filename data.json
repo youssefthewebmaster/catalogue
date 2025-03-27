@@ -1,58 +1,58 @@
 {
   "news": {
     "new1": {
+      "title": "Supeco Market",
+      "date": "Offre de 27 Mars au 09 Avril 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(1).png",
+      "link": "supeco"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "Offre de 27 Mars au 20 Avril 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00001.webp",
       "link": "aswak"
     },
-    "new2": {
+    "new3": {
       "title": "Carrefour Méga",
       "date": "Offre de 27 Mars au 16 Avril 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00001.webp",
       "link": "carrefour1"
     },
-    "new3": {
+    "new4": {
       "title": "Carrefour Gourmet",
       "date": "Offre de 27 Mars au 16 Avril 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00001.webp",
       "link": "carrefourGourmet"
     },
-    "new4": {
+    "new5": {
       "title": "Kazyon Market",
       "date": "Offre de 27 Mars au 2 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%202%20avril%202025%204-min.jpg",
       "link": "Kazyon1"
     },
-    "new5": {
+    "new6": {
       "title": "Marjane Méga",
       "date": "Du 26 Mars au 8 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/D%C3%A9pliant%20Aid%20El%20fitr%20Digital%20(3)_page-0001-min.jpg",
       "link": "marjane"
     },
-    "new6": {
+    "new7": {
       "title": "Marjane Market",
       "date": "Du 26 Mars au 8 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0001-min_1.jpg",
       "link": "marjaneMarket"
     },
-    "new7": {
+    "new8": {
       "title": "Kazyon Market",
       "date": "Offre de Mercredi 26 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazMercredi%20(1).png",
       "link": "kazyon2"
     },
-    "new8": {
+    "new9": {
       "title": "Bim Market",
       "date": "Offre de Mardi 25 Mars 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-13-13-SPOT%20BIM%2021-25%20MARS%2020254.jpg",
       "link": "bim2"
-    },
-    "new9": {
-      "title": "Supeco Market",
-      "date": "Offre de Mardi 25 Mars 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/supecoMardi.png",
-      "link": "supeco1"
     },
     "new10": {
       "title": "Atacadão Market",
@@ -414,12 +414,13 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2013%20au%2026%20mars%202025%203-min.jpg",
-    "date": "Offre de 13 au 26 Mars 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(1).png",
+    "date": "Offre de 27 Mars au 09 Avril 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2013%20au%2026%20mars%202025%203-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2013%20au%2026%20mars%202025%205-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2013%20au%2026%20mars%202025%204-min.jpg"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(4).png"
     ]
   },
   "Supeco1": {
