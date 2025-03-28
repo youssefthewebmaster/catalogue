@@ -9,7 +9,7 @@
     "new2": {
       "title": "Supeco Market",
       "date": "Offre de 27 Mars au 09 Avril 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(1).png",
+      "thumbnail": "https://hmizate.ma/img/cms/Nos%20catalogues%20%E2%80%93%20Supeco_page-0001-min_1.jpg",
       "link": "supeco"
     },
     "new3": {
@@ -408,13 +408,13 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(1).png",
+    "thumbnail": "https://hmizate.ma/img/cms/Nos%20catalogues%20%E2%80%93%20Supeco_page-0001-min_1.jpg",
     "date": "Offre de 27 Mars au 09 Avril 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(4).png"
+      "https://hmizate.ma/img/cms/Nos%20catalogues%20%E2%80%93%20Supeco_page-0001-min_1.jpg",
+      "https://hmizate.ma/img/cms/Nos%20catalogues%20%E2%80%93%20Supeco_page-0002-min_1.jpg",
+      "https://hmizate.ma/img/cms/Nos%20catalogues%20%E2%80%93%20Supeco_page-0003-min_1.jpg",
+      "https://hmizate.ma/img/cms/Nos%20catalogues%20%E2%80%93%20Supeco_page-0004-min_1.jpg"
     ]
   },
   "Supeco1": {
