@@ -1,58 +1,58 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de Vendredi 28 Mars 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2028%20mars%202025%203-min.jpg",
+      "link": "bim3"
+    },
+    "new2": {
       "title": "Supeco Market",
       "date": "Offre de 27 Mars au 09 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeGrand%20(1).png",
       "link": "supeco"
     },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "Offre de 27 Mars au 20 Avril 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00001.webp",
       "link": "aswak"
     },
-    "new3": {
+    "new4": {
       "title": "Carrefour Méga",
       "date": "Offre de 27 Mars au 16 Avril 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00001.webp",
       "link": "carrefour1"
     },
-    "new4": {
-      "title": "Carrefour Gourmet",
+    "new5": {
+      "title": "Carrefour Market",
       "date": "Offre de 27 Mars au 16 Avril 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00001.webp",
       "link": "carrefourGourmet"
     },
-    "new5": {
+    "new6": {
       "title": "Kazyon Market",
       "date": "Offre de 27 Mars au 2 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%202%20avril%202025%204-min.jpg",
       "link": "Kazyon1"
     },
-    "new6": {
+    "new7": {
       "title": "Marjane Méga",
       "date": "Du 26 Mars au 8 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/D%C3%A9pliant%20Aid%20El%20fitr%20Digital%20(3)_page-0001-min.jpg",
       "link": "marjane"
     },
-    "new7": {
+    "new8": {
       "title": "Marjane Market",
       "date": "Du 26 Mars au 8 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Dpl%20EId%20EL%20Fitr%20BD%20(3)%20(2)_page-0001-min_1.jpg",
       "link": "marjaneMarket"
     },
-    "new8": {
+    "new9": {
       "title": "Kazyon Market",
       "date": "Offre de Mercredi 26 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazMercredi%20(1).png",
       "link": "kazyon2"
-    },
-    "new9": {
-      "title": "Bim Market",
-      "date": "Offre de Mardi 25 Mars 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-13-13-SPOT%20BIM%2021-25%20MARS%2020254.jpg",
-      "link": "bim2"
     },
     "new10": {
       "title": "Atacadão Market",
@@ -153,17 +153,11 @@
     "bim3": {
       "title": "Bim",
       "link": "bim3",
-      "date": "Offre de Mardi 18 Mars 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2018%20mars%202025%201-min.jpg",
+      "date": "A partir de Vendredi 28 Mars 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2028%20mars%202025%203-min.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2018%20mars%202025%201-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2018%20mars%202025%202-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2018%20mars%202025%203-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2018%20mars%202025%204-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2018%20mars%202025%205-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2018%20mars%202025%206-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2018%20mars%202025%208-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Mardi%2018%20mars%202025%207-min.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2028%20mars%202025%203-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2028%20mars%202025-2-min.jpg"
       ]
     }
   },
