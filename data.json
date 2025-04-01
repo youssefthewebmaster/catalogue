@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de 01 Avril 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-41-21-WEBSpot%20BIM%2028%20Mars%20-%2001%20Avril%202025%20gr%201.jpg",
+      "link": "bim1"
+    },
+    "new2": {
       "title": "Kazyon Market",
-      "date": "Offre Mardi 1 Avril 2025",
+      "date": "Offre Mardi 01 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
       "link": "kazyon2"
     },
-    "new2": {
+    "new3": {
       "title": "Supeco Market",
       "date": "A partir de 30 Mars 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoSam%20(1).png",
       "link": "supeco1"
-    },
-    "new3": {
-      "title": "Bim Market",
-      "date": "A partir de Vendredi 28 Mars 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2028%20mars%202025%203-min.jpg",
-      "link": "bim3"
     },
     "new4": {
       "title": "Aswak Assalam",
@@ -132,12 +132,11 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "A partir de 21 Mars 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2021%20Mars%202025%201-min.jpg",
+      "date": "A partir de 01 Avril 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-41-21-WEBSpot%20BIM%2028%20Mars%20-%2001%20Avril%202025%20gr%201.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2021%20Mars%202025%201-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2021%20Mars%202025%202-min.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%2021%20Mars%202025%203-min.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-41-21-WEBSpot%20BIM%2028%20Mars%20-%2001%20Avril%202025%20gr%201.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-41-31-WEBSpot%20BIM%2028%20Mars%20-%2001%20Avril%202025%20gr2.jpg"
       ]
     },
     "bim2": {
