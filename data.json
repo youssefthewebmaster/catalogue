@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre Mardi 02 Avril 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "link": "kazyon2"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "A partir de 01 Avril 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-41-21-WEBSpot%20BIM%2028%20Mars%20-%2001%20Avril%202025%20gr%201.jpg",
       "link": "bim1"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre Mardi 01 Avril 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "link": "kazyon2"
     },
     "new3": {
       "title": "Supeco Market",
@@ -314,13 +314,14 @@
   "Kazyon2": {
     "title": "Kazyon",
     "link": "kazyon2",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-    "date": "Offre Mardi 1 Avril 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+    "date": "Offre Mardi 02 Avril 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(4).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(4).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(5).png"
     ]
   },
   "Atacadão": {
