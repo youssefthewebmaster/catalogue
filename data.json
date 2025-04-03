@@ -1,5 +1,11 @@
 {
   "news": {
+    "new7": {
+      "title": "Kazyon Market",
+      "date": "Offre de 03 au 09 Avril 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-min.jpg",
+      "link": "kazyon"
+    },
     "new1": {
       "title": "Supeco Market",
       "date": "A partir de 02 Avril 2025",
@@ -35,12 +41,6 @@
       "date": "Offre de 27 Mars au 16 Avril 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00001.webp",
       "link": "carrefour1"
-    },
-    "new7": {
-      "title": "Kazyon Market",
-      "date": "Offre de 27 Mars au 2 Avril 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%202%20avril%202025%204-min.jpg",
-      "link": "Kazyon1"
     },
     "new8": {
       "title": "Marjane Méga",
@@ -246,27 +246,31 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%204-min_1.jpg",
-    "date": "Offre de 20 au 26 Mars 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-min.jpg",
+    "date": "Offre de 03 au 09 Avril 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%204-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%203-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%201-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%202-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%201-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%202-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%203-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%204-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%205-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%206-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%207-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%208-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%2010-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%2011-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%2012-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%2014-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%2015-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20mars%202025%2016-min.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-1-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-21-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-20-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-19-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-18-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-17-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-16-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-14-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-15-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-13-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-12-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-10-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-11-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-8-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-9-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-7-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-6-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-5-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-4-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-3-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-2-min.jpg"
     ]
   },
   "Kazyon1": {
