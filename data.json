@@ -1,42 +1,42 @@
 {
   "news": {
-    "new7": {
+    "new1": {
       "title": "Kazyon Market",
       "date": "Offre de 03 au 09 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-min.jpg",
       "link": "kazyon"
     },
-    "new1": {
+    "new2": {
       "title": "Supeco Market",
       "date": "A partir de 02 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
       "link": "supeco1"
     },
-    "new2": {
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre Mardi 02 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
       "link": "kazyon2"
     },
-    "new3": {
+    "new4": {
       "title": "Carrefour Market",
       "date": "Offre de 27 Mars au 16 Avril 2025",
       "thumbnail": "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/4379/1/page_1_level_4_815349410.webp",
       "link": "carrefourMarket1"
     },
-    "new4": {
+    "new5": {
       "title": "Bim Market",
       "date": "A partir de 01 Avril 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-41-21-WEBSpot%20BIM%2028%20Mars%20-%2001%20Avril%202025%20gr%201.jpg",
       "link": "bim1"
     },
-    "new5": {
+    "new6": {
       "title": "Aswak Assalam",
       "date": "Offre de 27 Mars au 20 Avril 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00001.webp",
       "link": "aswak"
     },
-    "new6": {
+    "new7": {
       "title": "Carrefour Méga",
       "date": "Offre de 27 Mars au 16 Avril 2025",
       "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00001.webp",
