@@ -1,40 +1,40 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de 04 Avril 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-40-00-WEB%20SPOT%20BIM%2004-08%20AVRIL%202025%20spot1.jpg",
+      "link": "bim2"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "A partir de 03 Avril 2025",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/488574853_667862115843004_561852846530395415_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEyYAuH8pVVKI5M9rNCpM4fR17Y37JEW-N1GtRz0GYdHccIfAT3zBNW1JaOnxVFubM&_nc_ohc=baW4tL59dD0Q7kNvgGYxS47&_nc_gid=lPKmf0E25tNSG9m9j8R_QA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMTk3MTU3NjMzMDIxMDAzMA%3D%3D.3-ccb7-5&oh=00_AYHqln1accyYp4a2welX3I5YgdLHQRtTv4BEuRD5d_3q9Q&oe=67F40B76&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new2": {
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre de 03 au 09 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-min.jpg",
       "link": "kazyon"
     },
-    "new3": {
+    "new4": {
       "title": "Supeco Market",
       "date": "A partir de 02 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
       "link": "supeco1"
     },
-    "new4": {
+    "new5": {
       "title": "Kazyon Market",
       "date": "Offre Mardi 02 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
       "link": "kazyon2"
     },
-    "new5": {
+    "new6": {
       "title": "Carrefour Market",
       "date": "Offre de 27 Mars au 16 Avril 2025",
       "thumbnail": "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/4379/1/page_1_level_4_815349410.webp",
       "link": "carrefourMarket1"
-    },
-    "new6": {
-      "title": "Bim Market",
-      "date": "A partir de 01 Avril 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-41-21-WEBSpot%20BIM%2028%20Mars%20-%2001%20Avril%202025%20gr%201.jpg",
-      "link": "bim1"
     },
     "new7": {
       "title": "Carrefour Méga",
@@ -142,11 +142,11 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "Offre de Mardi 25 Mars 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-13-13-SPOT%20BIM%2021-25%20MARS%2020254.jpg",
+      "date": "A partir de 04 Avril 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-40-00-WEB%20SPOT%20BIM%2004-08%20AVRIL%202025%20spot1.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-13-13-SPOT%20BIM%2021-25%20MARS%2020254.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/18-03-2025-13-14-23-SPOT%20BIM%2021-25%20MARS%2020255.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-40-00-WEB%20SPOT%20BIM%2004-08%20AVRIL%202025%20spot1.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-40-11-WEB%20SPOT%20BIM%2004-08%20AVRIL%2020252%20spot2.jpg"
       ]
     },
     "bim3": {
