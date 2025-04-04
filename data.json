@@ -1,40 +1,40 @@
 {
   "news": {
-    "new6": {
+    "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre du 05 au 06 Avril 2025",
+      "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/488192621_538299619317315_5469267445164555346_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QGI0nh6BSIgB0VDU6BBeaMXxhAq17pAh_KK11_aSoJHEj3JK1pZJMx2EkXNbzhEcM8&_nc_ohc=9dDEXCwIhi8Q7kNvwG3zFg9&_nc_gid=GSi8r69cb2VOH3eSYRfyvA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMzU1MTMyOTQ3OTc1MTU1OA%3D%3D.3-ccb7-5&oh=00_AYH7ngdrbqDwlR0BQ8nXHDJ5Fq17G7MQIM0B6A7Xmfg-QQ&oe=67F638B7&_nc_sid=7a9f4b",
+      "link": "kazyon1"
+    },
+    "new2": {
       "title": "Carrefour Market",
       "date": "A partir de 04 Avril 2025",
       "thumbnail": "https://instagram.fcmn3-1.fna.fbcdn.net/v/t39.30808-6/488601910_1071035238390420_4875413696271466523_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEzMzh4MTY3My5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn3-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QGNIADEBjjMietpo9r46RcgmR0Rzwt1dD2PTjZBqvV90-HGgCCir4SCLcjbhnXtVt8&_nc_ohc=jw6YvaRaBCcQ7kNvwGTcrur&_nc_gid=VdInr9NTRWrPmeNGmWwXHg&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMjU3MTg5MDEzMDQyODM2Mw%3D%3D.3-ccb7-5&oh=00_AYFslt1o8UvzYmcMs6WzYXNzpSjX3K22Y2g_zR09tAijqw&oe=67F56B23&_nc_sid=7a9f4b",
       "link": "carrefourMarket2"
     },
-    "new1": {
+    "new3": {
       "title": "Supeco Market",
       "date": "Offre de 04 au 06 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(1).png",
       "link": "supeco1"
     },
-    "new2": {
+    "new4": {
       "title": "Bim Market",
       "date": "A partir de 04 Avril 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-40-00-WEB%20SPOT%20BIM%2004-08%20AVRIL%202025%20spot1.jpg",
       "link": "bim2"
     },
-    "new3": {
+    "new5": {
       "title": "Aswak Assalam",
       "date": "A partir de 03 Avril 2025",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/488574853_667862115843004_561852846530395415_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEyYAuH8pVVKI5M9rNCpM4fR17Y37JEW-N1GtRz0GYdHccIfAT3zBNW1JaOnxVFubM&_nc_ohc=baW4tL59dD0Q7kNvgGYxS47&_nc_gid=lPKmf0E25tNSG9m9j8R_QA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMTk3MTU3NjMzMDIxMDAzMA%3D%3D.3-ccb7-5&oh=00_AYHqln1accyYp4a2welX3I5YgdLHQRtTv4BEuRD5d_3q9Q&oe=67F40B76&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new4": {
+    "new6": {
       "title": "Kazyon Market",
       "date": "Offre de 03 au 09 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-min.jpg",
       "link": "kazyon"
-    },
-    "new5": {
-      "title": "Kazyon Market",
-      "date": "Offre Mardi 02 Avril 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
-      "link": "kazyon2"
     },
     "new7": {
       "title": "Carrefour Méga",
@@ -293,48 +293,15 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%202%20avril%202025%204-min.jpg",
-    "date": "Offre de 27 Mars au 2 Avril 2025",
+    "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/488192621_538299619317315_5469267445164555346_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QGI0nh6BSIgB0VDU6BBeaMXxhAq17pAh_KK11_aSoJHEj3JK1pZJMx2EkXNbzhEcM8&_nc_ohc=9dDEXCwIhi8Q7kNvwG3zFg9&_nc_gid=GSi8r69cb2VOH3eSYRfyvA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMzU1MTMyOTQ3OTc1MTU1OA%3D%3D.3-ccb7-5&oh=00_AYH7ngdrbqDwlR0BQ8nXHDJ5Fq17G7MQIM0B6A7Xmfg-QQ&oe=67F638B7&_nc_sid=7a9f4b",
+    "date": "Offre du 05 au 06 Avril 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%202%20avril%202025%204-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%202%20avril%202025%205-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%202%20avril%202025%206-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%202%20avril%202025%202-min.jpg",
-      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/486829735_531011860046091_1440406926141434483_n.jpg?stp=c0.38.1638.1971a_dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2Mzh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEp1riZED1pH03dMNmZxvMH71FZSXgz2naddojHNXNvTC4MUyRCMIRs4exxweGDgOs&_nc_ohc=nSqD8ulEGQUQ7kNvgEaEJWH&_nc_gid=ohaNmnUFkM0d0KuE5m129w&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzU5Njk4MTQyMzgyMTI0MjM4Mw%3D%3D.3-ccb7-5&oh=00_AYEJZDUROLIAbdAafCCo2-RAYKvFIH9HFp08dbNlZc5zbw&oe=67EA681C&_nc_sid=7a9f4b",
-      "https://hmizate.ma/img/cms/485725360_527946883685922_3557341871017649460_n.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%202-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%203-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%204-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%205-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%206-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%207-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%208-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%209-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2010-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2011-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2012-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2013-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2014-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2015-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2016-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2017-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2018-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2020-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2019-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20mars%20au%2002%20avril%202025%2021-min.jpg"
-    ]
-  },
-  "Kazyon2": {
-    "title": "Kazyon",
-    "link": "kazyon2",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
-    "date": "Offre Mardi 02 Avril 2025",
-    "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(5).png"
+      "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/488192621_538299619317315_5469267445164555346_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QGI0nh6BSIgB0VDU6BBeaMXxhAq17pAh_KK11_aSoJHEj3JK1pZJMx2EkXNbzhEcM8&_nc_ohc=9dDEXCwIhi8Q7kNvwG3zFg9&_nc_gid=GSi8r69cb2VOH3eSYRfyvA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMzU1MTMyOTQ3OTc1MTU1OA%3D%3D.3-ccb7-5&oh=00_AYH7ngdrbqDwlR0BQ8nXHDJ5Fq17G7MQIM0B6A7Xmfg-QQ&oe=67F638B7&_nc_sid=7a9f4b",
+      "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/488508780_538299612650649_7414506958428767158_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QGI0nh6BSIgB0VDU6BBeaMXxhAq17pAh_KK11_aSoJHEj3JK1pZJMx2EkXNbzhEcM8&_nc_ohc=fMzK2SGy23oQ7kNvwFPL5_5&_nc_gid=GSi8r69cb2VOH3eSYRfyvA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMzU1MTMyOTY2NDI1MTA1Ng%3D%3D.3-ccb7-5&oh=00_AYFKyEF1qqNv_EiKOZO8xZWDCvfDbzSu6VOYg-UAJ_ydKA&oe=67F60DAF&_nc_sid=7a9f4b",
+      "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/488924879_538299615983982_3664184545025991894_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QGI0nh6BSIgB0VDU6BBeaMXxhAq17pAh_KK11_aSoJHEj3JK1pZJMx2EkXNbzhEcM8&_nc_ohc=EKCEPIa6v1gQ7kNvwELhq8v&_nc_gid=GSi8r69cb2VOH3eSYRfyvA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMzU1MTMyOTU4MDQ2MzA3OA%3D%3D.3-ccb7-5&oh=00_AYGUu4DMdnk1Ih1mPK1B9KT1p4pUE-81GlDkMW5pnHwfTQ&oe=67F63DFC&_nc_sid=7a9f4b",
+      "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/488580382_538299589317318_3705884230146549624_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QGI0nh6BSIgB0VDU6BBeaMXxhAq17pAh_KK11_aSoJHEj3JK1pZJMx2EkXNbzhEcM8&_nc_ohc=_RUUwAJVyyMQ7kNvwGN50jU&_nc_gid=GSi8r69cb2VOH3eSYRfyvA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMzU1MTMyOTY5NzY3Nzk3NQ%3D%3D.3-ccb7-5&oh=00_AYHBZRgniBnTzXJevcYphYGYnkjIqA_H70j0JxkluNJdgA&oe=67F62FD3&_nc_sid=7a9f4b",
+      "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/488548309_538299532650657_8817898878983920597_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QGI0nh6BSIgB0VDU6BBeaMXxhAq17pAh_KK11_aSoJHEj3JK1pZJMx2EkXNbzhEcM8&_nc_ohc=TU9CGBmIbBwQ7kNvwHp-x8l&_nc_gid=GSi8r69cb2VOH3eSYRfyvA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMzU1MTMyOTQ2MjkyOTcwMQ%3D%3D.3-ccb7-5&oh=00_AYF9oua4Ehjh5bs764zczJAkhBo4-CP19_FnV9ncn5cyCw&oe=67F6090F&_nc_sid=7a9f4b",
+      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/488539230_538299599317317_4241658307806470066_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QGI0nh6BSIgB0VDU6BBeaMXxhAq17pAh_KK11_aSoJHEj3JK1pZJMx2EkXNbzhEcM8&_nc_ohc=1w0fy3TS8eUQ7kNvwFdvLaC&_nc_gid=GSi8r69cb2VOH3eSYRfyvA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMzU1MTMyOTQ2Mjk3ODM4Nw%3D%3D.3-ccb7-5&oh=00_AYFbOjawQ2RIh4k3jI273DKx6QgAWceuTf6w5DNeUrSccg&oe=67F633CA&_nc_sid=7a9f4b"
     ]
   },
   "Atacadão": {
