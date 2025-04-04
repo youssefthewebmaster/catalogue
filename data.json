@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Supeco Market",
+      "date": "Offre de 04 au 06 Avril 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(1).png",
+      "link": "supeco1"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "A partir de 04 Avril 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-40-00-WEB%20SPOT%20BIM%2004-08%20AVRIL%202025%20spot1.jpg",
       "link": "bim2"
     },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de 03 Avril 2025",
       "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/488574853_667862115843004_561852846530395415_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEyYAuH8pVVKI5M9rNCpM4fR17Y37JEW-N1GtRz0GYdHccIfAT3zBNW1JaOnxVFubM&_nc_ohc=baW4tL59dD0Q7kNvgGYxS47&_nc_gid=lPKmf0E25tNSG9m9j8R_QA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMTk3MTU3NjMzMDIxMDAzMA%3D%3D.3-ccb7-5&oh=00_AYHqln1accyYp4a2welX3I5YgdLHQRtTv4BEuRD5d_3q9Q&oe=67F40B76&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new3": {
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre de 03 au 09 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20avril%202025-min.jpg",
       "link": "kazyon"
-    },
-    "new4": {
-      "title": "Supeco Market",
-      "date": "A partir de 02 Avril 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
-      "link": "supeco1"
     },
     "new5": {
       "title": "Kazyon Market",
@@ -410,16 +410,11 @@
   "Supeco1": {
     "link": "supeco1",
     "title": "Supeco",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
-    "date": "A partir de 02 Avril 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(1).png",
+    "date": "Offre de 04 au 06 Avril 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(5).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(6).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(7).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(2).png"
     ]
   },
   "Kitea": {
