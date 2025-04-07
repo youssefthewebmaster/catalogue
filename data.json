@@ -1,5 +1,11 @@
 {
   "news": {
+    "new5": {
+      "title": "Supeco Market",
+      "date": "Offre de Mardi 08 Avril 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi.png",
+      "link": "supeco1"
+    },
     "new1": {
       "title": "Carrefour Méga",
       "date": "Offre de 07 au 14 Avril 2025",
@@ -23,12 +29,6 @@
       "date": "A partir de 04 Avril 2025",
       "thumbnail": "https://instagram.fcmn3-1.fna.fbcdn.net/v/t39.30808-6/488601910_1071035238390420_4875413696271466523_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEzMzh4MTY3My5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn3-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QGNIADEBjjMietpo9r46RcgmR0Rzwt1dD2PTjZBqvV90-HGgCCir4SCLcjbhnXtVt8&_nc_ohc=jw6YvaRaBCcQ7kNvwGTcrur&_nc_gid=VdInr9NTRWrPmeNGmWwXHg&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMjU3MTg5MDEzMDQyODM2Mw%3D%3D.3-ccb7-5&oh=00_AYFslt1o8UvzYmcMs6WzYXNzpSjX3K22Y2g_zR09tAijqw&oe=67F56B23&_nc_sid=7a9f4b",
       "link": "carrefourMarket2"
-    },
-    "new5": {
-      "title": "Supeco Market",
-      "date": "Offre de 04 au 06 Avril 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(1).png",
-      "link": "supeco1"
     },
     "new6": {
       "title": "Bim Market",
@@ -401,11 +401,10 @@
   "Supeco1": {
     "link": "supeco1",
     "title": "Supeco",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(1).png",
-    "date": "Offre de 04 au 06 Avril 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi.png",
+    "date": "Offre de Mardi 08 Avril 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(2).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi.png"
     ]
   },
   "Kitea": {
