@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mercredi 09 Avril 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazmercredi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "A partir de Mardi 08 Avril 2025",
       "thumbnail": "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-33-14-WEB%20SPOT%20BIM%2004-08%20AVRIL%2020253%20gr%201.jpg",
       "link": "bim3"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 08 Avril 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "link": "kazyon1"
     },
     "new3": {
       "title": "Supeco Market",
@@ -308,14 +308,13 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-    "date": "Offre de Mardi 08 Avril 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazmercredi%20(1).png",
+    "date": "Offre de Mercredi 09 Avril 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(5).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazmercredi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazmercredi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazmercredi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazmercredi%20(4).png"
     ]
   },
   "Atacadão": {
