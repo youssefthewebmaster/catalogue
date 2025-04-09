@@ -1221,7 +1221,7 @@
         }
     },
     "om": {
-        "سلطنة عمان ": {
+        "سلطنة عمان": {
             "links":{
                 "1080p": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8",
                 "720p": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b2000000.m3u8",
