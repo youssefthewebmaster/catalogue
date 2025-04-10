@@ -6,31 +6,31 @@
       "new": 1
   },
   "beinSport": {
-      "bein sport news": {
+      "beinSportNews": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1266"
           }
       },
-      "bein sport global": {
+      "beinSportGlobal": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16779"
           }
       },
-      "bein sport 1": {
+      "beinSport1": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a01p",
               "الرابط 2": "http://93.123.72.138:8000/play/a00o",
               "الرابط 3": "http://45.139.122.148:8000/play/a004"
           }
       },
-      "bein sport 2": {
+      "beinSport2": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a01q",
               "الرابط 2": "http://93.123.72.138:8000/play/a00p",
               "الرابط 3": "http://45.139.122.148:8000/play/a005"
           }
       },
-      "bein sport 3": {
+      "beinSport3": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a01r",
               "الرابط 2": "http://93.123.72.138:8000/play/a00q",
@@ -38,98 +38,98 @@
           }
       }
       ,
-      "bein sport 4": {
+      "beinSport4": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a01s",
               "الرابط 2": "http://93.123.72.138:8000/play/a00r",
               "الرابط 3": "http://45.139.122.148:8000/play/a007"
           }
       },
-      "bein sport 5": {
+      "beinSport5": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a01t",
               "الرابط 2": "http://93.123.72.138:8000/play/a00s",
               "الرابط 3": "http://45.139.122.148:8000/play/a008"
           }
       },
-      "bein sport 6": {
+      "beinSport6": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a01u",
               "الرابط 2": "http://93.123.72.138:8000/play/a00t",
               "الرابط 3": "http://45.139.122.148:8000/play/a009"
           }
       },
-      "bein sport 7": {
+      "beinSport7": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a01v",
               "الرابط 2": "http://93.123.72.138:8000/play/a00u",
               "الرابط 3": "http://45.139.122.148:8000/play/a00a"
           }
       },
-      "bein sport 8": {
+      "beinSport8": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a01w",
               "الرابط 2": "http://93.123.72.138:8000/play/a00v",
               "الرابط 3": "http://45.139.122.148:8000/play/a00b"
           }
       },
-      "bein sport 9": {
+      "beinSport9": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a01x",
               "الرابط 2": "http://93.123.72.138:8000/play/a00w",
               "الرابط 3": "http://45.139.122.148:8000/play/a00c"
           }
       },
-      "bein Xtra 1": {
+      "beinXtra1": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a01z",
               "الرابط 2": "http://93.123.72.138:8000/play/a00a",
               "الرابط 3": "http://93.123.72.138:8000/play/a00x"
           }
       },
-      "bein Xtra 2": {
+      "beinXtra2": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a020",
               "الرابط 2": "http://93.123.72.138:8000/play/a00b",
               "الرابط 3": "http://93.123.72.138:8000/play/a00y"
           }
       },
-      "bein Xtra 3": {
+      "beinXtra3": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a021",
               "الرابط 2": "http://93.123.72.138:8000/play/a00c",
               "الرابط 3": "http://93.123.72.138:8000/play/a00z"
           }
       },
-      "bein Sport English 1": {
+      "beinSportEng1": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/110",
               "الرابط 2": "http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/108601"
           }
       },
-      "bein Sport English 2": {
+      "beinSportEng2": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/111"
           }
       },
-      "bein Sport English 3": {
+      "beinSportEng3": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/267769",
               "الرابط 2": "http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/108603"
           }
       },
-      "bein Sport French 1": {
+      "beinSportFr1": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/144"
           }
       },
-      "bein Sport French 2": {
+      "beinSportFr2": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/145",
               "الرابط 2": "http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/108736"
           }
       },
-      "bein Sport French 3": {
+      "beinSportFr3": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/146"
           }
