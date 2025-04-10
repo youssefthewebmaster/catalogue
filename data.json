@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de 11 Avril 2025",
+      "thumbnail": "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-30-50-WEB%20Spot%20BIM%2011-15%20Avril%202025%20spot%201.jpg",
+      "link": "bim1"
+    },
+    "new2": {
       "title": "Kazyon Market",
       "date": "Offre de 10 au 16 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2010%20au%2016%20avril%202025-3.jpg",
       "link": "kazyon"
     },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de Mercredi 09 Avril 2025",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/489337390_672042092091673_8798193512431005400_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEidLlmSa4xniFWO-rsPr307ViwWjTnnRRTVEvuKKk1Ddz7q4M6v2ke2AUiVzvWgtk&_nc_ohc=kBKlw6ZTI5sQ7kNvwGjHCZ9&_nc_gid=PxHI0aLnRNbImymW0BsEow&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwNTcxNzI1MDQ0MTE5NTUzOA%3D%3D.3-ccb7-5&oh=00_AfFkAYWfia6Kbd7uLDbPADEAika1dnJ_uZ3qhVa_lcluWQ&oe=67FB8EFF&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new3": {
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre de Mercredi 09 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazmercredi%20(1).png",
       "link": "kazyon1"
-    },
-    "new4": {
-      "title": "Bim Market",
-      "date": "A partir de Mardi 08 Avril 2025",
-      "thumbnail": "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-33-14-WEB%20SPOT%20BIM%2004-08%20AVRIL%2020253%20gr%201.jpg",
-      "link": "bim3"
     },
     "new5": {
       "title": "Supeco Market",
@@ -132,11 +132,11 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "A partir de 01 Avril 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-41-21-WEBSpot%20BIM%2028%20Mars%20-%2001%20Avril%202025%20gr%201.jpg",
+      "date": "A partir de 11 Avril 2025",
+      "thumbnail": "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-30-50-WEB%20Spot%20BIM%2011-15%20Avril%202025%20spot%201.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-41-21-WEBSpot%20BIM%2028%20Mars%20-%2001%20Avril%202025%20gr%201.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-41-31-WEBSpot%20BIM%2028%20Mars%20-%2001%20Avril%202025%20gr2.jpg"
+        "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-30-50-WEB%20Spot%20BIM%2011-15%20Avril%202025%20spot%201.jpg",
+        "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-30-59-WEB%20Spot%20BIM%2011-15%20Avril%2020252%20spot%202.jpg"
       ]
     },
     "bim2": {
@@ -147,16 +147,6 @@
       "images": [
         "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-40-00-WEB%20SPOT%20BIM%2004-08%20AVRIL%202025%20spot1.jpg",
         "https://cdn3.bim.ma/uploads/ma/Files/28-03-2025-16-40-11-WEB%20SPOT%20BIM%2004-08%20AVRIL%2020252%20spot2.jpg"
-      ]
-    },
-    "bim3": {
-      "title": "Bim",
-      "link": "bim3",
-      "date": "A partir de Mardi 08 Avril 2025",
-      "thumbnail": "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-33-14-WEB%20SPOT%20BIM%2004-08%20AVRIL%2020253%20gr%201.jpg",
-      "images": [
-        "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-33-14-WEB%20SPOT%20BIM%2004-08%20AVRIL%2020253%20gr%201.jpg",
-        "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-33-33-WEB%20SPOT%20BIM%2004-08%20AVRIL%2020254%20gr2.jpg"
       ]
     }
   },
