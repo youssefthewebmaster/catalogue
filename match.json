@@ -13,29 +13,17 @@
       },
       "bein sport global": {
           "links": {
-              "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16779",
-              "الرابط 12": "http://93.123.72.138:8000/play/a01p",
+              "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16779"
+          }
+      },
+      "bein sport1": {
+          "links": {
+              "الرابط 1": "http://93.123.72.138:8000/play/a01p",
               "الرابط 2": "http://93.123.72.138:8000/play/a00o",
               "الرابط 3": "http://45.139.122.148:8000/play/a004"
           }
       },
-      "beinSport1": {
-          "links": {
-              "dsdsd": "http://93.123.72.138:8000/play/a01p",
-              "vfvfvfv": "http://93.123.72.138:8000/play/a00o",
-              "vvcv": "http://45.139.122.148:8000/play/a004",
-              "wwe": "http://93.123.72.138:8000/play/a01p",
-              "qqw": "http://93.123.72.138:8000/play/a00o",
-              "qw": "http://45.139.122.148:8000/play/a004",
-              "uu": "http://93.123.72.138:8000/play/a01p",
-              "popo": "http://93.123.72.138:8000/play/a00o",
-              "err": "http://45.139.122.148:8000/play/a004",
-              "vvbvbf": "http://93.123.72.138:8000/play/a01p",
-              "nmm2gfgg": "http://93.123.72.138:8000/play/a00o",
-              "bvmnmnmm": "http://45.139.122.148:8000/play/a004"
-          }
-      },
-      "beinSport2": {
+      "bein sport 2": {
           "links": {
               "الرابط 1": "http://93.123.72.138:8000/play/a01q",
               "الرابط 2": "http://93.123.72.138:8000/play/a00p",
