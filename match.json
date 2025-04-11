@@ -136,52 +136,52 @@
       }
   },
   "beinEntertainment": {
-      "bein Movies Premiere": {
+      "beinMoviesPremiere": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/267063"
           }
       },
-      "bein Box Office 1": {
+      "beinBoxOffice1": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/225322"
           }
       },
-      "bein Box Office 2": {
+      "beinBoxOffice2": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/225321"
           }
       },
-      "bein Movies Drama": {
+      "beinMoviesDrama": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/3735"
           }
       },
-      "bein Movies Action": {
+      "beinMoviesAction": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1270"
           }
       },
-      "bein Movies Family": {
+      "beinMoviesFamily": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1268"
           }
       },
-      "bein Series 1": {
+      "beinSeries1": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2833"
           }
       },
-      "bein Series 2": {
+      "beinSeries2": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/7619"
           }
       },
-      "bein دراما": {
+      "beinدراما": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2835"
           }
       }
-      ,"bein Gourmet": {
+      ,"beinGourmet": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2840"
           }
@@ -192,12 +192,12 @@
               "الرابط 2": "https://www.elahmad.com/tv/watchtv.php?id=baraem"
           }
       },
-      "Be Junior": {
+      "BeJunior": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2838"
           }
       },
-      "Cartoon Network Arabic": {
+      "CartoonNetworkArabic": {
           "links": {
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/58461",
               "الرابط 2": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/283184"
