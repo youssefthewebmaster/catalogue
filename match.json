@@ -434,19 +434,19 @@
               "244p": "https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_6.m3u8"
           }
       },
-      "mbc action": {
+      "mbcAction": {
           "links":{
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1244",
               "الرابط 2": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=mbc_action"
           }
       },
-      "mbc max": {
+      "mbcMax": {
           "links":{
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1240",
               "الرابط 2": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=mbc_max"
           }
       },
-      "mbc دراما": {
+      "mbcدراما": {
           "links":{
               "1080p": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8",
               "720p": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8",
@@ -454,7 +454,7 @@
               "244p": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_26.m3u8"
           }
       },
-      "mbc دراما plus": {
+      "mbcدراماplus": {
           "links":{
               "1080p": "https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8",
               "720p": "https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8",
@@ -462,7 +462,7 @@
               "244p": "https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_6.m3u8"
           }
       },
-      "mbc مصر": {
+      "mbcمصر": {
           "links":{
               "1080p": "https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8",
               "720p": "https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_47.m3u8",
@@ -470,7 +470,7 @@
               "244p": "https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_51.m3u8"
           }
       },
-      "mbc مصر 2": {
+      "mbcمصر2": {
           "links":{
               "1080p": "https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8",
               "720p": "https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8",
@@ -478,7 +478,7 @@
               "244p": "https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8"
           }
       },
-      "mbc العراق": {
+      "mbcالعراق": {
           "links":{
               "1080p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/1080p2400kbps/video.m3u8",
               "720p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/720p1750kbps/video.m3u8",
@@ -486,7 +486,7 @@
               "244p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/288p350kbps/video.m3u8"
           }
       },
-      "mbc persia": {
+      "mbcPersia": {
           "links":{
               "1080p": "https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8",
               "720p": "https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8",
@@ -494,13 +494,13 @@
               "244p": "https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_6.m3u8"
           }
       },
-      "mbc variety": {
+      "mbcVariety": {
           "links":{
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1239",
               "الرابط 2": "https://www.elahmad.com/tv/radiant.php?id=mbc_variety"
           }
       },
-      "mbc bollywood ": {
+      "mbcBollywood ": {
           "links":{
               "الرابط 1": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8",
               "الرابط 2": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1243"
