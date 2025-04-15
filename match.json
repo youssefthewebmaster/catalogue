@@ -526,10 +526,10 @@
       },
       "السعودية": {
           "links":{
-              "1080p": "https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index_28.m3u8",
-              "720p": "https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index_29.m3u8",
-              "360p": "https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index_32.m3u8",
-              "244p": "https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index_33.m3u8"
+              "1080p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/manifest/video/1080p2400kbps/video.m3u8",
+              "720p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/manifest/video/720p1750kbps/video.m3u8",
+              "360p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/manifest/video/360p500kbps/video.m3u8",
+              "244p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/manifest/video/288p350kbps/video.m3u8"
           }
       },
       "الإخبارية": {
