@@ -508,7 +508,7 @@
       }
   },
   "sa": {
-      "قناة القرآن الكريم": {
+      "القرآن": {
           "links":{
               "1080p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8",
               "720p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_2.m3u8",
@@ -516,7 +516,7 @@
               "244p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8"
           }
       },
-      "قناة السنة النبوية": {
+      "السنة": {
           "links":{
               "1080p": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8",
               "720p": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_1.m3u8",
@@ -524,7 +524,7 @@
               "244p": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_5.m3u8"
           }
       },
-      "قناة السعودية": {
+      "السعودية": {
           "links":{
               "1080p": "https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index_28.m3u8",
               "720p": "https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index_29.m3u8",
@@ -532,7 +532,7 @@
               "244p": "https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index_33.m3u8"
           }
       },
-      "القناة الإخبارية": {
+      "الإخبارية": {
           "links":{
               "1080p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index_1.m3u8",
               "720p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index_2.m3u8",
@@ -540,7 +540,7 @@
               "244p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index_6.m3u8"
           }
       },
-      "قناة ذكريات": {
+      "ذكريات": {
           "links":{
               "1080p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_1.m3u8",
               "720p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_2.m3u8",
@@ -548,22 +548,22 @@
               "244p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_6.m3u8"
           }
       },
-      "قناة السعودية الرياضية": {
+      "الرياضية": {
           "links":{
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/17318"
           }
       },
-      "قناة السعودية الرياضية2": {
+      "الرياضية2": {
           "links":{
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/17316"
           }
       },
-      "قناة السعودية الرياضية3": {
+      "الرياضية3": {
           "links":{
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/43712"
           }
       },
-      "السعودية الثقافية": {
+      "الثقافية": {
           "links":{
               "1080p": "https://thaqafeyyah-enc.edgenextcdn.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_2.m3u8",
               "720p": "https://thaqafeyyah-enc.edgenextcdn.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_4.m3u8",
@@ -579,7 +579,7 @@
               "244p": "https://thaqafeyyah-enc.edgenextcdn.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_8.m3u8"
           }
       },
-      "قناة اقرأ": {
+      "اقرأ": {
           "links":{
               "1080p": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/0.m3u8?v=3296702621",
               "720p": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/1.m3u8?v=3296702621",
@@ -587,19 +587,19 @@
               "244p": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/3.m3u8?v=3296702621"
           }
       },
-      "قناة مكة الفضائية": {
+      "مكة": {
           "links":{
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/47622",
               "الرابط 2": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w93405166.m3u8?v=3296702621",
               "الرابط 3": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w117824305.m3u8?v=3296702621"
           }
       },
-      "قناة الخليج": {
+      "الخليج": {
           "links":{
               "الرابط 1": "https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8"
           }
       },
-      "قناة الشرق": {
+      "الشرق": {
           "links":{
               "1080p": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_source/chunks_dvr.m3u8",
               "720p": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_720p/chunks_dvr.m3u8",
@@ -607,7 +607,7 @@
               "244p": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_240p/chunks_dvr.m3u8"
           }
       },
-      "قناة الصحراء الفضائية": {
+      "الصحراء": {
           "links":{
               "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306107"
           }
