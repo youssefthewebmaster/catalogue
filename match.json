@@ -1207,7 +1207,7 @@
         }
     },
     "om": {
-        "سلطنة عمان": {
+        "سلطنةعمان": {
             "links":{
                 "1080p": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8",
                 "720p": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b2000000.m3u8",
@@ -1215,7 +1215,7 @@
                 "244p": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b250000.m3u8"
             }
         },
-        "عمان مباشر": {
+        "عمانمباشر": {
             "links":{
                 "1080p": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8",
                 "720p": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8",
@@ -1223,7 +1223,7 @@
                 "244p": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
             }
         },
-        "عمان الرياضية": {
+        "عمانالرياضية": {
             "links":{
                 "1080p": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8",
                 "720p": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b2000000.m3u8",
@@ -1231,7 +1231,7 @@
                 "244p": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b250000.m3u8"
             }
         },
-        "عمان الثقافية": {
+        "عمانالثقافية": {
             "links":{
                 "1080p": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8",
                 "720p": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8",
@@ -1239,7 +1239,7 @@
                 "244p": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
             }
         },
-        "قناة الاستقامة": {
+        "قناةالاستقامة": {
             "links":{
                 "720p": "https://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8",
                 "360p": "https://jmc-live.ercdn.net/alistiqama/alistiqama_360p.m3u8"
