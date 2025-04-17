@@ -963,8 +963,10 @@
         },
         "dubaiSport1": {
             "links":{
-                "الرابط 1": "http://154.54.220.67:34780/play/a07w/index.m3u8",
-                "الرابط 2": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/22058"
+                "1080p": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8",
+                "720p": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1500000.m3u8",
+                "360p": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1000000.m3u8",
+                "244p": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b200000.m3u8"
             }
         },
         "dubaiSport2": {
@@ -1052,7 +1054,7 @@
         }
     },
     "kw": {
-        "الكويت الاولى": {
+        "الكويت 1": {
             "links":{
                 "1080p": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8",
                 "720p": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8",
@@ -1060,7 +1062,7 @@
                 "244p": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
             }
         },
-        "الكويت الثانية": {
+        "الكويت 2": {
             "links":{
                 "1080p": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
                 "720p": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b1500000_t64NzIwcA==.m3u8",
@@ -1068,7 +1070,7 @@
                 "244p": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
             }
         },
-        "قناة المجلس": {
+        "المجلس": {
             "links":{
                 "1080p": "https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8",
                 "720p": "https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8",
@@ -1076,7 +1078,7 @@
                 "244p": "https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
             }
         },
-        "اثراء الكويتية": {
+        "اثراء": {
             "links":{
                 "1080p": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
                 "720p": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8",
@@ -1084,7 +1086,7 @@
                 "244p": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
             }
         },
-        "العربي الكويتية": {
+        "العربي": {
             "links":{
                 "1080p": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
                 "720p": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8",
@@ -1092,7 +1094,7 @@
                 "244p": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
             }
         },
-        "1 الكويت الرياضية": {
+        "kowitSport1": {
             "links":{
                 "1080p": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
                 "720p": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b2500000_t64NzIwcA==.m3u8",
@@ -1100,7 +1102,7 @@
                 "244p": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
             }
         },
-        "الكويت الرياضية 2": {
+        "kowitSport2": {
             "links":{
                 "1080p": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8",
                 "720p": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8",
@@ -1108,7 +1110,7 @@
                 "244p": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
             }
         },
-        "قناة القرين": {
+        "القرين": {
             "links":{
                 "1080p": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8",
                 "720p": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8",
@@ -1116,34 +1118,34 @@
                 "244p": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
             }
         },
-        "قناة العدالة": {
+        "العدالة": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=atvkuwait"
             }
         },
-        "قناة الصباح": {
+        "الصباح": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/245616",
                 "الرابط 2": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alsabahtv"
             }
         },
-        "قناه الشاهد": {
+        "الشاهد": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/284383",
                 "الرابط 2": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alshahed_tv"
             }
         },
-        "قناة البوادي": {
+        "البوادي": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=bawaditv"
             }
         },
-        "قناة الراي": {
+        "الراي": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/4960"
             }
         },
-        "قناة الرسالة": {
+        "الرسالة": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alresalah1"
             }
