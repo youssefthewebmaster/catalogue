@@ -1137,7 +1137,7 @@
         },
         "البوادي": {
             "links":{
-                "الرابط 1": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=bawaditv"
+                "الرابط 1": "https://ffs1.gulfsat.com/Al-Bawadi/index.m3u8"
             }
         },
         "الراي": {
@@ -1152,24 +1152,24 @@
         }
     },
     "ym": {
-        "قناة اليمن": {
+        "اليمن": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/266322",
                 "الرابط 2": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=yementv"
             }
         },
-        "قناة بلقيس": {
+        "بلقيس": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/266323",
                 "الرابط 2": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=belqees_tv"
             }
         },
-        "قناة سهيل": {
+        "سهيل": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/268914"
             }
         },
-        "قناة السعيدة ": {
+        "السعيدة": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/radiant.php?id=alsaeedahtv"
             }
@@ -1180,27 +1180,27 @@
                 "الرابط 2": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_720p/chunks.m3u8"
             }
         },
-        "قناة عدن": {
+        "عدن": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/266324"
             }
         },
-        "قناة المهرية": {
+        "المهرية": {
             "links":{
                 "الرابط 1": "https://starmenajo.com/hls/almahriah/index.m3u8"
             }
         },
-        "يمن شباب": {
+        "يمنشباب": {
             "links":{
                 "الرابط 1": "https://starmenajo.com/hls/yemenshabab/index.m3u8"
             }
         },
-        "اليمن اليوم": {
+        "اليمناليوم": {
             "links":{
                 "الرابط 1": "https://video.yementdy.tv/hls/yementoday_src.m3u8"
             }
         },
-        "قناة حضرموت": {
+        "حضرموت": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/296845"
             }
