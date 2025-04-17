@@ -1054,7 +1054,7 @@
         }
     },
     "kw": {
-        "الكويت 1": {
+        "الكويت1": {
             "links":{
                 "1080p": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8",
                 "720p": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8",
@@ -1062,7 +1062,7 @@
                 "244p": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
             }
         },
-        "الكويت 2": {
+        "الكويت2": {
             "links":{
                 "1080p": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
                 "720p": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b1500000_t64NzIwcA==.m3u8",
