@@ -1445,7 +1445,7 @@
         },
         "قناةالاقصى": {
             "links":{
-                "الرابط 1": "https://s1.ettehadlive.com/live/68/chunklist_w2088705074.m3u8",
+                "الرابط 1": "https://64c53df624b1b.servers.dvcloud.tv/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
                 "الرابط 2": "https://s1.ettehadlive.com/live/68/chunklist_w1973059032.m3u8",
                 "الرابط 3": "https://s1.ettehadlive.com/live/68/chunklist_w1208158007.m3u8"
             }
@@ -1485,15 +1485,7 @@
         },
         "وكالةمعا": {
             "links":{
-                "الرابط 1": "https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8?v=1717684924",
-                "الرابط 2": "https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8?v=3296702621",
-                "الرابط 3": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=maannews1"
-                
-            }
-        },
-        "أجيال": {
-            "links":{
-                "الرابط 1": "http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8"
+                "الرابط 1": "https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8"
             }
         },
         "النجاح": {
@@ -1507,29 +1499,14 @@
                 "الرابط 1": "https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8"
             }
         },
-        "مكان": {
-            "links":{
-                "1080p": "https://makan.media.kan.org.il/hls/live/2024680-b/2024680/source1_4k/chunklist.m3u8",
-                "720p": "https://makan.media.kan.org.il/hls/live/2024680-b/2024680/source1_2.5k/chunklist.m3u8",
-                "360p": "https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_1.2k/chunklist.m3u8",
-                "244p": "https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_600/chunklist.m3u8"
-            }
-        },
         "كلالناس": {
             "links":{
-                "الرابط 1": "https://htvint.mada.ps/kolalnas/tracks-v1a1/mono.m3u8?v=1717684924",
-                "الرابط 2": "https://htvint.mada.ps/kolalnas/tracks-v1a1/mono.m3u8?v=3296702621"
+                "الرابط 1": "https://htvint.mada.ps/kolalnas/tracks-v1a1/mono.m3u8"
             }
         },
         "وطن": {
             "links":{
-                "الرابط 1": "https://htvmada.mada.ps:4443/wattan/tracks-v1a1/mono.m3u8?v=1717684924",
-                "الرابط 2": "https://htvmada.mada.ps:4443/wattan/tracks-v1a1/mono.m3u8?v=3296702621"
-            }
-        },
-        "نابلس": {
-            "links":{
-                "الرابط 1": "https://htvint.mada.ps/nabluslive/tracks-v1a1/mono.m3u8"
+                "الرابط 1": "https://htvmada.mada.ps:4443/wattan/tracks-v1a1/mono.m3u8"
             }
         },
         "حكاية": {
@@ -1539,7 +1516,7 @@
         },
         "رايا": {
             "links":{
-                "الرابط 1": "https://htvmada.mada.ps:4443/raya/tracks-v1a1/mono.m3u8?v=1717684924"
+                "الرابط 1": "https://htvmada.mada.ps:4443/raya/tracks-v1a1/mono.m3u8"
             }
         },
         "فلسطينالتعليمية": {
@@ -1552,37 +1529,37 @@
         }
     },
     "iq": {
-        "قناة الرافدين": {
+        "الرافدين": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/225175",
                 "الرابط 2": "http://mo3ad.xyz/U9pXkj6ZCG/KZXN37xjz7/253"
             }
         },
-        "القناة التاسعة": {
+        "التاسعة": {
             "links":{
                 "الرابط 1": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8?v=1717684924",
                 "الرابط 2": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8?v=3296702621"
             }
         },
-        "قناة الفلوجة": {
+        "الفلوجة": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/225974",
                 "الرابط 2": "https://www.elahmad.com/tv/radiant.php?id=alfallujah_tv"
             }
         },
-        "قناة البغدادية": {
+        "البغدادية": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306073",
                 "الرابط 2": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=albaghdadia1"
             }
         },
-        "تلفزيون الشرقية": {
+        "الشرقية": {
             "links":{
                 "الرابط 1": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1145048897.m3u8",
                 "الرابط 2": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/268988"
             }
         },
-        "قناة الرشيد": {
+        "الرشيد": {
             "links":{
                 "الرابط 1": "https://media1.livaat.com/static/AL-RASHEED-HD/chunklist_w728889540.m3u8",
                 "الرابط 2": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/43735",
@@ -1597,23 +1574,23 @@
                 "244p": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master_14.m3u8"
             }
         },
-        "قناة السومرية": {
+        "السومرية": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/22039",
                 "الرابط 2": "https://www.elahmad.com/tv/watchtv.php?id=alsumaria"
             }
         },
-        "العراقية الاخبارية": {
+        "العراقيةالاخبارية": {
             "links":{
                 "الرابط 1": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8"
             }
         },
-        "قناة العراقية": {
+        "العراقية": {
             "links":{
                 "الرابط 1": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chunks.m3u8"
             }
         },
-        "العراقية الرياضية": {
+        "العراقيةالرياضية": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
             }
@@ -1625,7 +1602,7 @@
                 "الرابط 3": "http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist_w744114730.m3u8"
             }
         },
-        "UTV العراق": {
+        "UTVالعراق": {
             "links":{
                 "الرابط 1": "https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8"
             }
