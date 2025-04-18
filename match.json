@@ -1419,7 +1419,7 @@
         }
     },
     "pl": {
-        "تلفزيون فلسطين": {
+        "فلسطين": {
             "links":{
                 "1080p": "https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8",
                 "720p": "https://pbc.furrera.ps/palestinehd/tracks-v2a1/mono.m3u8",
@@ -1427,7 +1427,7 @@
                 "244p": "https://pbc.furrera.ps/palestinehd/tracks-v3a1/mono.m3u8"
             }
         },
-        "فلسطين مباشر": {
+        "فلسطينمباشر": {
             "links":{
                 "1080p": "https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8",
                 "720p": "https://pbc.furrera.ps/palestinelivehd/tracks-v2a1/mono.m3u8",
@@ -1435,7 +1435,7 @@
                 "244p": "https://pbc.furrera.ps/palestinelivehd/tracks-v3a1/mono.m3u8"
             }
         },
-        "قناة مساواة": {
+        "قناةمساواة": {
             "links":{
                 "1080p": "https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8",
                 "720p": "https://pbc.furrera.ps/musawahd/tracks-v2a1/mono.m3u8",
@@ -1443,47 +1443,47 @@
                 "244p": "https://pbc.furrera.ps/musawahd/tracks-v3a1/mono.m3u8"
             }
         },
-        "قناة الاقصى": {
+        "قناةالاقصى": {
             "links":{
                 "الرابط 1": "https://s1.ettehadlive.com/live/68/chunklist_w2088705074.m3u8",
                 "الرابط 2": "https://s1.ettehadlive.com/live/68/chunklist_w1973059032.m3u8",
                 "الرابط 3": "https://s1.ettehadlive.com/live/68/chunklist_w1208158007.m3u8"
             }
         },
-        "فلسطين اليوم": {
+        "فلسطيناليوم": {
             "links":{
                 "الرابط 1": "https://s1.ettehadlive.com/live/12/chunklist_w1773692181.m3u8?v=1717684924",
                 "الرابط 2": "https://s1.ettehadlive.com/live/12/chunklist_w1801467224.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc"
             }
         },
-        "الفجر 1": {
+        "الفجر1": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/266285",
                 "الرابط 2": "https://www.elahmad.com/tv/watchtv.php?id=alfajertv"
             }
         },
-        "الفجر 2": {
+        "الفجر2": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/watchtv.php?id=alfajertv2"
             }
         },
-        "الفجر 3": {
+        "الفجر3": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298398",
                 "الرابط 2": "https://www.elahmad.com/tv/watchtv.php?id=alfajertv3"
             }
         },
-        "الفجر 4": {
+        "الفجر4": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/watchtv.php?id=alfajertv3"
             }
         },
-        "الفجر 5": {
+        "الفجر5": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/watchtv.php?id=alfajertv3"
             }
         },
-        "وكالة معا": {
+        "وكالةمعا": {
             "links":{
                 "الرابط 1": "https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8?v=1717684924",
                 "الرابط 2": "https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8?v=3296702621",
@@ -1491,18 +1491,18 @@
                 
             }
         },
-        "تلفزيون أجيال": {
+        "أجيال": {
             "links":{
                 "الرابط 1": "http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8"
             }
         },
-        "فضائية النجاح": {
+        "النجاح": {
             "links":{
                 "الرابط 1": "https://streaming.najah.edu:8443/hls/AlNajah_hd720/index.m3u8",
                 "الرابط 2": "https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8"
             }
         },
-        "قناة راجعين": {
+        "راجعين": {
             "links":{
                 "الرابط 1": "https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8"
             }
@@ -1515,19 +1515,19 @@
                 "244p": "https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_600/chunklist.m3u8"
             }
         },
-        "كل الناس": {
+        "كلالناس": {
             "links":{
                 "الرابط 1": "https://htvint.mada.ps/kolalnas/tracks-v1a1/mono.m3u8?v=1717684924",
                 "الرابط 2": "https://htvint.mada.ps/kolalnas/tracks-v1a1/mono.m3u8?v=3296702621"
             }
         },
-        "تلفزيون وطن": {
+        "وطن": {
             "links":{
                 "الرابط 1": "https://htvmada.mada.ps:4443/wattan/tracks-v1a1/mono.m3u8?v=1717684924",
                 "الرابط 2": "https://htvmada.mada.ps:4443/wattan/tracks-v1a1/mono.m3u8?v=3296702621"
             }
         },
-        "نابلس TV": {
+        "نابلس": {
             "links":{
                 "الرابط 1": "https://htvint.mada.ps/nabluslive/tracks-v1a1/mono.m3u8"
             }
@@ -1542,7 +1542,7 @@
                 "الرابط 1": "https://htvmada.mada.ps:4443/raya/tracks-v1a1/mono.m3u8?v=1717684924"
             }
         },
-        "فلسطين التعليمية": {
+        "فلسطينالتعليمية": {
             "links":{
                 "1080p": "https://pbc.furrera.ps/PalestineEDU/tracks-v1a1/mono.m3u8",
                 "720p": "https://pbc.furrera.ps/PalestineEDU/tracks-v2a1/mono.m3u8",
