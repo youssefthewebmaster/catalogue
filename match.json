@@ -1247,7 +1247,7 @@
         }
     },
     "bh": {
-        "القرآن الكريم": {
+        "القرآن": {
             "links":{
                 "1080p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1652649977_b2487000.m3u8",
                 "720p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1652649977_b2487000.m3u8",
@@ -1255,7 +1255,7 @@
                 "244p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1652649977_b978000.m3u8"
             }
         },
-        "تلفزيون البحرين": {
+        "تلفزيونالبحرين": {
             "links":{
                 "1080p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w512379000_b1307000.m3u8",
                 "720p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w512379000_b1307000.m3u8",
@@ -1263,7 +1263,7 @@
                 "244p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w512379000_b978000.m3u8"
             }
         },
-        "البحرين الدولية": {
+        "البحرينالدولية": {
             "links":{
                 "1080p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1116894608_b2487000.m3u8",
                 "720p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1116894608_b2487000.m3u8",
@@ -1271,7 +1271,7 @@
                 "244p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1116894608_b978000.m3u8"
             }
         },
-        "البحرين الرياضية 1": {
+        "bahrinSport1": {
             "links":{
                 "1080p": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1859407451_b1307000.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc",
                 "720p": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1859407451_b1307000.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc",
@@ -1279,7 +1279,7 @@
                 "244p": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1859407451_b978000.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc"
             }
         },
-        "البحرين الرياضية 2": {
+        "bahrinSport2": {
             "links":{
                 "1080p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w49934462_b2487000.m3u8",
                 "720p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w49934462_b2487000.m3u8",
@@ -1289,7 +1289,7 @@
         }
     },
     "or": {
-        "تلفزيون الأردن": {
+        "تلفزيونالأردن": {
             "links":{
                 "1080p": "https://jrtv-live.ercdn.net/jordanhd/jordanhd_720p.m3u8?DVR&v=1717690408",
                 "720p": "https://jrtv-live.ercdn.net/jordanhd/jordanhd_720p.m3u8?DVR&v=1717690408",
@@ -1297,7 +1297,7 @@
                 "244p": "https://jrtv-live.ercdn.net/jordanhd/jordanhd_360p.m3u8?DVR&v=1717690408"
             }
         },
-        "الأردن الرياضية": {
+        "الأردنالرياضية": {
             "links":{
                 "الرابط 1": "no"
             }
