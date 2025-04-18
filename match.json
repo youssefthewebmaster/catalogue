@@ -1,6 +1,3 @@
-
-
-
 {
     "update": {
         "update": "yes",
@@ -1346,12 +1343,12 @@
         }
     },
     "sy": {
-        "1 قناة سوريا": {
+        "1سوريا": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/201144"
             }
         },
-        "قناة سوريا 2": {
+        "سوريا2": {
             "links":{
                 "1080p": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8",
                 "720p": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_720p/chunks.m3u8",
@@ -1359,7 +1356,7 @@
                 "244p": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_360p/chunks.m3u8"
             }
         },
-        "حلب اليوم": {
+        "حلباليوم": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/17410"
             }
