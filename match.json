@@ -1,7 +1,3 @@
-
-
-
-
 {
     "update": {
         "update": "yes",
@@ -1647,8 +1643,10 @@
         },
         "القناةالأولى":{
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/266164",
-                "الرابط 2": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=egypt_channel1"
+                "1080p": "https://live-b.cf.dmcdn.net/sec2(3cbvLtOLG_1bUUTS4wedvU-CJ8siCQynifMVWVZpAsEKyBB-pn-8VMu9TnnTX_MdQ9NdteaFZ7Xzm_xhSkldKarKj4AjMAC7FN3RBPalggOF-Qlp68jJdR0wsRUuWfQA)/dm/3/x856hbh/s/live-720.m3u8",
+                "720p": "https://live-b.cf.dmcdn.net/sec2(3cbvLtOLG_1bUUTS4wedvU-CJ8siCQynifMVWVZpAsEKyBB-pn-8VMu9TnnTX_MdQ9NdteaFZ7Xzm_xhSkldKarKj4AjMAC7FN3RBPalggOF-Qlp68jJdR0wsRUuWfQA)/dm/3/x856hbh/s/live-720.m3u8",
+                "480p": "https://live-b.cf.dmcdn.net/sec2(3cbvLtOLG_1bUUTS4wedvU-CJ8siCQynifMVWVZpAsEKyBB-pn-8VMu9TnnTX_MdQ9NdteaFZ7Xzm_xhSkldKarKj4AjMAC7FN3RBPalggOF-Qlp68jJdR0wsRUuWfQA)/dm/3/x856hbh/s/live-480.m3u8",
+                "360p": "https://live-b.cf.dmcdn.net/sec2(3cbvLtOLG_1bUUTS4wedvU-CJ8siCQynifMVWVZpAsEKyBB-pn-8VMu9TnnTX_MdQ9NdteaFZ7Xzm_xhSkldKarKj4AjMAC7FN3RBPalggOF-Qlp68jJdR0wsRUuWfQA)/dm/3/x856hbh/s/live-380.m3u8"
             }
         },
         "القناةالثانية": {
@@ -1877,7 +1875,7 @@
         }
     },
     "rotanas": {
-        "روتانا سينما": {
+        "روتاناسينما": {
             "links":{
                 "1080p": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8",
                 "720p": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8",
@@ -1885,38 +1883,38 @@
                 "244p": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_3/chunklist.m3u8"
             }
         },
-        "روتانا مصرية": {
+        "روتانامصرية": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/270694"
             }
         },
-        "Rotana Kids": {
+        "RotanaKids": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/266142",
                 "الرابط 2": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo"
             }
         },
-        "Rotana خليجية": {
+        "Rotanaخليجية": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1224"
             }
         },
-        "روتانا دراما": {
+        "روتانادراما": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2906"
             }
         },
-        "روتانا كوميدي": {
+        "روتاناكوميدي": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1221"
             }
         },
-        "روتانا كلاسيك": {
+        "روتاناكلاسيك": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1219"
             }
         },
-        "روتانا افلام": {
+        "روتاناافلام": {
             "links":{
                 "الرابط 1": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8",
                 "الرابط 2": "https://www.elahmad.com/tv/live/live_stream.php?id=rotana_aflam_plus"
@@ -1924,12 +1922,12 @@
         }
     },
     "sd": {
-        "قناة السودان": {
+        "قناةالسودان": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/72541"
             }
         },
-        "قناة الخرطوم": {
+        "قناةالخرطوم": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/295490"
             }
