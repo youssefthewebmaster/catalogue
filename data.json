@@ -1,40 +1,40 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de Mardi 22 Avril 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-05-28-SPOT%20BIM%2018-22%20AVRIL%2020252.jpg",
+      "link": "bim1"
+    },
+    "new2": {
       "title": "Kazyon Market",
       "date": "Offre de Mardi 22 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
       "link": "kazyon1"
     },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de 19 Avril 2025",
       "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/491893065_680073974621818_4983512204650046552_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-4a514005&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QHmAQZ1sXA4AHr83QFEXFt_RsXw-GPGF58Xq1zaiWYPaJv9aPVC8S6gL0QBshU9X9Y&_nc_ohc=oFXet8Q0L5UQ7kNvwF7c5ln&_nc_gid=1YguS7VRD3jn9NMknL-jPQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYxMzM0OTcwMzU3MjU1MjUwMQ%3D%3D.3-ccb7-5-cb30a688f7-4a514005&oh=00_AfE_wObUzCq79m7waL3pskfnuIQPUU6zTdExZP0SJf8aiQ&oe=6808591A&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new3": {
+    "new4": {
       "title": "Marjane Méga",
       "date": "Offre de 19 au 20 Avril 2025",
       "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/491475931_1020795993488146_6954207491917583396_n.jpg?stp=dst-jpg_e35_tt6&cb=30a688f7-4a514005&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QEpKoxVSbwILzatyj_U0i8mVw99G3dpHz6MjsDiVx699Ymxva1UdwIboxrrCs8aMb0&_nc_ohc=VWNoMKzp81sQ7kNvwFiB23l&_nc_gid=xqjMIxpXJSd0fcNfqEEKWQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYxMzM3ODk3Mjg3NjMwMDU5Mw%3D%3D.3-ccb7-5-cb30a688f7-4a514005&oh=00_AfH1dz5UYX4F9QnuyC2vEqfdUwZ3gLC8jfUeKYMzV4bmYg&oe=6808A240&_nc_sid=7a9f4b",
       "link": "marjane1"
     },
-    "new4": {
+    "new5": {
       "title": "Supeco Market",
       "date": "Offre de 18 au 20 Avril 2025",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t51.29350-15/490335990_1922846791586125_2382712526570048222_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42MTJ4MTA4MS5zZHIuZjI5MzUwLmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEYBPVtUSA0pDHm5GdIpEKHyJc3xYmGBFh_MEn7WTVSDGQZqoZtVUcM8ju-R2QInts&_nc_ohc=V-AL7LzlWpYQ7kNvwEFcY01&_nc_gid=ZBBuiM0E6l8FtysERvbFMw&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzYxMjMyNTM1ODcxMzQzODIwMTEzODk3MjQ2Mjg3NzA4MTY%3D.3-ccb7-5&oh=00_AfFNzvKak0eO_f_-Lwis8__a0zpKzmngzQDJL_DvN0oZXQ&oe=6805ED55&_nc_sid=7a9f4b",
       "link": "supeco"
     },
-    "new5": {
+    "new6": {
       "title": "Kazyon Market",
       "date": "Offre de 17 au 23 Avril 2025",
       "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/491598885_547628795051064_2974945417857833892_n.jpg?stp=c0.21.1448.1767a_dst-jpg_e35_tt6&cb=30a688f7-4a514005&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDh4MTgxMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QFkvqbSBh6HC800RVXpXRB1Vy47l-xyBgGPrlGDnFHRJkxSH5LOWBDskK6eJK7Fvx0&_nc_ohc=TBi8CLNX-wcQ7kNvwHWEKZf&_nc_gid=-jYhTkSEYN7U6iw6ygmIvA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYxMjE1ODA0MzUxOTM0MzEwMA%3D%3D.3-ccb7-5-cb30a688f7-4a514005&oh=00_AfHzqu7_OP1RWhdX6Yg5I582FZRC6mJV-Ukm4HjhJe2fdw&oe=6806175B&_nc_sid=7a9f4b",
       "link": "kazyon"
-    },
-    "new6": {
-      "title": "Bim Market",
-      "date": "Offre de Mardi 15 Avril 2025",
-      "thumbnail": "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-32-03-WEB%20Spot%20BIM%2011-15%20Avril%2020254%20gr%202.jpg",
-      "link": "bim1"
     },
     "new7": {
       "title": "Atacadão Market",
@@ -145,11 +145,11 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "A partir de 11 Avril 2025",
-      "thumbnail": "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-30-50-WEB%20Spot%20BIM%2011-15%20Avril%202025%20spot%201.jpg",
+      "date": "A partir de Mardi 22 Avril 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-05-28-SPOT%20BIM%2018-22%20AVRIL%2020252.jpg",
       "images": [
-        "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-30-50-WEB%20Spot%20BIM%2011-15%20Avril%202025%20spot%201.jpg",
-        "https://cdn2.bim.ma/uploads/ma/Files/4-04-2025-18-30-59-WEB%20Spot%20BIM%2011-15%20Avril%2020252%20spot%202.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-05-28-SPOT%20BIM%2018-22%20AVRIL%2020252.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-06-18-SPOT%20BIM%2018-22%20AVRIL%202025.jpg"
       ]
     },
     "bim2": {
