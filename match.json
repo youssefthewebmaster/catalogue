@@ -1945,13 +1945,13 @@
                 "الرابط 2": "https://www.elahmad.com/tv/radiant.php?id=alinsen"
             }
         },
-        "الوطنية 1": {
+        "الوطنية1": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1210",
                 "الرابط 2": "https://www.elahmad.com/tv/radiant.php?id=watania1"
             }
         },
-        "الوطنية 2": {
+        "الوطنية2": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1209",
                 "الرابط 2": "https://www.elahmad.com/tv/radiant.php?id=watania2"
@@ -1963,7 +1963,7 @@
                 "الرابط 2": "https://www.elahmad.com/tv/watchtv.php?id=nessma"
             }
         },
-        "الحوار التونسي": {
+        "الحوارالتونسي": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1255",
                 "الرابط 2": "https://www.elahmad.com/tv/radiant.php?id=elhiwar_ettounsi"
@@ -2049,14 +2049,14 @@
                 "الرابط 2": "https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8"
             }
         },
-        "medi 1": {
+        "medi1": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1237",
                 "الرابط 2": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w130535054_b2256000_slar.m3u8",
                 "الرابط 3": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8"
             }
         },
-        "télé Maroc": {
+        "téléMaroc": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/225140",
                 "الرابط 2": "https://llhls-live.akamaized.net/exp=1742344844~acl=%2F9fa667a7-0d8f-405f-b206-86a1a77dc54b_llhls%2F%2A~hmac=08411af009800e00c83bcbbe58da4824ff56e00aec0001d68234486b7c2a7fae/9fa667a7-0d8f-405f-b206-86a1a77dc54b_llhls/chunklist_b3000000_cmaf_v.m3u8"
@@ -2088,7 +2088,7 @@
                 "الرابط 2": "https://www.elahmad.com/tv/algeria_live.php?id=algerie4"
             }
         },
-        "القرآن الكريم": {
+        "القرآنالكريم": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/296526",
                 "الرابط 2": "https://www.elahmad.com/tv/algeria_live.php?id=algerie5"
@@ -2118,7 +2118,7 @@
                 "الرابط 2": "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv"
             }
         },
-        "الشروق news": {
+        "الشروقnews": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11273",
                 "الرابط 2": "https://www.elahmad.com/tv/algeria_live.php?id=echorouk_news"
@@ -2130,7 +2130,7 @@
                 "الرابط 2": "https://www.elahmad.com/tv/algeria_live.php?id=echorouk_tvhd"
             }
         },
-        "الجزائر N1": {
+        "الجزائرN1": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/202007",
                 "الرابط 2": "https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
@@ -2171,7 +2171,7 @@
                 "الرابط 2": "https://www.elahmad.com/tv/algeria_live.php?id=el_fadjr_tv"
             }
         },
-        "الجزائر الدولية": {
+        "الجزائرالدولية": {
             "links":{
                 "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8",
                 "الرابط 2": "https://www.elahmad.com/tv/algeria_live.php?id=al24news"
@@ -2185,7 +2185,7 @@
         }
     },
     "ly": {
-        "قناة التناصح": {
+        "قناةالتناصح": {
             "links":{
                 "1080p": "https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/chunklist_w1936928677_b7320000_sleng.m3u8",
                 "720p": "https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/chunklist_w1936928677_b3320000_sleng.m3u8",
@@ -2193,7 +2193,7 @@
                 "244p": "https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/chunklist_w1936928677_b770000_sleng.m3u8"
             }
         },
-        "قناة سلام": {
+        "قناةسلام": {
             "links":{
                 "1080p": "https://amsart-live.ercdn.net/salamtv/salamtv_1080p.m3u8",
                 "720p": "https://amsart-live.ercdn.net/salamtv/salamtv_720p.m3u8",
@@ -2201,13 +2201,13 @@
                 "244p": "https://amsart-live.ercdn.net/salamtv/salamtv_360p.m3u8"
             }
         },
-        "ليبيا الحدث": {
+        "ليبياالحدث": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11165",
                 "الرابط 2": "https://www.elahmad.com/tv/radiant.php?id=libya_alhadath"
             }
         },
-        "قناة الوسط": {
+        "قناةالوسط": {
             "links":{
                 "1080p": "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8",
                 "720p": "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_720p/chunks.m3u8",
@@ -2215,35 +2215,35 @@
                 "244p": "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_360p/chunks.m3u8"
             }
         },
-        "ليبيا الوطنية": {
+        "ليبياالوطنية": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/268583",
                 "الرابط 2": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/libya_al_watanya-avc1_600000=3-mp4a_97200=4.m3u8"
             }
         },
-        "ليبيا الرسمية": {
+        "ليبياالرسمية": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/268619",
                 "الرابط 2": "https://www.elahmad.com/tv/radiant.php?id=libya_alrasmeya"
             }
         },
-        "تلفزيون المسار": {
+        "تلفزيونالمسار": {
             "links":{
                 "الرابط 1": "https://starmenajo.com/hls/almasar/index.m3u8",
                 "الرابط 2": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/300777"
             }
         },
-        "ليبيا المستقبل": {
+        "ليبياالمستقبل": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/radiant.php?id=libya_almostakbal"
             }
         },
-        "ليبيا الرياضية 1": {
+        "ليبياالرياضية1": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/269430"
             }
         },
-        "ليبيا الرياضية 2": {
+        "ليبيا الرياضية2": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/296800",
                 "الرابط 2": "https://www.elahmad.com/tv/radiant.php?id=libya_sport"
