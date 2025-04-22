@@ -2245,7 +2245,7 @@
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/269430"
             }
         },
-        "ليبيا الرياضية2": {
+        "ليبياالرياضية2": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/296800",
                 "الرابط 2": "https://www.elahmad.com/tv/radiant.php?id=libya_sport"
@@ -2253,22 +2253,22 @@
         }
     },
     "mo": {
-        "قناة موريتانيا 1": {
+        "موريتانياun": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/arabic-tv-online.php?id=elmouritania"
             }
         },
-        "قناة موريتانيا 2": {
+        "موريتانياdeux": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/arabic-tv-online.php?id=elmouritania2"
             }
         },
-        "قناة المرابطون": {
+        "المرابطون": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/arabic-tv-online.php?id=almourabitoune"
             }
         },
-        "موريتانيا الرياضية": {
+        "موريتانياالرياضية": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/radiant.php?id=mauritanie_sport"
             }
@@ -2287,12 +2287,12 @@
                 "الرابط 2": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1214"
             }
         },
-        "Gulli Arabic": {
+        "GulliArabic": {
             "links":{
                 "الرابط 1": "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index_2.m3u8"
             }
         },
-        "أطفال ومواهب": {
+        "أطفالومواهب": {
             "links":{
                 "الرابط 1": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist_w615743277.m3u8",
                 "الرابط 2": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist_w350798062.m3u8"
@@ -2309,12 +2309,12 @@
                 "الرابط 1": "https://www.elahmad.com/tv/live/channel.php?id=almajd_kids"
             }
         },
-        "المجد روضة": {
+        "المجدروضة": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/live/channel.php?id=almajd_rawda"
             }
         },
-        "المجد بسمة": {
+        "المجدبسمة": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/live/channel.php?id=almajd_bassma"
             }
@@ -2325,12 +2325,12 @@
                 "الرابط 2": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=jscc1"
             }
         },
-        "Be Junior": {
+        "BeJunior": {
             "links": {
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2838"
             }
         },
-        "طيور الجنة": {
+        "طيورالجنة": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11191"                
             }
@@ -2343,13 +2343,13 @@
                 "288p": "https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8"
             }
         },
-        "mbc3 Euroup": {
+        "mbc3Euroup": {
             "links":{
                 "الرابط 1": "https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8",
                 "الرابط 2": "https://mbc-3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_2.m3u8"
             }
         },
-        "Rotana Kids": {
+        "RotanaKids": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/266142",
                 "الرابط 2": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo"
@@ -2360,13 +2360,13 @@
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11348"
             }
         },
-        "Cartoon network عربي": {
+        "CartoonNetworkArab1": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/58461",
                 "الرابط 2": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/283184"
             }
         },
-        "Cartoon network 2 عربي": {
+        "CartoonNetworkArab2": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/285989"
             }
