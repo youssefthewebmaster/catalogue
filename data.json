@@ -1,9 +1,15 @@
 {
   "news": {
+    "new8": {
+      "title": "Atacadão Market",
+      "date": "Offre de 25 Avril au 14 Mai 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-8.jpg",
+      "link": "atacadao1"
+    },
     "new1": {
       "title": "Bim Market",
       "date": "Offre de Vendredi 25 Avril 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-05-28-SPOT%20BIM%2018-22%20AVRIL%2020252.jpg",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-03-26-Aff%20BIM%20Spot%2025%20avril%202025.jpg",
       "link": "bim1"
     },
     "new2": {
@@ -41,12 +47,6 @@
       "date": "Offre de Mercredi 23 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
       "link": "kazyon1"
-    },
-    "new8": {
-      "title": "Atacadão Market",
-      "date": "Offre de 10 au 23 Avril 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2010%20au%2023%20avril%202025-2.jpg",
-      "link": "atacadao1"
     },
     "new9": {
       "title": "Carrefour Méga",
@@ -319,21 +319,17 @@
   "Atacadão": {
     "title": "Atacadão",
     "link": "atacadao",
-    "thumbnail": "https://hmizate.ma/img/cms/480942640_1032127815617707_715110102876888078_n-min.jpg",
-    "date": "Offre de 13 au 26 Mars 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-8.jpg",
+    "date": "Offre de 25 Avril au 14 Mai 2025",
     "images": [
-      "https://hmizate.ma/img/cms/480942640_1032127815617707_715110102876888078_n-min.jpg",
-      "https://hmizate.ma/img/cms/480603049_1032127798951042_5981732033354080576_n-min.jpg"
-    ]
-  },
-  "Atacadão1": {
-    "title": "Atacadão",
-    "link": "atacadao1",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2010%20au%2023%20avril%202025-2.jpg",
-    "date": "Offre de 10 au 23 Avril 2025",
-    "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2010%20au%2023%20avril%202025-2.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2010%20au%2023%20avril%202025-1.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-8.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-7.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-6.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-5.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-3.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-4.jpg"
     ]
   },
   "AswakAssalam": {
