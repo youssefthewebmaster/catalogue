@@ -1,46 +1,46 @@
 {
   "news": {
     "new1": {
+      "title": "Supeco Market",
+      "date": "A partir de Vendredi 25 Avril 2025",
+      "thumbnail": "https://github.com/youssefthewebmaster/catalogue/blob/main/SupecoWeekend.png",
+      "link": "supeco"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "Offre de 25 Avril au 18 Mai 2025",
       "thumbnail": "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/1/page_1_level_4_828209843.webp",
       "link": "aswak"
     },
-    "new2": {
+    "new3": {
       "title": "Atacadão Market",
       "date": "Offre de 25 Avril au 14 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-8.jpg",
       "link": "atacadao1"
     },
-    "new3": {
+    "new4": {
       "title": "Bim Market",
       "date": "Offre de Vendredi 25 Avril 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-03-26-Aff%20BIM%20Spot%2025%20avril%202025.jpg",
       "link": "bim1"
     },
-    "new4": {
+    "new5": {
       "title": "Marjane Market",
       "date": "Du 24 Avril au 11 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/DPL%20Wafer%20(5)_page-0001.jpg",
       "link": "marjaneMarket"
     },
-    "new5": {
+    "new6": {
       "title": "Marjane Méga",
       "date": "Du 24 Avril au 11 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Dep%20Saga%202025%20Digital_page-0001-min.jpg",
       "link": "marjane1"
     },
-    "new6": {
+    "new7": {
       "title": "Kazyon Market",
       "date": "Offre de 24 au 30 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2024%20au%2030%20Avril%202025-1-min.jpg",
       "link": "kazyon"
-    },
-    "new7": {
-      "title": "Supeco Market",
-      "date": "A partir de Mercredi 23 Avril 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMercredi%20(1).png",
-      "link": "supeco"
     },
     "new8": {
       "title": "Kazyon Market",
@@ -384,15 +384,10 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMercredi%20(1).png",
-    "date": "A partir de Mercredi 23 Avril 2025",
+    "thumbnail": "https://github.com/youssefthewebmaster/catalogue/blob/main/SupecoWeekend.png",
+    "date": "A partir de 25 Avril 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMercredi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMercredi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMercredi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMercredi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMercredi%20(5).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMercredi%20(6).png"
+      "https://github.com/youssefthewebmaster/catalogue/blob/main/SupecoWeekend.png"
     ]
   },
   "Kitea": {
