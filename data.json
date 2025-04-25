@@ -1,46 +1,46 @@
 {
   "news": {
     "new1": {
+      "title": "Aswak Assalam",
+      "date": "Offre de 25 Avril au 18 Mai 2025",
+      "thumbnail": "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/1/page_1_level_4_828209843.webp",
+      "link": "aswak"
+    },
+    "new2": {
       "title": "Atacadão Market",
       "date": "Offre de 25 Avril au 14 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-8.jpg",
       "link": "atacadao1"
     },
-    "new2": {
+    "new3": {
       "title": "Bim Market",
       "date": "Offre de Vendredi 25 Avril 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-03-26-Aff%20BIM%20Spot%2025%20avril%202025.jpg",
       "link": "bim1"
     },
-    "new3": {
+    "new4": {
       "title": "Marjane Market",
       "date": "Du 24 Avril au 11 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/DPL%20Wafer%20(5)_page-0001.jpg",
       "link": "marjaneMarket"
     },
-    "new4": {
+    "new5": {
       "title": "Marjane Méga",
       "date": "Du 24 Avril au 11 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Dep%20Saga%202025%20Digital_page-0001-min.jpg",
       "link": "marjane1"
     },
-    "new5": {
+    "new6": {
       "title": "Kazyon Market",
       "date": "Offre de 24 au 30 Avril 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2024%20au%2030%20Avril%202025-1-min.jpg",
       "link": "kazyon"
     },
-    "new6": {
+    "new7": {
       "title": "Supeco Market",
       "date": "A partir de Mercredi 23 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMercredi%20(1).png",
       "link": "supeco"
-    },
-    "new7": {
-      "title": "Aswak Assalam",
-      "date": "A partir de Mercredi 23 Avril 2025",
-      "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/492319311_683283090967573_4963573651141953492_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjc2OHg5NjAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFvklh5Y0gGRH9VWm2xqgBXsSsLsTzWwCXCGoNcDt2pCDEKY9eMY8ablprygJNB064&_nc_ohc=0_EPrfbglA8Q7kNvwGIXdd_&_nc_gid=PkGHs6OiyMcQRlSMMCoV9A&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYxNjQyNTQ2MzkyOTc2NDQ4MA%3D%3D.3-ccb7-5&oh=00_AfGwIqrd-foUn3uLgzhRERR2dolYfY5d0RIPiXPnZL2W6Q&oe=680DA02C&_nc_sid=7a9f4b",
-      "link": "aswak1"
     },
     "new8": {
       "title": "Kazyon Market",
@@ -335,37 +335,39 @@
   "AswakAssalam": {
     "title": "Aswak Assalam",
     "link": "aswak",
-    "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00001.webp",
-    "date": "Offre de 27 Mars au 20 Avril 2025",
+    "thumbnail": "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/1/page_1_level_4_828209843.webp",
+    "date": "Offre de 25 Avril au 18 Mai 2025",
     "images": [
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00001.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00002.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00003.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00004.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00005.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00006.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00007.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00008.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00009.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00010.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00011.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00012.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00013.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00014.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00015.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00016.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00017.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00018.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00019.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00020.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00021.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00022.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00023.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00024.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00025.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00026.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00027.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4592-flyer-3872/paginas/med3/00028.webp"
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/1/page_1_level_4_828209843.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/2/page_2_level_4_522985544.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/3/page_3_level_4_1536868047.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/4/page_4_level_4_1996453051.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/6/page_6_level_4_369046329.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/7/page_7_level_4_1925203643.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/9/page_9_level_4_424578369.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/10/page_10_level_4_1063156104.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/13/page_13_level_4_709985273.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/15/page_15_level_4_1037054236.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/17/page_17_level_4_1514036284.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/18/page_18_level_4_2115776938.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/21/page_21_level_4_487231562.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/22/page_22_level_4_513395609.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/23/page_23_level_4_574553078.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/24/page_24_level_4_1057138271.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/25/page_25_level_4_868199083.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/26/page_26_level_4_603032040.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/27/page_27_level_4_1530451264.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/28/page_28_level_4_744225881.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/29/page_29_level_4_163202545.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/30/page_30_level_4_1206563703.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/32/page_32_level_4_696481574.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/33/page_33_level_4_388474948.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/34/page_34_level_4_1198027968.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/35/page_35_level_4_1930201329.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/36/page_36_level_4_1291443478.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/37/page_37_level_4_72536723.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/38/page_38_level_4_967984703.webp",
+      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/39/page_39_level_4_143253845.webp"
     ]
   },
   "AswakAssalam1": {
@@ -418,9 +420,3 @@
     ]
   }
 }
-
-
-
-
-
-
