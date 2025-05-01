@@ -1,40 +1,40 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de Vendredi 02 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-15-SPOT%20BIM%2002-06%20MAI%202025%20spot.jpg",
+      "link": "bim1"
+    },
+    "new2": {
       "title": "Supeco Market",
       "date": "Offre du 02 au 04 Mai 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend.png",
       "link": "supeco"
     },
-    "new2": {
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre de 01 au 07 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%201er%20au%207%20mai%202025-1-min.jpg",
       "link": "kazyon"
     },
-    "new3": {
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre de Mercredi 30 Avril 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
       "link": "kazyon1"
     },
-    "new4": {
+    "new5": {
       "title": "Aswak Assalam",
       "date": "A partir de Mercredi 30 Avril 2025",
       "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/494362754_688625687099980_8807845943648849797_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEYXb2T9y4O4x05PmwTz3EUlSSeTCqDI6ddvUZTinN2aheHVBDGO-7Bm-xKxJE7_iI&_nc_ohc=MzRzG6C5qFMQ7kNvwFA833k&_nc_gid=3aiW9-YlIfSzMoTMdBhqWw&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYyMTYxNDg1NDk1MjQ0Mzc4OA%3D%3D.3-ccb7-5&oh=00_AfFhR8vG_Oef5ZwJMIc9UTVnZjwPRfR9mZhOw0xKiiTTNA&oe=6816F180&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new5": {
+    "new6": {
       "title": "Atacadão Market",
       "date": "Offre de 25 Avril au 14 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2024%20avril%20au%2014%20mai%202025-8.jpg",
       "link": "atacadao1"
-    },
-    "new6": {
-      "title": "Bim Market",
-      "date": "Offre de Vendredi 25 Avril 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-03-26-Aff%20BIM%20Spot%2025%20avril%202025.jpg",
-      "link": "bim1"
     },
     "new7": {
       "title": "Marjane Market",
@@ -141,11 +141,11 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "A partir de Mardi 22 Avril 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-05-28-SPOT%20BIM%2018-22%20AVRIL%2020252.jpg",
+      "date": "A partir de Vendredi 02 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-15-SPOT%20BIM%2002-06%20MAI%202025%20spot.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-05-28-SPOT%20BIM%2018-22%20AVRIL%2020252.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-06-18-SPOT%20BIM%2018-22%20AVRIL%202025.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-15-SPOT%20BIM%2002-06%20MAI%202025%20spot.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-27-SPOT%20BIM%2002-06%20MAI%202025%20spot2.jpg"
       ]
     },
     "bim2": {
