@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de Mardi 06 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-36-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%201.jpg",
+      "link": "bim2"
+    },
+    "new4": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mardi 06 Mai 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "A partir de Lundi 05 Mai 2025",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/495370707_691428936819655_1051041097126348924_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QF2bKT7FDetAGl65iJAofiWV7KpumyGRUbh-ztc3uBJ7BOtC2E7vSccelKK8zsB4sE&_nc_ohc=G6HqJAvqaKoQ7kNvwGi69CC&_nc_gid=atSHcvNqh33iyK1GhY31WA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYyNDM3OTg0MzA3NTk2MjEwOQ%3D%3D.3-ccb7-5&oh=00_AfFptb97vwugqIyYU-nm6E_Y4xpCdHNgyWXe2Xtqw0kgGQ&oe=681E727E&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new2": {
+    "new3": {
       "title": "Supeco Market",
       "date": "A partir de Lundi 05 Mai 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoLundi%20(1).png",
       "link": "supeco"
     },
-    "new3": {
-      "title": "Kazyon Market",
-      "date": "Offre de Lundi 05 Mai 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(1).png",
-      "link": "kazyon1"
-    },
-    "new4": {
+    "new5": {
       "title": "Marjane Méga",
       "date": "Offre du 02 au 04 Mai 2025",
       "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t51.29350-15/494920486_1020032559701489_7440842488877238379_n.heic?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTgwMC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QF0Js_xvGk2FuXQKVev6TKnvcpurDmTJ2-fMZ5r30BKCSdN4ajSM6P7myf6BKq5g68&_nc_ohc=QimmloEe1EYQ7kNvwHEc9L5&_nc_gid=EQfKLf4xfMpPbWMdTuA37A&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzYyMzUyODI5ODg1MjgxMjM2Nw%3D%3D.3-ccb7-5&oh=00_AfH6M8qsgpzFeKUro68NnMwovkGlSMYmmRRJrNsVee675Q&oe=681B0EE4&_nc_sid=7a9f4b",
       "link": "marjane1"
-    },
-    "new5": {
-      "title": "Bim Market",
-      "date": "A partir de Vendredi 02 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-15-SPOT%20BIM%2002-06%20MAI%202025%20spot.jpg",
-      "link": "bim1"
     },
     "new6": {
       "title": "Kazyon Market",
@@ -168,16 +168,11 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "Offre de Vendredi 25 Avril 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-03-26-Aff%20BIM%20Spot%2025%20avril%202025.jpg",
+      "date": "A partir de Mardi 06 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-36-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%201.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-03-26-Aff%20BIM%20Spot%2025%20avril%202025.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-03-41-Aff%20BIM%20Spot%2025%20avril%2020253.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/18-04-2025-17-03-52-BIM%20Spot%2025%20avril%20202544.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2025%20avril%20au%2030%20mai%202025-2.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2025%20avril%20au%2030%20mai%202025-4.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2025%20avril%20au%2030%20mai%202025-1.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2025%20avril%20au%2030%20mai%202025-3.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-36-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%201.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-48-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%202.jpg"
       ]
     }
   },
@@ -279,13 +274,13 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(1).png",
-    "date": "Offre de Lundi 05 Mai 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
+    "date": "Offre de Mardi 06 Mai 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(4).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(4).png"
     ]
   },
   "Atacadão": {
