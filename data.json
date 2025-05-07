@@ -1,24 +1,24 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mercredi 07 Mai 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "A partir de Mardi 06 Mai 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-36-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%201.jpg",
       "link": "bim2"
     },
-    "new4": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 06 Mai 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "link": "kazyon1"
-    },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de Lundi 05 Mai 2025",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/495370707_691428936819655_1051041097126348924_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QF2bKT7FDetAGl65iJAofiWV7KpumyGRUbh-ztc3uBJ7BOtC2E7vSccelKK8zsB4sE&_nc_ohc=G6HqJAvqaKoQ7kNvwGi69CC&_nc_gid=atSHcvNqh33iyK1GhY31WA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYyNDM3OTg0MzA3NTk2MjEwOQ%3D%3D.3-ccb7-5&oh=00_AfFptb97vwugqIyYU-nm6E_Y4xpCdHNgyWXe2Xtqw0kgGQ&oe=681E727E&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new3": {
+    "new4": {
       "title": "Supeco Market",
       "date": "A partir de Lundi 05 Mai 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoLundi%20(1).png",
@@ -59,6 +59,51 @@
       "date": "A partir de 04 Avril 2025",
       "thumbnail": "https://instagram.fcmn3-1.fna.fbcdn.net/v/t39.30808-6/488601910_1071035238390420_4875413696271466523_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEzMzh4MTY3My5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn3-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QGNIADEBjjMietpo9r46RcgmR0Rzwt1dD2PTjZBqvV90-HGgCCir4SCLcjbhnXtVt8&_nc_ohc=jw6YvaRaBCcQ7kNvwGTcrur&_nc_gid=VdInr9NTRWrPmeNGmWwXHg&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwMjU3MTg5MDEzMDQyODM2Mw%3D%3D.3-ccb7-5&oh=00_AYFslt1o8UvzYmcMs6WzYXNzpSjX3K22Y2g_zR09tAijqw&oe=67F56B23&_nc_sid=7a9f4b",
       "link": "carrefourMarket2"
+    }
+  },
+  "Kazyon": {
+    "link": "kazyon",
+    "title": "Kazyon",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%201er%20au%207%20mai%202025-1-min.jpg",
+    "date": "Offre de 01 au 07 Mai 2025",
+    "images": [
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%201er%20au%207%20mai%202025-1-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%201er%20au%207%20mai%202025-2-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%201er%20au%207%20mai%202025-3-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%201er%20au%207%20mai%202025-4-min.jpg"
+    ]
+  },
+  "Kazyon1": {
+    "title": "Kazyon",
+    "link": "kazyon1",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+    "date": "Offre de Mercredi 07 Mai 2025",
+    "images": [
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(3).png"
+    ]
+  },
+  "bims": {
+    "bim1": {
+      "title": "Bim",
+      "link": "bim1",
+      "date": "A partir de Vendredi 02 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-15-SPOT%20BIM%2002-06%20MAI%202025%20spot.jpg",
+      "images": [
+        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-15-SPOT%20BIM%2002-06%20MAI%202025%20spot.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-27-SPOT%20BIM%2002-06%20MAI%202025%20spot2.jpg"
+      ]
+    },
+    "bim2": {
+      "title": "Bim",
+      "link": "bim2",
+      "date": "A partir de Mardi 06 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-36-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%201.jpg",
+      "images": [
+        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-36-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%201.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-48-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%202.jpg"
+      ]
     }
   },
   "marjans": {
@@ -154,28 +199,6 @@
       ]
     }
   },
-  "bims": {
-    "bim1": {
-      "title": "Bim",
-      "link": "bim1",
-      "date": "A partir de Vendredi 02 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-15-SPOT%20BIM%2002-06%20MAI%202025%20spot.jpg",
-      "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-15-SPOT%20BIM%2002-06%20MAI%202025%20spot.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-27-SPOT%20BIM%2002-06%20MAI%202025%20spot2.jpg"
-      ]
-    },
-    "bim2": {
-      "title": "Bim",
-      "link": "bim2",
-      "date": "A partir de Mardi 06 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-36-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%201.jpg",
-      "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-36-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%201.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-48-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%202.jpg"
-      ]
-    }
-  },
   "carrefours": {
     "carrefour1": {
       "title": "Carrefour",
@@ -258,30 +281,6 @@
         "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4628-flyer-3901/paginas/med3/00012.webp"
       ]
     }
-  },
-  "Kazyon": {
-    "link": "kazyon",
-    "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%201er%20au%207%20mai%202025-1-min.jpg",
-    "date": "Offre de 01 au 07 Mai 2025",
-    "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%201er%20au%207%20mai%202025-1-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%201er%20au%207%20mai%202025-2-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%201er%20au%207%20mai%202025-3-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%201er%20au%207%20mai%202025-4-min.jpg"
-    ]
-  },
-  "Kazyon1": {
-    "title": "Kazyon",
-    "link": "kazyon1",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-    "date": "Offre de Mardi 06 Mai 2025",
-    "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(4).png"
-    ]
   },
   "Atacadão": {
     "title": "Atacadão",
