@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de Vendredi 09 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-05-2025-14-07-18-Spot%20Bim%2009-13%20Mai%202025%20SPOT%201.jpg",
+      "link": "bim1"
+    },
+    "new2": {
       "title": "Kazyon Market",
       "date": "Offre de 08 au 14 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%208%20au%2014%20mai%202025-1.jpg",
       "link": "kazyon"
     },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de Mercredi 07 Mai 2025",
       "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/495379835_693798783249337_269951132428102468_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFpq3VQfe-FqfrkOThKQJI4f_712e7WzdHjRZvnUXZIBxgaDP4an7PsEO3Tc5DBvIA&_nc_ohc=PWZ2VcbCpE4Q7kNvwHHhTHg&_nc_gid=borRcK1vfIHwbqvqhO-PYQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYyNjc0MDEzOTkzODkwNDkzMQ%3D%3D.3-ccb7-5&oh=00_AfJLyAyHaxyBb27a_CK2PsqCsL57NsZyx6IHciIVutG9MA&oe=6820F469&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new3": {
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre de Mercredi 07 Mai 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
       "link": "kazyon1"
     },
-    "new4": {
+    "new5": {
       "title": "Supeco Market",
       "date": "A partir de Mercredi 07 Mai 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMercredi.png",
       "link": "supeco"
-    },
-    "new5": {
-      "title": "Bim Market",
-      "date": "A partir de Mardi 06 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-36-SPOT%20BIM%2002-06%20MAI%202025%20gr%20spot%201.jpg",
-      "link": "bim2"
     },
     "new6": {
       "title": "Marjane Méga",
@@ -88,11 +88,11 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "A partir de Vendredi 02 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-15-SPOT%20BIM%2002-06%20MAI%202025%20spot.jpg",
+      "date": "A partir de Vendredi 09 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/6-05-2025-14-07-18-Spot%20Bim%2009-13%20Mai%202025%20SPOT%201.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-15-SPOT%20BIM%2002-06%20MAI%202025%20spot.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/25-04-2025-17-39-27-SPOT%20BIM%2002-06%20MAI%202025%20spot2.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/6-05-2025-14-07-18-Spot%20Bim%2009-13%20Mai%202025%20SPOT%201.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/6-05-2025-14-07-29-Spot%20Bim%2009-13%20Mai%202025%20SPOT%202.jpg"
       ]
     },
     "bim2": {
