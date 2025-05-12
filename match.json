@@ -3312,21 +3312,21 @@
                 "الرابط 2": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=24f9129c-4a1d-11ef-b473-2ab7b6cbcb35"
             }
         },
-        "planet+": {
+        "planetPlus": {
             "links": {
                 "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426607",
                 "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/299",
                 "الرابط 3": "http://ky-iptv.com:80/DAVMR31/44991177/1842921.ts"
             }
         },
-        "planet+crime": {
+        "planetCrime": {
             "links": {
                 "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426545",
                 "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/303",
                 "الرابط 3": "http://ky-iptv.com:80/DAVMR31/44991177/182494.ts"
             }
         },
-        "planet+aventure": {
+        "planetAventure": {
             "links": {
                 "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426606",
                 "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/301",
