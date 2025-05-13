@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mercredi 14 Mai 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "Offre de Mardi 13 Mai 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/12-05-2025-14-41-27-Spot%20Bim%2009-13%20Mai%202025%20GR%20SPOT%201.jpg",
       "link": "bim2"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 13 Mai 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "link": "kazyon1"
     },
     "new3": {
       "title": "Supeco Market",
@@ -76,15 +76,14 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-    "date": "Offre de Mardi 13 Mai 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+    "date": "Offre de Mercredi 14 Mai 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(5).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(6).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(4).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(5).png"
     ]
   },
   "bims": {
