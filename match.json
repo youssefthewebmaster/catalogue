@@ -28,7 +28,33 @@
             "channelName": "Bein Sport 1",
             "folder": "beinSport",
             "link": "beinSport1",
-            "picture":"b2",
+            "picture":"b1",
+            "comment": "عصام الشوالي"
+        },
+        "event3": {
+            "team1": "برشلونة",
+            "team2": "إنتر ميلان",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/fcBarcelona.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/interMilan.png",
+            "time":"19:30",
+            "championName": "عصبة الأبطال",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"b1",
+            "comment": "عصام الشوالي"
+        },
+        "event4": {
+            "team1": "برشلونة",
+            "team2": "إنتر ميلان",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/fcBarcelona.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/interMilan.png",
+            "time":"19:30",
+            "championName": "عصبة الأبطال",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"b1",
             "comment": "عصام الشوالي"
         }
     },
