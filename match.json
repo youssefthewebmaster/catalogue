@@ -25,10 +25,10 @@
             "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/interMilan.png",
             "time":"19:30",
             "championName": "عصبة الأبطال",
-            "channelName": "Bein Sport 1",
+            "channelName": "Bein Sport 2",
             "folder": "beinSport",
             "link": "beinSport1",
-            "picture":"b1",
+            "picture":"b2",
             "comment": "عصام الشوالي"
         },
         "event3": {
@@ -38,10 +38,10 @@
             "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/interMilan.png",
             "time":"19:30",
             "championName": "عصبة الأبطال",
-            "channelName": "Bein Sport 1",
+            "channelName": "Bein Sport 3",
             "folder": "beinSport",
             "link": "beinSport1",
-            "picture":"b1",
+            "picture":"b3",
             "comment": "عصام الشوالي"
         },
         "event4": {
@@ -51,10 +51,10 @@
             "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/interMilan.png",
             "time":"19:30",
             "championName": "عصبة الأبطال",
-            "channelName": "Bein Sport 1",
+            "channelName": "Bein Sport 4",
             "folder": "beinSport",
             "link": "beinSport1",
-            "picture":"b1",
+            "picture":"b4",
             "comment": "عصام الشوالي"
         }
     },
