@@ -1,40 +1,40 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de Vendredi 23 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-17-58-25-webSpot%20Bim%2023%20Mai%2020254.jpg",
+      "link": "bim1"
+    },
+    "new2": {
       "title": "Marjane Méga",
       "date": "Du 22 Mai au 16 Juin 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Aid%20ElKbir_page-0001-min.jpg",
       "link": "marjane"
     },
-    "new2": {
+    "new3": {
       "title": "Marjane Market",
       "date": "Du 22 Mai au 16 Juin 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Aid%20AL%20ADHA%20Market_page-0001-min.jpg",
       "link": "marjaneMarket"
     },
-    "new3": {
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre de 22 au 28 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20mai%202025-2-min.jpg",
       "link": "kazyon"
     },
-    "new4": {
+    "new5": {
       "title": "Kazyon Market",
       "date": "Offre de Mercredi 21 Mai 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
       "link": "kazyon1"
     },
-    "new5": {
+    "new6": {
       "title": "Aswak Assalam",
       "date": "Offre de Mercredi 21 Mai 2025",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/499865115_703058188990063_3710127535591935018_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QE49S2pkbrIwAszMqmtGsCeegZj8qcYb1oMRw7j7K1bVtXpbJg2LjiJXKKEz7hj27M&_nc_ohc=dSI67aTS6c8Q7kNvwHWg6kW&_nc_gid=EMZFtap7TsGYmXuIpzj9Ng&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzNjgzNDYyNTM3MzI1NDQ5OA%3D%3D.3-ccb7-5&oh=00_AfJp3trIaEma6V0DXbjt6knWBSQ3AGXCniYxoQtBGclimA&oe=6832E049&_nc_sid=7a9f4b",
       "link": "aswak1"
-    },
-    "new6": {
-      "title": "Bim Market",
-      "date": "Offre de Mardi 20 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-00-29-6.JPG",
-      "link": "bim2"
     },
     "new7": {
       "title": "Supeco Market",
@@ -91,14 +91,14 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "A partir de Vendredi 16 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/12-05-2025-14-30-13-1.JPG",
+      "date": "A partir de Vendredi 23 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-17-58-25-webSpot%20Bim%2023%20Mai%2020254.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/12-05-2025-14-30-13-1.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/12-05-2025-14-30-22-2.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/12-05-2025-14-30-28-3.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/12-05-2025-14-30-36-4.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/12-05-2025-14-30-42-5.JPG"
+        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-17-58-25-webSpot%20Bim%2023%20Mai%2020254.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-17-58-36-webSpot%20Bim%2023%20Mai%2020255.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-17-57-54-webSpot%20Bim%2023%20Mai%202025.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-17-58-04-webSpot%20Bim%2023%20Mai%2020252.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-17-58-13-webSpot%20Bim%2023%20Mai%2020253.jpg"
       ]
     },
     "bim2": {
