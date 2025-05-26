@@ -1,58 +1,58 @@
 {
   "news": {
     "new1": {
-      "title": "Kazyon Market",
-      "date": "Offre du 24 au 25 Mai 2025",
-      "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/500282607_575180065629270_7964140387623800492_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QE6_4AW6YRnC9GF5NATHe5bkYjoj5oQamLJSOOQ5Jk51Z-5VXwd5P1OJL9qvgazjv8&_nc_ohc=9G4n6aX5qIQQ7kNvwFO4kOg&_nc_gid=EO0uaRw3jqYmfuJ1LPezqQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzOTAzNTUwOTQwNjI4NDA2MQ%3D%3D.3-ccb7-5&oh=00_AfJ3f1UZME1ZgHJzm1rgpB_JXrSlBK4ncw1WWFkYCEv0qw&oe=6836DA6C&_nc_sid=7a9f4b",
-      "link": "kazyon1"
+      "title": "Carrefour Méga",
+      "date": "Offre 22 Mai au 21 Juin 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/book_page-0001-min.jpg",
+      "link": "carrefour1"
     },
     "new2": {
+      "title": "Bim Market",
+      "date": "Offre de Mardi 27 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/26-05-2025-12-20-06-webG%20Spot%20Bim%2027%20Mai%202025.jpg",
+      "link": "bim2"
+    },
+    "new3": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mardi 26 Mai 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new4": {
+      "title": "Supeco Market",
+      "date": "Offre du 23 au 25 Mai 2025",
+      "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t51.2885-15/500582415_18048166520578884_9207786106649161602_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjc1NzYxLmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QF3t3G_RpbSFNo7_b_cscQmDO5vQe4lubtBE9d74mCnDiRyWglgpjN39Wa0236kX0s&_nc_ohc=59xS5BzsKiAQ7kNvwGvK1QZ&_nc_gid=9t-6qNHdUNHwaaBebNtWSg&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzY0MTAyNTAyOTM2NzIyNTkxNzE4MDQ4MTY2NTE0NTc4ODg0.3-ccb7-5&oh=00_AfLxtP-YGIqBTTzr5r2GnpnKx-gJftsbfbjLOQsNULXVpw&oe=683ACE3C&_nc_sid=7a9f4b",
+      "link": "supeco"
+    },
+    "new5": {
       "title": "Aswak Assalam",
       "date": "Offre de Mercredi 24 Mai 2025",
       "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/499713535_704462275516321_7028843017986676297_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEqM9k7LnJ2dPzFGtyOtVxSgntyBvA3pTYbNZ-qhEcZMDJ8p4JlC6icusGJUS7d3yA&_nc_ohc=iP1oTbb4MdsQ7kNvwG_180r&_nc_gid=TKhK0IgSKmGh36zJBBe2Pw&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzODI0MDMyNDgxNjkwMzQ2NQ%3D%3D.3-ccb7-5&oh=00_AfK1eZ_fFQyNLejllfM_zZ24vshQrT4Q3_kl-aYfbtacoQ&oe=6836DEB7&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new3": {
-      "title": "Supeco Market",
-      "date": "Offre du 23 au 25 Mai 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(1).png",
-      "link": "supeco"
-    },
-    "new4": {
-      "title": "Bim Market",
-      "date": "A partir de Vendredi 23 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-17-58-25-webSpot%20Bim%2023%20Mai%2020254.jpg",
-      "link": "bim1"
-    },
-    "new5": {
+    "new6": {
       "title": "Marjane Méga",
       "date": "Du 22 Mai au 16 Juin 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Aid%20ElKbir_page-0001-min.jpg",
       "link": "marjane"
     },
-    "new6": {
+    "new7": {
       "title": "Marjane Market",
       "date": "Du 22 Mai au 16 Juin 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Aid%20AL%20ADHA%20Market_page-0001-min.jpg",
       "link": "marjaneMarket"
     },
-    "new7": {
+    "new8": {
       "title": "Kazyon Market",
       "date": "Offre de 22 au 28 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20mai%202025-2-min.jpg",
       "link": "kazyon"
     },
-    "new8": {
+    "new9": {
       "title": "Atacadão Market",
       "date": "Offre de 16 au 28 Mai 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2015au%2028%20mai%202025.jpg",
       "link": "atacadao1"
-    },
-    "new9": {
-      "title": "Carrefour Méga",
-      "date": "Offre de 07 au 14 Avril 2025",
-      "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/489044709_1068897608611261_334232981841045377_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QHggYXkDCHOZ7KkpffAyUZ6HblrzmG-0pc47Ed_sXs0WxwPBA08lddwKyffBza9BZU&_nc_ohc=zBBy_husnfYQ7kNvwEkQJ3b&_nc_gid=wC99UPCDhLtlEnIz08xuqA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYwNDg2MjI1ODc3MDIxMTc0Mg%3D%3D.3-ccb7-5&oh=00_AfEWE70IeGdDT5761BQJcCaujxuqpaJxanfCX4FuOtqp6w&oe=67F8CBEC&_nc_sid=7a9f4b",
-      "link": "carrefour2"
     },
     "new10": {
       "title": "Carrefour Market",
@@ -76,16 +76,15 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/500282607_575180065629270_7964140387623800492_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QE6_4AW6YRnC9GF5NATHe5bkYjoj5oQamLJSOOQ5Jk51Z-5VXwd5P1OJL9qvgazjv8&_nc_ohc=9G4n6aX5qIQQ7kNvwFO4kOg&_nc_gid=EO0uaRw3jqYmfuJ1LPezqQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzOTAzNTUwOTQwNjI4NDA2MQ%3D%3D.3-ccb7-5&oh=00_AfJ3f1UZME1ZgHJzm1rgpB_JXrSlBK4ncw1WWFkYCEv0qw&oe=6836DA6C&_nc_sid=7a9f4b",
-    "date": "Offre du 24 au 25 Mai 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
+    "date": "Offre de Mardi 27 Mai 2025",
     "images": [
-      "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/500282607_575180065629270_7964140387623800492_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QE6_4AW6YRnC9GF5NATHe5bkYjoj5oQamLJSOOQ5Jk51Z-5VXwd5P1OJL9qvgazjv8&_nc_ohc=9G4n6aX5qIQQ7kNvwFO4kOg&_nc_gid=EO0uaRw3jqYmfuJ1LPezqQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzOTAzNTUwOTQwNjI4NDA2MQ%3D%3D.3-ccb7-5&oh=00_AfJ3f1UZME1ZgHJzm1rgpB_JXrSlBK4ncw1WWFkYCEv0qw&oe=6836DA6C&_nc_sid=7a9f4b",
-      "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/500068488_575180042295939_3188770154850227040_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QE6_4AW6YRnC9GF5NATHe5bkYjoj5oQamLJSOOQ5Jk51Z-5VXwd5P1OJL9qvgazjv8&_nc_ohc=8QkoAc3YxUsQ7kNvwHLxW_T&_nc_gid=EO0uaRw3jqYmfuJ1LPezqQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzOTAzNTUwOTE2MzAyNjE1NA%3D%3D.3-ccb7-5&oh=00_AfJTOcno1to5uNxtKXmRTj0qOrgKsDb9p4AZpaoyh4aZsg&oe=6836D07E&_nc_sid=7a9f4b",
-      "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/500466105_575180068962603_7722323081856139080_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QE6_4AW6YRnC9GF5NATHe5bkYjoj5oQamLJSOOQ5Jk51Z-5VXwd5P1OJL9qvgazjv8&_nc_ohc=DCfNBuAvmV0Q7kNvwEcc8H4&_nc_gid=EO0uaRw3jqYmfuJ1LPezqQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzOTAzNTUwODk1MzI1MDY1Ng%3D%3D.3-ccb7-5&oh=00_AfIKUCM8_o9b5SU3i51fA07y0SjiMeb8jQIbCBwXkrDDYg&oe=6836CA4E&_nc_sid=7a9f4b",
-      "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/499532087_575180052295938_3781782906766222270_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QE6_4AW6YRnC9GF5NATHe5bkYjoj5oQamLJSOOQ5Jk51Z-5VXwd5P1OJL9qvgazjv8&_nc_ohc=fkoA8f57JqQQ7kNvwF2CVfq&_nc_gid=EO0uaRw3jqYmfuJ1LPezqQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzOTAzNTUwODI1NzE2ODM4OA%3D%3D.3-ccb7-5&oh=00_AfJDWFUBatYY4PJWzKOGotuazLgcE61vffZRowJOcXB4Rw&oe=6836E39B&_nc_sid=7a9f4b",
-      "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/499579544_575180055629271_3379483259491935520_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QE6_4AW6YRnC9GF5NATHe5bkYjoj5oQamLJSOOQ5Jk51Z-5VXwd5P1OJL9qvgazjv8&_nc_ohc=fDt1RgLNKx8Q7kNvwEpHm9w&_nc_gid=EO0uaRw3jqYmfuJ1LPezqQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzOTAzNTUwNzg3OTY4MDg3OQ%3D%3D.3-ccb7-5&oh=00_AfJTl57cdDpIzpxWt2UIJDgG4Nv60QR-xNDZD5n4kaNJUg&oe=6836E52B&_nc_sid=7a9f4b",
-      "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/500079051_575179992295944_2092999933123950648_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QE6_4AW6YRnC9GF5NATHe5bkYjoj5oQamLJSOOQ5Jk51Z-5VXwd5P1OJL9qvgazjv8&_nc_ohc=Y9WOo67_HFsQ7kNvwH5YZcL&_nc_gid=EO0uaRw3jqYmfuJ1LPezqQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzOTAzNTUwODM4Mjk5NDk4Ng%3D%3D.3-ccb7-5&oh=00_AfLFqBVEs-VPzPjaGJCtV-WwuZhz1QJwhvOFP7y67L0muA&oe=6836C1C9&_nc_sid=7a9f4b",
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/499641670_575179988962611_2444562724308507634_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QE6_4AW6YRnC9GF5NATHe5bkYjoj5oQamLJSOOQ5Jk51Z-5VXwd5P1OJL9qvgazjv8&_nc_ohc=wpXGOEEsk-wQ7kNvwFLqqAw&_nc_gid=EO0uaRw3jqYmfuJ1LPezqQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzOTAzNTUwOTcwODM3NDkyOQ%3D%3D.3-ccb7-5&oh=00_AfLQme4trZRmgSzPfDkS3dZ2Hj-fqGc04uVHwsehUBysGg&oe=6836BDA0&_nc_sid=7a9f4b"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(4).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(5).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(6).png"
     ]
   },
   "bims": {
@@ -105,40 +104,22 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "Offre de Mardi 20 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-00-29-6.JPG",
+      "date": "Offre de Mardi 27 Mai 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/26-05-2025-12-20-06-webG%20Spot%20Bim%2027%20Mai%202025.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-00-29-6.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-00-36-7.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-00-43-8.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-00-58-9.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-01-24-10.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-01-32-11.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-01-41-12.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-01-51-13.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-03-03-14.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-03-21-15.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-03-31-16.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-03-47-17.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-04-02-18.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-04-45-21.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-04-57-22.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-05-10-23.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-05-23-24.JPG",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-07-39-19-RECTIF.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/16-05-2025-18-08-36-20-RECTIF.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/26-05-2025-12-20-06-webG%20Spot%20Bim%2027%20Mai%202025.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/26-05-2025-12-20-18-webG%20Spot%20Bim%2027%20Mai%2020252.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/26-05-2025-12-20-28-webG%20Spot%20Bim%2027%20Mai%2020253.jpg"
       ]
     }
   },
   "Supeco": {
     "link": "supeco",
     "title": "Supeco",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(1).png",
-    "date": "Offre du 23 au 25 Mai 2025",
+    "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t51.2885-15/500582415_18048166520578884_9207786106649161602_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjc1NzYxLmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QF3t3G_RpbSFNo7_b_cscQmDO5vQe4lubtBE9d74mCnDiRyWglgpjN39Wa0236kX0s&_nc_ohc=59xS5BzsKiAQ7kNvwGvK1QZ&_nc_gid=9t-6qNHdUNHwaaBebNtWSg&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzY0MTAyNTAyOTM2NzIyNTkxNzE4MDQ4MTY2NTE0NTc4ODg0.3-ccb7-5&oh=00_AfLxtP-YGIqBTTzr5r2GnpnKx-gJftsbfbjLOQsNULXVpw&oe=683ACE3C&_nc_sid=7a9f4b",
+    "date": "Offre de Mardi 27 Mai 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(3).png"
+      "https://instagram.frba1-2.fna.fbcdn.net/v/t51.2885-15/500582415_18048166520578884_9207786106649161602_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjc1NzYxLmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QF3t3G_RpbSFNo7_b_cscQmDO5vQe4lubtBE9d74mCnDiRyWglgpjN39Wa0236kX0s&_nc_ohc=59xS5BzsKiAQ7kNvwGvK1QZ&_nc_gid=9t-6qNHdUNHwaaBebNtWSg&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzY0MTAyNTAyOTM2NzIyNTkxNzE4MDQ4MTY2NTE0NTc4ODg0.3-ccb7-5&oh=00_AfLxtP-YGIqBTTzr5r2GnpnKx-gJftsbfbjLOQsNULXVpw&oe=683ACE3C&_nc_sid=7a9f4b"
     ]
   },
   "AswakAssalam": {
@@ -269,46 +250,32 @@
     "carrefour1": {
       "title": "Carrefour",
       "link": "carrefour1",
-      "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00001.webp",
-      "date": "Offre de 27 Mars au 16 Avril 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/book_page-0001-min.jpg",
+      "date": "Offre 22 Mai au 21 Juin 2025",
       "images": [
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00001.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00002.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00003.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00004.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00005.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00006.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00007.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00009.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00011.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00013.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00015.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00016.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00017.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00018.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00019.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00021.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00023.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00024.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00025.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00027.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00028.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00029.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00030.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00031.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00032.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00033.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00034.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00035.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00036.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00037.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00038.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00039.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00040.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00041.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00042.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00043.webp",
-        "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-4615-flyer-3895/paginas/med3/00044.webp"
+        "https://hmizate.ma/img/cms/book_page-0001-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0002-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0003-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0004-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0005-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0006-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0007-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0008-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0010-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0009-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0011-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0012-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0013-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0014-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0015-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0016-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0017-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0019-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0020-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0021-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0022-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0023-min.jpg",
+        "https://hmizate.ma/img/cms/book_page-0024-min.jpg"
       ]
     },
     "carrefourMarket1": {
