@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Aswak Assalam",
+      "date": "Offre de 28 Mai au 18 Juin 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/1_10.jpg",
+      "link": "aswak"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mercredi 28 Mai 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new3": {
       "title": "Carrefour Méga",
       "date": "Offre 22 Mai au 21 Juin 2025",
       "thumbnail": "https://hmizate.ma/img/cms/book_page-0001-min.jpg",
       "link": "carrefour1"
     },
-    "new2": {
+    "new4": {
       "title": "Bim Market",
       "date": "Offre de Mardi 27 Mai 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/26-05-2025-12-20-06-webG%20Spot%20Bim%2027%20Mai%202025.jpg",
       "link": "bim2"
     },
-    "new3": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 26 Mai 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "link": "kazyon1"
-    },
-    "new4": {
+    "new5": {
       "title": "Supeco Market",
       "date": "Offre du 23 au 25 Mai 2025",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t51.2885-15/500582415_18048166520578884_9207786106649161602_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjc1NzYxLmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QF3t3G_RpbSFNo7_b_cscQmDO5vQe4lubtBE9d74mCnDiRyWglgpjN39Wa0236kX0s&_nc_ohc=59xS5BzsKiAQ7kNvwGvK1QZ&_nc_gid=9t-6qNHdUNHwaaBebNtWSg&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzY0MTAyNTAyOTM2NzIyNTkxNzE4MDQ4MTY2NTE0NTc4ODg0.3-ccb7-5&oh=00_AfLxtP-YGIqBTTzr5r2GnpnKx-gJftsbfbjLOQsNULXVpw&oe=683ACE3C&_nc_sid=7a9f4b",
       "link": "supeco"
-    },
-    "new5": {
-      "title": "Aswak Assalam",
-      "date": "Offre de Mercredi 24 Mai 2025",
-      "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/499713535_704462275516321_7028843017986676297_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEqM9k7LnJ2dPzFGtyOtVxSgntyBvA3pTYbNZ-qhEcZMDJ8p4JlC6icusGJUS7d3yA&_nc_ohc=iP1oTbb4MdsQ7kNvwG_180r&_nc_gid=TKhK0IgSKmGh36zJBBe2Pw&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzYzODI0MDMyNDgxNjkwMzQ2NQ%3D%3D.3-ccb7-5&oh=00_AfK1eZ_fFQyNLejllfM_zZ24vshQrT4Q3_kl-aYfbtacoQ&oe=6836DEB7&_nc_sid=7a9f4b",
-      "link": "aswak1"
     },
     "new6": {
       "title": "Marjane Méga",
@@ -76,15 +76,15 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-    "date": "Offre de Mardi 27 Mai 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+    "date": "Offre de Mercredi 28 Mai 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(5).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(6).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(4).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(5).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(6).png"
     ]
   },
   "bims": {
@@ -125,39 +125,34 @@
   "AswakAssalam": {
     "title": "Aswak Assalam",
     "link": "aswak",
-    "thumbnail": "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/1/page_1_level_4_828209843.webp",
-    "date": "Offre de 25 Avril au 18 Mai 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/1_10.jpg",
+    "date": "Offre de 28 Mai au 18 Juin 2025",
     "images": [
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/1/page_1_level_4_828209843.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/2/page_2_level_4_522985544.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/3/page_3_level_4_1536868047.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/4/page_4_level_4_1996453051.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/6/page_6_level_4_369046329.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/7/page_7_level_4_1925203643.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/9/page_9_level_4_424578369.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/10/page_10_level_4_1063156104.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/13/page_13_level_4_709985273.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/15/page_15_level_4_1037054236.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/17/page_17_level_4_1514036284.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/18/page_18_level_4_2115776938.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/21/page_21_level_4_487231562.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/22/page_22_level_4_513395609.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/23/page_23_level_4_574553078.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/24/page_24_level_4_1057138271.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/25/page_25_level_4_868199083.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/26/page_26_level_4_603032040.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/27/page_27_level_4_1530451264.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/28/page_28_level_4_744225881.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/29/page_29_level_4_163202545.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/30/page_30_level_4_1206563703.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/32/page_32_level_4_696481574.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/33/page_33_level_4_388474948.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/34/page_34_level_4_1198027968.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/35/page_35_level_4_1930201329.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/36/page_36_level_4_1291443478.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/37/page_37_level_4_72536723.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/38/page_38_level_4_967984703.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/6056/39/page_39_level_4_143253845.webp"
+      "https://hmizate.ma/img/cms/1_10.jpg",
+      "https://hmizate.ma/img/cms/2_7.jpg",
+      "https://hmizate.ma/img/cms/3_9.jpg",
+      "https://hmizate.ma/img/cms/4_8.jpg",
+      "https://hmizate.ma/img/cms/5_6.jpg",
+      "https://hmizate.ma/img/cms/6_6.jpg",
+      "https://hmizate.ma/img/cms/7_7.jpg",
+      "https://hmizate.ma/img/cms/8_6.jpg",
+      "https://hmizate.ma/img/cms/9_6.jpg",
+      "https://hmizate.ma/img/cms/10_6.jpg",
+      "https://hmizate.ma/img/cms/11_6.jpg",
+      "https://hmizate.ma/img/cms/12_6.jpg",
+      "https://hmizate.ma/img/cms/15_6.jpg",
+      "https://hmizate.ma/img/cms/16_5.jpg",
+      "https://hmizate.ma/img/cms/19_7.jpg",
+      "https://hmizate.ma/img/cms/20_7.jpg",
+      "https://hmizate.ma/img/cms/21_5.jpg",
+      "https://hmizate.ma/img/cms/23_6.jpg",
+      "https://hmizate.ma/img/cms/24_6.jpg",
+      "https://hmizate.ma/img/cms/25_4.jpg",
+      "https://hmizate.ma/img/cms/27_5.jpg",
+      "https://hmizate.ma/img/cms/28_5.jpg",
+      "https://hmizate.ma/img/cms/29_4.jpg",
+      "https://hmizate.ma/img/cms/30_5.jpg",
+      "https://hmizate.ma/img/cms/31_4.jpg"
     ]
   },
   "AswakAssalam1": {
