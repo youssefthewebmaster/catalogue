@@ -1,58 +1,58 @@
 {
   "news": {
     "new1": {
+      "title": "Atacadão Market",
+      "date": "Offre de 29 Mai au 11 Juin 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%202.jpg",
+      "link": "atacadao"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de 29 Mai au 11 Juin 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/kazyon5.jpg",
+      "link": "kazyon"
+    },
+    "new3": {
       "title": "Aswak Assalam",
       "date": "Offre de 28 Mai au 18 Juin 2025",
       "thumbnail": "https://hmizate.ma/img/cms/1_10.jpg",
       "link": "aswak"
     },
-    "new2": {
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre de Mercredi 28 Mai 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
       "link": "kazyon1"
     },
-    "new3": {
+    "new5": {
       "title": "Carrefour Méga",
       "date": "Offre 22 Mai au 21 Juin 2025",
       "thumbnail": "https://hmizate.ma/img/cms/book_page-0001-min.jpg",
       "link": "carrefour1"
     },
-    "new4": {
+    "new6": {
       "title": "Bim Market",
       "date": "Offre de Mardi 27 Mai 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/26-05-2025-12-20-06-webG%20Spot%20Bim%2027%20Mai%202025.jpg",
       "link": "bim2"
     },
-    "new5": {
+    "new7": {
       "title": "Supeco Market",
       "date": "Offre du 23 au 25 Mai 2025",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t51.2885-15/500582415_18048166520578884_9207786106649161602_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjc1NzYxLmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QF3t3G_RpbSFNo7_b_cscQmDO5vQe4lubtBE9d74mCnDiRyWglgpjN39Wa0236kX0s&_nc_ohc=59xS5BzsKiAQ7kNvwGvK1QZ&_nc_gid=9t-6qNHdUNHwaaBebNtWSg&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzY0MTAyNTAyOTM2NzIyNTkxNzE4MDQ4MTY2NTE0NTc4ODg0.3-ccb7-5&oh=00_AfLxtP-YGIqBTTzr5r2GnpnKx-gJftsbfbjLOQsNULXVpw&oe=683ACE3C&_nc_sid=7a9f4b",
       "link": "supeco"
     },
-    "new6": {
+    "new8": {
       "title": "Marjane Méga",
       "date": "Du 22 Mai au 16 Juin 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Aid%20ElKbir_page-0001-min.jpg",
       "link": "marjane"
     },
-    "new7": {
+    "new9": {
       "title": "Marjane Market",
       "date": "Du 22 Mai au 16 Juin 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Aid%20AL%20ADHA%20Market_page-0001-min.jpg",
       "link": "marjaneMarket"
-    },
-    "new8": {
-      "title": "Kazyon Market",
-      "date": "Offre de 22 au 28 Mai 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20mai%202025-2-min.jpg",
-      "link": "kazyon"
-    },
-    "new9": {
-      "title": "Atacadão Market",
-      "date": "Offre de 16 au 28 Mai 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2015au%2028%20mai%202025.jpg",
-      "link": "atacadao1"
     },
     "new10": {
       "title": "Carrefour Market",
@@ -64,13 +64,17 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20mai%202025-2-min.jpg",
-    "date": "Offre de 22 au 28 Mai 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/kazyon5.jpg",
+    "date": "Offre de 29 Mai au 11 Juin 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20mai%202025-2-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20mai%202025-1-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20mai%202025-4-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20mai%202025-3-min_1.jpg"
+      "https://hmizate.ma/img/cms/kazyon5.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20mai%20au%2011%20juin%202025-60-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20mai%20au%2011%20juin%202025-40-min.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20mai%20au%2011%20juin%202025-50-min.jpg",
+      "https://hmizate.ma/img/cms/kazyon4.jpg",
+      "https://hmizate.ma/img/cms/kazyon3.jpg",
+      "https://hmizate.ma/img/cms/kazyon.jpg",
+      "https://hmizate.ma/img/cms/kazyon2.jpg"
     ]
   },
   "Kazyon1": {
@@ -313,11 +317,17 @@
   "Atacadão": {
     "title": "Atacadão",
     "link": "atacadao",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2015au%2028%20mai%202025.jpg",
-    "date": "Offre de 16 au 28 Mai 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%202.jpg",
+    "date": "Offre de 29 Mai au 11 Juin 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2015au%2028%20mai%202025.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2015au%2028%20mai%202025-1.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%202.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%201.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%203.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%204.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%205.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%206.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%207.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%208.jpg"
     ]
   },
   "Kitea": {
