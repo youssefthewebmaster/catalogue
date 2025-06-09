@@ -48,10 +48,10 @@
     "sa": {
         "quoranSA": {
             "links":{
-                "1080p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8",
-                "720p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_2.m3u8",
-                "360p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_5.m3u8",
-                "244p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8"
+                "1080p": "https://win.holol.com/live/quran/chunklist_w1480108352.m3u8",
+                "720p": "https://win.holol.com/live/quran/chunklist_w1480108352.m3u8",
+                "360p": "https://win.holol.com/live/quran/chunklist_w813174388.m3u8",
+                "244p": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/saudi_quran-avc1_600000=4-mp4a_41200_ara=2.m3u8"
             }
         },
         "sonnaSA": {
