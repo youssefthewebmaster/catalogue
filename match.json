@@ -48,9 +48,7 @@
     "beinSport": {
         "beinSportNews": {
             "links": {
-                "1080p": "http://93.123.72.138:8000/play/a01o",
-                "720p": "http://93.123.72.138:8000/play/a01n",
-                "480p": "http://154.58.202.131:8000/play/a034"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/789"
             }
         },
         "beinSportGlobal": {
@@ -60,80 +58,55 @@
         },
         "beinSport1": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a01p",
-                "الرابط 2": "http://93.123.72.138:8000/play/a00o",
-                "الرابط 3": "http://45.139.122.148:8000/play/a004",
-                "الرابط 4": "https://wo.cma.footballii.ir/hls2/b1_src.m3u8",
-                "الرابط 5": "https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8",
-                "الرابط 6": "http://brex.fun:8080/27685241750679/5oA796YSr7/623967"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/776",
+                "الرابط 2": "https://wo.cma.footballii.ir/hls2/b1_src.m3u8"
             }
         },
         "beinSport2": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a01q",
-                "الرابط 2": "http://93.123.72.138:8000/play/a00p",
-                "الرابط 3": "http://45.139.122.148:8000/play/a005",
-                "الرابط 4": "https://stream.sainaertebat.com/hls2/bein2.m3u8",
-                "الرابط 5": "https://wo.cma.footballii.ir/hls2/b2_src.m3u8",
-                "الرابط 6": "https://dffgtrdb.vffddd.online:8880/bein2/index.m3u8",
-                "الرابط 7": "http://brex.fun:8080/27685241750679/5oA796YSr7/623968"
+                "الرابط 1": "http://173.212.193.243:8080/live/mo3ad222/mo3ad222/406.ts",
+                "الرابط 2": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/777",
+                "الرابط 3": "https://wo.cma.footballii.ir/hls2/b2_src.m3u8",
+                "الرابط 4": "https://stream.sainaertebat.com/hls2/bein2.m3u8"
             }
         },
         "beinSport3": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a01r",
-                "الرابط 2": "http://93.123.72.138:8000/play/a00q",
-                "الرابط 3": "http://45.139.122.148:8000/play/a006",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/623969"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/778",
+                "الرابط 2": "http://173.212.193.243:8080/live/mo3ad222/mo3ad222/407.ts"
             }
         }
         ,
         "beinSport4": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a01s",
-                "الرابط 2": "http://93.123.72.138:8000/play/a00r",
-                "الرابط 3": "http://45.139.122.148:8000/play/a007",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/623970"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/779"
             }
         },
         "beinSport5": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a01t",
-                "الرابط 2": "http://93.123.72.138:8000/play/a00s",
-                "الرابط 3": "http://45.139.122.148:8000/play/a008",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/623971"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/780"
             }
         },
         "beinSport6": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a01u",
-                "الرابط 2": "http://93.123.72.138:8000/play/a00t",
-                "الرابط 3": "http://45.139.122.148:8000/play/a009",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/623972"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/781",
+                "الرابط 2": "http://173.212.193.243:8080/live/mo3ad222/mo3ad222/410.ts",
+                "الرابط 3": "http://173.212.193.243:8080/live/mo3ad222/mo3ad222/891.ts"
             }
         },
         "beinSport7": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a01v",
-                "الرابط 2": "http://93.123.72.138:8000/play/a00u",
-                "الرابط 3": "http://45.139.122.148:8000/play/a00a",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/623973"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/782"
             }
         },
         "beinSport8": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a01w",
-                "الرابط 2": "http://93.123.72.138:8000/play/a00v",
-                "الرابط 3": "http://45.139.122.148:8000/play/a00b",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/623974"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/785"
             }
         },
         "beinSport9": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a01x",
-                "الرابط 2": "http://93.123.72.138:8000/play/a00w",
-                "الرابط 3": "http://45.139.122.148:8000/play/a00c",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/623975"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/784"
             }
         },
         "beinXtra1": {
@@ -175,32 +148,23 @@
         },
         "beinSportFr1": {
             "links": {
-                "4k": "http://93.123.72.138:8000/play/a00l",
-                "1080p": "http://93.123.72.138:8000/play/a024",
-                "720p": "http://pro.ipcover.lol:8080/6164819/7361615/298276",
-                "480p": "http://93.123.72.138:8000/play/a012",
-                "الرابط 1": "http://pro.ipcover.lol:8080/6164819/7361615/298277",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/298279",
-                "الرابط 3": "http://pro.ipcover.lol:8080/6164819/7361615/298278"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/790",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/146116",
+                "الرابط 3": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/228"
             }
         },
         "beinSportFr2": {
             "links": {
-                "4k": "http://93.123.72.138:8000/play/a00m",
-                "1080p": "http://93.123.72.138:8000/play/a025",
-                "720p": "http://pro.ipcover.lol:8080/6164819/7361615/298281",
-                "480p": "http://93.123.72.138:8000/play/a013",
-                "الرابط 1": "http://pro.ipcover.lol:8080/6164819/7361615/298282",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/298284",
-                "الرابط 3": "http://pro.ipcover.lol:8080/6164819/7361615/298283"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/791",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/149773",
+                "الرابط 3": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/227"
             }
         },
         "beinSportFr3": {
             "links": {
-                "1080p": "http://pro.ipcover.lol:8080/6164819/7361615/298287",
-                "720p": "http://pro.ipcover.lol:8080/6164819/7361615/298286",
-                "480p": "http://pro.ipcover.lol:8080/6164819/7361615/298285",
-                "الرابط 1": "http://pro.ipcover.lol:8080/6164819/7361615/298284"
+                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/792",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/250663",
+                "الرابط 4": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/226"
             }
         }
     },
@@ -266,26 +230,22 @@
         },
         "baraem": {
             "links": {
-                "الرابط 1": "http://brex.fun:8080/27685241750679/5oA796YSr7/411491",
-                "الرابط 2": "http://brex.fun:8080/27685241750679/5oA796YSr7/411492"
+                "الرابط 1": "http://filex.tv:8080/3456780/12450/332893"
             }
         },
         "BeJunior": {
             "links": {
-                "الرابط 1": "http://brex.fun:8080/27685241750679/5oA796YSr7/411499",
-                "الرابط 2": "http://brex.fun:8080/27685241750679/5oA796YSr7/411500"
+                "الرابط 1": "http://filex.tv:8080/3456780/12450/332894"
             }
         },
         "CartoonNetworkArabic": {
             "links": {
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/58461",
-                "الرابط 2": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/283184"
+                "الرابط 1": "http://filex.tv:8080/3456780/12450/332895"
             }
         },
         "jeem": {
             "links": {
-                "الرابط 1": "http://brex.fun:8080/27685241750679/5oA796YSr7/411488",
-                "الرابط 2": "http://brex.fun:8080/27685241750679/5oA796YSr7/411487"
+                "الرابط 1": "http://filex.tv:8080/3456780/12450/332897"
             }
         },
         "Fatafeat": {
@@ -2204,32 +2164,21 @@
     "ma": {
         "oulaL3youn": {
             "links":{
-                "1080p": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8",
+                "720p": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8",
                 "480p": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8",
                 "360p": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_360p/chunks_dvr.m3u8",
-                "288p": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_240p/chunks_dvr.m3u8",
-                "الرابط 1": "http://brex.fun:8080/27685241750679/5oA796YSr7/638397",
-                "الرابط 2": "http://brex.fun:8080/27685241750679/5oA796YSr7/638398"
+                "288p": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_240p/chunks_dvr.m3u8"
             }
         },
         "oulaMA": {
             "links":{
-                "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8",
-                "720p": "http://brex.fun:8080/27685241750679/5oA796YSr7/552043",
-                "1080p": "http://brex.fun:8080/27685241750679/5oA796YSr7/552045",
-                "الرابط 3": "http://brex.fun:8080/27685241750679/5oA796YSr7/552044",
-                "الرابط 4": "https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_360p/chunks_dvr.m3u8",
-                "الرابط 5": "https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_240p/chunks_dvr.m3u8",
-                "الرابط 6": "http://brex.fun:8080/27685241750679/5oA796YSr7/638381"
+                "الرابط 1": "https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8",
+                "الرابط 2": "https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8"
             }
         },
         "m2": {
             "links":{
-                "الرابط 1": "http://149.62.177.103:8000/play/a09w",
-                "الرابط 2": "http://brex.fun:8080/27685241750679/5oA796YSr7/552049",
-                "1080p": "http://brex.fun:8080/27685241750679/5oA796YSr7/552050",
-                "الرابط 3": "http://brex.fun:8080/27685241750679/5oA796YSr7/552053",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/638387"
+                "الرابط 1": "http://149.62.177.103:8000/play/a09w"
             }
         },
         "arriyadiaMa": {
@@ -2237,22 +2186,17 @@
                 "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8",
                 "الرابط 2": "http://149.62.177.103:8000/play/a09x",
                 "الرابط 3": "http://149.62.177.103:8000/play/a09y",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/638383",
                 "الرابط 5": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_360p/chunks_dvr.m3u8",
                 "الرابط 6": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8"
             }
         },
         "attakafiya": {
             "links":{
-                "720p": "https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/corp/73_arrabia_hthcj4p_480p/chunks_dvr.m3u8",
-                "480p": "https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8",
-                "360p": "https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/corp/73_arrabia_hthcj4p_360p/chunks_dvr.m3u8",
-                "244p": "https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/corp/73_arrabia_hthcj4p_240p/chunks_dvr.m3u8"
+                "الرابط 1": "https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/corp/73_arrabia_hthcj4p_480p/chunks_dvr.m3u8"
         }
         },
         "maghribiya": {
             "links":{
-                "1080p": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8",
                 "720p": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8",
                 "360p": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_360p/chunks_dvr.m3u8",
                 "244p": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_240p/chunks_dvr.m3u8"
@@ -2261,22 +2205,18 @@
         "assadissa": {
             "links":{
                 "720p": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8",
-                "480p": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8",
                 "360p": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_360p/chunks_dvr.m3u8",
                 "244p": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_240p/chunks_dvr.m3u8"
             }
         },
         "aflam": {
             "links":{
-                "الرابط 1": "http://brex.fun:8080/27685241750679/5oA796YSr7/552072"
+                "الرابط 1": "https://fl1002.bozztv.com/ga-aflamtv7/tracks-v1a1/mono.ts.m3u8"
             }
         },
         "tamazightMa": {
             "links":{
-                "720p": "https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_480p/chunks_dvr.m3u8",
-                "480p": "https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/playlist_dvr.m3u8",
-                "360p": "https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_360p/chunks_dvr.m3u8",
-                "244p": "https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_240p/chunks_dvr.m3u8"
+                "720p": "https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_480p/chunks_dvr.m3u8"
             }
         },
         "medi1": {
