@@ -64,10 +64,8 @@
         },
         "beinSport2": {
             "links": {
-                "الرابط 1": "http://173.212.193.243:8080/live/mo3ad222/mo3ad222/406.ts",
-                "الرابط 2": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/777",
-                "الرابط 3": "https://wo.cma.footballii.ir/hls2/b2_src.m3u8",
-                "الرابط 4": "https://stream.sainaertebat.com/hls2/bein2.m3u8"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/350213",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/65"
             }
         },
         "beinSport3": {
@@ -256,51 +254,54 @@
     "sscSport": {
         "sscNews": {
             "links": {
-                "1080p": "https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_1.m3u8",
-                "720p": "https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_2.m3u8",
-                "360p": "https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_4.m3u8",
-                "288p": "https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_6.m3u8"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/391645",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/517296",
+                "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/310741"
             }
         },
         "ssc1": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a002",
-                "الرابط 2": "https://ayassport.776740.ir.cdn.ir/hls2/ssc1.m3u8",
-                "الرابط 3": "https://stream.sainaertebat.com/hls2/ssc1.m3u8"
+                "الرابط 1": "https://ayassport.776740.ir.cdn.ir/hls2/ssc1.m3u8",
+                "الرابط 2": "https://stream.sainaertebat.com/hls2/ssc1.m3u8",
+                "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/152044"
             }
         },
         "ssc2": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a003"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/175722",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/152038"
             }
         },
         "ssc3": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a004"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/175715",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/152039"
             }
         },
         "ssc4": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a005",
-                "الرابط 2": "http://154.58.202.185:8000/play/a0ee"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/175716",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/152040"
             }
         },
         "ssc5": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a006"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/175717",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/152041"
             }
         },
         "sscExtra1": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a007"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/310742"
             }
         },"sscExtra2": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a008"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/391635",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/152043"
             }
         },"sscExtra3": {
             "links": {
-                "الرابط 1": "http://93.123.72.138:8000/play/a009"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/350080"
             }
         }
     },
@@ -2068,215 +2069,205 @@
     "tn": {
         "alinsan": {
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/225155"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058176"
             }
         },
         "alwataniya1": {
             "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a03q",
-                "الرابط 2": "http://154.58.202.185:8000/play/a03g",
-                "الرابط 3": "http://149.62.177.103:8000/play/a02f",
-                "الرابط 4": "http://149.62.177.103:8000/play/a025"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058156",
+                "الرابط 2": "http://154.58.202.185:8000/play/a03g"
             }
         },
         "alwataniya2": {
             "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a03r",
-                "الرابط 2": "http://154.58.202.185:8000/play/a03h",
-                "الرابط 3": "http://149.62.177.103:8000/play/a02g",
-                "الرابط 4": "http://149.62.177.103:8000/play/a026"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058158",
+                "الرابط 2": "http://154.58.202.185:8000/play/a03h"
             }
         },
         "nassma": {
             "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a03j",
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058160",
                 "الرابط 2": "http://149.62.177.103:8000/play/a028"
             }
         },
         "hiwarTounossi": {
             "links":{
-                "الرابط 1": "http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/334158"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058161"
             }
         },
         "hanabal": {
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1253"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058162"
             }
         },
         "azzaytouna": {
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11359"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058175"
             }
         },
         "aljanoubiya": {
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/278639"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058165"
             }
         },
         "almosta9ila": {
             "links":{
-                "الرابط 1": "http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/148.m3u8"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058177"
             }
         }
     },
     "ma": {
         "oulaL3youn": {
             "links":{
-                "720p": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8",
-                "480p": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8",
-                "360p": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_360p/chunks_dvr.m3u8",
-                "288p": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_240p/chunks_dvr.m3u8"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058154",
+                "الرابط 2": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8"
             }
         },
         "oulaMA": {
             "links":{
-                "الرابط 1": "https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8",
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058129",
                 "الرابط 2": "https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8"
             }
         },
         "m2": {
             "links":{
-                "الرابط 1": "http://149.62.177.103:8000/play/a09w"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058126",
+                "الرابط 3": "http://149.62.177.103:8000/play/a09w"
             }
         },
         "arriyadiaMa": {
             "links":{
+                "الرابط 4": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058144",
                 "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8",
-                "الرابط 2": "http://149.62.177.103:8000/play/a09x",
-                "الرابط 3": "http://149.62.177.103:8000/play/a09y",
-                "الرابط 5": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_360p/chunks_dvr.m3u8",
-                "الرابط 6": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8"
+                "الرابط 2": "http://149.62.177.103:8000/play/a09x"
             }
         },
         "attakafiya": {
             "links":{
-                "الرابط 1": "https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/corp/73_arrabia_hthcj4p_480p/chunks_dvr.m3u8"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058152",
+                "الرابط 2": "https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/corp/73_arrabia_hthcj4p_480p/chunks_dvr.m3u8"
         }
         },
         "maghribiya": {
             "links":{
-                "720p": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8",
-                "360p": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_360p/chunks_dvr.m3u8",
-                "244p": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_240p/chunks_dvr.m3u8"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058143",
+                "الرابط 2": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8"
             }
         },
         "assadissa": {
             "links":{
-                "720p": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8",
-                "360p": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_360p/chunks_dvr.m3u8",
-                "244p": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_240p/chunks_dvr.m3u8"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058148",
+                "الرابط 2": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8"
             }
         },
         "aflam": {
             "links":{
-                "الرابط 1": "https://fl1002.bozztv.com/ga-aflamtv7/tracks-v1a1/mono.ts.m3u8"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058133",
+                "الرابط 2": "https://fl1002.bozztv.com/ga-aflamtv7/tracks-v1a1/mono.ts.m3u8"
             }
         },
         "tamazightMa": {
             "links":{
-                "720p": "https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_480p/chunks_dvr.m3u8"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058150",
+                "الرابط 2": "https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_480p/chunks_dvr.m3u8"
             }
         },
         "medi1": {
             "links":{
                 "الرابط 1": "https://streaming2.medi1tv.com/live/smil:medi1ar.smil/chunklist_w535235413_b1428000_slar.m3u8",
-                "الرابط 2": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w130535054_b2256000_slar.m3u8",
-                "الرابط 3": "https://streaming2.medi1tv.com/live/smil:medi1ar.smil/chunklist_w535235413_b978000_slar.m3u8"
+                "الرابط 2": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w130535054_b2256000_slar.m3u8"
             }
         }
     },
     "dz": {
         "oulaJZ": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_alegria_111/tracks-v1a1/mono.m3u8?token=4ee8e2c480ca447fd2a5dcc49647742164d4c331-4e2b292e2efb3025d9edcef09394a235-1745679174-1745668374",
-                "الرابط 2": "https://games2.elahmad.online/tv726_www.elahmad.com_alegria_111/tracks-v1a1/mono.m3u8?token=d6da811662d2d9cbb35eb6cc63b86805ad7d4838-930a722070e3e746202222b1dba0a169-1745679048-1745668248"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058180"
             }
         },
         "taniyaJZ": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_alegria_2/tracks-v1a1/mono.m3u8?token=281ffb0e848b70c64ae8f6499887261ff53198d1-868cadfd1b993778fa03a166e1b511d5-1745679378-1745668578",
-                "الرابط 2": "https://games2.elahmad.online/tv726_www.elahmad.com_alegria_2/tracks-v1a1/mono.m3u8?token=52180881f808c02d629e9b67d89b8a75e6811aff-283fece728fb9424c556ae23f12bd2f2-1745679455-1745668655"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058181"
             }
         },
         "ikhbariyaJZ": {
             "links":{
-                "الرابط 1": "http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/334184"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058184"
             }
         },
         "amazighiyaJZ": {
             "links":{
-                "الرابط 1": "http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/311376"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058185"
             }
         },
         "quranJZ": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_alegria_5/tracks-v1a1/mono.m3u8?token=ba15bd63ba462bbaf47e3fd30413f45e7e9d6b3c-7e99b95342f9062fc978fc66db0fb37f-1745679698-1745668898"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058186"
             }
         },
         "aljazayria": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_alegria_6/tracks-v1a1/mono.m3u8?token=b9449e9f72294dea3d32ba185cc337ec025d7d7b-e5a8b0d0902c59fc3df944b6c38b4edd-1745679834-1745669034"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058187"
             }
         },
         "alma3rifaJZ": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_alegria_7/tracks-v1a1/mono.m3u8?token=b5034e37895c5b20ddf835b2d783fae7c22d5999-705f5edaea1a0b649f1ee7f98222afef-1745679925-1745669125"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058190"
             }
         },
         "addakira": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_alegria_8/tracks-v1a1/mono.m3u8?token=12d6d84422aea133b52fa98a5b12bebc41844f3c-f36c836f8589d2a0c85abda0d4ae73ae-1745679979-1745669179"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058189"
             }
         },
         "samira": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_samira_tv/tracks-v1a1/mono.m3u8?token=77f588a6331065af6c34e3bb32797a3cc9ff7dfe-8c68e8d76f82fcf646deb3d44fd59927-1745680073-1745669273"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058191"
             }
         },
         "chorokNews": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_echorouk_news/tracks-v1a1/mono.m3u8?token=b39ee87e31c960dfe395a015cb2c402b32b91ca1-db6b7815dd8ec2a4d143b65deeed431a-1745686530-1745675730"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058200"
             }
         },
         "chorok": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_echorouk_tv/tracks-v1a1/mono.m3u8?token=a09fef98c3fd8515c559c434c53cf5face1e2a05-0aa47665485d0e5bc644af0698db07d1-1745686810-1745676010",
-                "الرابط 2": "https://www.elahmad.com/tv/algeria_live.php?id=echorouk_tvhd"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058196"
             }
         },
         "aljazayerN1": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_eldjazairn1/tracks-v1a1/mono.m3u8?token=d693c04ab895f7e196f611b3ffa994e35c4d9237-23ff608d04f4c6d4e67333925e6c8303-1745687742-1745676942"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058197"
             }
         },
         "annahar": {
             "links":{
-                "الرابط 1": "https://games1.elahmad.online/tv726_www.elahmad.com_ennahar/tracks-v1a1/mono.m3u8?token=05ded22000ef383e82fcdfac35a8beeaa761c033-6e5867323a7eea6381c8ba74acb34d23-1745687580-1745676780"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058201"
             }
         },
         "alaniss": {
             "links":{
-                "الرابط 1": "http://154.58.202.131:8000/play/a01y"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058192"
             }
         },
         "albilad": {
             "links":{
-                "الرابط 1": "https://games1.elahmad.online/tv726_www.elahmad.com_elbilad_tv/tracks-v1a1/mono.m3u8?token=36d37316fbfb4706f06cebd794bfb1c2499ff8a1-80a892b49187e5759fe4c980af8e3505-1745687862-1745677062"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058203"
             }
         },
         "alhayatJZ": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_elhayatonline/tracks-v1a1/mono.m3u8?token=ed2c5d7121972798c83828d3108df5bf133af0e3-2ca125bfdc4859e5193ba86c6dcc54f1-1745688052-1745677252"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058206"
             }
         },
         "alhaddaf": {
             "links":{
-                "الرابط 1": "https://games1.elahmad.online/tv726_www.elahmad.com_elheddaf/tracks-v1a1/mono.m3u8?token=35385c6beb4b9ca881c2e8d28804c6008d1d01a0-23ebfe5ed0d5b849e557cc7923325d23-1745688112-1745677312"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058195"
             }
         },
         "alfajrJZ": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_el_fadjr_tv/tracks-v1a1/mono.m3u8?token=9a91712bf35fca5f6953401db27888fbf41d1867-b976735aeb05ddac9a3a8f105740304d-1745688178-1745677378"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058198"
             }
         },
         "aljazayerDawliya": {
@@ -2289,7 +2280,7 @@
         },
         "alwataniyaJZ": {
             "links":{
-                "الرابط 1": "https://games2.elahmad.online/tv726_www.elahmad.com_elwataniatv_dz/tracks-v1a1/mono.m3u8?token=533021f019be071ceebfe4b112454290150fc9fd-aae0cd7b96e13111a4d155a5481b1406-1745688590-1745677790"
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058207"
             }
         }
     },
