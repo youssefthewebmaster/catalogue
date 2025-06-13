@@ -226,13 +226,14 @@
             }
         },
         "baraem": {
-            "links": {
-                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/391394"
+            "links":{
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/391394",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/4389"
             }
         },
         "BeJunior": {
             "links": {
-                "الرابط 1": "http://filex.tv:8080/3456780/12450/332894"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/96409"
             }
         },
         "CartoonNetworkArabic": {
@@ -241,8 +242,9 @@
             }
         },
         "jeem": {
-            "links": {
-                "الرابط 1": "http://filex.tv:8080/3456780/12450/332897"
+            "links":{
+                "الرابط 1": "http://filex.tv:8080/3456780/12450/332897",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/4361"
             }
         },
         "Fatafeat": {
@@ -699,24 +701,25 @@
     "majd" : {
         "majd": {
           "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a0al",
-                "الرابط 2": "http://154.58.202.185:8000/play/a0b0",
-                "الرابط 3": "http://149.62.177.103:8000/play/a09n"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129853",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0b0"
             }  
         },
         "majdKoran": {
             "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a0am"
+                "الرابط 1": "",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0am"
             }
         },
         "majdDocu": {
             "links":{
-                "الرابط 1": "https://www.elahmad.com/tv/live/channel.php?id=almajd_documentary"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129856"
             }
         },
         "majdSonna": {
             "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a0an"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129855",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0an"
             }
         },
         "majd3lmiya": {
@@ -724,29 +727,24 @@
                 "الرابط 1": "http://154.58.202.185:8000/play/a0ao"
             }
         },
-        "المجد روضة": {
+        "majdRawda": {
             "links":{
-                "الرابط 1": "https://www.elahmad.com/tv/live/channel.php?id=almajd_rawda"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129860"
             }
         },
-        "المجد بسمة": {
+        "mjd": {
             "links":{
-                "الرابط 1": "https://www.elahmad.com/tv/live/channel.php?id=almajd_bassma"
-            }
-        },
-        "مجد": {
-            "links":{
-                "الرابط 1": "https://www.elahmad.com/tv/live/channel.php?id=almajd_kids"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129862"
             }
         },
         "المجد ماسة": {
             "links":{
-                "الرابط 1": "https://www.elahmad.com/tv/live/channel.php?id=almajd_masa"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129863"
             }
         },
         "المجد الطبيعية": {
             "links":{
-                "الرابط 1": "https://www.elahmad.com/tv/live/channel.php?id=almajd_taabeaa"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/290080"
             }
         }
     },
@@ -921,7 +919,8 @@
         "addfra": {
             "links":{
                 "الرابط 1": "https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8",
-                "الرابط 2": "http://013tv.com:8080/umer.zia660/e7388412/217282"
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/59701",
+                "الرابط 3": "http://013tv.com:8080/umer.zia660/e7388412/217282"
             }
         },
         "noorDubai": {
@@ -974,16 +973,18 @@
         "imarate": {
             "links":{
                 "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8",
-                "الرابط 2": "http://149.62.177.103:8000/play/a08z"
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/59700",
+                "الرابط 3": "http://149.62.177.103:8000/play/a08z"
             }
         },
         "baynonah": {
             "links":{
                 "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8",
-                "الرابط 2": "http://149.62.177.103:8000/play/a095"
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/223727",
+                "الرابط 3": "http://149.62.177.103:8000/play/a095"
             }
         },
-        "abudhabiDrama": {
+        "_abudhabiDrama": {
             "links":{
                 "الرابط 1": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_drama"
             }
@@ -1048,29 +1049,27 @@
         },
         "al3adala": {
             "links":{
-                "الرابط 1": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=atvkuwait"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/59667"
             }
         },
         "assaba7": {
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/245616",
-                "الرابط 2": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alsabahtv"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/59674"
             }
         },
         "achahid": {
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/284383",
-                "الرابط 2": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alshahed_tv"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/531449"
             }
         },
         "albawadi": {
             "links":{
-                "الرابط 1": "https://ffs1.gulfsat.com/Al-Bawadi/index.m3u8"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/531462"
             }
         },
         "alray": {
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/4960"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/59673"
             }
         },
         "rissala": {
@@ -1083,22 +1082,24 @@
     "ym": {
         "yaman": {
             "links":{
-                "الرابط 1": "http://154.58.202.131:8000/play/a03u"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129874",
+                "الرابط 2": "http://154.58.202.131:8000/play/a03u"
             }
         },
         "bilkiss": {
             "links":{
-                "الرابط 1": "http://149.62.177.103:8000/play/a09d"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/278840",
+                "الرابط 2": "http://149.62.177.103:8000/play/a09d"
             }
         },
         "sohil": {
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/268914"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129868"
             }
         },
         "sa3ida": {
             "links":{
-                "الرابط 1": "https://www.elahmad.com/tv/radiant.php?id=alsaeedahtv"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129879"
             }
         },
         "almassira": {
@@ -1109,12 +1110,14 @@
         },
         "adan": {
             "links":{
-                "الرابط 1": "http://154.58.202.131:8000/play/a03x"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129878",
+                "الرابط 2": "http://154.58.202.131:8000/play/a03x"
             }
         },
         "almohriya": {
             "links":{
-                "الرابط 1": "https://starmenajo.com/hls/almahriah/index.m3u8"
+                "الرابط 1": "https://starmenajo.com/hls/almahriah/index.m3u8",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129872"
             }
         },
         "yamanChabab": {
@@ -1125,18 +1128,19 @@
         },
         "yamanToday": {
             "links":{
-                "الرابط 1": "https://video.yementdy.tv/hls/yementoday_src.m3u8",
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129873",
                 "الرابط 2": "http://154.58.202.131:8000/play/a03v"
             }
         },
         "hadramout": {
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/296845"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129870"
             }
         },
         "sabaa": {
             "links": {
-                "الرابط 1": "http://154.58.202.131:8000/play/a03w"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129869",
+                "الرابط 2": "http://154.58.202.131:8000/play/a03w"
             }
         }
     },
@@ -2322,14 +2326,15 @@
         "libyaAlwataniya": {
             "links":{
                 "الرابط 1": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/libya_al_watanya-avc1_600000=3-mp4a_97200=4.m3u8",
-                "الرابط 2": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/25746",
                 "الرابط 3": "http://154.58.202.185:8000/play/a05w",
                 "الرابط 4": "http://154.58.202.185:8000/play/a051"
             }
         },
         "libyaRassmiya": {
             "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a05y"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/25745",
+                "الرابط 2": "http://154.58.202.185:8000/play/a05y"
             }
         },
         "almassar": {
@@ -2381,25 +2386,28 @@
         },
         "SpaceToon": {
             "links":{
-                "الرابط 1":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
-                "الرابط 2": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w747837886_b1296000_slAR.m3u8",
-                "الرابط 3": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+                "الرابط 1": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w747837886_b1296000_slAR.m3u8",
+                "الرابط 2": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8",
+                "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/88"
             }
         },
         "GulliArabic": {
             "links":{
-                "الرابط 1": "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index_2.m3u8"
+                "الرابط 1": "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index_2.m3u8",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/57264"
             }
         },
         "CartoonNetworkArab1": {
             "links":{
-                "الرابط 1": "http://154.58.202.131:8000/play/a0bc",
-                "الرابط 2": "http://154.58.202.131:8000/play/a0az"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/95",
+                "الرابط 2": "http://154.58.202.131:8000/play/a0bc",
+                "الرابط 3": "http://154.58.202.131:8000/play/a0az"
             }
         },
         "baraem": {
             "links":{
-                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/391394"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/391394",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/4389"
             }
         },
         "mbc3": {
@@ -2424,12 +2432,13 @@
         },
         "jeem": {
             "links":{
-                "الرابط 1": "http://filex.tv:8080/3456780/12450/332897"
+                "الرابط 1": "http://filex.tv:8080/3456780/12450/332897",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/4361"
             }
         },
         "BeJunior": {
             "links": {
-                "الرابط 1": "http://filex.tv:8080/3456780/12450/332894"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/96409"
             }
         },
         "nickJr": {
@@ -2454,27 +2463,22 @@
         },
         "majd": {
             "links":{
-                "الرابط 1": "http://149.62.177.103:8000/play/a09n"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129862"
             }
         },
         "majdRawda": {
             "links":{
-                "الرابط 1": "https://www.elahmad.com/tv/live/channel.php?id=almajd_rawda"
-            }
-        },
-        "majdBassma": {
-            "links":{
-                "الرابط 1": "https://www.elahmad.com/tv/live/channel.php?id=almajd_bassma"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129860"
             }
         },
         "toyorJanna": {
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11191"                
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/86"                
             }
         },
         "karamich": {
             "links":{
-                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11348"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/4358"
             }
         },
         "amoYazid": {
@@ -2788,7 +2792,8 @@
         },
         "yamanDoc": {
             "links": {
-                "الرابط 1": "http://154.58.202.131:8000/play/a03p"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129882",
+                "الرابط 2": "http://154.58.202.131:8000/play/a03p"
             }
         },
         "kayf": {
