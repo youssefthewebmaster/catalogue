@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de Mardi 17 Mai 2025",
+      "thumbnail": "https://www.bim.ma/uploads/ma/Files/9-06-2025-11-54-48-Spot%20BIM%2013-17%20Juin%2020255.jpg",
+      "link": "bim2"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mardi 17 Juin 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new3": {
       "title": "Aswak Assalam",
       "date": "Offre de Lundi 16 Juin 2025",
       "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/506637314_720352300593985_3691671217460198438_n.jpg?stp=dst-jpg_e35_p480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFqXJFdk8G9Aa_J47AzlSvSq0-JLI3zh40tQolcweWwC-BWNlTgxSL0dVKsyifkA1w&_nc_ohc=fj2HZQgs7sgQ7kNvwG3SGJ7&_nc_gid=OW0Sa1a831TdoJAfwL8p3A&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NDE1NDk4OTY5MDM4NDIwMg%3D%3D.3-ccb7-5&oh=00_AfOvQkR39ir-mdyUd-694tieXo9zTlGBZTLbZZH1t_xT3w&oe=68551E08&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Lundi 16 Juin 2025",
-      "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/506742431_592696903877586_7117714557291418125_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2Mzh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QGdAwzDZEwRoplUaV8XjSvZQ9e8aQyYUcRoqWOypEmuA89rTrGITPQIkMGaDBTy-DI&_nc_ohc=_DBJfKcs0kYQ7kNvwEcdTA4&_nc_gid=Sq97J_938GXBK4QdDgFZJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NTY0NjY4MzU2MzMwNjQzMQ%3D%3D.3-ccb7-5&oh=00_AfMshV4MvSYbTre_4VhgckyZ4MSArUD0D-KAjQ4c0J5DQg&oe=6855144D&_nc_sid=7a9f4b",
-      "link": "kazyon1"
-    },
-    "new3": {
+    "new4": {
       "title": "Supeco Market",
       "date": "Offre du 13 au 15 Juin 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeeken%20(1).png",
       "link": "supeco"
-    },
-    "new4": {
-      "title": "Bim Market",
-      "date": "A partir de Vendredi 13 Juin 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/9-06-2025-11-54-22-Spot%20BIM%2013-17%20Juin%202025.jpg",
-      "link": "bim1"
     },
     "new5": {
       "title": "Kazyon Market",
@@ -78,16 +78,17 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/506742431_592696903877586_7117714557291418125_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2Mzh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QGdAwzDZEwRoplUaV8XjSvZQ9e8aQyYUcRoqWOypEmuA89rTrGITPQIkMGaDBTy-DI&_nc_ohc=_DBJfKcs0kYQ7kNvwEcdTA4&_nc_gid=Sq97J_938GXBK4QdDgFZJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NTY0NjY4MzU2MzMwNjQzMQ%3D%3D.3-ccb7-5&oh=00_AfMshV4MvSYbTre_4VhgckyZ4MSArUD0D-KAjQ4c0J5DQg&oe=6855144D&_nc_sid=7a9f4b",
-    "date": "Offre de Lundi 16 Juin 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(1).png",
+    "date": "Offre de Mardi 17 Juin 2025",
     "images": [
-      "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/506742431_592696903877586_7117714557291418125_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2Mzh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QGdAwzDZEwRoplUaV8XjSvZQ9e8aQyYUcRoqWOypEmuA89rTrGITPQIkMGaDBTy-DI&_nc_ohc=_DBJfKcs0kYQ7kNvwEcdTA4&_nc_gid=Sq97J_938GXBK4QdDgFZJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NTY0NjY4MzU2MzMwNjQzMQ%3D%3D.3-ccb7-5&oh=00_AfMshV4MvSYbTre_4VhgckyZ4MSArUD0D-KAjQ4c0J5DQg&oe=6855144D&_nc_sid=7a9f4b",
-      "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/506595735_592696843877592_1825433079315376569_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2Mzh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QGdAwzDZEwRoplUaV8XjSvZQ9e8aQyYUcRoqWOypEmuA89rTrGITPQIkMGaDBTy-DI&_nc_ohc=O3OWtrxw-RMQ7kNvwGRdtqr&_nc_gid=Sq97J_938GXBK4QdDgFZJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NTY0NjY4MTk3Nzg1MjA5Mw%3D%3D.3-ccb7-5&oh=00_AfPiweTRdFN9uZozXF2jKGPq04bLuVoJXXnubYL0RB9vxA&oe=6855307F&_nc_sid=7a9f4b",
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/508182782_592696840544259_7387129802825625689_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2Mzh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QGdAwzDZEwRoplUaV8XjSvZQ9e8aQyYUcRoqWOypEmuA89rTrGITPQIkMGaDBTy-DI&_nc_ohc=DwXV7JRFiWgQ7kNvwGQk9qu&_nc_gid=Sq97J_938GXBK4QdDgFZJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NTY0NjY4NzAzNjI5OTA4NQ%3D%3D.3-ccb7-5&oh=00_AfMNzG97C_E2JSgeW0J_bxvy9mPUlHSNHOiKaUFZ3uXOYg&oe=68552AE2&_nc_sid=7a9f4b",
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/507386783_592696847210925_1920518329592652450_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2Mzh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QGdAwzDZEwRoplUaV8XjSvZQ9e8aQyYUcRoqWOypEmuA89rTrGITPQIkMGaDBTy-DI&_nc_ohc=-JCeVEFg400Q7kNvwESVu06&_nc_gid=Sq97J_938GXBK4QdDgFZJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NTY0NjY4NDMwMTcwNjU2OQ%3D%3D.3-ccb7-5&oh=00_AfOdw3Ko4w2FOFiQofuEaNOp-V6RzKIp0kcvplJfWXdDqA&oe=685538C4&_nc_sid=7a9f4b",
-      "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/508003523_592696990544244_6714660259041048426_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2Mzh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QGdAwzDZEwRoplUaV8XjSvZQ9e8aQyYUcRoqWOypEmuA89rTrGITPQIkMGaDBTy-DI&_nc_ohc=6BqK1Smfg3sQ7kNvwHeF_go&_nc_gid=Sq97J_938GXBK4QdDgFZJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NTY0NjY4NDE3NTcyMjQ0Mw%3D%3D.3-ccb7-5&oh=00_AfNn9YRZ0bG4Orlo0OaNv5vUXgxHUNrgQFn3HH9YzuENIA&oe=685522A6&_nc_sid=7a9f4b",
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/506632173_592696893877587_629163521120595680_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2Mzh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QGdAwzDZEwRoplUaV8XjSvZQ9e8aQyYUcRoqWOypEmuA89rTrGITPQIkMGaDBTy-DI&_nc_ohc=ImEkFJAnXiIQ7kNvwF9a8AC&_nc_gid=Sq97J_938GXBK4QdDgFZJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NTY0NjY4NDI2ODA5OTE4OA%3D%3D.3-ccb7-5&oh=00_AfOhdHALgoVXHhhtFGLkHNcfKuM_beTe1poJHSRQazBHdw&oe=6855368B&_nc_sid=7a9f4b",
-      "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/506810656_592696907210919_6634484076825723058_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2Mzh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QGdAwzDZEwRoplUaV8XjSvZQ9e8aQyYUcRoqWOypEmuA89rTrGITPQIkMGaDBTy-DI&_nc_ohc=u9dpODMomUgQ7kNvwE77E20&_nc_gid=Sq97J_938GXBK4QdDgFZJA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NTY0NjY4MzM4NzIzODQzMQ%3D%3D.3-ccb7-5&oh=00_AfNseZ7ZqqREYLCSqJ06GSwI4UhAA5aQ8jadMKRr4l55vQ&oe=68552245&_nc_sid=7a9f4b"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(4).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(5).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(6).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(7).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(8).png"
     ]
   },
   "bims": {
@@ -106,12 +107,13 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "Offre de Mardi 27 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/26-05-2025-12-20-06-webG%20Spot%20Bim%2027%20Mai%202025.jpg",
+      "date": "A partir de Mardi 17 Mai 2025",
+      "thumbnail": "https://www.bim.ma/uploads/ma/Files/9-06-2025-11-54-48-Spot%20BIM%2013-17%20Juin%2020255.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/26-05-2025-12-20-06-webG%20Spot%20Bim%2027%20Mai%202025.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/26-05-2025-12-20-18-webG%20Spot%20Bim%2027%20Mai%2020252.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/26-05-2025-12-20-28-webG%20Spot%20Bim%2027%20Mai%2020253.jpg"
+        "https://www.bim.ma/uploads/ma/Files/9-06-2025-11-54-48-Spot%20BIM%2013-17%20Juin%2020255.jpg",
+        "https://www.bim.ma/uploads/ma/Files/9-06-2025-11-54-55-Spot%20BIM%2013-17%20Juin%2020256.jpg",
+        "https://www.bim.ma/uploads/ma/Files/9-06-2025-11-55-01-Spot%20BIM%2013-17%20Juin%2020257.jpg",
+        "https://www.bim.ma/uploads/ma/Files/9-06-2025-11-55-21-Spot%20BIM%2013-17%20Juin%2020258.jpg"
       ]
     }
   },
