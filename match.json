@@ -58,8 +58,10 @@
         },
         "beinSport1": {
             "links": {
-                "الرابط 1": "http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/776",
-                "الرابط 2": "https://wo.cma.footballii.ir/hls2/b1_src.m3u8"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/247704",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/125555",
+                "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/287734"
+               
             }
         },
         "beinSport2": {
@@ -459,10 +461,7 @@
                 "1080p": "https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8",
                 "720p": "https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8",
                 "360p": "https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_5.m3u8",
-                "288p": "https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8",
-                "4k": "http://brex.fun:8080/27685241750679/5oA796YSr7/437268",
-                "الرابط 1": "http://brex.fun:8080/27685241750679/5oA796YSr7/437267",
-                "الرابط 2": "http://brex.fun:8080/27685241750679/5oA796YSr7/437266"
+                "288p": "https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8"
             }
         },
         "mbc4": {
