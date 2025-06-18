@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de Vendredi 20 Juin 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/17-06-2025-10-54-55-couv%20spot.jpg",
+      "link": "bim1"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre du 19 au 25 Juin 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2019%20au%2025%20juin%202025-1-min_1.jpg",
+      "link": "kazyon"
+    },
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre de Mercredi 18 Juin 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMercredi%20(1).png",
       "link": "kazyon1"
     },
-    "new2": {
-      "title": "Bim Market",
-      "date": "A partir de Mardi 17 Mai 2025",
-      "thumbnail": "https://www.bim.ma/uploads/ma/Files/9-06-2025-11-54-48-Spot%20BIM%2013-17%20Juin%2020255.jpg",
-      "link": "bim2"
-    },
-    "new3": {
+    "new4": {
       "title": "Aswak Assalam",
       "date": "Offre de Lundi 16 Juin 2025",
       "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/506637314_720352300593985_3691671217460198438_n.jpg?stp=dst-jpg_e35_p480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFqXJFdk8G9Aa_J47AzlSvSq0-JLI3zh40tQolcweWwC-BWNlTgxSL0dVKsyifkA1w&_nc_ohc=fj2HZQgs7sgQ7kNvwG3SGJ7&_nc_gid=OW0Sa1a831TdoJAfwL8p3A&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NDE1NDk4OTY5MDM4NDIwMg%3D%3D.3-ccb7-5&oh=00_AfOvQkR39ir-mdyUd-694tieXo9zTlGBZTLbZZH1t_xT3w&oe=68551E08&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new4": {
+    "new5": {
       "title": "Supeco Market",
       "date": "Offre du 13 au 15 Juin 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeeken%20(1).png",
       "link": "supeco"
-    },
-    "new5": {
-      "title": "Kazyon Market",
-      "date": "Offre du 12 au 18 Juin 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20juin%202025-1-min_1.jpg",
-      "link": "kazyon"
     },
     "new6": {
       "title": "Carrefour Méga",
@@ -64,15 +64,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20juin%202025-1-min_1.jpg",
-    "date": "Offre du 12 au 18 Juin 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2019%20au%2025%20juin%202025-1-min_1.jpg",
+    "date": "Offre du 19 au 25 Juin 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20juin%202025-1-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20juin%202025-2-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20juin%202025-3-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20juin%202025-4-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2030%20juin%202025-1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2030%20juin%202025-2.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2019%20au%2025%20juin%202025-1-min_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2019%20au%2025%20juin%202025-2-min_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2019%20au%2025%20juin%202025-3-min_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2019%20au%2025%20juin%202025-4-min_1.jpg"
     ]
   },
   "Kazyon1": {
@@ -97,13 +95,16 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "A partir de Vendredi 13 Juin 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/9-06-2025-11-54-22-Spot%20BIM%2013-17%20Juin%202025.jpg",
+      "date": "A partir de Vendredi 20 Juin 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/17-06-2025-10-54-55-couv%20spot.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/9-06-2025-11-54-22-Spot%20BIM%2013-17%20Juin%202025.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/9-06-2025-11-54-30-Spot%20BIM%2013-17%20Juin%2020252.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/9-06-2025-11-54-35-Spot%20BIM%2013-17%20Juin%2020253.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/9-06-2025-11-54-42-Spot%20BIM%2013-17%20Juin%2020254.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/17-06-2025-10-54-55-couv%20spot.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/17-06-2025-10-55-27-spot%201.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/17-06-2025-10-55-41-spot%202.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/17-06-2025-10-55-51-spot%203.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/17-06-2025-10-56-02-spot%204.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/17-06-2025-10-56-22-spot%205.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/17-06-2025-10-57-20-spot%206.jpg"
       ]
     },
     "bim2": {
