@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Kitea Géant",
+      "date": "Offre valable tout l'été",
+      "thumbnail": "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0001-min.jpg",
+      "link": "kitea"
+    },
+    "new2": {
       "title": "Kazyon Market",
       "date": "Offre de Lundi 23 Juin 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(1).png",
       "link": "kazyon1"
     },
-    "new2": {
+    "new3": {
       "title": "Supeco Market",
       "date": "Offre du 20 au 22 Juin 2025",
       "thumbnail": "https://instagram.fcmn3-1.fna.fbcdn.net/v/t51.2885-15/502347188_18050837420578884_4344977994455125759_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY3NTc2MS5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.fcmn3-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QESF79G4TgZn7LcbzsFVUtwA6nSV4l3iCku40wOfANQ5WyYaEJnLDSrPJk1noKl-Bc&_nc_ohc=TP6avxHemHQQ7kNvwFRrqvd&_nc_gid=gsmpWO9SkGt9M3fwsiX0uw&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzY1ODQzNjgzOTcyMDUxODg1MQ%3D%3D.3-ccb7-5&oh=00_AfPlRvb9160nLFhTx1qDFn88ww5JH8e5wzbSQ9I9-xErlg&oe=685B13D6&_nc_sid=7a9f4b",
       "link": "supeco"
     },
-    "new3": {
+    "new4": {
       "title": "Bim Market",
       "date": "A partir de Vendredi 20 Juin 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/17-06-2025-10-54-55-couv%20spot.jpg",
       "link": "bim1"
-    },
-    "new4": {
-      "title": "Kazyon Market",
-      "date": "Offre du 19 au 25 Juin 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2019%20au%2025%20juin%202025-1-min_1.jpg",
-      "link": "kazyon"
     },
     "new5": {
       "title": "Aswak Assalam",
@@ -354,26 +354,34 @@
   },
   "Kitea": {
     "link": "kitea",
-    "title": "Kitea",
-    "thumbnail": "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00001.webp",
-    "date": "Du 01 au 28 Février 2025",
+    "title": "Kitea Géant",
+    "thumbnail": "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0001-min.jpg",
+    "date": "Offre valable tout l'été",
     "images": [
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00001.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00002.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00003.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00004.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00005.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00006.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00007.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00008.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00009.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00010.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00011.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00012.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00013.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00014.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00015.webp",
-      "https://static1.tiendeo.ma/images/tiendas/0/catalogos/sf-ar_ma-3940-flyer-3182/paginas/med3/00016.webp"
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0001-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0002-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0003-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0004-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0006-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0005-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0007-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0008-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0009-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0010-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0011-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0012-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0013-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0014-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0015-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0016-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0017-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0018-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0019-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0020-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0021-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0022-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0023-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0024-min.jpg"
     ]
   }
 }
