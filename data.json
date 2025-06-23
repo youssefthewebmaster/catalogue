@@ -1,52 +1,52 @@
 {
   "news": {
     "new1": {
+      "title": "Atacadão Market",
+      "date": "Offre de 12 Juin 02 Juillet 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao.jpg",
+      "link": "atacadao"
+    },
+    "new2": {
       "title": "Kitea Géant",
       "date": "Offre valable tout l'été",
       "thumbnail": "https://hmizate.ma/img/cms/BROCHURE%20ETE%202025_WEB-NV_page-0001-min.jpg",
       "link": "kitea"
     },
-    "new2": {
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre de Lundi 23 Juin 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(1).png",
       "link": "kazyon1"
     },
-    "new3": {
+    "new4": {
       "title": "Supeco Market",
       "date": "Offre du 20 au 22 Juin 2025",
       "thumbnail": "https://instagram.fcmn3-1.fna.fbcdn.net/v/t51.2885-15/502347188_18050837420578884_4344977994455125759_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY3NTc2MS5kZWZhdWx0X2NvdmVyX2ZyYW1lIn0&_nc_ht=instagram.fcmn3-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QESF79G4TgZn7LcbzsFVUtwA6nSV4l3iCku40wOfANQ5WyYaEJnLDSrPJk1noKl-Bc&_nc_ohc=TP6avxHemHQQ7kNvwFRrqvd&_nc_gid=gsmpWO9SkGt9M3fwsiX0uw&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzY1ODQzNjgzOTcyMDUxODg1MQ%3D%3D.3-ccb7-5&oh=00_AfPlRvb9160nLFhTx1qDFn88ww5JH8e5wzbSQ9I9-xErlg&oe=685B13D6&_nc_sid=7a9f4b",
       "link": "supeco"
     },
-    "new4": {
+    "new5": {
       "title": "Bim Market",
       "date": "A partir de Vendredi 20 Juin 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/17-06-2025-10-54-55-couv%20spot.jpg",
       "link": "bim1"
     },
-    "new5": {
+    "new6": {
       "title": "Aswak Assalam",
       "date": "A partir de 19 Juin 2025",
       "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/509365218_723469850282230_3704210321974305227_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QGZ3FsvveNNGO3ScxKCUbRQ9RL8C7ZhHgGyPag63ZljGlg8-J7Pr-7psYFTeHnPfGY&_nc_ohc=dsxi3bMV_dcQ7kNvwHMJnFH&_nc_gid=8dS-QMNPefYJokLeK2X3Cg&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1NzE2NjcxOTE0ODI2NTcwMQ%3D%3D.3-ccb7-5&oh=00_AfOkzOL5ABeGOO3lKoTlT1SHWRu9o4LWtIyKKR8X71XtAg&oe=68591268&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new6": {
+    "new7": {
       "title": "Carrefour Méga",
       "date": "A partir de Jeudi 12 Juin 2025",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/506613619_1118935396940815_8166486787678411196_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QH6kSw5FuXvMDWC9H5Q1-hSWcyM9LewqcxXSRe-MKWAYM2ipM9zdYWVcRYYbjXFKDI&_nc_ohc=PAuQQyItzNkQ7kNvwF9qwO0&_nc_gid=rGuDnMsHWlLeQz3wF58P0A&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY1MjcwMDkwODE0NDc3NDYyNQ%3D%3D.3-ccb7-5&oh=00_AfNnhye6emUWBvx1SWHt1-Q5C3bKALlu_-1VLyeRDBg38g&oe=684FC6A3&_nc_sid=7a9f4b",
       "link": "carrefour2"
     },
-    "new7": {
+    "new8": {
       "title": "Marjane Market",
       "date": "Du 30 Mai au 01 Juin 2025",
       "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/499631441_999711262328260_5291389681679080537_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QG_3lPQ7XqCryLn1EFQFkdHj43w9wQOyfEu_yiImXe56r0kt2Ape5IoY8PSf7Vi3DA&_nc_ohc=KsFFPucuibAQ7kNvwHK8NXf&_nc_gid=7swXfp5-Fi9Xzzn4cfr8Lw&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY0MzIyMzQ1MTIyNjUxNDQ0MQ%3D%3D.3-ccb7-5&oh=00_AfIpvCRJcb2klxEAQXbtqiAQ8SYkRfpwDnweTo_SZGEjEA&oe=683E827C&_nc_sid=7a9f4b",
       "link": "marjaneMarket"
-    },
-    "new8": {
-      "title": "Atacadão Market",
-      "date": "Offre de 29 Mai au 11 Juin 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%202.jpg",
-      "link": "atacadao"
     },
     "new9": {
       "title": "Carrefour Méga",
@@ -339,17 +339,13 @@
   "Atacadão": {
     "title": "Atacadão",
     "link": "atacadao",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%202.jpg",
-    "date": "Offre de 29 Mai au 11 Juin 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao.jpg",
+    "date": "Offre de 12 Juin 02 Juillet 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%202.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%201.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%203.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%204.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%205.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%206.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%207.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2029%20mai%20au%2011%20juin%202025%20%E2%80%93%208.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%204.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao3.jpg"
     ]
   },
   "Kitea": {
