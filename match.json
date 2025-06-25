@@ -4,6 +4,57 @@
         "current": 1,
         "new": 1
     },
+    "events": {
+        "event1": {
+            "team1": "برشلونة",
+            "team2": "إنتر ميلان",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/fcBarcelona.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/interMilan.png",
+            "time":"19:30",
+            "championName": "عصبة الأبطال",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"b1",
+            "comment": "عصام الشوالي"
+        },
+        "event2": {
+            "team1": "برشلونة",
+            "team2": "إنتر ميلان",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/fcBarcelona.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/interMilan.png",
+            "time":"19:30",
+            "championName": "عصبة الأبطال",
+            "channelName": "Bein Sport 2",
+            "folder": "beinSport",
+            "link": "beinSport2",
+            "picture":"b2",
+            "comment": "عصام الشوالي"
+        },
+        "event3": {
+            "team1": "برشلونة",
+            "team2": "إنتر ميلان",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/fcBarcelona.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/interMilan.png",
+            "time":"19:30",
+            "championName": "عصبة الأبطال",
+            "channelName": "Bein Sport 3",
+            "folder": "beinSport",
+            "link": "beinSport3",
+            "picture":"b3",
+            "comment": "عصام الشوالي"
+        }
+    },
+    "newEvents": {
+        "main": {
+            "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/dazn.png",
+            "title": "DAZN",
+            "link": "newEventsMenu",
+            "elements": {
+
+            }
+        }
+    },
     "beinSport": {
         "beinSportNews": {
             "links": {
@@ -2093,7 +2144,7 @@
                 "الرابط 3": "http://149.62.177.103:8000/play/a09w"
             }
         },
-        "arriyadia": {
+        "arriyadiaMa": {
             "links":{
                 "الرابط 4": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058144",
                 "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8",
