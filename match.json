@@ -13,7 +13,11 @@
                 "element1": {
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/dazn.png",
                     "title": "DAZN 1",
-                    "link": "newEventsMenu"
+                    "links": {
+                        "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/247704",
+                        "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/125555",
+                        "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/287734" 
+            }
                 }
             }
         }
