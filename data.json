@@ -8,8 +8,8 @@
     },
     "new2": {
       "title": "Bim Market",
-      "date": "A partir de Mardi 24 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-09-47-couv%20gr%20spot.jpg",
+      "date": "Offre du 26 au 29 Juin 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Bim%20du%2026%20au%2029%20juin%202025-min.jpg",
       "link": "bim2"
     },
     "new3": {
@@ -65,7 +65,7 @@
     "link": "kazyon",
     "title": "Kazyon",
     "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20juin%20au%202%20juillet%202025-1_1.jpg",
-    "date": "Offre du 26 au 02 Juillet Juin 2025",
+    "date": "Offre du 26 au 02 Juillet 2025",
     "images": [
       "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20juin%20au%202%20juillet%202025-1_1.jpg",
       "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20juin%20au%202%20juillet%202025-2_1.jpg",
@@ -106,17 +106,10 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "A partir de Mardi 24 Mai 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-09-47-couv%20gr%20spot.jpg",
+      "date": "Offre du 26 au 29 Juin 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Bim%20du%2026%20au%2029%20juin%202025-min.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-09-47-couv%20gr%20spot.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-09-53-gr%20spot%201.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-10-36-gr%20spot%203.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-10-41-gr%20spot%204.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-10-48-gr%20spot%205.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-10-54-gr%20spot%206.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-11-02-gr%20spot%207.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-11-10-gr%20spot%208.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20Bim%20du%2026%20au%2029%20juin%202025-min.jpg"
       ]
     }
   },
