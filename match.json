@@ -3224,29 +3224,30 @@
     "franceSport": {
         "lequipe1": {
             "links": {
-                "الرابط 1": "https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/298402"
+                "الرابط 1": "https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8"
             }
         },
         "lequipe2": {
             "links": {
-                "الرابط 1": "https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/298403"
+                "الرابط 1": "https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8"
             }
         },
         "rmcTalkSport": {
             "links": {
-                "الرابط 1": "https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8"
+                "الرابط 1": "https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/925160"
             }
         },
         "eurosport1": {
             "links": {
-                "الرابط 1": "http://41.205.93.154/EUROSPORT1/mpegts"
+                "الرابط 1": "http://41.205.93.154/EUROSPORT1/mpegts",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/238"
             }
         },
         "eurosport2": {
             "links": {
-                "الرابط 1": "http://41.205.93.154/EUROSPORT2/mpegts"
+                "الرابط 1": "http://41.205.93.154/EUROSPORT2/mpegts",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/250664"
             }
         }
     }
