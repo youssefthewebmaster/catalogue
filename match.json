@@ -2779,88 +2779,60 @@
         "tf1": {
             "links": {
                 "الرابط 1": "http://41.205.93.154/TF1/mpegts",
-                "الرابط 2": "https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8",
-                "الرابط 3": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8",
-                "الرابط 4": "http://pro.ipcover.lol:8080/6164819/7361615/137958",
-                "الرابط 5": "http://pro.ipcover.lol:8080/6164819/7361615/5",
-                "الرابط 6": "http://pro.ipcover.lol:8080/6164819/7361615/246207",
-                "الرابط 7": "http://ky-iptv.com:80/DAVMR31/44991177/182293.ts"
+                "الرابط 2": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8"
             }
         },
         "france2": {
             "links": {
                 "الرابط 1": "http://tvmate.icu:8080/60023165/94429242/160297",
-                "الرابط 2": "http://atv-pro.net:80/6448907643/7654389887/426548",
-                "الرابط 3": "http://pro.ipcover.lol:8080/6164819/7361615/137961",
-                "الرابط 4": "http://pro.ipcover.lol:8080/6164819/7361615/7",
-                "الرابط 5": "http://ky-iptv.com:80/DAVMR31/44991177/182269.ts"
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148463"
             }
         },
         "france3": {
             "links": {
                 "الرابط 1": "http://tvmate.icu:8080/60023165/94429242/160298",
-                "الرابط 2": "http://atv-pro.net:80/6448907643/7654389887/426561",
-                "الرابط 3": "http://pro.ipcover.lol:8080/6164819/7361615/137962",
-                "الرابط 4": "http://pro.ipcover.lol:8080/6164819/7361615/400217",
-                "الرابط 5": "http://ky-iptv.com:80/DAVMR31/44991177/182271.ts"
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148466"
             }
         },
         "france4": {
             "links": {
                 "الرابط 1": "http://tvmate.icu:8080/60023165/94429242/160299",
-                "الرابط 2": "http://atv-pro.net:80/6448907643/7654389887/426556",
-                "الرابط 3": "http://pro.ipcover.lol:8080/6164819/7361615/137964",
-                "الرابط 4": "http://pro.ipcover.lol:8080/6164819/7361615/11"
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148467"
             }
         },
         "france5": {
             "links": {
                 "الرابط 1": "http://tvmate.icu:8080/60023165/94429242/160300",
-                "الرابط 2": "http://atv-pro.net:80/6448907643/7654389887/426550",
-                "الرابط 3": "http://atv-pro.net:80/6448907643/7654389887/426559",
-                "الرابط 4": "http://pro.ipcover.lol:8080/6164819/7361615/13",
-                "الرابط 5": "http://ky-iptv.com:80/DAVMR31/44991177/182275.ts"
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148468"
             }
         },
         "m6": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426591",
-                "الرابط 2": "http://atv-pro.net:80/6448907643/7654389887/426612",
-                "الرابط 3": "http://pro.ipcover.lol:8080/6164819/7361615/17",
-                "الرابط 4": "http://ky-iptv.com:80/DAVMR31/44991177/182288.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148462",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/270"
             }
         },
         "arte": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426603",
-                "الرابط 2": "http://atv-pro.net:80/6448907643/7654389887/426620",
-                "الرابط 3": "http://pro.ipcover.lol:8080/6164819/7361615/137966",
-                "الرابط 4": "http://pro.ipcover.lol:8080/6164819/7361615/21",
-                "الرابط 5": "http://ky-iptv.com:80/DAVMR31/44991177/182258.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/7411",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12907"
             }
         },
         "rtl9": {
             "links": {
-                "الرابط 1": "http://41.205.93.154/RTL9/mpegts",
-                "الرابط 2": "http://atv-pro.net:80/6448907643/7654389887/426596",
-                "الرابط 3": "http://atv-pro.net:80/6448907643/7654389887/426604",
-                "الرابط 4": "http://pro.ipcover.lol:8080/6164819/7361615/137976",
-                "الرابط 5": "http://pro.ipcover.lol:8080/6164819/7361615/37",
-                "الرابط 6": "http://ky-iptv.com:80/DAVMR31/44991177/182459.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32794",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/273"
             }
         },
         "syfy": {
             "links": {
-                "الرابط 1": "http://41.205.93.154/SYFY/mpegts",
-                "الرابط 2": "http://atv-pro.net:80/6448907643/7654389887/426447",
-                "الرابط 3": "http://pro.ipcover.lol:8080/6164819/7361615/138151",
-                "الرابط 4": "http://pro.ipcover.lol:8080/6164819/7361615/59",
-                "الرابط 5": "http://ky-iptv.com:80/DAVMR31/44991177/182463.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32817",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/318"
             }
         },
         "c8": {
             "links": {
-                "الرابط 1": "http://41.205.93.154/C8/mpegts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32759"
             }
         },
         "tv5": {
