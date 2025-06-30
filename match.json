@@ -1432,7 +1432,8 @@
         },
         "abudhabiSport1": {
             "links":{
-                "الرابط 1": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
+                "الرابط 1": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
+                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/1897"
             }
         },
         "abudhabiSport2": {
@@ -2361,8 +2362,7 @@
         },
         "jeem": {
             "links":{
-                "الرابط 1": "http://filex.tv:8080/3456780/12450/332897",
-                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/4361"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/4361"
             }
         },
         "BeJunior": {
