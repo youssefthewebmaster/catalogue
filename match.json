@@ -2838,16 +2838,13 @@
         "tv5": {
             "links": {
                 "الرابط 1": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/333"
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/7528"
             }
         },
         "bfmTv": {
             "links": {
-                "الرابط 1": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END",
-                "الرابط 2": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
-                "الرابط 3": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955",
-                "الرابط 4": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955",
-                "الرابط 5": "https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148465",
+                "الرابط 2": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
             }
         },
         "figaro": {
@@ -2858,9 +2855,8 @@
         },
         "euroNews": {
             "links": {
-                "الرابط 1": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d35bcaf1ff4a00078af0a6livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung",
-                "الرابط 2": "http://atv-pro.net:80/6448907643/7654389887/426576",
-                "الرابط 3": "http://ky-iptv.com:80/DAVMR31/44991177/182311.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/2575",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/293"
             }
         }
     },
@@ -2873,12 +2869,14 @@
         },
         "plutoJunior": {
             "links": {
-                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc43-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39cb1f02-1907-4cc7-8224-1bd6adfb09bc"
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc43-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39cb1f02-1907-4cc7-8224-1bd6adfb09bc",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/246303"
             }
         },
         "plutoKids": {
             "links": {
-                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1894d5d0-76ab-4321-9f74-30abda806f6e"
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1894d5d0-76ab-4321-9f74-30abda806f6e",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/246300"
             }
         },
         "plutoKidsClassic": {
@@ -2888,103 +2886,100 @@
         },
         "plutoKidsGaming": {
             "links": {
-                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6ddc7fcd580007d1eb5f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c9-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e5e05ce9-206e-4e18-bc1a-aeaae6cc75d3"
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6ddc7fcd580007d1eb5f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c9-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e5e05ce9-206e-4e18-bc1a-aeaae6cc75d3",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/246307"
             }
         },
         "gulli": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426460",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/271",
-                "الرابط 3": "http://ky-iptv.com:80/DAVMR31/44991177/182556.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148486",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/296",
+                "الرابط 3": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32829"
             }
         },
         "mangas": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426523",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/267",
-                "الرابط 3": "http://ky-iptv.com:80/DAVMR31/44991177/182559.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/274709",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1227"
             }
         },
         "baby": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426486"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/116313",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/233442"
             }
         },
         "tiji": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426458",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/274"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32830",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/299"
             }
         },
         "boomerang": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426475",
-                "الرابط 2": "http://ky-iptv.com:80/DAVMR31/44991177/182540.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/35528",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/307"
             }
         },
         "boomerangMax": {
             "links": {
-                "الرابط 1": "http://pro.ipcover.lol:8080/6164819/7361615/216675"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/8194"
             }
         },
         "cartoonNetwork": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426538",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/246",
-                "الرابط 3": "http://ky-iptv.com:80/DAVMR31/44991177/182544.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148484",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/306",
+                "الرابط 3": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12883"
             }
         },
         "canalJ": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426532",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/248",
-                "الرابط 3": "http://ky-iptv.com:80/DAVMR31/44991177/182542.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1222",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32828",
+                "الرابط 3": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12884"
             }
         },
         "boing": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426583",
-                "الرابط 2": "http://ky-iptv.com:80/DAVMR31/44991177/182537.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/309",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12893"
             }
         },
         "disneyJunior": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426587",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/237"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32827",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12861"
             }
         },
         "disneyChannel": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426476",
-                "الرابط 2": "http://ky-iptv.com:80/DAVMR31/44991177/182546.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/35529",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/302"
             }
         },
         "piwi": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426448",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/257",
-                "الرابط 3": "http://ky-iptv.com:80/DAVMR31/44991177/182568.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148483",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1228"
             }
         },
         "nickelodeon": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426434",
-                "الرابط 2": "http://atv-pro.net:80/6448907643/7654389887/426480",
-                "الرابط 3": "http://ky-iptv.com:80/DAVMR31/44991177/182561.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/274707",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/4185"
             }
         },
         "nickelodeonJunior": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426493",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/254",
-                "الرابط 3": "http://ky-iptv.com:80/DAVMR31/44991177/182566.ts"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/310",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/308"
             }
         },
         "canalPlusKids": {
             "links": {
-                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426511",
-                "الرابط 2": "http://pro.ipcover.lol:8080/6164819/7361615/138177",
-                "الرابط 3": "http://pro.ipcover.lol:8080/6164819/7361615/119"
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32771",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/251"
             }
         },
         "okoo": {
