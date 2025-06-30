@@ -439,18 +439,14 @@
         },
         "mbcAction": {
             "links":{
-                "الرابط 1": "http://149.57.37.10/EX/MBC_ACTION_FHD-ar/index.m3u8",
-                "الرابط 2": "http://154.58.202.185:8000/play/a048",
-                "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/426",
-                "الرابط 4": "http://wolvestv.net:8880/farahxalbayati/ar15681985/4348"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/426",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/4348"
             }
         },
         "mbcMax": {
             "links":{
-                "الرابط 1": "http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8",
-                "الرابط 2": "http://154.58.202.185:8000/play/a04a",
-                "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/3073",
-                "الرابط 4": "http://wolvestv.net:8880/farahxalbayati/ar15681985/74310"
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/3073",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/74310"
             }
         },
         "mbcDrama": {
