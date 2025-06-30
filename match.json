@@ -1436,39 +1436,39 @@
         },
         "abudhabiSport1": {
             "links":{
-                "الرابط 1": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
-                "الرابط 2": "http://93.123.72.138:8000/play/a01d",
-                "الرابط 3": "http://149.62.177.103:8000/play/a091",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/640253"
+                "الرابط 1": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
             }
         },
         "abudhabiSport2": {
             "links":{
-                "الرابط 1": "https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd",
-                "الرابط 2": "http://149.62.177.103:8000/play/a092",
-                "الرابط 3": "http://93.123.72.138:8000/play/a01e",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/640254"
-  
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/38855",
+                "الرابط 2": "https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd"
             }
         },
         "abudhabiSportAsia1": {
             "links":{
-                "الرابط 1": "http://93.123.72.138:8000/play/a01h"
+                "4k": "http://wolvestv.net:8880/farahxalbayati/ar15681985/505455",
+                "HD": "http://wolvestv.net:8880/farahxalbayati/ar15681985/505457"
             }
         },
         "abudhabiSportAsia2": {
             "links":{
-                "الرابط 1": "http://93.123.72.138:8000/play/a01i"
+                "4k": "http://wolvestv.net:8880/farahxalbayati/ar15681985/505456",
+                "HD": "http://wolvestv.net:8880/farahxalbayati/ar15681985/505458"
             }
         },
         "abudhabiSportPermium1": {
             "links":{
-                "الرابط 1": "http://93.123.72.138:8000/play/a01f"
+                "4k": "http://wolvestv.net:8880/farahxalbayati/ar15681985/505447",
+                "HD": "http://wolvestv.net:8880/farahxalbayati/ar15681985/505448",
+                "SD": "http://wolvestv.net:8880/farahxalbayati/ar15681985/505449"
             }
         },
         "abudhabiSportPermium2": {
             "links":{
-                "الرابط 1": "http://93.123.72.138:8000/play/a01g"
+                "4k": "http://wolvestv.net:8880/farahxalbayati/ar15681985/505450",
+                "HD": "http://wolvestv.net:8880/farahxalbayati/ar15681985/505451",
+                "SD": "http://wolvestv.net:8880/farahxalbayati/ar15681985/505452"
             }
         },
         "kowitSport1": {
