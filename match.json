@@ -15,8 +15,8 @@
             "channelName": "MBC Action",
             "folder": "mbc",
             "link": "mbcAction",
-            "picture":"b1",
-            "comment": "غير معروف"
+            "picture":"../assets/mbcAction.png",
+            "comment": "فهد العتيبي"
         }
     },
     "beinSport": {
