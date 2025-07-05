@@ -6,17 +6,30 @@
     },
     "events": {
         "event1": {
-            "team1": "فلومينينسي",
-            "team2": "الهلال",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Fluminense.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/alHilal.png",
-            "time":"19:00",
+            "team1": "باريس سان جيرمان",
+            "team2": "بايرن ميونخ",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/france/parisSaintGermain.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/germany/bayernMunchen.png",
+            "time":"16:00",
             "championName": "كأس العالم للأندية",
             "channelName": "MBC Action",
             "folder": "mbc",
             "link": "mbcAction",
-            "picture":"mbcAction.png",
-            "comment": "فهد العتيبي"
+            "picture":"../assets/mbcAction.png",
+            "comment": "فارس عوض"
+        },
+        "event2": {
+            "team1": "ريال مدريد",
+            "team2": "بوروسيا دورتموند",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/realMadrid.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/germany/broussiaDortmound.png",
+            "time":"20:00",
+            "championName": "كأس العالم للأندية",
+            "channelName": "MBC Action",
+            "folder": "mbc",
+            "link": "mbcAction",
+            "picture":"../assets/mbcAction.png",
+            "comment": "خالد الغول"
         }
     },
     "beinSport": {
