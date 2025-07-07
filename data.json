@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
-      "title": "Bim Market",
-      "date": "A partir de 04 Juillet 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%204%20Juillet%202025.jpg",
-      "link": "bim2"
+      "title": "Supeco Market",
+      "date": "Offre de Mardi 07 Juillet 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
+      "link": "supeco"
     },
     "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mardi 07 Juillet 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new3": {
+      "title": "Bim Market",
+      "date": "Offre de Mardi 07 Juillet 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-33-03-Spot%20BIM%20du%2004%20et%2008%20Juillet%202025%20WEB3.jpg",
+      "link": "bim2"
+    },
+    "new4": {
       "title": "Aswak Assalam",
       "date": "A partir de 03 Juillet 2025",
       "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/515012732_735179025777979_3978656805653313519_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QHFbr-PA5GuaBNBVmlaEmbWWtnLHyUyxopsSmJDqPYG_MT75GEIubuWnOIrZbuGH9A&_nc_ohc=vmN7pCOgU_AQ7kNvwE8MLCQ&_nc_gid=7Ul1M85T9leexX8ETb18Pg&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY2NzkwMzE4NzQ4NzQ1OTc1Mg%3D%3D.3-ccb7-5&oh=00_AfMSMWHaBYR4Ozz5onSSenfbDaab1Sl3A45PU-C_0UdkRA&oe=686C1969&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new3": {
+    "new5": {
       "title": "Atacadão Market",
       "date": "Offre du 03 au 16 Juillet 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%203%20au%2016%20juillet%202025-1-min.jpg",
       "link": "atacadao"
-    },
-    "new4": {
-      "title": "Kazyon Market",
-      "date": "Offre du 03 au 09 Juillet 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20juillet%202025-2-min_1.jpg",
-      "link": "kazyon"
-    },
-    "new5": {
-      "title": "Supeco Market",
-      "date": "Offre de Mardi 1 Juillet 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
-      "link": "supeco"
     },
     "new6": {
       "title": "Carrefour Market",
@@ -76,30 +76,28 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-    "date": "Offre de Mardi 1 Juillet 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(1).png",
+    "date": "Offre de Mardi 07 Juillet 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(5).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(6).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(7).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(8).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(9).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(5).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(6).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(7).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(8).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(9).png"
     ]
   },
   "bims": {
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "Offre de Mardi 1 Juillet 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-08-22-GS%2001%20Juillet%202025%20Modifs%20web.jpg",
+      "date": "Offre de Mardi 07 Juillet 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-33-03-Spot%20BIM%20du%2004%20et%2008%20Juillet%202025%20WEB3.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-08-22-GS%2001%20Juillet%202025%20Modifs%20web.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-08-29-GS%2001%20Juillet%202025%20Modifs%20web2.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/23-06-2025-16-08-35-GS%2001%20Juillet%202025%20web.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-33-03-Spot%20BIM%20du%2004%20et%2008%20Juillet%202025%20WEB3.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-33-08-Spot%20BIM%20du%2004%20et%2008%20Juillet%202025%20WEB4.jpg"
       ]
     },
     "bim2": {
@@ -117,10 +115,11 @@
     "link": "supeco",
     "title": "Supeco Market",
     "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
-    "date": "Offre de Mardi 1 Juillet 2025",
+    "date": "Offre de Mardi 07 Juillet 2025",
     "images": [
       "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(2).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(3).png"
     ]
   },
   "AswakAssalam": {
