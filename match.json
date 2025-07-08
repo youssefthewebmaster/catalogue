@@ -6,17 +6,17 @@
     },
     "events": {
         "event1": {
-            "team1": "الولايات المتحدة",
-            "team2": "المكسيك",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/countries/usa.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/countries/mexico.png",
-            "time":"23:00",
-            "championName": "كأس الكونكاكاف",
-            "channelName": "السعودية الرياضية 1",
-            "folder": "sportArab",
-            "link": "so3odiyaSport1",
+            "team1": "فلومينينسي",
+            "team2": "تشيلسي",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Fluminense.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Chelsea.png",
+            "time":"19:00",
+            "championName": "كأس العالم للاندية",
+            "channelName": "Mbc Action",
+            "folder": "mbc",
+            "link": "mbcAction",
             "picture":"b1",
-            "comment": "أحمد النفيسة"
+            "comment": "خالد الغول"
         }
     },
     "beinSport": {
