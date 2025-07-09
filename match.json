@@ -6,17 +6,17 @@
     },
     "events": {
         "event1": {
-            "team1": "فلومينينسي",
-            "team2": "تشيلسي",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Fluminense.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Chelsea.png",
+            "team1": "باريس سان جيرمان",
+            "team2": "ريال مدريد",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/france/parisSaintGermain.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/realMadrid.png",
             "time":"19:00",
             "championName": "كأس العالم للاندية",
             "channelName": "Mbc Action",
             "folder": "mbc",
             "link": "mbcAction",
             "picture":"b1",
-            "comment": "خالد الغول"
+            "comment": "فهد العتيبي"
         }
     },
     "beinSport": {
