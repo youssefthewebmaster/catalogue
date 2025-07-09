@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mercredi 09 Juillet 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
-      "link": "kazyon1"
+      "title": "Bim Market",
+      "date": "A partir de Vendredi 11 Juillet 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-32-19-WEB%20SPOT%20BIM%2011%20ET%2015%20JUILLET%202025.jpg",
+      "link": "bim2"
     },
     "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre du 10 au 16 Juillet 2025",
+      "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/517506442_611797375300872_5294429873299669230_n.jpg?stp=c0.21.1649.2005a_dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2NDl4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QFBM4I-hwRFGM4vJHfWbHB-uKNvFDVLOq7bv-AIoBXqGZ1OU1yKeGkoZQU_IiNPCAA&_nc_ohc=jwOZ7PQKTYkQ7kNvwHcDfAt&_nc_gid=UY23bAqNf9XJ-bBpLJQNxQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY3MzA0MDQyNTcxOTEwNTQ2OQ%3D%3D.3-ccb7-5&oh=00_AfS3hrxS019u4tNuYBiQzBK4oYuvQgIcLjeVe73xevkwaA&oe=6874BE91&_nc_sid=7a9f4b",
+      "link": "kazyon"
+    },
+    "new3": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 07 Juillet 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
       "link": "supeco"
-    },
-    "new3": {
-      "title": "Bim Market",
-      "date": "Offre de Mardi 07 Juillet 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-33-03-Spot%20BIM%20du%2004%20et%2008%20Juillet%202025%20WEB3.jpg",
-      "link": "bim2"
     },
     "new4": {
       "title": "Aswak Assalam",
@@ -64,13 +64,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20juillet%202025-2-min_1.jpg",
-    "date": "Offre du 03 au 09 Juillet 2025",
+    "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/517506442_611797375300872_5294429873299669230_n.jpg?stp=c0.21.1649.2005a_dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2NDl4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QFBM4I-hwRFGM4vJHfWbHB-uKNvFDVLOq7bv-AIoBXqGZ1OU1yKeGkoZQU_IiNPCAA&_nc_ohc=jwOZ7PQKTYkQ7kNvwHcDfAt&_nc_gid=UY23bAqNf9XJ-bBpLJQNxQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY3MzA0MDQyNTcxOTEwNTQ2OQ%3D%3D.3-ccb7-5&oh=00_AfS3hrxS019u4tNuYBiQzBK4oYuvQgIcLjeVe73xevkwaA&oe=6874BE91&_nc_sid=7a9f4b",
+    "date": "Offre du 10 au 16 Juillet 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20juillet%202025-2-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20juillet%202025-1-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20juillet%202025-3-min_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%203%20au%209%20juillet%202025-4-min_1.jpg"
+      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/517506442_611797375300872_5294429873299669230_n.jpg?stp=c0.21.1649.2005a_dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2NDl4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QFBM4I-hwRFGM4vJHfWbHB-uKNvFDVLOq7bv-AIoBXqGZ1OU1yKeGkoZQU_IiNPCAA&_nc_ohc=jwOZ7PQKTYkQ7kNvwHcDfAt&_nc_gid=UY23bAqNf9XJ-bBpLJQNxQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY3MzA0MDQyNTcxOTEwNTQ2OQ%3D%3D.3-ccb7-5&oh=00_AfS3hrxS019u4tNuYBiQzBK4oYuvQgIcLjeVe73xevkwaA&oe=6874BE91&_nc_sid=7a9f4b",
+      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/517320820_611797551967521_1217423713240794509_n.jpg?stp=c4.0.1684.2048a_dst-jpg_e35_s640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2OTN4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QFBM4I-hwRFGM4vJHfWbHB-uKNvFDVLOq7bv-AIoBXqGZ1OU1yKeGkoZQU_IiNPCAA&_nc_ohc=cRbG4YF7EcYQ7kNvwGiGF_-&_nc_gid=UY23bAqNf9XJ-bBpLJQNxQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY3MzA0MDQyNjcxNzQwNTA4NA%3D%3D.3-ccb7-5&oh=00_AfQLji7GJ4q8ZLm39DDrS7eeFyj7ZHGlpnv_RN_SgCHwjg&oe=6874C9FD&_nc_sid=7a9f4b",
+      "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/517115816_611797635300846_7641625664628366666_n.jpg?stp=c6.0.1684.2048a_dst-jpg_e35_s640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE2OTd4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QFBM4I-hwRFGM4vJHfWbHB-uKNvFDVLOq7bv-AIoBXqGZ1OU1yKeGkoZQU_IiNPCAA&_nc_ohc=8G48w3WIRwQQ7kNvwH6-HiY&_nc_gid=UY23bAqNf9XJ-bBpLJQNxQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY3MzA0MDQyNzUzOTQwNjU5OQ%3D%3D.3-ccb7-5&oh=00_AfT9VPpgK30vnE5PveTIKEf3WW4gcPZ9JYUC7LI2z9T1Iw&oe=6874C9F2&_nc_sid=7a9f4b",
+      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/518019562_611797558634187_6473549659229059932_n.jpg?stp=c17.0.1684.2048a_dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE3MTl4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QFBM4I-hwRFGM4vJHfWbHB-uKNvFDVLOq7bv-AIoBXqGZ1OU1yKeGkoZQU_IiNPCAA&_nc_ohc=7TXgyYtVE5sQ7kNvwGu3dak&_nc_gid=UY23bAqNf9XJ-bBpLJQNxQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY3MzA0MDQyNjA4ODAwNjk1Mg%3D%3D.3-ccb7-5&oh=00_AfQogGLCKhM30G6vc5bU48JSQ09llawcIggJXAomRNqAtg&oe=6874AF8C&_nc_sid=7a9f4b"
     ]
   },
   "Kazyon1": {
@@ -101,11 +101,11 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "A partir de 04 Juillet 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%204%20Juillet%202025.jpg",
+      "date": "A partir de Vendredi 11 Juillet 2025",
+      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-32-19-WEB%20SPOT%20BIM%2011%20ET%2015%20JUILLET%202025.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%204%20Juillet%202025.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20Vendredi%204%20Juillet%202025-1.jpg"
+        "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-32-19-WEB%20SPOT%20BIM%2011%20ET%2015%20JUILLET%202025.jpg",
+        "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-32-28-WEB%20SPOT%20BIM%2011%20ET%2015%20JUILLET%2020252.jpg"
       ]
     }
   },
