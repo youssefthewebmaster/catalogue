@@ -1,40 +1,40 @@
 {
   "news": {
-    "new1": {
+     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de 15 Juillet 2025",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/4-07-2025-14-32-35-WEB%20SPOT%20BIM%2011%20ET%2015%20JUILLET%2020253.jpg",
+      "link": "bim1"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de 15 Juillet 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new3": {
+      "title": "Supeco Market",
+      "date": "Offre de 15 Juillet 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
+      "link": "supeco"
+    },
+    "new4": {
       "title": "Aswak Assalam",
       "date": "A partir de 14 Juillet 2025",
       "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/520123650_743556998273515_4032847571992681857_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QGvzxR1k_Lxh7hm2o0pW3zsdRklQH-lFUJTaDChqKUzzFRzMYQrR4UAcKDhlMjvIac&_nc_ohc=sJOJO8XsNWcQ7kNvwG7EYQn&_nc_gid=iDnrE_er-se16Jwiu_eeIw&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY3NTkyODQyMTc5MjYwMDcwMw%3D%3D.3-ccb7-5&oh=00_AfSGkiJ_I16-LdljMIB_9JthbFzvjbaE01MTgTGMAmQm3Q&oe=687A25B8&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new2": {
-      "title": "Supeco Market",
-      "date": "A partir de 14 Juillet 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoLundi%20(1).png",
-      "link": "supeco"
-    },
-    "new3": {
-      "title": "Kazyon Market",
-      "date": "Offre de 14 Juillet 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(2).png",
-      "link": "kazyon1"
-    },
-    "new4": {
+    "new5": {
       "title": "Marjane Market",
       "date": "Offre valable jusqu a 13 Juillet 2025",
       "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t51.2885-15/517165742_18072936046953462_4735262190396930717_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QF8Nm78Ohh-ietU10Wbp1LZlYbEzVe5lDe6euO-hAcwpk-DOUOljn7xAIuH-ja56bU&_nc_ohc=EylSmLMKj-8Q7kNvwH4olzC&_nc_gid=3CFOaRDWRmkMNkgnzaUcnQ&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzY3MzUwNzM2ODEzOTE0MzIxMQ%3D%3D.3-ccb7-5&oh=00_AfSfHXTyS01qGY9FXkWPHTivfS00LYm8VciHdlmYWKLH1Q&oe=687612FA&_nc_sid=7a9f4b",
       "link": "marjaneMarket"
     },
-    "new5": {
+    "new6": {
       "title": "Carrefour Market",
       "date": "A partir de 11 Juillet 2025",
       "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t51.2885-15/505440517_18168558763352810_8251441187649058048_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QFevwPm4k6Sk1868lQXJrRh12iQ4iINSQ3UYKl38AJucxigQ55KP7Wm4wW_vnRZnWo&_nc_ohc=TBg3aQYcMBQQ7kNvwEhklXk&_nc_gid=t_LrXTMwN1aETZ5wLlI85Q&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzY3MzYzMzUwODQ1ODgyNTU2Mw%3D%3D.3-ccb7-5&oh=00_AfSJTXi2T6q-SJaG1DYRmxGYc0YxSvRBGulfgfls0KKGRg&oe=687606AB&_nc_sid=7a9f4b",
       "link": "carrefourMarket1"
-    },
-    "new6": {
-      "title": "Bim Market",
-      "date": "A partir de Vendredi 11 Juillet 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-32-19-WEB%20SPOT%20BIM%2011%20ET%2015%20JUILLET%202025.jpg",
-      "link": "bim2"
     },
     "new7": {
       "title": "Atacadão Market",
@@ -76,34 +76,33 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(2).png",
-    "date": "Offre de 14 Juillet 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(1).png",
+    "date": "Offre de 15 Juillet 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(5).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(6).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(7).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(8).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/kazLundi%20(9).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(4).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(5).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(6).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazyonMardi%20(7).png"
     ]
   },
   "bims": {
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "Offre de Mardi 07 Juillet 2025",
-      "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-33-03-Spot%20BIM%20du%2004%20et%2008%20Juillet%202025%20WEB3.jpg",
+      "date": "A partir de 15 Juillet 2025",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/4-07-2025-14-32-35-WEB%20SPOT%20BIM%2011%20ET%2015%20JUILLET%2020253.jpg",
       "images": [
-        "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-33-03-Spot%20BIM%20du%2004%20et%2008%20Juillet%202025%20WEB3.jpg",
-        "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-33-08-Spot%20BIM%20du%2004%20et%2008%20Juillet%202025%20WEB4.jpg"
+        "https://www.bim.ma/Uploads/ma/Files/4-07-2025-14-32-35-WEB%20SPOT%20BIM%2011%20ET%2015%20JUILLET%2020253.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/4-07-2025-14-32-41-WEB%20SPOT%20BIM%2011%20ET%2015%20JUILLET%2020254.jpg"
       ]
     },
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "A partir de Vendredi 11 Juillet 2025",
+      "date": "A partir de 11 Juillet 2025",
       "thumbnail": "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-32-19-WEB%20SPOT%20BIM%2011%20ET%2015%20JUILLET%202025.jpg",
       "images": [
         "https://cdn3.bim.ma/uploads/ma/Files/4-07-2025-14-32-19-WEB%20SPOT%20BIM%2011%20ET%2015%20JUILLET%202025.jpg",
@@ -114,16 +113,11 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco Market",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoLundi%20(1).png",
-    "date": "A partir de 14 Juillet 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
+    "date": "Offre de 15 Juillet 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoLundi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoLundi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoLundi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoLundi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoLundi%20(5).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoLundi%20(6).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoLundi%20(7).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoMardi%20(2).png"
     ]
   },
   "AswakAssalam": {
