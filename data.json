@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Lundi 29 Juillet 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new2": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 29 Juillet 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t51.82787-15/525686547_18054939095578884_5239076503549629329_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=MzY4NjY1MDY5NTIxNDIwOTg4NTE4MDU0OTM5MDkyNTc4ODg0.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=yNbb-LN_7f0Q7kNvwEsx10a&_nc_oc=Admh1xq-BYGSnvxBa3RxzRZ45IdJuaNheKDWavfkhOd1ysQwQFhYmYj_sne5M8fDRY8&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3ysGlfPbuhzhdF8w2PXKdw&oh=00_AfRYLZU3_77PVlNGNthBHYN_UXl0UefA8AgRqt_n9UtNaQ&oe=688E7E1D",
       "link": "supeco"
     },
-     "new2": {
+     "new3": {
       "title": "Bim Market",
       "date": "A partir de Mardi 29 Juillet 2025",
       "thumbnail": "https://www.bim.ma/Uploads/ma/Files/23-07-2025-13-26-19-SPOT%20BIM%2025%20ET%2029%20JUILLET%2020255.jpg",
       "link": "bim1"
-    },
-    "new3": {
-      "title": "Kazyon Market",
-      "date": "Offre de Lundi 28 Juillet 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(1).png",
-      "link": "kazyon1"
     },
     "new4": {
       "title": "Aswak Assalam",
@@ -76,18 +76,20 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(1).png",
-    "date": "Offre de Lundi 28 Juillet 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
+    "date": "Offre de Lundi 29 Juillet 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(5).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(6).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(7).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(8).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(9).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(4).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(5).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(6).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(7).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(8).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(9).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(10).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(11).png"
     ]
   },
   "bims": {
