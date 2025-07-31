@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de 1 Août 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%201%20Ao%C3%BBt%202025-2.jpg",
+      "link": "bim2"
+    },
+    "new2": {
       "title": "Kazyon Market",
       "date": "Offre du 31 au 6 Août 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2031%20juillet%20au%206%20ao%C3%BBt%202025-1-.jpg",
       "link": "kazyon"
     },
-    "new2": {
+    "new3": {
       "title": "Aswak Assalam",
       "date": "Offre de Mercredi 30 Juillet 2025",
       "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/524890767_754980340464514_5288162315552302746_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.fcmn1-4.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QGg1_oUoCahji7csJx_X60xerzeNZC4Wfl-RLQvQhS0-MGTH_0mvmmhtmPpDu639hY&_nc_ohc=NXSCknb-3LAQ7kNvwF5WutI&_nc_gid=By-2Otch6UwOgvfMUtaXRw&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY4Njg5OTc4MDgwMjgwMDA1MQ%3D%3D.3-ccb7-5&oh=00_AfRF8eOPcWkV7ihJb8l6xAIbgwcM817pV52DEDXp14GDGA&oe=688FACB7&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new3": {
+    "new4": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 29 Juillet 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t51.82787-15/525686547_18054939095578884_5239076503549629329_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=MzY4NjY1MDY5NTIxNDIwOTg4NTE4MDU0OTM5MDkyNTc4ODg0.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=yNbb-LN_7f0Q7kNvwEsx10a&_nc_oc=Admh1xq-BYGSnvxBa3RxzRZ45IdJuaNheKDWavfkhOd1ysQwQFhYmYj_sne5M8fDRY8&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3ysGlfPbuhzhdF8w2PXKdw&oh=00_AfRYLZU3_77PVlNGNthBHYN_UXl0UefA8AgRqt_n9UtNaQ&oe=688E7E1D",
       "link": "supeco"
-    },
-     "new4": {
-      "title": "Bim Market",
-      "date": "A partir de Mardi 29 Juillet 2025",
-      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/23-07-2025-13-26-19-SPOT%20BIM%2025%20ET%2029%20JUILLET%2020255.jpg",
-      "link": "bim1"
     },
     "new5": {
       "title": "Marjane Market",
@@ -103,14 +103,11 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "A partir de 18 Juillet 2025",
-      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/16-07-2025-12-59-09-EXE%202%20Catalogue%20BIM%2018-%2022%20juillet%202025%202.jpg",
+      "date": "A partir de 1 Août 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%201%20Ao%C3%BBt%202025-2.jpg",
       "images": [
-        "https://www.bim.ma/Uploads/ma/Files/16-07-2025-12-59-09-EXE%202%20Catalogue%20BIM%2018-%2022%20juillet%202025%202.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/16-07-2025-12-59-38-WEB%20Catalogue%20BIM%2018-22%20juillet%202025.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/16-07-2025-12-59-49-WEB%20Catalogue%20BIM%2018-22%20juillet%2020252.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/16-07-2025-13-29-55-WEB%20Catalogue%20BIM%2018-22%20juillet%2020253.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/16-07-2025-13-30-12-WEB%20Catalogue%20BIM%2018-22%20juillet%2020254.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%201%20Ao%C3%BBt%202025-2.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%201%20Ao%C3%BBt%202025-1.jpg"
       ]
     }
   },
