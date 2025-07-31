@@ -1370,8 +1370,7 @@
             "links":{
                 "الرابط 1": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8",
                 "الرابط 2": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
-                "الرابط 3": "http://013tv.com:8080/umer.zia660/e7388412/2938",
-                "الرابط 4": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil//smc4sportspublish/smc4tv_source/chunks.m3u8"
+                "الرابط 3": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil//smc4sportspublish/smc4tv_source/chunks.m3u8"
             }
         },
         "sharjahSport2": {
@@ -1517,21 +1516,22 @@
         },
         "ONSport1": {
             "links":{
-                "الرابط 1": "http://149.62.177.103:8000/play/a08g",
-                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/1759",
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/809",
+                "الرابط 2": "http://149.62.177.103:8000/play/a08g",
                 "الرابط 3": "http://149.62.177.103:8000/play/a08d"
             }
         },
         "ONSport2": {
             "links":{
-                "الرابط 1": "http://149.62.177.103:8000/play/a08b",
-                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/1765",
-                "الرابط 3": "http://149.62.177.103:8000/play/a08e"
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/810",
+                "الرابط 2": "http://149.62.177.103:8000/play/a08e",
+                "الرابط 3": "http://149.62.177.103:8000/play/a08b"
             }
         },
         "NileSport": {
             "links":{
-                "الرابط 1": "http://93.184.10.248/NileSport/index.m3u8"
+                "الرابط 1": "http://93.184.10.248/NileSport/index.m3u8",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/848"
             }
         },
         "alahli": {
@@ -1546,18 +1546,24 @@
         },
         "iraqiyaSport": {
             "links":{
-                "الرابط 1": "http://brex.fun:8080/27685241750679/5oA796YSr7/640238",
-                "الرابط 2": "http://brex.fun:8080/27685241750679/5oA796YSr7/640257"
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/676"
             }
         },
         "libyaSport1": {
             "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a05x"
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/49526",
+                "الرابط 2": "http://154.58.202.185:8000/play/a05x"
             }
         },
         "libyaSport2": {
             "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a05z"
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/200824",
+                "الرابط 2": "http://154.58.202.185:8000/play/a05z"
+            }
+        },
+        "ordonSport": {
+            "links": {
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/719"
             }
         }
     },
