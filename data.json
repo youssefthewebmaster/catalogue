@@ -1,58 +1,58 @@
 {
   "news": {
     "new1": {
+      "title": "Marjane Méga",
+      "date": "Du 11 Août au 15 Septembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/FB_IMG_1754927969572.jpg",
+      "link": "marjane"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mercredi 13 Août 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new3": {
+      "title": "Aswak Assalam",
+      "date": "A partir de Mercredi 13 Août 2025",
+      "thumbnail": "https://instagram.ftng4-2.fna.fbcdn.net/v/t39.30808-6/528233224_761902326438982_41226861802520134_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QFAPJUFUTO0clpX8QiSWVvswd0GDS_3JPqtYX3_4MbrKvlBloLOVBs-pmbEt83topg&_nc_ohc=ILTy_j72kEwQ7kNvwEcT_o2&_nc_gid=TMdNa9zWHGtI1LpEZfoQ8g&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NzU1NzE3Nzg3ODg4Njg4NA%3D%3D.3-ccb7-5&oh=00_AfW33NMI1GIzwSI_yw4TK5XpkmMZtEutSFevnli5EYLrGQ&oe=68A1A2C3&_nc_sid=7a9f4b",
+      "link": "aswak1"
+    },
+    "new4": {
       "title": "Bim Market",
       "date": "A partir de Mardi 12 Août 2025",
       "thumbnail": "https://www.bim.ma/Uploads/ma/Files/6-08-2025-11-15-03-WEB%20Groupe%20spot%20BIM%2012%20Aou%CC%82t%2020253.jpg",
       "link": "bim2"
     },
-    "new2": {
+    "new5": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 12 Août 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupeMardi%20(1).png",
       "link": "supeco"
     },
-    "new3": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 12 Août 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "link": "kazyon1"
-    },
-    "new4": {
-      "title": "Aswak Assalam",
-      "date": "A partir de Lundi 11 Août 2025",
-      "thumbnail": "https://instagram.ftng4-1.fna.fbcdn.net/v/t39.30808-6/528042610_761886483107233_1191543618969147091_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QHF5SMUAUJ7YI07GvD4_j0ZRVlrUjVdc3gntN-m-fPUgTAg9uENICxxl8jtvRmKIz0&_nc_ohc=28T8ZHsIr9AQ7kNvwGWQgoW&_nc_gid=gQnUrkJKb8qNWlItyn3JpQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NjA3ODQzMDI3NzE5MjM4MQ%3D%3D.3-ccb7-5&oh=00_AfVwRILmTqpS3qHuR929AJsEM8-vChvWapRNeP-NeVYaKw&oe=689EED20&_nc_sid=7a9f4b",
-      "link": "aswak1"
-    },
-    "new5": {
+    "new6": {
       "title": "Marjane Market",
       "date": "Offre du 08 au 10 Août 2025",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/528327329_1051938160438903_8125972871666499104_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEJrey1u-S1iJQZpimVChh3w4P9MDhTdPokRmGsu4AagUqX30bYjr564EdPLxC4JHA&_nc_ohc=wvbCWJ0_SSsQ7kNvwFJfBce&_nc_gid=v28_JL7mLW3aFUyIRfEylA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5Mzg1MDM1Mzk4NDQ0MjE4OA%3D%3D.3-ccb7-5&oh=00_AfXHEmsu8CcvqOWxrpaF9J2tiWehLAeWp6gK4w4HhBgbPw&oe=689AE943&_nc_sid=7a9f4b",
       "link": "marjaneMarket"
     },
-    "new6": {
+    "new7": {
       "title": "Carrefour Market",
       "date": "A partir de 11 Juillet 2025",
       "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t51.2885-15/505440517_18168558763352810_8251441187649058048_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fcmn1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QFevwPm4k6Sk1868lQXJrRh12iQ4iINSQ3UYKl38AJucxigQ55KP7Wm4wW_vnRZnWo&_nc_ohc=TBg3aQYcMBQQ7kNvwEhklXk&_nc_gid=t_LrXTMwN1aETZ5wLlI85Q&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzY3MzYzMzUwODQ1ODgyNTU2Mw%3D%3D.3-ccb7-5&oh=00_AfSJTXi2T6q-SJaG1DYRmxGYc0YxSvRBGulfgfls0KKGRg&oe=687606AB&_nc_sid=7a9f4b",
       "link": "carrefourMarket1"
     },
-    "new7": {
+    "new8": {
       "title": "Atacadão Market",
       "date": "Offre du 03 au 16 Juillet 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%203%20au%2016%20juillet%202025-1-min.jpg",
       "link": "atacadao"
     },
-    "new8": {
+    "new9": {
       "title": "Carrefour Méga",
       "date": "Du 26 Juin au 16 Juillet 2025",
       "thumbnail": "https://hmizate.ma/img/cms/210cc726e086a4fb4feff8aef7faf920.webp",
       "link": "carrefour1"
-    },
-    "new9": {
-      "title": "Marjane Méga",
-      "date": "Du 24 Juin au 13 Juillet 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-0-min.jpg",
-      "link": "marjane"
     },
     "new10": {
       "title": "Kitea Géant",
@@ -76,19 +76,19 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-    "date": "Offre de Mardi 12 Août 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+    "date": "Offre de Mercredi 13 Août 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(5).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(6).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(7).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(8).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(9).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(10).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(4).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(5).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(6).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(7).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(8).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(9).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(10).png"
     ]
   },
   "bims": {
@@ -164,67 +164,67 @@
   "AswakAssalam1": {
     "title": "Aswak Assalam",
     "link": "aswak1",
-    "thumbnail": "https://instagram.ftng4-1.fna.fbcdn.net/v/t39.30808-6/528042610_761886483107233_1191543618969147091_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QHF5SMUAUJ7YI07GvD4_j0ZRVlrUjVdc3gntN-m-fPUgTAg9uENICxxl8jtvRmKIz0&_nc_ohc=28T8ZHsIr9AQ7kNvwGWQgoW&_nc_gid=gQnUrkJKb8qNWlItyn3JpQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NjA3ODQzMDI3NzE5MjM4MQ%3D%3D.3-ccb7-5&oh=00_AfVwRILmTqpS3qHuR929AJsEM8-vChvWapRNeP-NeVYaKw&oe=689EED20&_nc_sid=7a9f4b",
-    "date": "A partir de Lundi 11 Août 2025",
+    "thumbnail": "https://instagram.ftng4-2.fna.fbcdn.net/v/t39.30808-6/528233224_761902326438982_41226861802520134_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QFAPJUFUTO0clpX8QiSWVvswd0GDS_3JPqtYX3_4MbrKvlBloLOVBs-pmbEt83topg&_nc_ohc=ILTy_j72kEwQ7kNvwEcT_o2&_nc_gid=TMdNa9zWHGtI1LpEZfoQ8g&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NzU1NzE3Nzg3ODg4Njg4NA%3D%3D.3-ccb7-5&oh=00_AfW33NMI1GIzwSI_yw4TK5XpkmMZtEutSFevnli5EYLrGQ&oe=68A1A2C3&_nc_sid=7a9f4b",
+    "date": "A partir de Mercredi 13 Août 2025",
     "images": [
-      "https://instagram.ftng4-1.fna.fbcdn.net/v/t39.30808-6/528042610_761886483107233_1191543618969147091_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QHF5SMUAUJ7YI07GvD4_j0ZRVlrUjVdc3gntN-m-fPUgTAg9uENICxxl8jtvRmKIz0&_nc_ohc=28T8ZHsIr9AQ7kNvwGWQgoW&_nc_gid=gQnUrkJKb8qNWlItyn3JpQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NjA3ODQzMDI3NzE5MjM4MQ%3D%3D.3-ccb7-5&oh=00_AfVwRILmTqpS3qHuR929AJsEM8-vChvWapRNeP-NeVYaKw&oe=689EED20&_nc_sid=7a9f4b",
-      "https://instagram.ftng4-2.fna.fbcdn.net/v/t39.30808-6/528781614_761886489773899_3848908133592103057_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QHF5SMUAUJ7YI07GvD4_j0ZRVlrUjVdc3gntN-m-fPUgTAg9uENICxxl8jtvRmKIz0&_nc_ohc=qe8pl_vVVqcQ7kNvwGrDSrj&_nc_gid=gQnUrkJKb8qNWlItyn3JpQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NjA3ODQyOTQ4MDI3MjAzNA%3D%3D.3-ccb7-5&oh=00_AfWtysffUOT_dbX--T_UTBgESlnsY_NNARxynr7uf_knAQ&oe=689EF1F5&_nc_sid=7a9f4b",
-      "https://instagram.ftng4-2.fna.fbcdn.net/v/t39.30808-6/528157390_761886486440566_6991115170806242823_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QHF5SMUAUJ7YI07GvD4_j0ZRVlrUjVdc3gntN-m-fPUgTAg9uENICxxl8jtvRmKIz0&_nc_ohc=pQ4p8voUzJ4Q7kNvwGf8dkI&_nc_gid=gQnUrkJKb8qNWlItyn3JpQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NjA3ODQzMDIwOTg4MjA4MA%3D%3D.3-ccb7-5&oh=00_AfUhI1s9k4LlmfVCjXaJZ1aAzH8ZW0Eba8PrWLvFDojv4Q&oe=689F0100&_nc_sid=7a9f4b",
-      "https://instagram.ftng4-2.fna.fbcdn.net/v/t39.30808-6/528226102_761886463107235_3140533296694523805_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QHF5SMUAUJ7YI07GvD4_j0ZRVlrUjVdc3gntN-m-fPUgTAg9uENICxxl8jtvRmKIz0&_nc_ohc=Q34avY9yfIAQ7kNvwFTnqZz&_nc_gid=gQnUrkJKb8qNWlItyn3JpQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NjA3ODQyOTgzMjUxMjk3MA%3D%3D.3-ccb7-5&oh=00_AfWhIjQWONPzpgZNN-No2iPqbiWwREVhwZHJXK1mt5sIVA&oe=689ED06B&_nc_sid=7a9f4b",
-      "https://instagram.ftng4-1.fna.fbcdn.net/v/t39.30808-6/528390457_761886479773900_6135315228691699135_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QHF5SMUAUJ7YI07GvD4_j0ZRVlrUjVdc3gntN-m-fPUgTAg9uENICxxl8jtvRmKIz0&_nc_ohc=8KVPQoynu2wQ7kNvwE4-1jT&_nc_gid=gQnUrkJKb8qNWlItyn3JpQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NjA3ODQyOTczMTY5NjQwMg%3D%3D.3-ccb7-5&oh=00_AfVDvZy_tySHa3zkyQzaKpVHZEbTeOyF617T403A2bqu2A&oe=689EEBB3&_nc_sid=7a9f4b",
-      "https://instagram.ftng4-1.fna.fbcdn.net/v/t39.30808-6/528234823_761886403107241_5395862743721753839_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QHF5SMUAUJ7YI07GvD4_j0ZRVlrUjVdc3gntN-m-fPUgTAg9uENICxxl8jtvRmKIz0&_nc_ohc=OX2s0vDaQusQ7kNvwEtSi0Y&_nc_gid=gQnUrkJKb8qNWlItyn3JpQ&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NjA3ODQyOTU5NzY5NjA1Mg%3D%3D.3-ccb7-5&oh=00_AfXyF62-43O7ck5H_QksEoHBqrx36z7Xu5h5LxeTIx54xA&oe=689F003E&_nc_sid=7a9f4b"
+      "https://instagram.ftng4-2.fna.fbcdn.net/v/t39.30808-6/528233224_761902326438982_41226861802520134_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QFAPJUFUTO0clpX8QiSWVvswd0GDS_3JPqtYX3_4MbrKvlBloLOVBs-pmbEt83topg&_nc_ohc=ILTy_j72kEwQ7kNvwEcT_o2&_nc_gid=TMdNa9zWHGtI1LpEZfoQ8g&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NzU1NzE3Nzg3ODg4Njg4NA%3D%3D.3-ccb7-5&oh=00_AfW33NMI1GIzwSI_yw4TK5XpkmMZtEutSFevnli5EYLrGQ&oe=68A1A2C3&_nc_sid=7a9f4b",
+      "https://instagram.ftng4-1.fna.fbcdn.net/v/t39.30808-6/528587706_761902323105649_7800971112157297457_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFAPJUFUTO0clpX8QiSWVvswd0GDS_3JPqtYX3_4MbrKvlBloLOVBs-pmbEt83topg&_nc_ohc=YKU69iWkslYQ7kNvwGt3tXM&_nc_gid=TMdNa9zWHGtI1LpEZfoQ8g&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NzU1NzE3NjY0NTc4NDY5MQ%3D%3D.3-ccb7-5&oh=00_AfV7Q9VndLpHadXOXh4dER8THlItBYxlc25ZI7GadFKHPA&oe=68A18882&_nc_sid=7a9f4b",
+      "https://instagram.ftng4-2.fna.fbcdn.net/v/t39.30808-6/528248968_761902299772318_9042098726347171680_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.ftng4-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QFAPJUFUTO0clpX8QiSWVvswd0GDS_3JPqtYX3_4MbrKvlBloLOVBs-pmbEt83topg&_nc_ohc=prGsZJmwfAIQ7kNvwEJNatT&_nc_gid=TMdNa9zWHGtI1LpEZfoQ8g&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5NzU1NzE3NzA1NjcxNDAyMw%3D%3D.3-ccb7-5&oh=00_AfWxJI89uHjvi2wM-xJY_H5vEFzI_1pCNcd-EnAec4Do_g&oe=68A18A20&_nc_sid=7a9f4b"
     ]
   },
   "marjans": {
     "marjan": {
       "title": "Marjane",
       "link": "marjane",
-      "thumbnail": "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-0-min.jpg",
-      "date": "Du 24 Juin au 13 Juillet 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/FB_IMG_1754927969572.jpg",
+      "date": "Du 11 Août au 15 Septembre 2025",
       "images": [
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-0-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-3-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-4-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-6-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-8-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-10-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-11-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-12-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-13-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-14-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-16-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-17-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-18-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-20-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-21-min%20-%20Copie.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-22-min%20-%20Copie.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-23-min%20-%20Copie.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-24-min%20-%20Copie.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-25-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-26-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-27-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-27-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-28-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-29-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-30-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-31-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-32-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-33-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-34-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-35-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-36-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-37-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-38-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-40-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-41-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-42-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-43-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-44-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-45-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-46-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-47-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-48-min.jpg",
-        "https://hmizate.ma/img/cms/D%C3%A9pliant%20Beaut%C3%A9%20%C3%A9t%C3%A9-images-49-min.jpg"
+        "https://hmizate.ma/img/cms/FB_IMG_1754927969572.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927971888.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927974128.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927976531.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927978866.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927981024.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927983123.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927985359.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927987694.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927989772.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927992004.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927994136.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927996221.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754927998459.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928000603.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928002735.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928004960.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928007240.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928009569.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928011570.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928013645.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928015702.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928017780.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928019914.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928022130.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928024626.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928026712.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928028924.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928031229.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928033353.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928036780.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928038921.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928041142.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928044279.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928054006.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928056171.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928058265.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928060433.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928062883.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928065128.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928067249.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928069424.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928071622.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928073811.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928078225.jpg",
+        "https://hmizate.ma/img/cms/FB_IMG_1754928080357.jpg"
       ]
     },
     "marjanMarket": {
