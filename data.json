@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "A partir de Mardi 19 Août 2025",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/13-08-2025-19-03-01-Spot%20BIM%2015-19%20Aou%CC%82t%202025%20Web3.jpg",
+      "link": "bim2"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de Lundi 18 Août 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new3": {
       "title": "Aswak Assalam",
       "date": "Offre du 15 août 10 Septembre 2025",
       "thumbnail": "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/1/page_1_level_4_827294079.webp",
       "link": "aswak"
     },
-    "new2": {
+    "new4": {
       "title": "Atacadão Market",
       "date": "Offre du 14 août 03 Septembre 2025",
       "thumbnail": "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17610/1/page_1_level_4_664468031.webp",
       "link": "atacadao"
     },
-     "new3": {
-      "title": "Kazyon Market",
-      "date": "Offre valable du 16 au 17 Août 2025",
-      "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/533585308_641095059037770_5428542569674874427_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.fcmn1-3.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHRXfkRtatCoNxksDS8LMTrmwVN7Y6w8kNXOKPyQge_ym_rYJTw0mQ9lOp-S9KXtLU&_nc_ohc=W0q7Jj-2sSwQ7kNvwEx_J3O&_nc_gid=tLsj3slP4iut6DzNt5cczA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzY5OTkxNjczMjI1NDIxODg1OQ%3D%3D.3-ccb7-5&oh=00_AfVY4LLfpzsAVdV5PD9vDC4iDHfC_tRLbATm80LfKriiXg&oe=68A591B8&_nc_sid=7a9f4b",
-      "link": "kazyon"
-    },
-    "new4": {
+    "new5": {
       "title": "Supeco Market",
       "date": "Offre valable du 15 au 17 août 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeekend%20(2).png",
       "link": "supeco"
-    },
-    "new5": {
-      "title": "Bim Market",
-      "date": "A partir de Vendredi 15 Août 2025",
-      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/13-08-2025-19-02-45-Spot%20BIM%2015-19%20Aou%CC%82t%202025%20Web2.jpg",
-      "link": "bim1"
     },
     "new6": {
       "title": "Marjane Market",
@@ -82,19 +82,18 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
-    "date": "Offre de Mercredi 13 Août 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(1).png",
+    "date": "Offre de Lundi 18 Août 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(5).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(6).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(7).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(8).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(9).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(10).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(4).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(5).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(6).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(7).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(8).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazLundi%20(9).png"
     ]
   },
   "bims": {
@@ -111,12 +110,13 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "A partir de Mardi 12 Août 2025",
-      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/6-08-2025-11-15-03-WEB%20Groupe%20spot%20BIM%2012%20Aou%CC%82t%2020253.jpg",
+      "date": "A partir de Mardi 19 Août 2025",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/13-08-2025-19-03-01-Spot%20BIM%2015-19%20Aou%CC%82t%202025%20Web3.jpg",
       "images": [
-        "https://www.bim.ma/Uploads/ma/Files/6-08-2025-11-15-03-WEB%20Groupe%20spot%20BIM%2012%20Aou%CC%82t%2020253.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/6-08-2025-11-14-56-WEB%20Groupe%20spot%20BIM%2012%20Aou%CC%82t%2020252.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/6-08-2025-11-14-48-WEB%20Groupe%20spot%20BIM%2012%20Aou%CC%82t%202025.jpg"
+        "https://www.bim.ma/Uploads/ma/Files/13-08-2025-19-03-01-Spot%20BIM%2015-19%20Aou%CC%82t%202025%20Web3.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/13-08-2025-19-03-10-Spot%20BIM%2015-19%20Aou%CC%82t%202025%20Web4.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/13-08-2025-19-03-18-Spot%20BIM%2015-19%20Aou%CC%82t%202025%20Web6.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/13-08-2025-19-03-26-Spot%20BIM%2015-19%20Aou%CC%82t%202025%20Web5.jpg"
       ]
     }
   },
