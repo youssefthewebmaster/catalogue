@@ -1,64 +1,64 @@
 {
   "news": {
     "new1": {
+      "title": "Aswak Assalam",
+      "date": "Offre du 19 Septembre au 08 Octobre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/1-min_6.jpg",
+      "link": "aswak"
+    },
+    "new2": {
+      "title": "Atacadão Market",
+      "date": "Offre du 18 Septembre au 01 Octobre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2018%20septembre%20au%201%20octobre%202025-1.jpg",
+      "link": "atacadao"
+    },
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre du 20 au 21 Spetembre 2025",
       "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/549408788_668750116272264_4367223035429272590_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjIwNDh4MjA0OC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.frba1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QFFz-Gj3XliOgQyGJmiSNaRo99jzE6diCVIg9HbuWlPuDIKs9e0LxZQxvOaLWcHpnY&_nc_ohc=MHY7vjNhejEQ7kNvwEpRCJ3&_nc_gid=ZOfaBzBFQsUszrxZzmMhXw&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzcyNTI4Mjg3NDYxMTM4ODMwOA%3D%3D.3-ccb7-5&oh=00_AfZt0lH1K-R2r2b59ngwRlPI-V1Rnjsh95h3RPDXzteYoQ&oe=68D3BEAF&_nc_sid=7a9f4b",
       "link": "kazyon1"
     },
-    "new2": {
+    "new4": {
       "title": "Carrefour Market",
       "date": "Valable jusqu'au 24 Septembre 2025",
       "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t51.2885-15/551382382_18175283782352810_8969889119161681483_n.webp?efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTgzMi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.frba1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEExdj1IHhzT9KS-_zv2HUQtWVZcZ3FQdkeVDOm8vXxLJMLhUq4z5-i3yVkjOQuJWQ&_nc_ohc=4jIQOXl5CXUQ7kNvwHV56Me&_nc_gid=0bv3zYQXdtdb4CD0dIGBjw&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzcyNDUxMDMwOTU5MjUyMjMyMg%3D%3D.3-ccb7-5&oh=00_AfYNPccfjJomapLkUaYgnS3CE-ytcOY-CdZWrK4HIihh8g&oe=68D26AC8&_nc_sid=7a9f4b",
       "link": "carrefourMarket1"
     },
-    "new3": {
+    "new5": {
       "title": "Marjane Market",
       "date": "Valable jusqu'au 21 Septembre 2025",
       "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t51.2885-15/550735364_18079367272953462_4932994857904826412_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.frba1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QFSA4vEq7pjP3okusiuVgahlUAXv21b0qbBV6spssRQxzKbzTdcx4LTtRrr3iwFIXg&_nc_ohc=ZFfFzI-K9w0Q7kNvwGwcIdh&_nc_gid=8zKdZbSTME4o8loPUD4gvw&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzcyNDMwNTI1OTM4OTcwNjE0Mg%3D%3D.3-ccb7-5&oh=00_AfYTx-MWBpeh2BHsX_v1wNGzEZu9GRGClSoKWsRKfthRaw&oe=68D24D12&_nc_sid=7a9f4b",
       "link": "marjaneMarket"
     },
-    "new4": {
+    "new6": {
       "title": "Bim Market",
       "date": "A partir de Vendredi 19 Septembre 2025",
       "thumbnail": "https://www.bim.ma/Uploads/ma/Files/16-09-2025-18-36-56-WEB%20SPOT%2019%20SEPTEMBRE%202025.jpg",
       "link": "bim1"
     },
-    "new5": {
+    "new7": {
       "title": "Supeco Market",
       "date": "Valable du 19 au 21 Spetembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t51.82787-15/549901329_18060403208578884_5188632789979740375_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=MzcyMzU4MzEyNjU3MzQyOTI1NzE4MDYwNDAzMjAyNTc4ODg0.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=uPnjHPyrfcUQ7kNvwE97h28&_nc_oc=Adk4sLSR7wJbMC1ha-aJXXW1MYuXAqxCo8KuBk_sDu2-HVB1SIvrSkoPEGg41NPFv7A&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pq0IzUix1VjD39iAm9fZhQ&oh=00_AfbPWMOeggsFLcdjuVrQ35pl1cQETWArHyG2FbgxhlkHOQ&oe=68D0FA3A",
       "link": "supeco"
     },
-    "new6": {
-      "title": "Aswak Assalam",
-      "date": "A partir de 17 Mercredi Spetembre 2025",
-      "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/548265920_793976916564856_6469296189580023512_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.frba1-3.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEBFRVaqqIV7VN7rsExe6O8zQmrKlBUxXdKF6uuyt2MXz6vL4Hh3W3rg2ycHlIBZ2s&_nc_ohc=DNMpGBv0WdoQ7kNvwEHtZAP&_nc_gid=Nd2guh-nH0Q5gxf1xs2q8A&edm=AE-LrgUAAAAA&ccb=7-5&ig_cache_key=MzcyMjc4OTIxOTE0OTY3NDI2OA%3D%3D.3-ccb7-5&oh=00_AfZU_3TfGCo6v_E5eT5i_bJb33xcUJXuygpiCTSLCgD2Vg&oe=68CFD48F&_nc_sid=8353fa",
-      "link": "aswak1"
-    },
-    "new7": {
+    "new8": {
       "title": "Kitea Géant",
       "date": "Offre valable jusqu'au 31 Octobre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_1-min.jpg",
       "link": "kitea"
     },
-    "new8": {
+    "new9": {
       "title": "Marjane Méga",
       "date": "Du 26 Août au 15 Septembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/FB_IMG_1754927969572.jpg",
       "link": "marjane1"
     },
-    "new9": {
+    "new10": {
       "title": "Carrefour Méga",
       "date": "Du 21 Août au 10 Septembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/book%20(6)_page-0001.jpg",
       "link": "carrefour1"
-    },
-    "new10": {
-      "title": "Atacadão Market",
-      "date": "Offre du 14 août 03 Septembre 2025",
-      "thumbnail": "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17610/1/page_1_level_4_664468031.webp",
-      "link": "atacadao"
     }
   },
   "Kazyon": {
@@ -123,32 +123,34 @@
   "AswakAssalam": {
     "title": "Aswak Assalam",
     "link": "aswak",
-    "thumbnail": "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/1/page_1_level_4_827294079.webp",
-    "date": "Offre du 15 août 10 Septembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/1-min_6.jpg",
+    "date": "Offre du 19 Septembre au 08 Octobre 2025",
     "images": [
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/1/page_1_level_4_827294079.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/2/page_2_level_4_1073222676.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/3/page_3_level_4_1681337085.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/4/page_4_level_4_1216002552.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/5/page_5_level_4_1302235777.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/6/page_6_level_4_1998959494.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/7/page_7_level_4_87753167.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/8/page_8_level_4_2033999745.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/9/page_9_level_4_893521389.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/10/page_10_level_4_1742658310.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/11/page_11_level_4_2002665492.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/12/page_12_level_4_947026816.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/13/page_13_level_4_1914941918.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/14/page_14_level_4_1067169604.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/15/page_15_level_4_80143466.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/16/page_16_level_4_410104020.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/17/page_17_level_4_1007748495.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/18/page_18_level_4_1200988936.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/19/page_19_level_4_1995461697.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/20/page_20_level_4_1489373717.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/21/page_21_level_4_1629959456.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/23/page_23_level_4_1892826820.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17960/24/page_24_level_4_1291746276.webp"
+      "https://hmizate.ma/img/cms/1-min_6.jpg",
+      "https://hmizate.ma/img/cms/2-min_6.jpg",
+      "https://hmizate.ma/img/cms/3-min_6.jpg",
+      "https://hmizate.ma/img/cms/4-min_6.jpg",
+      "https://hmizate.ma/img/cms/5-min_4.jpg",
+      "https://hmizate.ma/img/cms/6-min_5.jpg",
+      "https://hmizate.ma/img/cms/7-min_6.jpg",
+      "https://hmizate.ma/img/cms/8-min_5.jpg",
+      "https://hmizate.ma/img/cms/9-min_6.jpg",
+      "https://hmizate.ma/img/cms/10-min_6.jpg",
+      "https://hmizate.ma/img/cms/11-min_5.jpg",
+      "https://hmizate.ma/img/cms/12-min_4.jpg",
+      "https://hmizate.ma/img/cms/13-min_6.jpg",
+      "https://hmizate.ma/img/cms/14-min_5.jpg",
+      "https://hmizate.ma/img/cms/15-min_5.jpg",
+      "https://hmizate.ma/img/cms/16-min_4.jpg",
+      "https://hmizate.ma/img/cms/17-min_6.jpg",
+      "https://hmizate.ma/img/cms/18-min_5.jpg",
+      "https://hmizate.ma/img/cms/20-min_4.jpg",
+      "https://hmizate.ma/img/cms/21-min_5.jpg",
+      "https://hmizate.ma/img/cms/23-min_5.jpg",
+      "https://hmizate.ma/img/cms/24-min_4.jpg",
+      "https://hmizate.ma/img/cms/25-min_5.jpg",
+      "https://hmizate.ma/img/cms/26-min_5.jpg",
+      "https://hmizate.ma/img/cms/27-min_3.jpg"
     ]
   },
   "AswakAssalam1": {
@@ -319,16 +321,11 @@
   "Atacadão": {
     "title": "Atacadão",
     "link": "atacadao",
-    "thumbnail": "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17610/1/page_1_level_4_664468031.webp",
-    "date": "Offre du 14 août 03 Septembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2018%20septembre%20au%201%20octobre%202025-1.jpg",
+    "date": "Offre du 18 Septembre au 01 Octobre 2025",
     "images": [
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17610/1/page_1_level_4_664468031.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17610/6/page_6_level_4_64603582.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17610/7/page_7_level_4_965295988.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17610/5/page_5_level_4_2085305522.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17610/3/page_3_level_4_1454043126.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17610/4/page_4_level_4_1574462611.webp",
-      "https://d1h08qwp2t1dnu.cloudfront.net/assets/media_p/ar_ma/publications/page_assets/17610/2/page_2_level_4_1229771166.webp"
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2018%20septembre%20au%201%20octobre%202025-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2018%20septembre%20au%201%20octobre%202025-2.jpg"
     ]
   },
   "Kitea": {
