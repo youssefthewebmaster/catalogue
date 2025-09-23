@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mercredi 24 Spetembre 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "link": "kazyon1"
+    },
+    "new2": {
       "title": "Carrefour Méga",
       "date": "Du 25 Septembre au 15 Octobre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/d9437eea503051a269c0b3d0cdb1a163.webp",
       "link": "carrefour1"
     },
-    "new2": {
+    "new3": {
       "title": "Bim Market",
       "date": "A partir de 23 Mardi Spetembre 2025",
       "thumbnail": "https://www.bim.ma/Uploads/ma/Files/22-09-2025-12-12-27-WEB%20GROUPE%20SPOT%2023%20SEPTEMBRE%2020252.jpg",
       "link": "bim2"
     },
-    "new3": {
+    "new4": {
       "title": "Aswak Assalam",
       "date": "A partir de 23 Mardi Spetembre 2025",
       "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/548188215_798516776110870_6979561229243929177_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.frba1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QHLmYuYMC1ELNJbpxAGDjbO2jGfbh72arLTp-zpWVVVPmcYPs0btUScGfE4K90K4hE&_nc_ohc=WTOZdnCpN3EQ7kNvwGR8Awm&_nc_gid=XmypJlXZm3Sci8j0hctWrw&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzcyNjc2MzQzOTgxNDY4MTc2NA%3D%3D.3-ccb7-5&oh=00_AfY6KLKjEqY1lFK9ZjhXNlUqKSqysD3JNeTzykNs0tJJQA&oe=68D767E1&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new4": {
+    "new5": {
       "title": "Supeco Market",
       "date": "Offre de 23 Mardi Spetembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t51.82787-15/551582608_18061166084578884_7044419556501211858_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzcyNzM1NjExNDM0NzU4NzM0MDE4MDYxMTY2MDc4NTc4ODg0.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=rjfFY_qesZAQ7kNvwENj9ll&_nc_oc=AdnAhxce_bxww3gT3d7jQQG-xSW3_Ql5dTolXRB1S6WG4ztcjOen_2DlnSYmCfVp_-g&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=s3JsiztrbNVkl-53Ng_MYA&oh=00_AfaP3ApQNjHffvkEQaY3HSrm8NRIyrXFVgJ2sp_z95665g&oe=68D78C8C",
       "link": "supeco"
-    },
-    "new5": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 23 Spetembre 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "link": "kazyon1"
     },
     "new6": {
       "title": "Atacadão Market",
@@ -76,16 +76,16 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-    "date": "Offre de Mardi 23 Spetembre 2025",
+    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+    "date": "Offre de Mercredi 24 Spetembre 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(5).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(6).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMardi%20(7).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(2).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(3).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(4).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(5).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(6).png",
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(7).png"
     ]
   },
   "bims": {
