@@ -1,64 +1,64 @@
 {
   "news": {
     "new1": {
+      "title": "Marjane Méga",
+      "date": "Offre du 25 Septembre au 12 Octobre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-1-min.jpg",
+      "link": "marjane"
+    },
+    "new2": {
+      "title": "Supeco Market",
+      "date": "Du 25 Septembre au 15 Octobre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/FDM%20SUPECO%20SEP%202025%20VM_250924_182423_1.jpg",
+      "link": "supeco"
+    },
+    "new3": {
       "title": "Carrefour Market",
       "date": "Offre valable jusqu'au 01 Octobre 2025",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/552611558_1210938171066792_6159990345692952918_n.jpg?stp=c0.6.1080.1363a_dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM3NC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QGwptKjp-XqlaiKOWeV7YZt5a2mGC2KouUbAfrUQ34YxLtQ3Oifd2Uh915JO2VvKXY&_nc_ohc=irM210C-PPAQ7kNvwFuECXc&_nc_gid=GieS2TXOIx5mZD76uxoFIg&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzcyOTQ5MTYwOTU4Mzk5NzEyMQ%3D%3D.3-ccb7-5&oh=00_AfbafEj-0I1-15yMcDv3qznFZZ4b58HjffefRCzE65MqOg&oe=68DCD065&_nc_sid=7a9f4b",
       "link": "carrefourMarket1"
     },
-    "new2": {
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre du 27 au 28 Spetembre 2025",
       "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/555434151_674373709043238_3191126754547687867_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTA4MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.frba1-4.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QGkmVcSChgVtOAnOi-8As1hOqkwvyj7Er9cbYL_n1BMB_MeUow4Xh9xUNZABsUXiSg&_nc_ohc=0Jh-JGRocLkQ7kNvwGHT-oT&_nc_gid=1J3XawH1xkFJo73zGrA6sA&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzczMDM1Nzc2OTAwMzA3NDQ0NA%3D%3D.3-ccb7-5&oh=00_AfaPjJKhMyqfOhWWd11mOoY9JuB5OjrG79H3EKft1U0MRw&oe=68DCD405&_nc_sid=7a9f4b",
       "link": "kazyon1"
     },
-    "new3": {
+    "new5": {
       "title": "Marjane Market",
       "date": "Offre valable jusqu'au 28 Septembre 2025",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/553840385_1090380569927995_3187599438166435562_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTM1MC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.frba1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEP4WeMPKZrZuN1xyc6fuaPXpphLkj0Yf-dpQ1QA2eLGJEJrZtvLSfPAf5kFf9SvXI&_nc_ohc=yi-1uPmMRngQ7kNvwGVeArn&_nc_gid=VvP1GxwV4VH2FMw1gmlT1Q&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzcyOTQwMDMzNjg4OTcxODIzMQ%3D%3D.3-ccb7-5&oh=00_AfY3sclwie2YwONpHOrGorrOh_hZYhssA892CI2un8Ix-Q&oe=68DCE561&_nc_sid=7a9f4b",
       "link": "marjaneMarket1"
     },
-    "new4": {
-      "title": "Supeco Market",
-      "date": "Offre du 26 au 28 Spetembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t51.82787-15/552379259_18061460216578884_4949337643984543715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=MzcyODcwMzgxMjQ1NTM4NzU5NTE4MDYxNDYwMjEwNTc4ODg0.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHgxMjgwLnNkci5DMyJ9&_nc_ohc=Vp1T8cGIZDAQ7kNvwGtB8Ky&_nc_oc=AdnJ11hUNonVWa6fD1xJm4g7n4TS2HaP9nzsLr4vA59UUYUmoke32W1Y-KgFcUGvwSA&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=SlqiiW79nbhTN3tb8i_N_Q&oh=00_AfbBOFKwfmommSoL4T3-ShELcMpBoyxC5KN8o5UcDHWhnQ&oe=68DA22BD",
-      "link": "supeco"
-    },
-    "new5": {
+    "new6": {
       "title": "Carrefour Méga",
       "date": "Du 25 Septembre au 15 Octobre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/d9437eea503051a269c0b3d0cdb1a163.webp",
       "link": "carrefour1"
     },
-    "new6": {
+    "new7": {
       "title": "Bim Market",
       "date": "A partir de 23 Mardi Spetembre 2025",
       "thumbnail": "https://www.bim.ma/Uploads/ma/Files/22-09-2025-12-12-27-WEB%20GROUPE%20SPOT%2023%20SEPTEMBRE%2020252.jpg",
       "link": "bim2"
     },
-    "new7": {
+    "new8": {
       "title": "Aswak Assalam",
       "date": "A partir de 23 Mardi Spetembre 2025",
       "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/548188215_798516776110870_6979561229243929177_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEyMDB4MTUwMC5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=instagram.frba1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QHLmYuYMC1ELNJbpxAGDjbO2jGfbh72arLTp-zpWVVVPmcYPs0btUScGfE4K90K4hE&_nc_ohc=WTOZdnCpN3EQ7kNvwGR8Awm&_nc_gid=XmypJlXZm3Sci8j0hctWrw&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzcyNjc2MzQzOTgxNDY4MTc2NA%3D%3D.3-ccb7-5&oh=00_AfY6KLKjEqY1lFK9ZjhXNlUqKSqysD3JNeTzykNs0tJJQA&oe=68D767E1&_nc_sid=7a9f4b",
       "link": "aswak1"
     },
-    "new8": {
+    "new9": {
       "title": "Atacadão Market",
       "date": "Offre du 18 Septembre au 01 Octobre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2018%20septembre%20au%201%20octobre%202025-1.jpg",
       "link": "atacadao"
     },
-    "new9": {
+    "new10": {
       "title": "Kitea Géant",
       "date": "Offre valable jusqu'au 31 Octobre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_1-min.jpg",
       "link": "kitea"
-    },
-    "new10": {
-      "title": "Marjane Méga",
-      "date": "Du 26 Août au 15 Septembre 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/FB_IMG_1754927969572.jpg",
-      "link": "marjane1"
     }
   },
   "Kazyon": {
@@ -115,10 +115,13 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco Market",
-    "thumbnail": "https://scontent.cdninstagram.com/v/t51.82787-15/552379259_18061460216578884_4949337643984543715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=MzcyODcwMzgxMjQ1NTM4NzU5NTE4MDYxNDYwMjEwNTc4ODg0.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHgxMjgwLnNkci5DMyJ9&_nc_ohc=Vp1T8cGIZDAQ7kNvwGtB8Ky&_nc_oc=AdnJ11hUNonVWa6fD1xJm4g7n4TS2HaP9nzsLr4vA59UUYUmoke32W1Y-KgFcUGvwSA&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=SlqiiW79nbhTN3tb8i_N_Q&oh=00_AfbBOFKwfmommSoL4T3-ShELcMpBoyxC5KN8o5UcDHWhnQ&oe=68DA22BD",
-    "date": "Offre du 26 au 28 Spetembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/FDM%20SUPECO%20SEP%202025%20VM_250924_182423_1.jpg",
+    "date": "Du 25 Septembre au 15 Octobre 2025",
     "images": [
-      "https://scontent.cdninstagram.com/v/t51.82787-15/552379259_18061460216578884_4949337643984543715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=MzcyODcwMzgxMjQ1NTM4NzU5NTE4MDYxNDYwMjEwNTc4ODg0.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHgxMjgwLnNkci5DMyJ9&_nc_ohc=Vp1T8cGIZDAQ7kNvwGtB8Ky&_nc_oc=AdnJ11hUNonVWa6fD1xJm4g7n4TS2HaP9nzsLr4vA59UUYUmoke32W1Y-KgFcUGvwSA&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=SlqiiW79nbhTN3tb8i_N_Q&oh=00_AfbBOFKwfmommSoL4T3-ShELcMpBoyxC5KN8o5UcDHWhnQ&oe=68DA22BD"
+      "https://hmizate.ma/img/cms/FDM%20SUPECO%20SEP%202025%20VM_250924_182423_1.jpg",
+      "https://hmizate.ma/img/cms/FDM%20SUPECO%20SEP%202025%20VM_250924_182423_4.jpg",
+      "https://hmizate.ma/img/cms/FDM%20SUPECO%20SEP%202025%20VM_250924_182423_2.jpg",
+      "https://hmizate.ma/img/cms/FDM%20SUPECO%20SEP%202025%20VM_250924_182423_3.jpg"
     ]
   },
   "Supeco1": {
@@ -184,55 +187,49 @@
     "marjan": {
       "title": "Marjane",
       "link": "marjane",
-      "thumbnail": "https://hmizate.ma/img/cms/FB_IMG_1754927969572.jpg",
-      "date": "Du 11 Août au 15 Septembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-1-min.jpg",
+      "date": "Offre du 25 Septembre au 12 Octobre 2025",
       "images": [
-        "https://hmizate.ma/img/cms/FB_IMG_1754927969572.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927971888.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927974128.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927976531.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927978866.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927981024.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927983123.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927985359.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927987694.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927989772.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927992004.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927994136.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927996221.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754927998459.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928000603.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928002735.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928004960.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928007240.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928009569.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928011570.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928013645.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928015702.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928017780.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928019914.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928022130.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928024626.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928026712.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928028924.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928031229.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928033353.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928036780.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928038921.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928041142.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928044279.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928054006.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928056171.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928058265.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928060433.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928062883.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928065128.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928067249.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928069424.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928071622.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928073811.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928078225.jpg",
-        "https://hmizate.ma/img/cms/FB_IMG_1754928080357.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-1-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-2-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-3-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-4-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-5-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-6-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-7-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-8-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-9-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-10-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-11-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-13-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-14-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-15-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-16-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-17-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-18-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-19-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-21-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-22-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-24-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-25-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-26-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-27-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-28-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-29-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-30-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-31-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-32-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-33-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-34-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-35-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-36-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-37-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-38-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-39-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-40-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-41-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-42-min.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2025%20septembre%20au%2012%20octobre%202025-43-min.jpg"
       ]
     },
     "marjanMarket": {
