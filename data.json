@@ -2,9 +2,9 @@
   "news": {
     "new1": {
       "title": "Kazyon Market",
-      "date": "Offre de Mercredi 01 Octobre 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/KazMercredi%20(1).png",
-      "link": "kazyon1"
+      "date": "Valable du 02 au 08 Octobre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%202%20au%208%20octobre%202025-1_1.jpg",
+      "link": "kazyon"
     },
     "new2": {
       "title": "Bim Market",
@@ -64,13 +64,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2025%20septembre%20au%201%20octobre%202025-2.jpg",
-    "date": "Valable du 25 Septembre au 01 Octobre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%202%20au%208%20octobre%202025-1_1.jpg",
+    "date": "Valable du 02 au 08 Octobre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2025%20septembre%20au%201%20octobre%202025-2.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2025%20septembre%20au%201%20octobre%202025-3.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2025%20septembre%20au%201%20octobre%202025-4.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2025%20septembre%20au%201%20octobre%202025-1.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%202%20au%208%20octobre%202025-1_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%202%20au%208%20octobre%202025-2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%202%20au%208%20octobre%202025-3.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%202%20au%208%20octobre%202025-4.jpg"
     ]
   },
   "Kazyon1": {
