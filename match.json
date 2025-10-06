@@ -266,6 +266,26 @@
             }
         }
     },
+    "tamaniya": {
+        "tamaniya1": {
+            "links": {
+                "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/626560",
+                "720p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331333"
+            }
+        },
+        "tamaniya2": {
+            "links": {
+                "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/626560",
+                "720p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331333"
+            }
+        },
+        "tamaniya3": {
+            "links": {
+                "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/626560",
+                "720p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331333"
+            }
+        }
+    },
     "osn": {
         "OsnKids": {
             "links": {
