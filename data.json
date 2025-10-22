@@ -1,40 +1,40 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Valable du 23 au 29 Octobre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20octobre%202025-1.jpg",
+      "link": "kazyon"
+    },
+    "new2": {
+      "title": "Supeco Market",
+      "date": "Offre du 23 Octobre au 12 Nouvembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2023%20octobre%20au%2012%20novembre%202025-1.jpg",
+      "link": "supeco"
+    },
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de Mercredi 22 Octobre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/569402916_823835693578978_359724729094548765_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=Mzc0ODMzMTQ4NDM5MTUxODU0Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=8wE5U80yAEgQ7kNvwGknpNH&_nc_oc=Adl13s-5HonXF8DKqxEXSRKdx5HsoSnQiMIJBo4Xgy0SMgZHwrk4tU-liQK1My3bva4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=l4WuVthr77kzoI-3A6y3TQ&oh=00_Afd9feKa7EDdKcNVyee6vy-T4bj_b1V9QupVfqbhdJItZA&oe=68FDC152",
       "link": "aswak1"
     },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mercredi 22 Octobre 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazyon%20(1).png",
-      "link": "kazyon1"
-    },
-    "new3": {
+    "new4": {
       "title": "Bim Market",
       "date": "Offre de Mardi 21 Octobre 2025",
       "thumbnail": "https://www.bim.ma/Uploads/ma/Files/15-10-2025-12-00-53-Spot%20BIM%2017-21%20Oct%202025%20WEB3.jpg",
       "link": "bim2"
     },
-    "new4": {
+    "new5": {
       "title": "Carrefour Market",
       "date": "Offre valable jusqu'au 22 Octobre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/565702743_1230144982479444_6314119305170157440_n.jpg?stp=c0.6.1080.1363a_dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc0NDcwMTQ5NzYwNDE2MDY4MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM3NC5zZHIuQzMifQ%3D%3D&_nc_ohc=L-g5HxCGrgkQ7kNvwHWHiv8&_nc_oc=AdkaJ9GFQx0QKnhv7G-vgLpGm_wGbyuUipLQY-es6EiYxzXMPFVR5zQFO_YgXWwO3Zc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=pTQdaLe8LmNr94jZyf1zfw&oh=00_Afeaa87Zw7aRqv-vCGv2-D6d-B9DJ1ypkvcwOLYZqNVo_A&oe=68F72E7A",
       "link": "carrefourMarket1"
     },
-    "new5": {
+    "new6": {
       "title": "Marjane Market",
       "date": "Offre valable jusqu'au 19 Octobre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/565883071_1108607891438596_456136170328077979_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0NDYxNTgwMTMyOTA1NDYxMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=cM6fJabBKRkQ7kNvwHWJXIu&_nc_oc=AdkTF6CVjS9xA50p4CCplZXtU_u15Aj6XDV-0rZGEbItuAtuBtJXQihxhXb5kxVfPwY&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UmGqrJ75OM2W-R76lDeAVw&oh=00_AfdTy2A4JzDK0eZwFcyXs2VIoXI4tghBsZv1wGc3bAQeIw&oe=68F73DC5",
       "link": "marjaneMarket1"
-    },
-    "new6": {
-      "title": "Supeco Market",
-      "date": "Offre du 17 au 19 Octobre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t51.82787-15/565502119_18064122284578884_1174841434891083971_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzc0MzkwNzY0Mjg1MjM2MDk4OTE4MDY0MTIyMjc4NTc4ODg0.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=iQHkGR9r7TgQ7kNvwFKIEgo&_nc_oc=AdkR9ZefY3e18i4x7m0blPBL69fXkULzDvbr1YhkvPfw7ulV0lMIz3VZyWQQv4c0aRw&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=wj8wuqXQCUdkIcau-MMCOQ&oh=00_AffL4Aidjt-25monDgC1b1UYGlxi3rBHgppE7645lJOoQw&oe=68F5EEBC",
-      "link": "supeco1"
     },
     "new7": {
       "title": "Atacadão Market",
@@ -64,13 +64,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2016%20au%2022%20octobre%202025-2_1.jpg",
-    "date": "Valable du 16 au 22 Octobre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20octobre%202025-1.jpg",
+    "date": "Valable du 23 au 29 Octobre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2016%20au%2022%20octobre%202025-2_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2016%20au%2022%20octobre%202025-3.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2016%20au%2022%20octobre%202025-4.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2016%20au%2022%20octobre%202025-1.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20octobre%202025-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20octobre%202025-2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20octobre%202025-3.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20octobre%202025-4.jpg"
     ]
   },
   "Kazyon1": {
@@ -114,14 +114,13 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco Market",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeek%20(1).png",
-    "date": "Offre du 13 au 19 Octobre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2023%20octobre%20au%2012%20novembre%202025-1.jpg",
+    "date": "Offre du 23 Octobre au 12 Nouvembre 2025",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeek%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeek%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeek%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeek%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/SupecoWeek%20(5).png"
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2023%20octobre%20au%2012%20novembre%202025-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2023%20octobre%20au%2012%20novembre%202025-2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2023%20octobre%20au%2012%20novembre%202025-3.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2023%20octobre%20au%2012%20novembre%202025-4.jpg"
     ]
   },
   "Supeco1": {
