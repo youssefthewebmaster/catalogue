@@ -19,10 +19,7 @@
         },
         "beinSport1": {
             "links": {
-                "4k": "http://151.80.18.177:86/France_5_HD/index.m3u8",
-                "1080p": "http://line.queen-4k.cc:80/6D2A4754/2F7488F9/1698042",
-                "720p": "http://line.queen-4k.cc:80/6D2A4754/2F7488F9/1698055",
-                "244p": "http://line.queen-4k.cc:80/6D2A4754/2F7488F9/1698089"
+                "4k": "http://151.80.18.177:86/France_5_HD/index.m3u8"
                
             }
         },
