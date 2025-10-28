@@ -1,16 +1,16 @@
 {
   "news": {
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mercredi 29 Octobre 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazyon%20(1).png",
+      "link": "kazyon1"
+    },
     "new1": {
       "title": "Carrefour Méga",
       "date": "Du 23 Octobre au 12 Novembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/24403e42c4aef8fbac061ec0b8269c5c.webp",
       "link": "carrefour1"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 28 Octobre 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazyon%20(1).png",
-      "link": "kazyon1"
     },
     "new3": {
       "title": "Aswak Assalam",
@@ -77,7 +77,7 @@
     "title": "Kazyon",
     "link": "kazyon1",
     "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazyon%20(1).png",
-    "date": "Offre de Mardi 28 Octobre 2025",
+    "date": "Offre de Mercredi 29 Octobre 2025",
     "images": [
       "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazyon%20(1).png",
       "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazyon%20(2).png",
