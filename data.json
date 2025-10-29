@@ -1,52 +1,52 @@
 {
   "news": {
+    "new1": {
+      "title": "Bim Market",
+      "date": "Offre de Vendredi 31 Octobre 2025",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/27-10-2025-13-20-10-Spot%20BIM%2031%20Oct%202025%20web.jpg",
+      "link": "bim1"
+    },
     "new2": {
       "title": "Kazyon Market",
-      "date": "Offre de Mercredi 29 Octobre 2025",
-      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Kazyon%20(1).png",
-      "link": "kazyon1"
+      "date": "Valable du 30 Octobre au 05 Novembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20octobre%20au%205%20novembre%202025-2.jpg",
+      "link": "kazyon"
     },
-    "new1": {
+    "new3": {
       "title": "Carrefour Méga",
       "date": "Du 23 Octobre au 12 Novembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/24403e42c4aef8fbac061ec0b8269c5c.webp",
       "link": "carrefour1"
     },
-    "new3": {
+    "new4": {
       "title": "Aswak Assalam",
       "date": "A partir de Mardi 28 Octobre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/571231217_829025639726650_3982960523836194835_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzc1Mjc3MDQyNTM0OTg0NjAxNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=p-LXvByB_HkQ7kNvwGf9S6X&_nc_oc=AdnszzLsGZk7Hm_HCQO8Iry6JlTzlaA-TbpQmHu0Bon8SUBpVtIcycJLY56SMus05lE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ulu63_RqbXBZXGjVp30RJA&oh=00_AfejZM328_I-EQm9H_-cDnvmTa_tj_3ZbGUnmYVq2WlD4w&oe=69065BEB",
       "link": "aswak1"
     },
-    "new4": {
+    "new5": {
       "title": "Marjane Méga",
       "date": "Offre du 23 Octobre au 16 Novembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2023%20octobre%20au%2016%20novembre%202025-1.jpg",
       "link": "marjane"
     },
-     "new5": {
+     "new6": {
       "title": "Atacadão Market",
       "date": "Offre du 23 Octobre au 5 Novembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aatacadao%20du%2023%20octobre%20au%205%20novembre%202025-2.jpg",
       "link": "atacadao"
     },
-    "new6": {
+    "new7": {
       "title": "Carrefour Market",
       "date": "Offre valable jusqu'au 29 Octobre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/571313799_1236456735181602_7326461713352378499_n.jpg?stp=c0.6.1080.1363a_dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0OTgxMzUxNDg5MTMwNzE1NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM3NC5zZHIuQzMifQ%3D%3D&_nc_ohc=qBv2OweIrCAQ7kNvwEq7nIP&_nc_oc=AdkFig1eBQKZKDkzigSwZL8LU65uTbhXRSDQ4ZtEjoUoHgcMU8sduNhbp8GkhhH60sY&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=p27vxyiGci2Mph0dVLqNUA&oh=00_AfdEoQMgBWMXz48mJadw0-olwZKbMYfwTuA46IAleJ1b1A&oe=690064FB",
       "link": "carrefourMarket1"
     },
-    "new7": {
+    "new8": {
       "title": "Supeco Market",
       "date": "Offre du 24 au 26 Octobre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t51.82787-15/569290917_18064977137578884_7252954808684072630_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzc0OTAzODc5NjU2NzAyNTUxODE4MDY0OTc3MTM0NTc4ODg0.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=Aa0QO2k1RoQQ7kNvwFbP6iP&_nc_oc=Adm3zVY_z_5e3JlKg5MWAuFZWGFTThxeMII_kUaGJuolvMK_Wu13Yxwhbr9w-X1lyFM&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DjbsN6H-pPlL-bA-ZmLVbw&oh=00_Afdb3cdWWj-WJtcvUIs8TEFU36TiVMvJjIRdn0crlTQ2mw&oe=690069C9",
       "link": "supeco1"
-    },
-    "new8": {
-      "title": "Bim Market",
-      "date": "Offre de Vendredi 24 Octobre 2025",
-      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/23-10-2025-14-38-31-WEB%20SPOT%2024%20OCTOBRE%202025.jpg",
-      "link": "bim1"
     },
     "new9": {
       "title": "Marjane Market",
@@ -64,13 +64,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20octobre%202025-1.jpg",
-    "date": "Valable du 23 au 29 Octobre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20octobre%20au%205%20novembre%202025-2.jpg",
+    "date": "Valable du 30 Octobre au 05 Novembre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20octobre%202025-1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20octobre%202025-2.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20octobre%202025-3.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20octobre%202025-4.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20octobre%20au%205%20novembre%202025-2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20octobre%20au%205%20novembre%202025-3.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20octobre%20au%205%20novembre%202025-4.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20octobre%20au%205%20novembre%202025-1.jpg"
     ]
   },
   "Kazyon1": {
@@ -90,13 +90,12 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "Offre de Vendredi 24 Octobre 2025",
-      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/23-10-2025-14-38-31-WEB%20SPOT%2024%20OCTOBRE%202025.jpg",
+      "date": "Offre de Vendredi 31 Octobre 2025",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/27-10-2025-13-20-10-Spot%20BIM%2031%20Oct%202025%20web.jpg",
       "images": [
-        "https://www.bim.ma/Uploads/ma/Files/23-10-2025-14-38-31-WEB%20SPOT%2024%20OCTOBRE%202025.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/23-10-2025-14-38-41-WEB%20SPOT%2024%20OCTOBRE%2020252.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/23-10-2025-14-38-50-WEB%20SPOT%2024%20OCTOBRE%2020253.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/23-10-2025-14-38-57-WEB%20SPOT%2024%20OCTOBRE%2020254.jpg"
+        "https://www.bim.ma/Uploads/ma/Files/27-10-2025-13-20-10-Spot%20BIM%2031%20Oct%202025%20web.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/27-10-2025-13-20-18-Spot%20BIM%2031%20Oct%202025%20web2.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/27-10-2025-13-20-26-Spot%20BIM%2031%20Oct%202025%20web3.jpg"
       ]
     },
     "bim2": {
