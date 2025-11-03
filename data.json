@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "Offre de Mardi 04 Novembre 2025",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/30-10-2025-16-59-07-Groupe%20spot%20BIM%2004%20Nov%202025%20web.jpg",
+      "link": "bim2"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mardi 04 Novembre 2025",
+      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/574564064_706930865787522_8019193479221694020_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc1NzgzNzQxNjM2Mzg3OTkyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=uunyaevq7UIQ7kNvwHQbSya&_nc_oc=Adn3LnCsX9dp-MV3_-5jYnYhBiMj9zOHU_K9HxuZbdqhapSnKUR_S0z-xpF8ogCPvRU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HLpl9tsNLcLXsW25c2ZvBw&oh=00_AfgZsGMsEcNNwKJWYF4x-h-ov4FjcJ8IhMM3fCrlKyKHoA&oe=690F0F1A",
+      "link": "kazyon"
+    },
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de Lundi 03 Novembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/574244627_833764769252737_6795029546452408886_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1NzAyMjAwMzEyNDU3NTQwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=WpGlIg9gbp0Q7kNvwGX6BMX&_nc_oc=AdllxutwAgvYk2_Xhcf11UYDwv4VB2KbuUhfIXrY7j43Fw938F8GQpgQtXaDbbnn8KE&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y63-_-BXOAslWaSsE09ESg&oh=00_Afj7vuOsq4EJ18igM0N2d_dIjx-geCIcEynZxCib76snqQ&oe=690D98AC",
       "link": "aswak1"
     },
-    "new2": {
+    "new4": {
       "title": "Supeco Market",
       "date": "Offre du 03 au 08 Novembre 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(1).png",
       "link": "supeco1"
-    },
-    "new3": {
-      "title": "Kazyon Market",
-      "date": "Offre de Lundi 03 Novembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/574029139_704881522659123_704211413614005661_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc1NzE0MzE0NDYzOTY4OTg2Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=XLU3xrJSj_EQ7kNvwG1qJi7&_nc_oc=AdmjOuGhEE6429ZMFwvHsyvWSiofttpUXUOqTrfnueWUaPPSicINKUVvC-baxfG7pdk&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MLuiVvyz2BmWRGxglraj_A&oh=00_AfgE6-52yOHf3ln5g448L-fQdUed5Wl_lHs_6xNJ72_Qlg&oe=690DC051",
-      "link": "kazyon"
-    },
-    "new4": {
-      "title": "Bim Market",
-      "date": "Offre de Vendredi 31 Octobre 2025",
-      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/27-10-2025-13-20-10-Spot%20BIM%2031%20Oct%202025%20web.jpg",
-      "link": "bim1"
     },
     "new5": {
       "title": "Carrefour Méga",
@@ -64,10 +64,10 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/574029139_704881522659123_704211413614005661_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc1NzE0MzE0NDYzOTY4OTg2Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=XLU3xrJSj_EQ7kNvwG1qJi7&_nc_oc=AdmjOuGhEE6429ZMFwvHsyvWSiofttpUXUOqTrfnueWUaPPSicINKUVvC-baxfG7pdk&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MLuiVvyz2BmWRGxglraj_A&oh=00_AfgE6-52yOHf3ln5g448L-fQdUed5Wl_lHs_6xNJ72_Qlg&oe=690DC051",
-    "date": "Offre de Lundi 03 Novembre 2025",
+    "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/574564064_706930865787522_8019193479221694020_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc1NzgzNzQxNjM2Mzg3OTkyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=uunyaevq7UIQ7kNvwHQbSya&_nc_oc=Adn3LnCsX9dp-MV3_-5jYnYhBiMj9zOHU_K9HxuZbdqhapSnKUR_S0z-xpF8ogCPvRU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HLpl9tsNLcLXsW25c2ZvBw&oh=00_AfgZsGMsEcNNwKJWYF4x-h-ov4FjcJ8IhMM3fCrlKyKHoA&oe=690F0F1A",
+    "date": "Offre de Mardi 04 Novembre 2025",
     "images": [
-      "https://scontent.cdninstagram.com/v/t39.30808-6/574029139_704881522659123_704211413614005661_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc1NzE0MzE0NDYzOTY4OTg2Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=XLU3xrJSj_EQ7kNvwG1qJi7&_nc_oc=AdmjOuGhEE6429ZMFwvHsyvWSiofttpUXUOqTrfnueWUaPPSicINKUVvC-baxfG7pdk&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MLuiVvyz2BmWRGxglraj_A&oh=00_AfgE6-52yOHf3ln5g448L-fQdUed5Wl_lHs_6xNJ72_Qlg&oe=690DC051"
+      "https://scontent.cdninstagram.com/v/t39.30808-6/574564064_706930865787522_8019193479221694020_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc1NzgzNzQxNjM2Mzg3OTkyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=uunyaevq7UIQ7kNvwHQbSya&_nc_oc=Adn3LnCsX9dp-MV3_-5jYnYhBiMj9zOHU_K9HxuZbdqhapSnKUR_S0z-xpF8ogCPvRU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HLpl9tsNLcLXsW25c2ZvBw&oh=00_AfgZsGMsEcNNwKJWYF4x-h-ov4FjcJ8IhMM3fCrlKyKHoA&oe=690F0F1A"
     ]
   },
   "Kazyon1": {
@@ -98,12 +98,12 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "Offre de Mardi 21 Octobre 2025",
-      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/15-10-2025-12-00-53-Spot%20BIM%2017-21%20Oct%202025%20WEB3.jpg",
+      "date": "Offre de Mardi 04 Novembre 2025",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/30-10-2025-16-59-07-Groupe%20spot%20BIM%2004%20Nov%202025%20web.jpg",
       "images": [
-        "https://www.bim.ma/Uploads/ma/Files/15-10-2025-12-00-53-Spot%20BIM%2017-21%20Oct%202025%20WEB3.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/15-10-2025-12-01-02-Spot%20BIM%2017-21%20Oct%202025%20WEB4.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/15-10-2025-12-01-10-Spot%20BIM%2017-21%20Oct%202025%20WEB5.jpg"
+        "https://www.bim.ma/Uploads/ma/Files/30-10-2025-16-59-07-Groupe%20spot%20BIM%2004%20Nov%202025%20web.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/30-10-2025-16-59-14-Groupe%20spot%20BIM%2004%20Nov%202025%20web2.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/30-10-2025-16-59-20-Groupe%20spot%20BIM%2004%20Nov%202025%20web3.jpg"
       ]
     }
   },
