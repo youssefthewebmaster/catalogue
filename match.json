@@ -499,15 +499,13 @@
     "sa": {
         "quoranSA": {
             "links":{
-                "1080p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1201638",
-                "720p": "https://win.holol.com/live/quran/chunklist_w1480108352.m3u8",
-                "360p": "https://win.holol.com/live/quran/chunklist_w813174388.m3u8",
-                "244p": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/saudi_quran-avc1_600000=4-mp4a_41200_ara=2.m3u8"
+                "الرابط 1": "https://win.holol.com/live/quran/chunklist_w1480108352.m3u8",
+                "الرابط 2": "https://win.holol.com/live/quran/chunklist_w813174388.m3u8"
             }
         },
         "sonnaSA": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/618929"
+                "الرابط 1": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
             }
         },
         "so3odiya": {
@@ -591,7 +589,8 @@
                 "1080p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8",
                 "720p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_720p/chunks_dvr.m3u8",
                 "480p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_480p/chunks_dvr.m3u8",
-                "244p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_240p/chunks_dvr.m3u8"
+                "244p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_240p/chunks_dvr.m3u8",
+                "الرابط 1": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
             }
         },
         "sahraSA": {
@@ -758,17 +757,17 @@
         },
         "alkass2": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/525"
+                "الرابط 1": "https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8"
             }
         },
         "alkass3": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/526"
+                "الرابط 1": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8"
             }
         },
         "alkass4": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57103"
+                "الرابط 1": "https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8"
             }
         },
         "_alkass5": {
@@ -889,8 +888,7 @@
         "baynonah": {
             "links":{
                 "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8",
-                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/223727",
-                "الرابط 3": "http://149.62.177.103:8000/play/a095"
+                "الرابط 2": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8"
             }
         },
         "_abudhabiDrama": {
@@ -982,8 +980,7 @@
         },
         "rissala": {
             "links":{
-                "الرابط 1": "http://149.62.177.103:8000/play/a02w",
-                "الرابط 2": "http://154.58.202.185:8000/play/a0bb"
+                "الرابط 1": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8"
             }
         }
     },
@@ -996,8 +993,7 @@
         },
         "bilkiss": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/240902",
-                "الرابط 2": "http://149.62.177.103:8000/play/a09d"
+                "الرابط 1": "http://213.57.91.138:8000/play/a068"
             }
         },
         "sohil": {
@@ -1024,8 +1020,7 @@
         },
         "almohriya": {
             "links":{
-                "الرابط 1": "https://starmenajo.com/hls/almahriah/index.m3u8",
-                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129872"
+                "الرابط 1": "https://starmenajo.com/hls/almahriah/index.m3u8"
             }
         },
         "yamanChabab": {
@@ -1242,8 +1237,7 @@
     "lb": {
         "aljadid": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/766",
-                "الرابط 2": "http://154.58.202.185:8000/play/a00s"
+                "الرابط 1": "http://185.9.2.18/chid_391/mono.m3u8"
             }
         },
         "MTV": {
@@ -1642,13 +1636,12 @@
         "charkiya": {
             "links":{
                 "الرابط 1": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1145048897.m3u8",
-                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/668"
+                "الرابط 2": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8"
             }
         },
         "arrachid": {
             "links":{
-                "الرابط 1": "https://media1.livaat.com/static/AL-RASHEED-HD/chunklist_w728889540.m3u8",
-                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/665"
+                "الرابط 1": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8"
             }
         },
         "horra": {
@@ -1813,7 +1806,7 @@
         },
         "alhayatDrama": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/856"
+                "الرابط 1": "http://213.57.91.138:8000/play/a06s"
             }
         },
         "CBC": {
@@ -1823,7 +1816,7 @@
         },
         "CBCDrama": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056521"
+                "الرابط 1": "http://213.57.91.138:8000/play/a06q"
             }
         },
         "CBCSofra": {
@@ -1853,8 +1846,7 @@
         },
         "annhar": {
             "links":{
-                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/4414",
-                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/1801"
+                "الرابط 1": "http://213.57.91.138:8000/play/a06m"
             }
         },
         "annharDrama": {
@@ -2051,8 +2043,7 @@
         },
         "maghribiya": {
             "links":{
-                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058143",
-                "الرابط 2": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8"
+                "الرابط 1": "https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-dash/almaghribia.mpd"
             }
         },
         "assadissa": {
@@ -2236,8 +2227,7 @@
         },
         "almassar": {
             "links":{
-                "الرابط 1": "https://starmenajo.com/hls/almasar/index.m3u8",
-                "الرابط 2": "http://149.62.177.103:8000/play/a09m"
+                "الرابط 1": "https://starmenajo.com/hls/almasar/index.m3u8"
             }
         },
         "libyaMosta9bal": {
@@ -2624,12 +2614,19 @@
         },
         "char9DocSA": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/580"
+                "1080p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8",
+                "720p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_720p/chunks_dvr.m3u8",
+                "480p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_480p/chunks_dvr.m3u8",
+                "244p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_240p/chunks_dvr.m3u8"
             }
         },
         "char9DiscovreySA": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/581"
+                "1080p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8",
+                "720p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_720p/chunks_dvr.m3u8",
+                "480p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_480p/chunks_dvr.m3u8",
+                "244p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_240p/chunks_dvr.m3u8",
+                "الرابط 1": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
             }
         },
         "alarabiyaBaramij": {
