@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mercredi 05 Novembre 2025",
+      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/574582138_707714049042537_3342699684010066198_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODU2MjE4MjQ1NjQ3NjEyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ouSNMYgY1XgQ7kNvwFAic-w&_nc_oc=AdndnhiS2VjzCZ4bE7RBxF2tehCuF-YlGqTFxG2xQrq3yNlS1hGI3iHB9GpKW47jDOU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ru6ci3tw1dCZAB0NNOoxTw&oh=00_AfjQ9KQoOa-4e3xtWdwHGyyoVw-qrvTRs0iyNaZbyicxfQ&oe=69103F15",
+      "link": "kazyon"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "Offre de Mardi 04 Novembre 2025",
       "thumbnail": "https://www.bim.ma/Uploads/ma/Files/30-10-2025-16-59-07-Groupe%20spot%20BIM%2004%20Nov%202025%20web.jpg",
       "link": "bim2"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 04 Novembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/574564064_706930865787522_8019193479221694020_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc1NzgzNzQxNjM2Mzg3OTkyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=uunyaevq7UIQ7kNvwHQbSya&_nc_oc=Adn3LnCsX9dp-MV3_-5jYnYhBiMj9zOHU_K9HxuZbdqhapSnKUR_S0z-xpF8ogCPvRU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HLpl9tsNLcLXsW25c2ZvBw&oh=00_AfgZsGMsEcNNwKJWYF4x-h-ov4FjcJ8IhMM3fCrlKyKHoA&oe=690F0F1A",
-      "link": "kazyon"
     },
     "new3": {
       "title": "Aswak Assalam",
@@ -64,10 +64,10 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/574564064_706930865787522_8019193479221694020_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc1NzgzNzQxNjM2Mzg3OTkyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=uunyaevq7UIQ7kNvwHQbSya&_nc_oc=Adn3LnCsX9dp-MV3_-5jYnYhBiMj9zOHU_K9HxuZbdqhapSnKUR_S0z-xpF8ogCPvRU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HLpl9tsNLcLXsW25c2ZvBw&oh=00_AfgZsGMsEcNNwKJWYF4x-h-ov4FjcJ8IhMM3fCrlKyKHoA&oe=690F0F1A",
-    "date": "Offre de Mardi 04 Novembre 2025",
+    "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/574582138_707714049042537_3342699684010066198_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODU2MjE4MjQ1NjQ3NjEyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ouSNMYgY1XgQ7kNvwFAic-w&_nc_oc=AdndnhiS2VjzCZ4bE7RBxF2tehCuF-YlGqTFxG2xQrq3yNlS1hGI3iHB9GpKW47jDOU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ru6ci3tw1dCZAB0NNOoxTw&oh=00_AfjQ9KQoOa-4e3xtWdwHGyyoVw-qrvTRs0iyNaZbyicxfQ&oe=69103F15",
+    "date": "Offre de Mercredi 05 Novembre 2025",
     "images": [
-      "https://scontent.cdninstagram.com/v/t39.30808-6/574564064_706930865787522_8019193479221694020_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc1NzgzNzQxNjM2Mzg3OTkyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=uunyaevq7UIQ7kNvwHQbSya&_nc_oc=Adn3LnCsX9dp-MV3_-5jYnYhBiMj9zOHU_K9HxuZbdqhapSnKUR_S0z-xpF8ogCPvRU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HLpl9tsNLcLXsW25c2ZvBw&oh=00_AfgZsGMsEcNNwKJWYF4x-h-ov4FjcJ8IhMM3fCrlKyKHoA&oe=690F0F1A"
+      "https://scontent.cdninstagram.com/v/t39.30808-6/574582138_707714049042537_3342699684010066198_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODU2MjE4MjQ1NjQ3NjEyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ouSNMYgY1XgQ7kNvwFAic-w&_nc_oc=AdndnhiS2VjzCZ4bE7RBxF2tehCuF-YlGqTFxG2xQrq3yNlS1hGI3iHB9GpKW47jDOU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ru6ci3tw1dCZAB0NNOoxTw&oh=00_AfjQ9KQoOa-4e3xtWdwHGyyoVw-qrvTRs0iyNaZbyicxfQ&oe=69103F15"
     ]
   },
   "Kazyon1": {
