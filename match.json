@@ -722,24 +722,26 @@
         },
         "alarabyQa": {
             "links":{
-                "الرابط 1": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8"
+                "الرابط 1": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/19367.ts"
             }
         },
         "alarabyQa2": {
             "links":{
-                "الرابط 1": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8"
+                "الرابط 1": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/19368.ts"
             }
         }
     },
     "kass": {
         "alkass1": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/524"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7972.ts"
             }
         },
         "alkass2": {
             "links":{
-                "الرابط 1": "https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7973.ts"
             }
         },
         "alkass3": {
@@ -749,13 +751,13 @@
         },
         "alkass4": {
             "links":{
-                "الرابط 1": "https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7974.ts",
+                "الرابط 2": "https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8"
             }
         },
-        "_alkass5": {
+        "alkass5": {
             "links":{
-                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/507558",
-                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/2138"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/60929.ts"
             }
         }
     },
@@ -1268,17 +1270,12 @@
     "sportArab": {
         "so3odiyaSport1": {
             "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a0a0",
-                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056549"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7993.ts"
             }
         },
         "so3odiyaSport2": {
             "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a0a1",
-                "الرابط 2": "http://149.62.177.103:8000/play/a052",
-                "الرابط 3": "http://brex.fun:8080/27685241750679/5oA796YSr7/640213",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/640214",
-                "الرابط 5": "http://brex.fun:8080/27685241750679/5oA796YSr7/640215"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7996.ts"
             }
         },
         "so3odiyaSport3": {
@@ -1429,28 +1426,28 @@
         },
         "ONSport1": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/536"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7956.ts"
             }
         },
         "ONSport2": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/537"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7957.ts"
             }
         },
         "NileSport": {
             "links":{
                 "الرابط 1": "http://93.184.10.248/NileSport/index.m3u8",
-                "الرابط 2": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/538"
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7951.ts"
             }
         },
         "alahli": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/866"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7899.ts"
             }
         },
         "azamalik": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/78365"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7970.ts"
             }
         },
         "iraqiyaSport": {
@@ -1999,28 +1996,24 @@
         },
         "oulaMA": {
             "links":{
-                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058129",
-                "الرابط 2": "https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/3006.ts",
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/3005.ts"
             }
         },
         "m2": {
             "links":{
-                "الرابط 1": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
-                "الرابط 3": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+                "الرابط 1": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/3009.ts"
             }
         },
         "arriyadiaMa": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056",
-                "الرابط 2": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058144",
-                "الرابط 3": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/3012.ts"
             }
         },
         "attakafiya": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/762535",
-                "الرابط 2": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058152",
-                "الرابط 3": "https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/corp/73_arrabia_hthcj4p_480p/chunks_dvr.m3u8"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/3015.ts"
         }
         },
         "maghribiya": {
@@ -2030,20 +2023,17 @@
         },
         "assadissa": {
             "links":{
-                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058148",
-                "الرابط 2": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/3015.ts"
             }
         },
         "aflam": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/326723",
-                "الرابط 2": "https://fl1002.bozztv.com/ga-aflamtv7/tracks-v1a1/mono.ts.m3u8"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/3016.ts"
             }
         },
         "tamazightMa": {
             "links":{
-                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058150",
-                "الرابط 2": "https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_480p/chunks_dvr.m3u8"
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/3017.ts"
             }
         },
         "medi1": {
@@ -2590,8 +2580,7 @@
         "natgeoad": {
             "links":{
                 "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8",
-                "الرابط 2": "http://149.62.177.103:8000/play/a094",
-                "الرابط 3": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056567"
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/2970.ts"
             }
         },
         "char9DocSA": {
