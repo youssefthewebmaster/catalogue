@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mercredi 12 Novembre 2025",
+      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/579948540_713665278447414_3972942504877168489_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2MzYzNTU3ODI0ODczNjc2MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=N6Kru0I15PIQ7kNvwGDaZEj&_nc_oc=AdkelWFk5iufLsvpB0clvsbOFwI2voOq6HwXlriDS1kxKRLchnRzivXy7Q-esx_X_cg&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZeklJRfH-CV5Fla2q5O9ww&oh=00_AfhySKNpiqPgnn-O7v-DLno7liJEdQmbawm17JobzV9p1Q&oe=69199321",
+      "link": "kazyon1"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "Offre de Mardi 11 Novembre 2025",
       "thumbnail": "https://www.bim.ma/Uploads/ma/Files/5-11-2025-13-31-59-Made%20in%20morooco%20GS.jpg",
       "link": "bim2"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 11 Novembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/577821857_712827845197824_8188465400688444745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2MjkxMDgxNTQwMjgxMjkyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Fgc7iJ-XWDcQ7kNvwGeX0B-&_nc_oc=AdlgPPERDALOAgT2ljoFBlewH7AQHJLqoaYRghRrC5XR7XqPVKGK-engxEX9D5C3ClU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YBgZ6xvcWL7w9BivyV3JMA&oh=00_Afgx-OYJeeKTzoE-x9poHiha8eXfo16kcxY2J4yJ7l1RKA&oe=691839B6",
-      "link": "kazyon1"
     },
     "new3": {
       "title": "Supeco Market",
@@ -76,10 +76,10 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/577821857_712827845197824_8188465400688444745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2MjkxMDgxNTQwMjgxMjkyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Fgc7iJ-XWDcQ7kNvwGeX0B-&_nc_oc=AdlgPPERDALOAgT2ljoFBlewH7AQHJLqoaYRghRrC5XR7XqPVKGK-engxEX9D5C3ClU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YBgZ6xvcWL7w9BivyV3JMA&oh=00_Afgx-OYJeeKTzoE-x9poHiha8eXfo16kcxY2J4yJ7l1RKA&oe=691839B6",
-    "date": "Offre de Mardi 11 Novembre 2025",
+    "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/579948540_713665278447414_3972942504877168489_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2MzYzNTU3ODI0ODczNjc2MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=N6Kru0I15PIQ7kNvwGDaZEj&_nc_oc=AdkelWFk5iufLsvpB0clvsbOFwI2voOq6HwXlriDS1kxKRLchnRzivXy7Q-esx_X_cg&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZeklJRfH-CV5Fla2q5O9ww&oh=00_AfhySKNpiqPgnn-O7v-DLno7liJEdQmbawm17JobzV9p1Q&oe=69199321",
+    "date": "Offre de Mercredi 12 Novembre 2025",
     "images": [
-      "https://scontent.cdninstagram.com/v/t39.30808-6/577821857_712827845197824_8188465400688444745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2MjkxMDgxNTQwMjgxMjkyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Fgc7iJ-XWDcQ7kNvwGeX0B-&_nc_oc=AdlgPPERDALOAgT2ljoFBlewH7AQHJLqoaYRghRrC5XR7XqPVKGK-engxEX9D5C3ClU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YBgZ6xvcWL7w9BivyV3JMA&oh=00_Afgx-OYJeeKTzoE-x9poHiha8eXfo16kcxY2J4yJ7l1RKA&oe=691839B6"
+      "https://scontent.cdninstagram.com/v/t39.30808-6/579948540_713665278447414_3972942504877168489_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2MzYzNTU3ODI0ODczNjc2MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=N6Kru0I15PIQ7kNvwGDaZEj&_nc_oc=AdkelWFk5iufLsvpB0clvsbOFwI2voOq6HwXlriDS1kxKRLchnRzivXy7Q-esx_X_cg&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZeklJRfH-CV5Fla2q5O9ww&oh=00_AfhySKNpiqPgnn-O7v-DLno7liJEdQmbawm17JobzV9p1Q&oe=69199321"
     ]
   },
   "bims": {
