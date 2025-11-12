@@ -2,9 +2,9 @@
   "news": {
     "new1": {
       "title": "Kazyon Market",
-      "date": "Offre de Mercredi 12 Novembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/579948540_713665278447414_3972942504877168489_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2MzYzNTU3ODI0ODczNjc2MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=N6Kru0I15PIQ7kNvwGDaZEj&_nc_oc=AdkelWFk5iufLsvpB0clvsbOFwI2voOq6HwXlriDS1kxKRLchnRzivXy7Q-esx_X_cg&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZeklJRfH-CV5Fla2q5O9ww&oh=00_AfhySKNpiqPgnn-O7v-DLno7liJEdQmbawm17JobzV9p1Q&oe=69199321",
-      "link": "kazyon1"
+      "date": "Offre du 13 au 19 Novembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20novembre%202025-2-.jpg",
+      "link": "kazyon"
     },
     "new2": {
       "title": "Bim Market",
@@ -64,13 +64,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/IMG-20251105-WA0006-min.jpg",
-    "date": "Offre du 06 au 12 Novembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20novembre%202025-2-.jpg",
+    "date": "Offre du 13 au 19 Novembre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/IMG-20251105-WA0006-min.jpg",
-      "https://hmizate.ma/img/cms/IMG-20251105-WA0002-min.jpg",
-      "https://hmizate.ma/img/cms/IMG-20251105-WA0004-min.jpg",
-      "https://hmizate.ma/img/cms/IMG-20251105-WA0003-min.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20novembre%202025-2-.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20novembre%202025-3-.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20novembre%202025-4-.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20novembre%202025-1-.jpg"
     ]
   },
   "Kazyon1": {
