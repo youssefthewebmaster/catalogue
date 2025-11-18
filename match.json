@@ -4,6 +4,23 @@
         "current": 1,
         "new": 1
     },
+    "tamaniya": {
+        "tamaniya1": {
+            "links": {
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/662"
+            }
+        },
+        "tamaniya2": {
+            "links": {
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/663"
+            }
+        },
+        "tamaniya3": {
+            "links": {
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/664"
+            }
+        }
+    },
     "beinSport": {
         "beinSportNews": {
             "links": {
