@@ -2,45 +2,45 @@
   "news": {
     "new1": {
       "title": "Aswak Assalam",
-      "date": "A partir de 19 Novembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/584512362_846047504691130_3154955982147833420_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=103&ig_cache_key=Mzc2NzkzODEwNDIwODk2MzE4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=QBK9swd5ftUQ7kNvwHXDssz&_nc_oc=Adn25L-_8Ua9_IGbik0SIJ38APcbHQAmHwJStRKZUrqfH8dyr_bvlEJMEgV9rNexGbo&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sKWbnPSYlMn76zSRmvhMZQ&oh=00_AfgtshAYBeDbH6xcooRFdHiCkpmH0_Bj3a2apdg5x9tPJw&oe=6922CE26",
-      "link": "aswak1"
+      "date": "Offre du 20 Novembre au 07 Décembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/583281960_843922024903678_8093941146714344214_n-min.jpg",
+      "link": "aswak"
     },
     "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre du Mercredi 19 Novembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/585069471_718990987914843_7068129766798390911_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2ODcwOTAyMzgxODg4Mjc3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=6pnC3e6sBA4Q7kNvwHKggyy&_nc_oc=AdkUea8JbnxGiq0fHY8LMfP0pcPJ0EgMvSsxtgCVA5gnmUt4NmOjlEOQXq2khL00eFM&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=fV18mGMTPtvpqiUgUwqLrA&oh=00_Afj8NasJklcGDD8qb4YVBI6ySEWBCiCTGYpyqY3f0InpAA&oe=6922DB94",
-      "link": "kazyon1"
+      "title": "Atacadão Market",
+      "date": "Offre du 20 Novembre au 03 Décembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20novembre%20au%203%20d%C3%A9cembre%202025-1.jpg",
+      "link": "atacadao"
     },
     "new3": {
+      "title": "Kazyon Market",
+      "date": "Offre du 20 au 26 Novembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20novembre%202025-1_2.jpg",
+      "link": "kazyon"
+    },
+    "new4": {
       "title": "Supeco Market",
       "date": "Offre du Mardi 18 Novembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/585103559_1148411307450266_639088887860578265_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2Nzc5MjUzNjcxOTc3MjA4MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=V_wjqGbMTZsQ7kNvwF6O8d4&_nc_oc=AdkpIQahDv-LKXcxlW2Ye62r_b2ToziDcnGvtveGd39Ep9GAlGS1Kfv4dNO6SjkTUpQ&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Um0c2WL6Oi0doIXT5jD4ug&oh=00_Afj0cgr41s7uY-rMpu73I29-3FgT8e1WdW1Q0GH7SKR-Sg&oe=69216EFD",
       "link": "supeco1"
     },
-    "new4": {
+    "new5": {
       "title": "Bim Market",
       "date": "Offre de Mardi 18 Novembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/WhatsApp%20Image%202025-11-09%20at%2019-18-58.jpeg",
       "link": "bim2"
     },
-    "new5": {
+    "new6": {
       "title": "Carrefour Market",
       "date": "Offre du 13 au 19 Novembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/579925405_1255015436659065_3086711392394991604_n.jpg?stp=c0.12.1080.1350a_dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2NTA1MDkzMDcxNDY2MTQ3NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM3NC5zZHIuQzMifQ%3D%3D&_nc_ohc=zKYaDSgpWBEQ7kNvwGtUhD_&_nc_oc=Adn-vJFmKA7UgQF5nHsec_KWoWUrxPOYVyOoyT4t6nH0vUpYNI-rQ11_aFPfP3eLgq4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sZH_BEEqxBvFS9xas-AzOg&oh=00_AfhkjOyS1uKyb8WwEzERn6xxc3oYK4GiEdzpgSigHWRilA&oe=691C0BD2",
       "link": "carrefourMarket1"
     },
-    "new6": {
+    "new7": {
       "title": "Marjane Market",
       "date": "Valable jusqu'au 16 Novembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/582977389_1131535739145811_3430280180798337795_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc2NDg0NjY4Mzc2NDUzOTkwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=wFi_kg3xycsQ7kNvwFpYSB9&_nc_oc=AdkOM5GV5b8GEqrzhbUvQ1fcuMIp5OCC40r1GMtjJoqD1c-r7EcqJrssS_vCawjgp5M&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sffXFWMb5EZ2dy2g99vepg&oh=00_AfjJn8F1u8He6AfQNfYuw6wAfv3Oi_KtKPle6cUOHuiclA&oe=691C0BCC",
       "link": "marjaneMarket"
-    },
-    "new7": {
-      "title": "Atacadão Market",
-      "date": "Offre du 06 au 19 Novembre 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%206%20au%2019%20novembre%202025-1.jpg",
-      "link": "atacadao"
     },
     "new8": {
       "title": "Carrefour Méga",
@@ -64,13 +64,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20novembre%202025-2-.jpg",
-    "date": "Offre du 13 au 19 Novembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20novembre%202025-1_2.jpg",
+    "date": "Offre du 20 au 26 Novembre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20novembre%202025-2-.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20novembre%202025-3-.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20novembre%202025-4-.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2013%20au%2019%20novembre%202025-1-.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20novembre%202025-1_2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20novembre%202025-2_2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20novembre%202025-3_2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20novembre%202025-4_2.jpg"
     ]
   },
   "Kazyon1": {
@@ -130,37 +130,37 @@
   "AswakAssalam": {
     "title": "Aswak Assalam",
     "link": "aswak",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-min.jpg",
-    "date": "Offre du 18 Octobre au 03 Novembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/583281960_843922024903678_8093941146714344214_n-min.jpg",
+    "date": "Offre du 20 Novembre au 07 Décembre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-2-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-3-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-4-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-5-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-6-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-7-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-8-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-9-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-10-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-11-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-12-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-13-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-14-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-15-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-16-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-17-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-18-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-19-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-20-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-21-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-22-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-23-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-25-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-26-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-27-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-28-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20octobre%20au%203%20novembre%202025-29-min.jpg"
+      "https://hmizate.ma/img/cms/583281960_843922024903678_8093941146714344214_n-min.jpg",
+      "https://hmizate.ma/img/cms/584606650_843921811570366_7195415756035599643_n-min.jpg",
+      "https://hmizate.ma/img/cms/581967068_843921878237026_833541708023691912_n-min.jpg",
+      "https://hmizate.ma/img/cms/583329514_843921918237022_8914857156052858662_n-min.jpg",
+      "https://hmizate.ma/img/cms/583327950_843921644903716_8484665984622064274_n-min.jpg",
+      "https://hmizate.ma/img/cms/583124217_843921548237059_483085722857983332_n-min.jpg",
+      "https://hmizate.ma/img/cms/583327828_843921568237057_3798081476595147500_n-min.jpg",
+      "https://hmizate.ma/img/cms/584492345_843921458237068_2112219757971109070_n-min.jpg",
+      "https://hmizate.ma/img/cms/581932993_843921624903718_863767941962713714_n-min.jpg",
+      "https://hmizate.ma/img/cms/583329000_843921994903681_597475371456170489_n-min.jpg",
+      "https://hmizate.ma/img/cms/580942983_843922154903665_3901144857081106077_n-min.jpg",
+      "https://hmizate.ma/img/cms/583273244_843922124903668_6672418458979655600_n-min.jpg",
+      "https://hmizate.ma/img/cms/583046596_843922448236969_7344291144858969980_n-min.jpg",
+      "https://hmizate.ma/img/cms/583329489_843922234903657_15506930715752647_n-min.jpg",
+      "https://hmizate.ma/img/cms/581118765_843922264903654_6476081774882591617_n-min.jpg",
+      "https://hmizate.ma/img/cms/581968109_843922281570319_4672638731034999081_n-min.jpg",
+      "https://hmizate.ma/img/cms/581932366_843922324903648_8077053204372992056_n-min.jpg",
+      "https://hmizate.ma/img/cms/581967062_843922381570309_3341092448772704168_n-min.jpg",
+      "https://hmizate.ma/img/cms/582659746_843922764903604_2242563830742096843_n-min.jpg",
+      "https://hmizate.ma/img/cms/584563103_843922621570285_6255856616724859001_n-min.jpg",
+      "https://hmizate.ma/img/cms/583046594_843922778236936_8296450610632785042_n-min.jpg",
+      "https://hmizate.ma/img/cms/581329169_843922664903614_788892013104436645_n%20(2)-min.jpg",
+      "https://hmizate.ma/img/cms/584567847_843922648236949_7751187794516158912_n-min.jpg",
+      "https://hmizate.ma/img/cms/582993787_843922694903611_2853710970607134693_n-min.jpg",
+      "https://hmizate.ma/img/cms/583030687_843922794903601_786750298094160960_n-min.jpg",
+      "https://hmizate.ma/img/cms/583619371_843922758236938_5578289423003204161_n-min.jpg",
+      "https://hmizate.ma/img/cms/581967364_843922858236928_532187551064847932_n-min.jpg",
+      "https://hmizate.ma/img/cms/583933777_843922904903590_7517006619155623445_n-min.jpg"
     ]
   },
   "AswakAssalam1": {
@@ -362,11 +362,11 @@
   "Atacadão": {
     "title": "Atacadão",
     "link": "atacadao",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%206%20au%2019%20novembre%202025-1.jpg",
-    "date": "Offre du 06 au 19 Novembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20novembre%20au%203%20d%C3%A9cembre%202025-1.jpg",
+    "date": "Offre du 20 Novembre au 03 Décembre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%206%20au%2019%20novembre%202025-1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%206%20au%2019%20novembre%202025-2.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20novembre%20au%203%20d%C3%A9cembre%202025-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20novembre%20au%203%20d%C3%A9cembre%202025-2.jpg"
     ]
   },
   "Kitea": {
