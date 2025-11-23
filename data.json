@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Supeco Market",
+      "date": "Offre du 24 au 30 Novembre 2025",
+      "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(1).png",
+      "link": "supeco"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de Lundi 24 Novembre 2025",
+      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/586616538_722896914190917_2361172981640182115_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc3MjMzMzQ1OTc3OTkxNDgzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=qqCu8yXSTigQ7kNvwHluZrz&_nc_oc=AdkvkiVcSg0LZwiAGhyxN8sRWvuVYtl9eJwNBHsvv0Pg1ogK_tcXA3reBCg5GeO19Pw&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=b3dTm9ebTbaAJfGAl0WC7w&oh=00_AfhwerlSX2d3i-vvIx9T1ju7nrVqD5wl2PkcaTgHpfoqNA&oe=6929410A",
+      "link": "kazyon1"
+    },
+    "new3": {
       "title": "Carrefour Market",
       "date": "Offre du 22 au 26 Novembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/587262757_1262267549267187_4084532642356314872_n.jpg?stp=c0.12.1080.1350a_dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc3MDg1Mzc2MjM0NTI0NTUxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM3NC5zZHIuQzMifQ%3D%3D&_nc_ohc=I0WalCR9vwAQ7kNvwGdBrRW&_nc_oc=AdnJPM1zFdmRZ0IgaiPu7QeiFcgW1O9nQKCK1kNZpFUJ1DKatuysZTArFn64g3PMfIc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=yXivU01HUeEd3xvG6d6K-w&oh=00_AfhOTkZx8m9Zf9qdido_V6gk3w-bAZtwWKmDbIzNm7FIrw&oe=6926AAC6",
       "link": "carrefourMarket1"
     },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre du 22 au 23 Novembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/585160324_721299424350666_5030769569776536486_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc3MDk0MzczMDI5MjQ2MjgyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjIwNDh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=8tpiN1tPoaoQ7kNvwFllZKU&_nc_oc=AdmjTyvg-BHGcEERPwSvXS8-z2PZRxMwXiMyKyqDKzY7KSvQ4iRljt-w2OqpvFypOFQ&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IXY2-pvAoa-VNPSEhNcRQ&oh=00_AfhggquBf-P1DBrdoWdDh_iOb6w8gKReynsg6bePrOC7Fw&oe=6926B0E7",
-      "link": "kazyon1"
-    },
-    "new3": {
+    "new4": {
       "title": "Carrefour Méga",
       "date": "du 20 Novembre au 10 Décembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/3e252303516928803320a1c3d61cd3c5_1.webp",
       "link": "carrefour1"
     },
-    "new4": {
+    "new5": {
       "title": "Marjane Market",
       "date": "Valable jusqu'au 23 Novembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/585542204_1136723058627079_2424057204045045666_n.jpg?stp=c0.3.1074.1334a_dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2OTk4OTgyODcxODMxNzgzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwNzR4MTM0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=V8HXxPNhFWcQ7kNvwHkO0ok&_nc_oc=AdldxPgdQSu5pYrh2eLZ1LcgzdT-xqj8jQvEw01ReFUr9Lk6iQ4E7UN_GLPLpB8NOfs&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=9GcYTK8gH42kOpMYSEevJg&oh=00_AfgQBEOfXY6UIEEyAhIAaQZv3HL89SFYy46lXZm0g4cAwg&oe=6925506D",
       "link": "marjaneMarket"
-    },
-    "new5": {
-      "title": "Supeco Market",
-      "date": "Offre du 21 au 23 Novembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/584515276_1150105490614181_3986416913139978736_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2OTQzMTk3MDI1NTc0ODkyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=zJ0Fvzz_uHQQ7kNvwFQIguB&_nc_oc=AdkGZOdMr4k5humPTwqSYXRPCo3MhUaBJ28KrSInmsSUZYH5OlgKW4Y-vnKeMKD9i4E&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=yxciccifoEm-LcBJVS_Adg&oh=00_AfgMa1NuvveGMWBCQjXu8PeAIBQIHEoVmJx99pvU2mg6Jw&oe=69256FDF",
-      "link": "supeco1"
     },
     "new6": {
       "title": "Bim Market",
@@ -76,14 +76,10 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/585160324_721299424350666_5030769569776536486_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc3MDk0MzczMDI5MjQ2MjgyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjIwNDh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=8tpiN1tPoaoQ7kNvwFllZKU&_nc_oc=AdmjTyvg-BHGcEERPwSvXS8-z2PZRxMwXiMyKyqDKzY7KSvQ4iRljt-w2OqpvFypOFQ&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IXY2-pvAoa-VNPSEhNcRQ&oh=00_AfhggquBf-P1DBrdoWdDh_iOb6w8gKReynsg6bePrOC7Fw&oe=6926B0E7",
-    "date": "Offre du 22 au 23 Novembre 2025",
+    "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/586616538_722896914190917_2361172981640182115_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc3MjMzMzQ1OTc3OTkxNDgzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=qqCu8yXSTigQ7kNvwHluZrz&_nc_oc=AdkvkiVcSg0LZwiAGhyxN8sRWvuVYtl9eJwNBHsvv0Pg1ogK_tcXA3reBCg5GeO19Pw&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=b3dTm9ebTbaAJfGAl0WC7w&oh=00_AfhwerlSX2d3i-vvIx9T1ju7nrVqD5wl2PkcaTgHpfoqNA&oe=6929410A",
+    "date": "Offre de Lundi 24 Novembre 2025",
     "images": [
-      "https://scontent.cdninstagram.com/v/t39.30808-6/585160324_721299424350666_5030769569776536486_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc3MDk0MzczMDI5MjQ2MjgyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjIwNDh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=8tpiN1tPoaoQ7kNvwFllZKU&_nc_oc=AdmjTyvg-BHGcEERPwSvXS8-z2PZRxMwXiMyKyqDKzY7KSvQ4iRljt-w2OqpvFypOFQ&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IXY2-pvAoa-VNPSEhNcRQ&oh=00_AfhggquBf-P1DBrdoWdDh_iOb6w8gKReynsg6bePrOC7Fw&oe=6926B0E7",
-      "https://scontent.cdninstagram.com/v/t39.30808-6/586337729_721299327684009_4091945140110296179_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc3MDk0MzczMTAxMzg2MzA2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjIwNDh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=uNvBDT2qrXgQ7kNvwEmg13_&_nc_oc=AdkZzjuwhikrpIHgFx1OM9jnTlg4Ijy44ziqG4gYYWzEy1u0F2DdGKj7nXtAxYWi6f4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IXY2-pvAoa-VNPSEhNcRQ&oh=00_AfjZfA0lpfxmlDP8K-Ly3lf9C9NR56cpX6J5azJZ930hfw&oe=6926A44A",
-      "https://scontent.cdninstagram.com/v/t39.30808-6/587948387_721299364350672_6320688400334053276_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc3MDk0MzczMDU1MjQ3OTc5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjIwNDh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=diFGFQ8AkSsQ7kNvwElsav4&_nc_oc=AdmsttY_2yEKoKJP29rTzhxk-FqXeN89leRs68eOoO83FwgIUwuFEOYqEeZWugnHc8Q&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IXY2-pvAoa-VNPSEhNcRQ&oh=00_AfhztIc8SViflDy0puFN_kGm60IYzGG9ihJHSCQaQxn-hA&oe=6926C469",
-      "https://scontent.cdninstagram.com/v/t39.30808-6/558981565_721299384350670_49015865491516152_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc3MDk0MzczMDMxNzY0NjE4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjIwNDh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=ASyYNwN60aUQ7kNvwFviExb&_nc_oc=Adld5eFyWA1MYCC02ZOqWCxRv9KztnQ7Lt48-hfyEazQCdKqMVwITWFZHiZ_cCjt6T8&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IXY2-pvAoa-VNPSEhNcRQ&oh=00_Afii-J3AvNaH67QXE-mEt9cPdrMGzpmYKatmAHvNKwPeMg&oe=6926C6E2",
-      "https://scontent.cdninstagram.com/v/t39.30808-6/586629843_721299361017339_5108853740421731778_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc3MDk0MzczMDA3NDM4MjkwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjIwNDh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=0mb6qrkAhtsQ7kNvwHlK00A&_nc_oc=Adm5BjFW0gfLeBAozID0LqehInOwUju_zIvOknO9fz9WEY9NI0P05fDiCe5HIiYRtAw&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IXY2-pvAoa-VNPSEhNcRQ&oh=00_AfjSF-lPk91UjjkJFNY4KLi9_wavWUUlZ0rbBsl230Pm0w&oe=6926CB06"
+      "https://scontent.cdninstagram.com/v/t39.30808-6/586616538_722896914190917_2361172981640182115_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc3MjMzMzQ1OTc3OTkxNDgzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=qqCu8yXSTigQ7kNvwHluZrz&_nc_oc=AdkvkiVcSg0LZwiAGhyxN8sRWvuVYtl9eJwNBHsvv0Pg1ogK_tcXA3reBCg5GeO19Pw&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=b3dTm9ebTbaAJfGAl0WC7w&oh=00_AfhwerlSX2d3i-vvIx9T1ju7nrVqD5wl2PkcaTgHpfoqNA&oe=6929410A"
     ]
   },
   "bims": {
@@ -113,13 +109,12 @@
     "link": "supeco",
     "title": "Supeco Market",
     "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(1).png",
-    "date": "Offre du 10 au 16 Novembre 2025",
+    "date": "Offre du 24 au 30 Novembre 2025",
     "images": [
       "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(1).png",
       "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(2).png",
       "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(4).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(5).png"
+      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(4).png"
     ]
   },
   "Supeco1": {
