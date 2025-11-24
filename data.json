@@ -1,64 +1,64 @@
 {
   "news": {
     "new1": {
+      "title": "Kitea Géant",
+      "date": "Offre valable jusqu'au 31 Décembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0001-min.jpg",
+      "link": "kitea"
+    },
+    "new2": {
       "title": "Supeco Market",
       "date": "Offre du 24 au 30 Novembre 2025",
       "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(1).png",
       "link": "supeco"
     },
-    "new2": {
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre de Lundi 24 Novembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/586616538_722896914190917_2361172981640182115_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc3MjMzMzQ1OTc3OTkxNDgzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=qqCu8yXSTigQ7kNvwHluZrz&_nc_oc=AdkvkiVcSg0LZwiAGhyxN8sRWvuVYtl9eJwNBHsvv0Pg1ogK_tcXA3reBCg5GeO19Pw&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=b3dTm9ebTbaAJfGAl0WC7w&oh=00_AfhwerlSX2d3i-vvIx9T1ju7nrVqD5wl2PkcaTgHpfoqNA&oe=6929410A",
       "link": "kazyon1"
     },
-    "new3": {
+    "new4": {
       "title": "Carrefour Market",
       "date": "Offre du 22 au 26 Novembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/587262757_1262267549267187_4084532642356314872_n.jpg?stp=c0.12.1080.1350a_dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc3MDg1Mzc2MjM0NTI0NTUxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM3NC5zZHIuQzMifQ%3D%3D&_nc_ohc=I0WalCR9vwAQ7kNvwGdBrRW&_nc_oc=AdnJPM1zFdmRZ0IgaiPu7QeiFcgW1O9nQKCK1kNZpFUJ1DKatuysZTArFn64g3PMfIc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=yXivU01HUeEd3xvG6d6K-w&oh=00_AfhOTkZx8m9Zf9qdido_V6gk3w-bAZtwWKmDbIzNm7FIrw&oe=6926AAC6",
       "link": "carrefourMarket1"
     },
-    "new4": {
+    "new5": {
       "title": "Carrefour Méga",
       "date": "du 20 Novembre au 10 Décembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/3e252303516928803320a1c3d61cd3c5_1.webp",
       "link": "carrefour1"
     },
-    "new5": {
+    "new6": {
       "title": "Marjane Market",
       "date": "Valable jusqu'au 23 Novembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/585542204_1136723058627079_2424057204045045666_n.jpg?stp=c0.3.1074.1334a_dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc2OTk4OTgyODcxODMxNzgzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwNzR4MTM0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=V8HXxPNhFWcQ7kNvwHkO0ok&_nc_oc=AdldxPgdQSu5pYrh2eLZ1LcgzdT-xqj8jQvEw01ReFUr9Lk6iQ4E7UN_GLPLpB8NOfs&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=9GcYTK8gH42kOpMYSEevJg&oh=00_AfgQBEOfXY6UIEEyAhIAaQZv3HL89SFYy46lXZm0g4cAwg&oe=6925506D",
       "link": "marjaneMarket"
     },
-    "new6": {
+    "new7": {
       "title": "Bim Market",
       "date": "Offre de Vendredi 21 Novembre 2025",
       "thumbnail": "https://www.bim.ma/Uploads/ma/Files/20-11-2025-11-23-58-WEB%20Spot%20BIM%2021-25%20Nov%202025%20.jpg",
       "link": "bim1"
     },
-    "new7": {
+    "new8": {
       "title": "Aswak Assalam",
       "date": "Offre du 20 Novembre au 07 Décembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/583281960_843922024903678_8093941146714344214_n-min.jpg",
       "link": "aswak"
     },
-    "new8": {
+    "new9": {
       "title": "Atacadão Market",
       "date": "Offre du 20 Novembre au 03 Décembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2020%20novembre%20au%203%20d%C3%A9cembre%202025-1.jpg",
       "link": "atacadao"
     },
-    "new9": {
+    "new10": {
       "title": "Marjane Méga",
       "date": "Offre du 23 Octobre au 16 Novembre 2025",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Marjane%20du%2023%20octobre%20au%2016%20novembre%202025-1.jpg",
       "link": "marjane"
-    },
-    "new10": {
-      "title": "Kitea Géant",
-      "date": "Offre valable jusqu'au 31 Octobre 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_1-min.jpg",
-      "link": "kitea"
     }
   },
   "Kazyon": {
@@ -356,30 +356,21 @@
   "Kitea": {
     "link": "kitea",
     "title": "Kitea Géant",
-    "thumbnail": "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_1-min.jpg",
-    "date": "Offre valable jusqu'au 31 Octobre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0001-min.jpg",
+    "date": "Offre valable jusqu'au 31 Décembre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_1-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_2-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_3-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_4-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_8-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_9-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_10-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_11-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_12-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_13-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_14-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_15-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_16-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_17-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_18-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_19-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_20-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_21-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_22-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_23-min.jpg",
-      "https://hmizate.ma/img/cms/BROCHURE%20BTS%202025-F_250827_171525_24-min.jpg"
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0001-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0002-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0003-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0004-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0005-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0006-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0007-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0008-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0009-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0010-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0011-min.jpg",
+      "https://hmizate.ma/img/cms/BROCHURE%20SOLDE%202025_WEB_page-0012-min.jpg"
     ]
   }
 }
