@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre du 27 Novembre au 03 Décembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20novembre%20au%203%20d%C3%A9cembre%202025-1_1.jpg",
+      "link": "kazyon"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "A partir de Mercredi 26 Novembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/585378194_851437630818784_2625336082557821986_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc3MzA1MzgxNDQ0NzE2MDAwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=WcICVGF0LVEQ7kNvwGnU-xU&_nc_oc=Adlml0nA-XOfspqlTZaJoec70RV-pmh4wl_ENqmSQ-Rk1X1GQVzxNO4toY4B5T7-Fes&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DHzleLfkP6Ofw0ovRbVGKQ&oh=00_AfjqYZarWdnlxLI1MzY1AkCy9y3Fa7I66spXRBbmVoQZrA&oe=692C015C",
       "link": "aswak1"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 25 Novembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/589483794_723613590785916_5614301096389054493_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc3MzA1OTM2Nzc3MzI3Mjk1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=xf7UjMB2GUYQ7kNvwHi7tQa&_nc_oc=AdlY98QuK-RIg32w72j7GToRw1n7K9E0ae6d16rRRO3AkEvyecYYX-Hx4zEB0kkl8qk&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=XcvcyeZu3AYqd6fxWXDq2g&oh=00_AfhQ0K_Y0nGEaAtifo4wr_o4K4dP7VoQ1LNv_tFgqq6zzg&oe=692A96ED",
-      "link": "kazyon1"
     },
     "new3": {
       "title": "Kitea Géant",
@@ -64,13 +64,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20novembre%202025-1_2.jpg",
-    "date": "Offre du 20 au 26 Novembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20novembre%20au%203%20d%C3%A9cembre%202025-1_1.jpg",
+    "date": "Offre du 27 Novembre au 03 Décembre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20novembre%202025-1_2.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20novembre%202025-2_2.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20novembre%202025-3_2.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2020%20au%2026%20novembre%202025-4_2.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20novembre%20au%203%20d%C3%A9cembre%202025-1_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20novembre%20au%203%20d%C3%A9cembre%202025-2_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20novembre%20au%203%20d%C3%A9cembre%202025-3.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2027%20novembre%20au%203%20d%C3%A9cembre%202025-4_1.jpg"
     ]
   },
   "Kazyon1": {
