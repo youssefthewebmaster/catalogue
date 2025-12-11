@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre du 11 au 17 Décembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2011%20au%2017%20d%C3%A9cembre%202025%204.jpg",
+      "link": "kazyon"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "A partir de Mercredi 10 Décembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/595904708_862129949749552_1300839540385881009_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc4MzkwNjY1Nzc4NTc5NTIyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=H4krk9i8tIAQ7kNvwEovcHV&_nc_oc=Adm5DL0cvG3cB9b44kGqywQC_Va6DLepBW7oyOKkPU9Us7OH2L8a9lLTSSGfWa9f7sQ&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=xJukw0DG20YZb_X3nxJegw&oh=00_AflWW0bDVo7reqT4DCA_nUG8J2KgtcxQhqFma0sKSweJoA&oe=693EE690",
       "link": "aswak1"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mercredi 10 Décembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/594859665_733600956453846_7223572100294236302_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc4MzkyOTkzMzQzODUwOTQxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=jkgr2BTauB0Q7kNvwH0Bugi&_nc_oc=AdlLvZYoNPIGnN02vMBetQ9619AJ2OvPBmih82D1aC4XAbE4PGK9e2bwj5bF_brhYF0&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lQzYWKkyTwDuH3v_T7NfAA&oh=00_Afl944UNFgy6wRDgwTiJHtwq4PWeyRhHN_vO-lDB-yqgww&oe=693F1D32",
-      "link": "kazyon1"
     },
     "new3": {
       "title": "Bim Market",
@@ -64,13 +64,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%204%20au%2010%20d%C3%A9cembre%202025-1_1.jpg",
-    "date": "Offre du 04 au 10 Décembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2011%20au%2017%20d%C3%A9cembre%202025%204.jpg",
+    "date": "Offre du 11 au 17 Décembre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%204%20au%2010%20d%C3%A9cembre%202025-1_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%204%20au%2010%20d%C3%A9cembre%202025-2_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%204%20au%2010%20d%C3%A9cembre%202025-3_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%204%20au%2010%20d%C3%A9cembre%202025-4_1.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2011%20au%2017%20d%C3%A9cembre%202025%204.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2011%20au%2017%20d%C3%A9cembre%202025%202.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2011%20au%2017%20d%C3%A9cembre%202025%203.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2011%20au%2017%20d%C3%A9cembre%202025%201.jpg"
     ]
   },
   "Kazyon1": {
