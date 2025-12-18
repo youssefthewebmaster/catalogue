@@ -1,52 +1,52 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "Offre de Vendredi 19 Décembre 2025",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/16-12-2025-13-57-16-WEB%20Spot%20Bim%2019%20-%2023%20De%CC%81cembre%202025.jpg",
+      "link": "bim1"
+    },
+    "new2": {
+      "title": "Atacadão Market",
+      "date": "Offre du 18 au 31 Décembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2018%20au%2031%20d%C3%A9cembre%202025-1.jpg",
+      "link": "atacadao"
+    },
+    "new3": {
+      "title": "Kazyon Market",
+      "date": "Offre du 18 au 24 Décembre 2025",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2018%20au%2024%20d%C3%A9cembre%202025-4_1.jpg",
+      "link": "kazyon"
+    },
+    "new4": {
       "title": "Marjane Méga",
       "date": "Offre du 15 Décembre au 04 Janvier 2025",
       "thumbnail": "https://hmizate.ma/img/cms/F%C3%AAtes%20de%20fin%20d%E2%80%99ann%C3%A9e_page-0001-min.jpg",
       "link": "marjane"
     },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mercredi 17 Décembre 2025",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/598832914_738565172624091_6715634215533887962_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc4OTAwMzMwNzg4OTA0MTc0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=XieK2B5BYlgQ7kNvwGE3RW1&_nc_oc=Adn1Yi9Vl4HucMhB8xstSg1w2iKHHootFeZ7UnvA8hJBPkGB5pOBe90w153LvReIXXk&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=A1zmj-MoZ0qtz5_Y8YYsDQ&oh=00_Afn4VpOoW4JFSpMYNIh2WsHaYVIzfC6q23Fbcr91biDHGA&oe=69477A46",
-      "link": "kazyon1"
-    },
-    "new3": {
+    "new5": {
       "title": "Marjane Market",
       "date": "Offre valable jusqu'au 14 Décembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/597177346_1152030067096378_4472282897348109656_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc4NTM0Njg4ODUyMzc3Mzc0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=N5ppr4FyZNUQ7kNvwHdMUHx&_nc_oc=AdmzCum8kCK5s--5cj_YCvS-Ac5Ew6NCDDg7Y8GslKu335kpNZXo-vRacXuiVMZe1Lo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=k736RZf7L_7VTTNCz4c-iA&oh=00_AfmCkne2RNhm_mbkUhQW6uY1S2Vt-BHX4nzNVy5bg2Xo4A&oe=6941A5CD",
       "link": "marjaneMarket"
     },
-    "new4": {
+    "new6": {
       "title": "Supeco Market",
       "date": "Offre du 12 au 14 Décembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/597772730_1165218932436170_8588054483978598697_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzc4NDU2OTY4OTcxMjEyNDg0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=RNtu-n-mu3EQ7kNvwGfEzrM&_nc_oc=AdlXQStJDC9ub74LjcLK1dAq_V97qAMfdm_CjqaMfn650bxQltyZl5JjMsm_PKTIsEA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=A6FLEWbmHN7OlqmwM8quQw&oh=00_Afks7pSzy1m43mYgYB5RcKVAItmKeHa8DzyK2rdBxs5DzQ&oe=6941C974",
       "link": "supeco1"
     },
-    "new5": {
+    "new7": {
       "title": "Aswak Assalam",
       "date": "A partir de Mercredi 10 Décembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/595904708_862129949749552_1300839540385881009_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc4MzkwNjY1Nzc4NTc5NTIyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=H4krk9i8tIAQ7kNvwEovcHV&_nc_oc=Adm5DL0cvG3cB9b44kGqywQC_Va6DLepBW7oyOKkPU9Us7OH2L8a9lLTSSGfWa9f7sQ&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=xJukw0DG20YZb_X3nxJegw&oh=00_AflWW0bDVo7reqT4DCA_nUG8J2KgtcxQhqFma0sKSweJoA&oe=693EE690",
       "link": "aswak1"
     },
-    "new6": {
-      "title": "Bim Market",
-      "date": "Offre de mardi 09 Décembre 2025",
-      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/3-12-2025-14-00-20-Spot%20BIM%2005-09%20DE%CC%81C%202025%20WEB5.jpg",
-      "link": "bim2"
-    },
-    "new7": {
+    "new8": {
       "title": "Carrefour Market",
       "date": "Offre valable jusqu'au 10 Décembre 2025",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/594151412_1271951938298748_7524245503484576295_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc4MDIxNTU3NzI1MzE0NjU4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ZW3RN6UVDzkQ7kNvwG-1RuI&_nc_oc=AdnD-0kILHNpNiaKj63ZV5BYYaudM9I7OFUQRYSok1Go6ibXt6TntefXfBE80CDQtiw&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=trWbGD7nHcRCr0yJP7D8DQ&oh=00_AflCMMwxzuTGXtK5Zoxsp-4HqFAxKszRrQ6u-Qz-v-go6w&oe=6937F372",
       "link": "carrefourMarket1"
-    },
-    "new8": {
-      "title": "Atacadão Market",
-      "date": "Offre du 04 au 17 Décembre 2025",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%204%20au%2017%20d%C3%A9cembre%202025-2.jpg",
-      "link": "atacadao"
     },
     "new9": {
       "title": "Kitea Géant",
@@ -64,13 +64,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2011%20au%2017%20d%C3%A9cembre%202025%204.jpg",
-    "date": "Offre du 11 au 17 Décembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2018%20au%2024%20d%C3%A9cembre%202025-4_1.jpg",
+    "date": "Offre du 18 au 24 Décembre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2011%20au%2017%20d%C3%A9cembre%202025%204.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2011%20au%2017%20d%C3%A9cembre%202025%202.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2011%20au%2017%20d%C3%A9cembre%202025%203.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2011%20au%2017%20d%C3%A9cembre%202025%201.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2018%20au%2024%20d%C3%A9cembre%202025-4_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2018%20au%2024%20d%C3%A9cembre%202025-3_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2018%20au%2024%20d%C3%A9cembre%202025-1_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2018%20au%2024%20d%C3%A9cembre%202025-2_1.jpg"
     ]
   },
   "Kazyon1": {
@@ -86,11 +86,11 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "Offre de Vendredi 05 Décembre 2025",
-      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/3-12-2025-14-00-00-Spot%20BIM%2005-09%20DE%CC%81C%202025%20WEB3.jpg",
+      "date": "Offre de Vendredi 19 Décembre 2025",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/16-12-2025-13-57-16-WEB%20Spot%20Bim%2019%20-%2023%20De%CC%81cembre%202025.jpg",
       "images": [
-        "https://www.bim.ma/Uploads/ma/Files/3-12-2025-14-00-00-Spot%20BIM%2005-09%20DE%CC%81C%202025%20WEB3.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/3-12-2025-14-00-10-Spot%20BIM%2005-09%20DE%CC%81C%202025%20WEB.jpg"
+        "https://www.bim.ma/Uploads/ma/Files/16-12-2025-13-57-16-WEB%20Spot%20Bim%2019%20-%2023%20De%CC%81cembre%202025.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/16-12-2025-13-57-24-WEB%20Spot%20Bim%2019%20-%2023%20De%CC%81cembre%2020252.jpg"
       ]
     },
     "bim2": {
@@ -319,11 +319,11 @@
   "Atacadão": {
     "title": "Atacadão",
     "link": "atacadao",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%204%20au%2017%20d%C3%A9cembre%202025-2.jpg",
-    "date": "Offre du 04 au 17 Décembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2018%20au%2031%20d%C3%A9cembre%202025-1.jpg",
+    "date": "Offre du 18 au 31 Décembre 2025",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%204%20au%2017%20d%C3%A9cembre%202025-2.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%204%20au%2017%20d%C3%A9cembre%202025-1.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2018%20au%2031%20d%C3%A9cembre%202025-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2018%20au%2031%20d%C3%A9cembre%202025-2.jpg"
     ]
   },
   "Kitea": {
