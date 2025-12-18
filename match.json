@@ -8,6 +8,21 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
         "Referer": "https://x.com/"
     },
+    "events": {
+        "event1": {
+            "team1": "الولايات المتحدة",
+            "team2": "المكسيك",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/countries/usa.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/countries/mexico.png",
+            "time":"23:00",
+            "championName": "كأس الكونكاكاف",
+            "channelName": "السعودية الرياضية 1",
+            "folder": "sportArab",
+            "link": "so3odiyaSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/tamaniya1.png",
+            "comment": "أحمد النفيسة"
+        }
+    },
     "tamaniya": {
         "tamaniya1": {
             "links": {
