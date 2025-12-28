@@ -8,6 +8,60 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
         "Referer": "https://x.com/"
     },
+    "events": {
+        "event1": {
+            "team1": "أنغولا",
+            "team2": "مصر",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Angola.jpg",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Eygpt.jpg",
+            "time":"16:00",
+            "championName": "كأس أمم أفريقيا",
+            "channelName": "Bein Sport Max 1",
+            "folder": "sportArab",
+            "link": "beinXtra1",
+            "picture":"b1",
+            "comment": "علي محمد علي"
+        },
+        "event2": {
+            "team1": "زيمبابوي",
+            "team2": "جنوب أفريقيا",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Zimbabwe.jpg",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/SouthAfrica.jpg",
+            "time":"16:00",
+            "championName": "كأس أمم أفريقيا",
+            "channelName": "Bein Sport Max 2",
+            "folder": "sportArab",
+            "link": "beinXtra2",
+            "picture":"b1",
+            "comment": "نوفل باشي"
+        },
+        "event3": {
+            "team1": "زامبيا",
+            "team2": "المغرب",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Zambia.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Maroc.png",
+            "time":"19:00",
+            "championName": "كأس أمم أفريقيا",
+            "channelName": "Bein Sport Max 1",
+            "folder": "sportArab",
+            "link": "beinXtra1",
+            "picture":"b1",
+            "comment": "جواد بدة"
+        },
+        "event4": {
+            "team1": "جزر القمر",
+            "team2": "مالي",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Komor.jpg",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Mali.jpg",
+            "time":"19:00",
+            "championName": "كأس أمم أفريقيا",
+            "channelName": "Bein Sport Max 2",
+            "folder": "sportArab",
+            "link": "beinXtra2",
+            "picture":"b1",
+            "comment": "محمد بركات"
+        }
+    },
     "tamaniya": {
         "tamaniya1": {
             "links": {
