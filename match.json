@@ -10,56 +10,17 @@
     },
     "events": {
         "event1": {
-            "team1": "كريستال بالاس",
-            "team2": "فولهام",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/CrystalPalace.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Fulham.png",
-            "time":"17:30",
-            "championName": "الدوري الإنجليزي الممتاز",
+            "team1": "رايو فايكانو",
+            "team2": "خيتافي",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RayoVallecano.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Getafe.png",
+            "time":"20:00",
+            "championName": "الدوري الإسباني",
             "channelName": "Bein Sport 2",
             "folder": "beinSport",
             "link": "beinSport2",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
-            "comment": "باسم الزير"
-        },
-        "event2": {
-            "team1": "ليفربول",
-            "team2": "ليدز يونايتد",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Liverpool.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/LeedsUnited.png",
-            "time":"17:30",
-            "championName": "الدوري الإنجليزي الممتاز",
-            "channelName": "Bein Sport 1",
-            "folder": "beinSport",
-            "link": "beinSport1",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "حمد البلوشي"
-        },
-        "event3": {
-            "team1": "برينتفورد",
-            "team2": "توتنهام هوتسبير",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Brentford.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/TottenhamHotspur.png",
-            "time":"20:00",
-            "championName": "الدوري الإنجليزي الممتاز",
-            "channelName": "Bein Sport 2",
-            "folder": "beinSport",
-            "link": "beinSport2",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
-            "comment": "عامر الخوذيري"
-        },
-        "event4": {
-            "team1": "سندرلاند",
-            "team2": "مانشستر سيتي",
-            "team1Image": "https://github.com/youssefthewebmaster/catalogue/blob/main/teamsImages/england/Sunderland.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterCity.png",
-            "time":"20:00",
-            "championName": "الدوري الإنجليزي الممتاز",
-            "channelName": "Bein Sport 1",
-            "folder": "beinSport",
-            "link": "beinSport1",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "حسن العيدروس"
+            "comment": "نوفل باشي"
         }
     },
     "newEvents": {
