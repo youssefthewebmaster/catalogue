@@ -51,7 +51,7 @@
         "event4": {
             "team1": "سندرلاند",
             "team2": "مانشستر سيتي",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Sunderland.png",
+            "team1Image": "https://github.com/youssefthewebmaster/catalogue/blob/main/teamsImages/england/Sunderland.png",
             "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterCity.png",
             "time":"20:00",
             "championName": "الدوري الإنجليزي الممتاز",
@@ -84,24 +84,6 @@
                         "1080p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=-dQR-jh2wKT8RMQcastPQA&e=1767240340",
                         "720p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=O_bLRdoQg6O-YghyYPt2Ow&e=1767240809",
                         "360p": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=hZ3bhyiquPJiT-vZx49WbA&e=1767245048"
-                    }
-                },
-                "-element3": {
-                    "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3max.png",
-                    "title": "Bein Sport MAX 3",
-                    "links": {
-                        "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/247704",
-                        "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/125555",
-                        "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/287734" 
-                    }
-                },
-                "-element4": {
-                    "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4max.png",
-                    "title": "Bein Sport MAX 4",
-                    "links": {
-                        "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/247704",
-                        "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/125555",
-                        "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/287734" 
                     }
                 }
             }
