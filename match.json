@@ -62,20 +62,65 @@
             "comment": "حسن العيدروس"
         }
     },
+    "newEvents": {
+        "main": {
+            "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Afrique%20coupe.png",
+            "title": "كأس أفريقيا",
+            "link": "newEventsMenu",
+            "elements": {
+                "element1": {
+                    "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
+                    "title": "Bein Sport MAX 1",
+                    "links": {
+                        "1080p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=qipDAr2TiqXGxFUvlAehlw&e=1767240182",
+                        "720p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=MoOeROhcDJww-fv3VwHpWw&e=1767240509",
+                        "360p": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=sogrBf-jQP_HZcsCbf-QQg&e=1767240586"
+                    }
+                },
+                "element2": {
+                    "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png",
+                    "title": "Bein Sport MAX 2",
+                    "links": {
+                        "1080p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=-dQR-jh2wKT8RMQcastPQA&e=1767240340",
+                        "720p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=O_bLRdoQg6O-YghyYPt2Ow&e=1767240809",
+                        "360p": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=hZ3bhyiquPJiT-vZx49WbA&e=1767245048"
+                    }
+                },
+                "-element3": {
+                    "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3max.png",
+                    "title": "Bein Sport MAX 3",
+                    "links": {
+                        "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/247704",
+                        "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/125555",
+                        "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/287734" 
+                    }
+                },
+                "-element4": {
+                    "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4max.png",
+                    "title": "Bein Sport MAX 4",
+                    "links": {
+                        "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/247704",
+                        "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/125555",
+                        "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/287734" 
+                    }
+                }
+            }
+        }
+    },
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "الرابط 1": "http://fast.genral2025.forum:8080/ta1.css?token=9a053cc78ba0514584e0d2a72f58c331&ip=41.143.12.171"
+                "الرابط 1": "http://fast.genral2025.sbs:8080/ta1.css?token=148a05c700e505759754b167b8152898&ip=196.127.100.58"
             }
         },
         "tamaniya2": {
             "links": {
-                "الرابط 1": "http://fast.genral2025.cyou:8080/ta2.css?token=9a053cc78ba0514584e0d2a72f58c331&ip=41.143.12.171"
+                "الرابط 1": "http://fast.genral.cfd:8080/ta2.css?token=148a05c700e505759754b167b8152898&ip=196.127.100.58"
             }
         },
         "tamaniya3": {
             "links": {
-                "الرابط 1": "http://fast.genral2025.lol:8080/ta3.css?token=9a053cc78ba0514584e0d2a72f58c331&ip=41.143.12.171"
+                "الرابط 1": "http://fast.genral2025.lol:8080/ta3.css?token=148a05c700e505759754b167b8152898&ip=196.127.100.58"
             }
         }
     },
