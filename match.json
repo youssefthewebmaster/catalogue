@@ -92,17 +92,19 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "الرابط 1": "http://fast.genral2025.sbs:8080/ta1.css?token=148a05c700e505759754b167b8152898&ip=196.127.100.58"
+                "1080p": "http://fast.genral2025.lat:8080/tahd1.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9",
+                "720p": "http://fast.genral2025.lol:8080/ta1.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
             }
         },
         "tamaniya2": {
             "links": {
-                "الرابط 1": "http://fast.genral.cfd:8080/ta2.css?token=148a05c700e505759754b167b8152898&ip=196.127.100.58"
+                "1080p": "http://fast.genral.cfd:8080/tahd2.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9",
+                "720p": "http://fast.genral.cfd:8080/ta2.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
             }
         },
         "tamaniya3": {
             "links": {
-                "الرابط 1": "http://fast.genral2025.lol:8080/ta3.css?token=148a05c700e505759754b167b8152898&ip=196.127.100.58"
+                "الرابط 1": "http://fast.genral.cfd:8080/ta3.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
             }
         }
     },
@@ -131,15 +133,15 @@
         },
         "beinSport3": {
             "links": {
-                "1080p": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=Q32Iwf-JxqkTMfrS13M5bg&e=1767327124",
-                "720p": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=Grc3MsxDlC0SbUFzfe3o5w&e=1767328358"
+                "1080p": "http://fast.genral2025.cfd:8080/ha3.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9",
+                "720p": "http://fast.genral2025.lol:8080/sa3.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
             }
         }
         ,
         "beinSport4": {
             "links": {
-                "1080p": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8?t=gaFbGqw5Urtiz_Q_9kXtQg&e=1767326907",
-                "720p": "http://het129a.ycn-redirect.com/live/9787488847/index.m3u8?t=bnG82rA-kMkrXiv75iuWpA&e=1767329240"
+                "1080p": "http://fast.genral2025.cfd:8080/ha4.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9",
+                "720p": "http://fast.genral2025.click:8080/sa4.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
             }
         },
         "beinSport5": {
