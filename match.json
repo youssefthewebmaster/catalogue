@@ -33,18 +33,18 @@
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
                     "title": "Bein Sport MAX 1",
                     "links": {
-                        "1080p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=b-ToVPTuDJ4Sw7aIKlde6g&e=1767326795",
-                        "720p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=3sn-uRGuQn0UBFc4WWtTeQ&e=1767327008",
-                        "360p": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=OrtLTBgrQotirYu23VVOpg&e=1767326955"
+                        "1080p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=RxR_HhFEAzKmMCii-ps3qg&e=1767456071",
+                        "720p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=aVJqtPuhY4jLjUop0f5IiQ&e=1767456180",
+                        "360p": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=5U2LndHBDd2RODRRnq1-MQ&e=1767456147"
                     }
                 },
                 "element2": {
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png",
                     "title": "Bein Sport MAX 2",
                     "links": {
-                        "1080p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=DBXimsBA5XQD12QIkFgn7w&e=1767326797",
-                        "720p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=rizxuP1R9xgtRrISoqL3fA&e=1767327372",
-                        "360p": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=7rA9dDt0eaKNGXSvXe93FA&e=1767328292"
+                        "1080p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=VhnMwZO7X6YRwYfGrZGbhg&e=1767456084",
+                        "720p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=xxLcF7WlZPp5Jrsjs2znsw&e=1767456139",
+                        "360p": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=SYKrjRknNvXU_Wv4tG3cpA&e=1767457109"
                     }
                 }
             }
@@ -132,16 +132,16 @@
         },
         "beinXtra1": {
             "links": {
-                "1080p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=b-ToVPTuDJ4Sw7aIKlde6g&e=1767326795",
-                "720p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=3sn-uRGuQn0UBFc4WWtTeQ&e=1767327008",
-                "360p": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=OrtLTBgrQotirYu23VVOpg&e=1767326955"
+                "1080p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=RxR_HhFEAzKmMCii-ps3qg&e=1767456071",
+                "720p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=aVJqtPuhY4jLjUop0f5IiQ&e=1767456180",
+                "360p": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=5U2LndHBDd2RODRRnq1-MQ&e=1767456147"
             }
         },
         "beinXtra2": {
             "links": {
-                "1080p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=DBXimsBA5XQD12QIkFgn7w&e=1767326797",
-                "720p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=rizxuP1R9xgtRrISoqL3fA&e=1767327372",
-                "360p": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=7rA9dDt0eaKNGXSvXe93FA&e=1767328292"
+                "1080p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=VhnMwZO7X6YRwYfGrZGbhg&e=1767456084",
+                "720p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=xxLcF7WlZPp5Jrsjs2znsw&e=1767456139",
+                "360p": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=SYKrjRknNvXU_Wv4tG3cpA&e=1767457109"
             }
         },
         "beinXtra3": {
