@@ -10,17 +10,43 @@
     },
     "events": {
         "event1": {
-            "team1": "رايو فايكانو",
-            "team2": "خيتافي",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RayoVallecano.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Getafe.png",
+            "team1": "بورنموث",
+            "team2": "آرسنال",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Bournemouth.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Arsenal.png",
+            "time":"17:30",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
+            "comment": "أحمد البلوشي"
+        },
+        "event2": {
+            "team1": "إلتشي",
+            "team2": "فياريال",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Elche.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Villarreal.png",
+            "time":"17:30",
+            "championName": "الدوري الإسباني",
+            "channelName": "Bein Sport 3",
+            "folder": "beinSport",
+            "link": "beinSport3",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
+            "comment": "عبدالله الغامدي"
+        },
+        "event3": {
+            "team1": "إسبانيول",
+            "team2": "برشلونة",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/EspanyolBarcelona.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Barcelona.png",
             "time":"20:00",
             "championName": "الدوري الإسباني",
-            "channelName": "Bein Sport 2",
+            "channelName": "Bein Sport 1",
             "folder": "beinSport",
-            "link": "beinSport2",
+            "link": "beinSport1",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "نوفل باشي"
+            "comment": "حفيظ دراجي"
         }
     },
     "newEvents": {
