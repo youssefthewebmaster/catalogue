@@ -36,6 +36,19 @@
             "comment": "عبدالله الغامدي"
         },
         "event3": {
+            "team1": "مالي",
+            "team2": "تونس",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Mali.jpg",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Tunisia.jpg",
+            "time":"19:00",
+            "championName": "كأس أمم أفريقيا",
+            "channelName": "Bein Sport MAX 1",
+            "folder": "beinSport",
+            "link": "beinXtra1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
+            "comment": "عصام الشوالي"
+        },
+        "event4": {
             "team1": "إسبانيول",
             "team2": "برشلونة",
             "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/EspanyolBarcelona.png",
