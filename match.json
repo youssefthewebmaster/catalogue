@@ -10,32 +10,45 @@
     },
     "events": {
         "event1": {
-            "team1": "بورنموث",
-            "team2": "آرسنال",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Bournemouth.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Arsenal.png",
-            "time":"17:30",
+            "team1": "ليدز يونايتد",
+            "team2": "مانشستر يونايتد",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/LeedsUnited.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterUnited.png",
+            "time":"12:30",
             "championName": "الدوري الإنجليزي الممتاز",
             "channelName": "Bein Sport 1",
             "folder": "beinSport",
             "link": "beinSport1",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
-            "comment": "أحمد البلوشي"
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
+            "comment": "عبدالله الغامدي"
         },
         "event2": {
-            "team1": "إلتشي",
-            "team2": "فياريال",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Elche.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Villarreal.png",
-            "time":"17:30",
-            "championName": "الدوري الإسباني",
+            "team1": "إيفرتون",
+            "team2": "برينتفورد",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Everton.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Brentford.png",
+            "time":"15:00",
+            "championName": "الدوري الإنجليزي الممتاز",
             "channelName": "Bein Sport 3",
             "folder": "beinSport",
             "link": "beinSport3",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
-            "comment": "عبدالله الغامدي"
+            "comment": "نوفل باشي"
         },
         "event3": {
+            "team1": "فولهام",
+            "team2": "ليفربول",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Fulham.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Liverpool.png",
+            "time":"15:00",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
+            "comment": "حسن العيدروس"
+        },
+        "event4": {
             "team1": "مالي",
             "team2": "تونس",
             "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Mali.jpg",
@@ -48,7 +61,7 @@
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
             "comment": "عصام الشوالي"
         },
-        "event4": {
+        "event5": {
             "team1": "إسبانيول",
             "team2": "برشلونة",
             "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/EspanyolBarcelona.png",
@@ -72,18 +85,18 @@
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
                     "title": "Bein Sport MAX 1",
                     "links": {
-                        "1080p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=RxR_HhFEAzKmMCii-ps3qg&e=1767456071",
-                        "720p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=aVJqtPuhY4jLjUop0f5IiQ&e=1767456180",
-                        "360p": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=5U2LndHBDd2RODRRnq1-MQ&e=1767456147"
+                        "1080p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=8ZKsNHrwJu0eubRyC1R3vw&e=1767499270",
+                        "720p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=vAyjNHWrhZcoeAVPHQpmwA&e=1767499351",
+                        "360p": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=quJuUMgOf-5eTiQ4pBPtJQ&e=1767499384"
                     }
                 },
                 "element2": {
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png",
                     "title": "Bein Sport MAX 2",
                     "links": {
-                        "1080p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=VhnMwZO7X6YRwYfGrZGbhg&e=1767456084",
-                        "720p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=xxLcF7WlZPp5Jrsjs2znsw&e=1767456139",
-                        "360p": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=SYKrjRknNvXU_Wv4tG3cpA&e=1767457109"
+                        "1080p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=cvt4piYOPEv89v1IKhMacA&e=1767499405",
+                        "720p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=oZDJKrX_pD1V7E94nEzUKw&e=1767499371",
+                        "360p": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=kMimAriZO_1OIkb6jfkVhQ&e=1767500381"
                     }
                 }
             }
@@ -121,14 +134,14 @@
         },
         "beinSport1": {
             "links": {
-                "1080p": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=A5E7gSsFDpP8B1CQzV41pA&e=1767456121",
-                "720p": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=gqQ0JotPLRPbr2vrDtyQKw&e=1767456115"
+                "1080p": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=TDZlLYbMDNXBMDGsw88NiQ&e=1767499508",
+                "720p": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=XtqJrBJPCTk2nlwbp3Vi_Q&e=1767499385"
             }
         },
         "beinSport2": {
             "links": {
-                "1080p": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=cbdxfdNgsM6lEG7UQKJUrw&e=1767456060",
-                "720p": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=jhVfSqu2_LUGCDmx94DSEQ&e=1767456471"
+                "1080p": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=kQn0oKMtJSwWx4HtEJlCgw&e=1767499288",
+                "720p": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=I9mZ4riU9exA3h6zwrENag&e=1767499496"
             }
         },
         "beinSport3": {
@@ -146,14 +159,14 @@
         },
         "beinSport5": {
             "links": {
-                "1080p": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=9oCiC0XnfwEtUc__x-1UsQ&e=1767456514",
-                "720p": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=BSJuRXolBv8irtmo1tmOlw&e=1767456205"
+                "1080p": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=MLBSIjvrw0FqReFxXTcVAQ&e=1767499567",
+                "720p": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=Oh1VAq3qzPkCzLg-x7a3PQ&e=1767499646"
             }
         },
         "beinSport6": {
             "links": {
-                "1080p": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=ib99l6i-363R5XtyuAGQdA&e=1767456145",
-                "720p": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=EXlqaoZfHfvlqnJSBnjyJw&e=1767458475"
+                "1080p": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=usH2rcjfcMWtXi2xbZV8hg&e=1767499870",
+                "720p": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=_HC4R0SuIYtL826GViafxQ&e=1767503041"
             }
         },
         "beinSport7": {
@@ -173,16 +186,16 @@
         },
         "beinXtra1": {
             "links": {
-                "1080p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=RxR_HhFEAzKmMCii-ps3qg&e=1767456071",
-                "720p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=aVJqtPuhY4jLjUop0f5IiQ&e=1767456180",
-                "360p": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=5U2LndHBDd2RODRRnq1-MQ&e=1767456147"
+                "1080p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=8ZKsNHrwJu0eubRyC1R3vw&e=1767499270",
+                "720p": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=vAyjNHWrhZcoeAVPHQpmwA&e=1767499351",
+                "360p": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=quJuUMgOf-5eTiQ4pBPtJQ&e=1767499384"
             }
         },
         "beinXtra2": {
             "links": {
-                "1080p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=VhnMwZO7X6YRwYfGrZGbhg&e=1767456084",
-                "720p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=xxLcF7WlZPp5Jrsjs2znsw&e=1767456139",
-                "360p": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=SYKrjRknNvXU_Wv4tG3cpA&e=1767457109"
+                "1080p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=cvt4piYOPEv89v1IKhMacA&e=1767499405",
+                "720p": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=oZDJKrX_pD1V7E94nEzUKw&e=1767499371",
+                "360p": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=kMimAriZO_1OIkb6jfkVhQ&e=1767500381"
             }
         },
         "beinXtra3": {
