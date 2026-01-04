@@ -9,19 +9,6 @@
         "Referer": "https://x.com/"
     },
     "events": {
-        "event1": {
-            "team1": "ليدز يونايتد",
-            "team2": "مانشستر يونايتد",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/LeedsUnited.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterUnited.png",
-            "time":"12:30",
-            "championName": "الدوري الإنجليزي الممتاز",
-            "channelName": "Bein Sport 1",
-            "folder": "beinSport",
-            "link": "beinSport1",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "عبدالله الغامدي"
-        },
         "event2": {
             "team1": "إيفرتون",
             "team2": "برينتفورد",
@@ -87,19 +74,6 @@
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
             "comment": "عصام الشوالي"
         },
-        "event7": {
-            "team1": "إشبيلية",
-            "team2": "ليفانتي",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Sevilla.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Levante.png",
-            "time":"13:00",
-            "championName": "الدوري الإسباني",
-            "channelName": "Bein Sport 6",
-            "folder": "beinSport",
-            "link": "beinSport6",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b6.png",
-            "comment": "محمد السعدي"
-        },
         "event8": {
             "team1": "ريال مدريد",
             "team2": "ريال بيتيس",
@@ -151,6 +125,32 @@
             "link": "beinSport3",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
             "comment": "باسم الزير"
+        },
+        "event12": {
+            "team1": "المغرب",
+            "team2": "تنزانيا",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Maroc.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Tanzania.jpg",
+            "time":"16:00",
+            "championName": "كأس أمم أفريقيا",
+            "channelName": "Bein Sport MAX 1",
+            "folder": "beinSport",
+            "link": "beinXtra1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
+            "comment": "جواد بدة"
+        },
+        "event13": {
+            "team1": "جنوب أفريقيا",
+            "team2": "الكاميرون",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/SouthAfrica.jpg",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Cameroon.png",
+            "time":"19:00",
+            "championName": "كأس أمم أفريقيا",
+            "channelName": "Bein Sport MAX 1",
+            "folder": "beinSport",
+            "link": "beinXtra1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
+            "comment": "حفيظ دراجي"
         }
     },
     "newEvents": {
