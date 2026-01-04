@@ -49,19 +49,45 @@
             "comment": "حسن العيدروس"
         },
         "event4": {
-            "team1": "مالي",
-            "team2": "تونس",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Mali.jpg",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Tunisia.jpg",
-            "time":"19:00",
-            "championName": "كأس أمم أفريقيا",
-            "channelName": "Bein Sport MAX 1",
+            "team1": "نيوكاسل يونايتد",
+            "team2": "كريستال بالاس",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/NewcastleUnited.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/CrystalPalace.png",
+            "time":"15:00",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 4",
             "folder": "beinSport",
-            "link": "beinXtra1",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
-            "comment": "عصام الشوالي"
+            "link": "beinSport4",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png",
+            "comment": "محمد مبروكي"
         },
         "event5": {
+            "team1": "توتنهام هوتسبير",
+            "team2": "سندرلاند",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/TottenhamHotspur.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Sunderland.png",
+            "time":"15:00",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 5",
+            "folder": "beinSport",
+            "link": "beinSport5",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b5.png",
+            "comment": "محمد بركات"
+        },
+        "event6": {
+            "team1": "مانشستر سيتي",
+            "team2": "تشيلسي",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterCity.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Chelsea.png",
+            "time":"17:00",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
+            "comment": "عصام الشوالي"
+        },
+        "event7": {
             "team1": "إسبانيول",
             "team2": "برشلونة",
             "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/EspanyolBarcelona.png",
@@ -105,14 +131,14 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "1080p": "http://fast.genral2025.lat:8080/tahd1.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9",
-                "720p": "http://fast.genral2025.lol:8080/ta1.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
+                "1080p": "http://fast.cinema2.vip:8080/tahd1.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9",
+                "720p": "http://fast.cinema2.vip:8080/ta1.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
             }
         },
         "tamaniya2": {
             "links": {
-                "1080p": "http://fast.genral.cfd:8080/tahd2.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9",
-                "720p": "http://fast.genral.cfd:8080/ta2.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
+                "1080p": "http://fast.genralo.lat:8080/tahd2.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9",
+                "720p": "http://fast.fastes.sbs:8080/ta2.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
             }
         },
         "tamaniya3": {
