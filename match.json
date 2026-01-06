@@ -79,19 +79,18 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "1080p": "http://fast.cinema2.vip:8080/tahd1.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9",
-                "720p": "http://fast.cinema2.vip:8080/ta1.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
+                "الرابط 1": "http://fast.genral.cfd:8080/ta1.css?token=bad7ad209665eb09b9bc7122747c33ea&ip=105.154.1.252"
             }
         },
         "tamaniya2": {
             "links": {
-                "1080p": "http://fast.genralo.lat:8080/tahd2.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9",
-                "720p": "http://fast.fastes.sbs:8080/ta2.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
+                "الرابط 1": "http://fast.genral.cfd:8080/ta2.css?token=bad7ad209665eb09b9bc7122747c33ea&ip=105.154.1.252",
+                "الرابط 2": "http://fast.fastes.sbs:8080/tahd2.css?token=bad7ad209665eb09b9bc7122747c33ea&ip=105.154.1.252"
             }
         },
         "tamaniya3": {
             "links": {
-                "الرابط 1": "http://fast.genral.cfd:8080/ta3.css?token=103284b181abcd4bdde02ac46af81a87&ip=196.117.130.9"
+                "الرابط 1": "http://fast.cinema2.vip:8080/ta3.css?token=bad7ad209665eb09b9bc7122747c33ea&ip=105.154.1.252"
             }
         }
     },
