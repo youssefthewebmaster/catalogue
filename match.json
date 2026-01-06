@@ -10,30 +10,43 @@
     },
     "events": {
         "event1": {
-            "team1": "مصر",
-            "team2": "بنين",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Eygpt.jpg",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Benin.jpg",
+            "team1": "الجزائر",
+            "team2": "الكونغو الديمقراطية",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/algerie.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/CongoDemocratic.jpg",
             "time":"16:00",
             "championName": "كأس أمم أفريقيا",
             "channelName": "Bein Sport MAX 1",
             "folder": "beinSport",
             "link": "beinXtra1",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
-            "comment": "علي محمد علي"
+            "comment": "حفيظ دراجي"
         },
         "event2": {
-            "team1": "نيجيريا",
-            "team2": "موزمبيق",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Nigeria.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Mozambique.png",
+            "team1": "ساحل العاج",
+            "team2": "بوركينا فاسو",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/C%C3%B4ted'Ivoire.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/BurkinaFaso.png",
             "time":"19:00",
             "championName": "كأس أمم أفريقيا",
             "channelName": "Bein Sport MAX 1",
             "folder": "beinSport",
             "link": "beinXtra1",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
-            "comment": "محمد بركات"
+            "comment": "عصام الشوالي"
+        },
+        "event3": {
+            "team1": "وست هام يونايتد",
+            "team2": "نوتينغهام فورست",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/WestHam.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/NotinghamForest.png",
+            "time":"20:00",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
+            "comment": "جواد بدة"
         }
     },
     "newEvents": {
@@ -46,18 +59,18 @@
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
                     "title": "Bein Sport MAX 1",
                     "links": {
-                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=OJ98RPtYqwgT-z-LFm0quQ&e=1767655128",
-                        "الرابط 2": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=i12NF4783xgUYPA59mWbEg&e=1767655129",
-                        "الرابط 3": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=h4dgYca5WreyrcgmsZqDIw&e=1767655129"
+                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=f7Z7ccaQ_YCsv1pKPCvdmA&e=1767689392",
+                        "الرابط 2": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=CxcSNiU8ila31rlM-axu0A&e=1767680362",
+                        "الرابط 3": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=BW_1teaGsRoDeIrGkmiYUQ&e=1767681708"
                     }
                 },
                 "element2": {
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png",
                     "title": "Bein Sport MAX 2",
                     "links": {
-                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=xukC4ln4Yt52ugppdpI2xQ&e=1767655129",
-                        "الرابط 2": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=g85C8UNlF1et0Z-3ZUN8uw&e=1767655133",
-                        "الرابط 3": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=W3KKxsUlsQjgdwZiIwhs-w&e=1767655133"
+                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=M1g5YkJttQiDv8vTuRDBGQ&e=1767680351",
+                        "الرابط 2": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=XBHe7VmbLAc1W_ORvWe41Q&e=1767690006",
+                        "الرابط 3": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=qbrWH2GcuwgKoZFrQ6tbDA&e=1767684453"
                     }
                 }
             }
@@ -101,8 +114,8 @@
         },
         "beinSport2": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=8FyyogDgb-2O9bkJComCvQ&e=1767655149",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=ChJtB61fbfhO6eP3fviEXg&e=1767655144"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=G2hDn_e8R1lTGrZeKbykdA&e=1767680334",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=OftcHS0Zd5zA2gYJCYboqg&e=1767680303"
             }
         },
         "beinSport3": {
@@ -120,13 +133,13 @@
         },
         "beinSport5": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=8G2TRLjXezrtQO2Iwpz3WA&e=1767655134",
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=YKjs03wQBUWiU53yqDU4FQ&e=1767680843",
                 "الرابط 2": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=jL5gNNr970ZcNn0lZTBTdQ&e=1767655139"
             }
         },
         "beinSport6": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=hHdmQaL2agjM1p3QJ-BkzQ&e=1767655209",
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=UkGPfvZf2hL7gbz_B-TPcQ&e=1767689591",
                 "الرابط 2": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=3rIzcH2nM64qf3LJ4Y_nsQ&e=1767655188"
             }
         },
@@ -150,16 +163,16 @@
         },
         "beinXtra1": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=OJ98RPtYqwgT-z-LFm0quQ&e=1767655128",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=i12NF4783xgUYPA59mWbEg&e=1767655129",
-                "الرابط 3": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=h4dgYca5WreyrcgmsZqDIw&e=1767655129"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=f7Z7ccaQ_YCsv1pKPCvdmA&e=1767689392",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=CxcSNiU8ila31rlM-axu0A&e=1767680362",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=BW_1teaGsRoDeIrGkmiYUQ&e=1767681708"
             }
         },
         "beinXtra2": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=xukC4ln4Yt52ugppdpI2xQ&e=1767655129",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=g85C8UNlF1et0Z-3ZUN8uw&e=1767655133",
-                "الرابط 3": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=W3KKxsUlsQjgdwZiIwhs-w&e=1767655133"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=M1g5YkJttQiDv8vTuRDBGQ&e=1767680351",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=XBHe7VmbLAc1W_ORvWe41Q&e=1767690006",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=qbrWH2GcuwgKoZFrQ6tbDA&e=1767684453"
             }
         },
         "beinXtra3": {
