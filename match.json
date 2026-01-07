@@ -20,7 +20,7 @@
             "folder": "tamaniya",
             "link": "tamaniya1",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/tamaniya1.png",
-            "comment": "حفيظ دراجي"
+            "comment": "فهد العتيبي"
         },
         "event2": {
             "team1": "بورنموث",
@@ -33,7 +33,7 @@
             "folder": "beinSport",
             "link": "beinSport8",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b8.png",
-            "comment": "حفيظ دراجي"
+            "comment": "عصام الشوالي"
         },
         "event3": {
             "team1": "كريستال بالاس",
@@ -46,7 +46,7 @@
             "folder": "beinSport",
             "link": "beinSport5",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b5.png",
-            "comment": "حفيظ دراجي"
+            "comment": "نوفل باشي"
         },
         "event4": {
             "team1": "برينتفورد",
@@ -59,7 +59,7 @@
             "folder": "beinSport",
             "link": "beinSport7",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b7.png",
-            "comment": "حفيظ دراجي"
+            "comment": "باسم الزير"
         },
         "event5": {
             "team1": "إيفرتون",
@@ -72,7 +72,7 @@
             "folder": "beinSport",
             "link": "beinSport4",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png",
-            "comment": "حفيظ دراجي"
+            "comment": "أحمد عبده"
         },
         "event6": {
             "team1": "فولهام",
@@ -85,7 +85,7 @@
             "folder": "beinSport",
             "link": "beinSport3",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
-            "comment": "حفيظ دراجي"
+            "comment": "علي محمد علي"
         },
         "event7": {
             "team1": "مانشستر سيتي",
@@ -111,7 +111,7 @@
             "folder": "beinSport",
             "link": "beinSport2",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
-            "comment": "حفيظ دراجي"
+            "comment": "علي الكعبي"
         },
         "event9": {
             "team1": "نيوكاسل يونايتد",
@@ -124,7 +124,7 @@
             "folder": "beinSport",
             "link": "beinSport6",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b6.png",
-            "comment": "حفيظ دراجي"
+            "comment": "جواد بدة"
         }
     },
     "newEvents": {
