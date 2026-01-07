@@ -137,16 +137,18 @@
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
                     "title": "Bein Sport MAX 1",
                     "links": {
-                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=H61ZFVqT2JYMt7cuIRzL3g&e=1767766795"
+                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=HBtbAWeCnks_lwhhqneIJA&e=1767812228",
+                        "الرابط 2": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=B78roPOdlRlOFaJkGr1qqw&e=1767812228",
+                        "الرابط 3": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=vBde2pkpd6B4nuwTE1dHhQ&e=1767812239"
                     }
                 },
                 "element2": {
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png",
                     "title": "Bein Sport MAX 2",
                     "links": {
-                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=xQa5e-TE7WP8q0eymknpMA&e=1767723530",
-                        "الرابط 2": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=kwW_JSCRhLBdi-P5rHUrXQ&e=1767724645",
-                        "الرابط 3": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=PLazxTtst44NfXzL_YU4cQ&e=1767728070"
+                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=HRv8XVZh5a-cu-_y4r-j0g&e=1767812229",
+                        "الرابط 2": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=CV8krYpkHZUZgLiEfjSbAw&e=1767812250",
+                        "الرابط 3": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=hidrjp0naQ-9BMSv6CTOwQ&e=1767812540"
                     }
                 }
             }
@@ -252,14 +254,16 @@
         },
         "beinXtra1": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=H61ZFVqT2JYMt7cuIRzL3g&e=1767766795"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=HBtbAWeCnks_lwhhqneIJA&e=1767812228",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=B78roPOdlRlOFaJkGr1qqw&e=1767812228",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=vBde2pkpd6B4nuwTE1dHhQ&e=1767812239"
             }
         },
         "beinXtra2": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=xQa5e-TE7WP8q0eymknpMA&e=1767723530",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=kwW_JSCRhLBdi-P5rHUrXQ&e=1767724645",
-                "الرابط 3": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=PLazxTtst44NfXzL_YU4cQ&e=1767728070"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=HRv8XVZh5a-cu-_y4r-j0g&e=1767812229",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=CV8krYpkHZUZgLiEfjSbAw&e=1767812250",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=hidrjp0naQ-9BMSv6CTOwQ&e=1767812540"
             }
         },
         "beinXtra3": {
