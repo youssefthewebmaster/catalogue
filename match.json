@@ -10,43 +10,121 @@
     },
     "events": {
         "event1": {
-            "team1": "الجزائر",
-            "team2": "الكونغو الديمقراطية",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/algerie.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/CongoDemocratic.jpg",
-            "time":"16:00",
-            "championName": "كأس أمم أفريقيا",
-            "channelName": "Bein Sport MAX 1",
-            "folder": "beinSport",
-            "link": "beinXtra1",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
+            "team1": "برشلونة",
+            "team2": "أتلتيك بيلباو",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Barcelona.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/AtleticBelbao.png",
+            "time":"19:00",
+            "championName": "كأس السوبر الإسباني",
+            "channelName": "1 قناة ثمانية",
+            "folder": "tamaniya",
+            "link": "tamaniya1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/tamaniya1.png",
             "comment": "حفيظ دراجي"
         },
         "event2": {
-            "team1": "ساحل العاج",
-            "team2": "بوركينا فاسو",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/C%C3%B4ted'Ivoire.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/BurkinaFaso.png",
-            "time":"19:00",
-            "championName": "كأس أمم أفريقيا",
-            "channelName": "Bein Sport MAX 1",
+            "team1": "بورنموث",
+            "team2": "توتنهام هوتسبير",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Bournemouth.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/TottenhamHotspur.png",
+            "time":"19:30",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 8",
             "folder": "beinSport",
-            "link": "beinXtra1",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
-            "comment": "عصام الشوالي"
+            "link": "beinSport8",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b8.png",
+            "comment": "حفيظ دراجي"
         },
         "event3": {
-            "team1": "وست هام يونايتد",
-            "team2": "نوتينغهام فورست",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/WestHam.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/NotinghamForest.png",
-            "time":"20:00",
+            "team1": "كريستال بالاس",
+            "team2": "أستون فيلا",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/CrystalPalace.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/AstonVilla.png",
+            "time":"19:30",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 5",
+            "folder": "beinSport",
+            "link": "beinSport5",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b5.png",
+            "comment": "حفيظ دراجي"
+        },
+        "event4": {
+            "team1": "برينتفورد",
+            "team2": "سندرلاند",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Brentford.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Sunderland.png",
+            "time":"19:30",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 7",
+            "folder": "beinSport",
+            "link": "beinSport7",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b7.png",
+            "comment": "حفيظ دراجي"
+        },
+        "event5": {
+            "team1": "إيفرتون",
+            "team2": "وولفرهامبتون",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Everton.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Wolverhampton.png",
+            "time":"19:30",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 4",
+            "folder": "beinSport",
+            "link": "beinSport4",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png",
+            "comment": "حفيظ دراجي"
+        },
+        "event6": {
+            "team1": "فولهام",
+            "team2": "تشيلسي",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Fulham.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Chelsea.png",
+            "time":"19:30",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 3",
+            "folder": "beinSport",
+            "link": "beinSport3",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
+            "comment": "حفيظ دراجي"
+        },
+        "event7": {
+            "team1": "مانشستر سيتي",
+            "team2": "برايتون أند هوف ألبيون",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterCity.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/BrightonHove.png",
+            "time":"19:30",
             "championName": "الدوري الإنجليزي الممتاز",
             "channelName": "Bein Sport 1",
             "folder": "beinSport",
             "link": "beinSport1",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "جواد بدة"
+            "comment": "حفيظ دراجي"
+        },
+        "event8": {
+            "team1": "بيرنلي",
+            "team2": "مانشستر يونايتد",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Burnley.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterUnited.png",
+            "time":"20:15",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 2",
+            "folder": "beinSport",
+            "link": "beinSport2",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
+            "comment": "حفيظ دراجي"
+        },
+        "event9": {
+            "team1": "نيوكاسل يونايتد",
+            "team2": "ليدز يونايتد",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/NewcastleUnited.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/LeedsUnited.png",
+            "time":"20:15",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 6",
+            "folder": "beinSport",
+            "link": "beinSport6",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b6.png",
+            "comment": "حفيظ دراجي"
         }
     },
     "newEvents": {
@@ -59,9 +137,7 @@
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
                     "title": "Bein Sport MAX 1",
                     "links": {
-                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=IyNIXGxrk7mAjoWh9nC21A&e=1767723520",
-                        "الرابط 2": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=ay_vtX6GGCUMs3brCxC1BA&e=1767723922",
-                        "الرابط 3": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=dxIpDvt0byRhFFXnlCAfyw&e=1767723787"
+                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=H61ZFVqT2JYMt7cuIRzL3g&e=1767766795"
                     }
                 },
                 "element2": {
@@ -79,18 +155,17 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "الرابط 1": "http://fast.genral.cfd:8080/ta1.css?token=bad7ad209665eb09b9bc7122747c33ea&ip=105.154.1.252"
+                "الرابط 1": "http://fast.genral.cfd:8080/ta1.css?token=1c78c89151fb44dfe6819f5e5617e3ff&ip=196.127.132.117"
             }
         },
         "tamaniya2": {
             "links": {
-                "الرابط 1": "http://fast.genral.cfd:8080/ta2.css?token=bad7ad209665eb09b9bc7122747c33ea&ip=105.154.1.252",
-                "الرابط 2": "http://fast.fastes.sbs:8080/tahd2.css?token=bad7ad209665eb09b9bc7122747c33ea&ip=105.154.1.252"
+                "الرابط 1": "http://fast.genral2025.sbs:8080/ta2.css?token=1c78c89151fb44dfe6819f5e5617e3ff&ip=196.127.132.117"
             }
         },
         "tamaniya3": {
             "links": {
-                "الرابط 1": "http://fast.cinema2.vip:8080/ta3.css?token=bad7ad209665eb09b9bc7122747c33ea&ip=105.154.1.252"
+                "الرابط 1": "http://fast.genral2025.lat:8080/ta3.css?token=1c78c89151fb44dfe6819f5e5617e3ff&ip=196.127.132.117"
             }
         }
     },
@@ -107,38 +182,33 @@
         },
         "beinSport1": {
             "links": {
-                "الرابط 1": "http://fast.cinema2.vip:8080/sa1.css?token=bad7ad209665eb09b9bc7122747c33ea&ip=105.154.1.252"
+                "الرابط 1": "http://fast.genral.cfd:8080/sa1.css?token=1c78c89151fb44dfe6819f5e5617e3ff&ip=196.127.132.117"
             }
         },
         "beinSport2": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=G2hDn_e8R1lTGrZeKbykdA&e=1767680334",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=OftcHS0Zd5zA2gYJCYboqg&e=1767680303"
+                "الرابط 1": "http://fast.genral2025.lat:8080/sa2.css?token=1c78c89151fb44dfe6819f5e5617e3ff&ip=196.127.132.117"
             }
         },
         "beinSport3": {
             "links": {
-                "الرابط 1": "http://fast.genral2025.sbs:8080/sa3.css?token=bad7ad209665eb09b9bc7122747c33ea&ip=105.154.1.252",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=t4DCx-yemJUhcP4-BdgKfw&e=1767655129"
+                "الرابط 1": "http://fast.genralo.lat:8080/sa3.css?token=1c78c89151fb44dfe6819f5e5617e3ff&ip=196.127.132.117"
             }
         }
         ,
         "beinSport4": {
             "links": {
-                "الرابط 1": "http://fast.cinema2.vip:8080/sa4.css?token=bad7ad209665eb09b9bc7122747c33ea&ip=105.154.1.252",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8?t=LDWwE3uE5VzpB4U8tkC7hw&e=1767655177"
+                "الرابط 1": "http://fast.genral2025.click:8080/sa4.css?token=1c78c89151fb44dfe6819f5e5617e3ff&ip=196.127.132.117"
             }
         },
         "beinSport5": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=YKjs03wQBUWiU53yqDU4FQ&e=1767680843",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=jL5gNNr970ZcNn0lZTBTdQ&e=1767655139"
+                "الرابط 1": "http://fast.genral2025.cfd:8080/sa5.css?token=1c78c89151fb44dfe6819f5e5617e3ff&ip=196.127.132.117"
             }
         },
         "beinSport6": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=UkGPfvZf2hL7gbz_B-TPcQ&e=1767689591",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=3rIzcH2nM64qf3LJ4Y_nsQ&e=1767655188"
+                "الرابط 1": "http://fast.genral.xyz:8080/sa6.css?token=1c78c89151fb44dfe6819f5e5617e3ff&ip=196.127.132.117"
             }
         },
         "beinSport7": {
@@ -161,9 +231,7 @@
         },
         "beinXtra1": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=IyNIXGxrk7mAjoWh9nC21A&e=1767723520",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=ay_vtX6GGCUMs3brCxC1BA&e=1767723922",
-                "الرابط 3": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=dxIpDvt0byRhFFXnlCAfyw&e=1767723787"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=H61ZFVqT2JYMt7cuIRzL3g&e=1767766795"
             }
         },
         "beinXtra2": {
