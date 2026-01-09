@@ -10,30 +10,43 @@
     },
     "events": {
         "event1": {
-            "team1": "أتلتيكو مدريد",
-            "team2": "ريال مدريد",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/AtleticMadrid.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RealMadrid.png",
-            "time":"19:00",
-            "championName": "كأس السوبر الإسباني",
-            "channelName": "1 قناة ثمانية",
-            "folder": "tamaniya",
-            "link": "tamaniya1",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/tamaniya1.png",
-            "comment": "فهد العتيبي"
+            "team1": "مالي",
+            "team2": "السنغال",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Mali.jpg",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Sinigal.png",
+            "time":"16:00",
+            "championName": "كأس أمم أفريقيا",
+            "channelName": "Bein Sport MAX 1",
+            "folder": "beinSport",
+            "link": "beinXtra1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
+            "comment": "عصام الشوالي"
         },
         "event2": {
-            "team1": "آرسنال",
-            "team2": "ليفربول",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Arsenal.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Liverpool.png",
+            "team1": "الكاميرون",
+            "team2": "المغرب",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Cameroon.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Maroc.png",
+            "time":"19:00",
+            "championName": "كأس أمم أفريقيا",
+            "channelName": "Bein Sport MAX 1",
+            "folder": "beinSport",
+            "link": "beinXtra1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
+            "comment": "جواد بدة"
+        },
+        "event3": {
+            "team1": "خيتافي",
+            "team2": "ريال سوسييداد",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Getafe.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RealSociedad.png",
             "time":"20:00",
-            "championName": "الدوري الإنجليزي الممتاز",
+            "championName": "الدوري الإسباني",
             "channelName": "Bein Sport 1",
             "folder": "beinSport",
             "link": "beinSport1",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "علي الكعبي"
+            "comment": "محمد بركات"
         }
     },
     "newEvents": {
