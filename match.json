@@ -171,25 +171,26 @@
             "links": {
                 "الرابط 1": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=fPbTf5ZP-aqWvGnEzviTcw&e=1767812252",
                 "الرابط 2": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=NOov9IUCjyIEc-eUPtsRbA&e=1767812380",
-                "الرابط 3": "http://fast.genral2025.sbs:8080/sa2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "الرابط 4": "http://fast.genralo.lat:8080/ha2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+                "الرابط 3": "https://s2.news-api-gen.lol/b2_480/tracks-v1/mono.m3u8?remote=196.117.207.217&token=d063502f8c8f48308c1bec1e7c549cc46a43e9aa-b4be4d13e3b8d8189d5cae466f1819d6-1768147920-1768137120",
+                "الرابط 4": "http://fast.genral2025.sbs:8080/sa2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 5": "http://fast.genralo.lat:8080/ha2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
             }
         },
         "beinSport3": {
             "links": {
-                "1080p": "http://fast.genral2025.lat:8080/ha3.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "480p": "http://fast.genral2025.lol:8080/sa3.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "360p": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=cmiK0PVlH88Sek59FuaEnA&e=1767812230",
-                "288p": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=Gren2t5hlo0ALkdRdvfACQ&e=1767812266"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=cmiK0PVlH88Sek59FuaEnA&e=1767812230",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=Gren2t5hlo0ALkdRdvfACQ&e=1767812266",
+                "الرابط 3": "http://fast.genral2025.lat:8080/ha3.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 4": "http://fast.genral2025.lol:8080/sa3.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
             }
         }
         ,
         "beinSport4": {
             "links": {
-                "1080p": "http://fast.genral2025.cfd:8080/ha4.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "480p": "http://fast.genral.xyz:8080/sa4.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "360p": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8?t=pnMuX7HpncjFaOvuEaEFsw&e=1767812237",
-                "288p": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8?t=4qdtrtd-k2j7-e1bIogl1g&e=1767812228"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8?t=pnMuX7HpncjFaOvuEaEFsw&e=1767812237",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8?t=4qdtrtd-k2j7-e1bIogl1g&e=1767812228",
+                "الرابط 3": "http://fast.genral2025.cfd:8080/ha4.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 4": "http://fast.genral.xyz:8080/sa4.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
             }
         },
         "beinSport5": {
