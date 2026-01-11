@@ -12,8 +12,8 @@
         "event1": {
             "team1": "ديربي كاونتي",
             "team2": "ليدز يونايتد",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Everton.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Sunderland.png",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/DerbyCounty.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/LeedsUnited.png",
             "time":"12:00",
             "championName": "كأس الاتحاد الإنجليزي",
             "channelName": "Bein Sport 2",
@@ -25,8 +25,8 @@
         "event2": {
             "team1": "رايو فايكانو",
             "team2": "ريال مايوركا",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RealOviedo.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Betis.png",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RayoVallecano.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Mallorca.png",
             "time":"13:00",
             "championName": "الدوري الإسباني",
             "channelName": "Bein Sport 3",
@@ -38,8 +38,8 @@
         "event3": {
             "team1": "بورتسموث",
             "team2": "آرسنال",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Everton.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Sunderland.png",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/PortsMouth.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Arsenal.png",
             "time":"14:00",
             "championName": "كأس الاتحاد الإنجليزي",
             "channelName": "Bein Sport 1",
@@ -51,8 +51,8 @@
         "event4": {
             "team1": "وست هام يونايتد",
             "team2": "كوينز بارك رينجرز",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Everton.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Sunderland.png",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/WestHam.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/QueensParkRangers.png",
             "time":"14:30",
             "championName": "كأس الاتحاد الإنجليزي",
             "channelName": "Bein Sport 2",
@@ -64,8 +64,8 @@
         "event5": {
             "team1": "ليفانتي",
             "team2": "إسبانيول",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RealOviedo.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Betis.png",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Levante.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/EspanyolBarcelona.png",
             "time":"15:15",
             "championName": "الدوري الإسباني",
             "channelName": "Bein Sport 3",
@@ -77,8 +77,8 @@
         "event6": {
             "team1": "مانشستر يونايتد",
             "team2": "برايتون أند هوف ألبيون",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Everton.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Sunderland.png",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterUnited.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/BrightonHove.png",
             "time":"16:30",
             "championName": "كأس الاتحاد الإنجليزي",
             "channelName": "Bein Sport 1",
@@ -90,8 +90,8 @@
         "event7": {
             "team1": "برشلونة",
             "team2": "ريال مدريد",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RealOviedo.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Betis.png",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Barcelona.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RealMadrid.png",
             "time":"19:00",
             "championName": "الدوري الإسباني",
             "channelName": "منصة ثمانية",
@@ -100,7 +100,6 @@
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/tamaniya1.png",
             "comment": "فارس عوض"
         }
-        
     },
     "newEvents": {
         "main": {
