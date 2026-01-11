@@ -137,8 +137,8 @@
         },
         "tamaniya2": {
             "links": {
-                "480p": "http://fast.genral2025.click:8080/ta2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "1080p": "http://fast.genral2025.click:8080/tahd2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+                "1080p": "http://fast.genral2025.click:8080/tahd2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "480p": "http://fast.genral2025.click:8080/ta2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
             }
         },
         "tamaniya3": {
@@ -281,7 +281,7 @@
     "beinEntertainment": {
         "beinMoviesPremiere": {
             "links": {
-                "الرابط 1": "http://apk.arabic-ch.space/live/079/index.m3u8?t=749nKVcguRJsek-h_PO2Xw&e=1767069201"
+                "الرابط 1": "https://bein_movies/tracks-v1a1/2026/01/11/16/19/40-10000.ts?token=b07bd35dd523947309f5b114c2a7a8d7697872c9-9a97f022f6b254bfc172acb7d52aa5d7-1768158856-1768148056"
             }
         },
         "beinBoxOffice1": {
