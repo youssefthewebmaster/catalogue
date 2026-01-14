@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mercredi 14 Janvier 2026",
+      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/615393787_759022150578393_4577112818596513564_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzgwOTI5Njk4OTQ4MTQxMTEwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=iAhV8wu1BugQ7kNvwHbTv8W&_nc_oc=AdmOHD53BgvPAVutrmcf1xV8MIDAh8tJM0g4Mgz-kQPzokva-OKbEe7MfKPoU1GKAbc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=5sryQwoWFXNV5p8Naif4ZQ&oh=00_AfqW-QnFHELmxa2D5Ys8b4VGcCqYM3ZdKSBwJyLkjdYX9w&oe=696D3BE0",
+      "link": "kazyon1"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "Offre de Mardi 13 Janvier 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20janvier%202026-1.jpg",
       "link": "bim2"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 13 Janvier 2026",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/615119161_759019407245334_3416640780355253779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgwODU3MjMzNDAzNTIzNjc0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=OJYEp1EqDOAQ7kNvwFkFUq1&_nc_oc=AdkA8rJjlAOYRFHr-BndBHXHNzYzyrsuO8QzcNuJ2i_eBhqlgYW2pPdmCDJ_Us3-UwE&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LeHcnKB216mcf0Ix6fQ59Q&oh=00_AfpARklkKZrqUwx3o6f8h0hUmsiRid0ugCoLz-wbNMFVhQ&oe=696B25D7",
-      "link": "kazyon1"
     },
     "new3": {
       "title": "Aswak Assalam",
@@ -76,10 +76,10 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/615119161_759019407245334_3416640780355253779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgwODU3MjMzNDAzNTIzNjc0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=OJYEp1EqDOAQ7kNvwFkFUq1&_nc_oc=AdkA8rJjlAOYRFHr-BndBHXHNzYzyrsuO8QzcNuJ2i_eBhqlgYW2pPdmCDJ_Us3-UwE&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LeHcnKB216mcf0Ix6fQ59Q&oh=00_AfpARklkKZrqUwx3o6f8h0hUmsiRid0ugCoLz-wbNMFVhQ&oe=696B25D7",
-    "date": "Offre de Mardi 13 Janvier 2026",
+    "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/615393787_759022150578393_4577112818596513564_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzgwOTI5Njk4OTQ4MTQxMTEwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=iAhV8wu1BugQ7kNvwHbTv8W&_nc_oc=AdmOHD53BgvPAVutrmcf1xV8MIDAh8tJM0g4Mgz-kQPzokva-OKbEe7MfKPoU1GKAbc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=5sryQwoWFXNV5p8Naif4ZQ&oh=00_AfqW-QnFHELmxa2D5Ys8b4VGcCqYM3ZdKSBwJyLkjdYX9w&oe=696D3BE0",
+    "date": "Offre de Mercredi 14 Janvier 2026",
     "images": [
-      "https://scontent.cdninstagram.com/v/t39.30808-6/615119161_759019407245334_3416640780355253779_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgwODU3MjMzNDAzNTIzNjc0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=OJYEp1EqDOAQ7kNvwFkFUq1&_nc_oc=AdkA8rJjlAOYRFHr-BndBHXHNzYzyrsuO8QzcNuJ2i_eBhqlgYW2pPdmCDJ_Us3-UwE&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LeHcnKB216mcf0Ix6fQ59Q&oh=00_AfpARklkKZrqUwx3o6f8h0hUmsiRid0ugCoLz-wbNMFVhQ&oe=696B25D7"
+      "https://scontent.cdninstagram.com/v/t39.30808-6/615393787_759022150578393_4577112818596513564_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzgwOTI5Njk4OTQ4MTQxMTEwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=iAhV8wu1BugQ7kNvwHbTv8W&_nc_oc=AdmOHD53BgvPAVutrmcf1xV8MIDAh8tJM0g4Mgz-kQPzokva-OKbEe7MfKPoU1GKAbc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=5sryQwoWFXNV5p8Naif4ZQ&oh=00_AfqW-QnFHELmxa2D5Ys8b4VGcCqYM3ZdKSBwJyLkjdYX9w&oe=696D3BE0"
     ]
   },
   "bims": {
