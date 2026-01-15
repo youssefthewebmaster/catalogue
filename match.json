@@ -8,15 +8,28 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
         "Referer": "https://x.com/"
     },
-    "linkConfig": {
-    "rules": [
-      { "keyword": "bein_movies", "targetDomain": "https://s1.news-api-gen.lol/beIN_MOVIES" },
-      { "keyword": "bein_movies_2", "targetDomain": "https://s1.news-api-gen.lol/beIN_MOVIES_2" },
-      { "keyword": "jeem", "targetDomain": "https://s3.news-api-gen.lol/jeem" },
-      { "keyword": "bein_", "targetDomain": "https://s1.news-api-gen.lol/beIN_" },
-      { "keyword": "/bein", "targetDomain": "https://s1.news-api-gen.lol/beIN" }
-    ]
-  },
+    "specialDomains": {
+        "s1.news-api-gen.lol": {
+            "patterns": ["bein_movies", "bein_movies_2", "/beIN_MOVIES", "/beIN_MOVIES_2"],
+            "headers": {
+                "User-Agent": "GGGGGGGG_DEV2025",
+                "Referer": "https://s1.news-api-gen.lol/",
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Cache-Control": "no-cache"
+            }
+        },
+        "s3.news-api-gen.lol": {
+            "patterns": ["jeem", "/jeem"],
+            "headers": {
+                "User-Agent": "GGGGGGGG_DEV2025",
+                "Referer": "https://s3.news-api-gen.lol/",
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Cache-Control": "no-cache"
+            }
+        }
+    },
     "newEvents": {
         "main": {
             "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Afrique%20coupe.png",
