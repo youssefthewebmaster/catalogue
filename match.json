@@ -8,47 +8,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
         "Referer": "https://x.com/"
     },
-    "events": {
-        "event1": {
-            "team1": "السنغال",
-            "team2": "مصر",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Sinigal.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Eygpt.jpg",
-            "time":"17:00",
-            "championName": "كأس أمم أفريقيا",
-            "channelName": "Bein Sport MAX 1",
-            "folder": "beinSport",
-            "link": "beinXtra2",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
-            "comment": "علي محمد علي"
-        },
-        "event2": {
-            "team1": "نيجيريا",
-            "team2": "المغرب",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Nigeria.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Maroc.png",
-            "time":"20:00",
-            "championName": "كأس أمم أفريقيا",
-            "channelName": "Bein Sport MAX 1",
-            "folder": "beinSport",
-            "link": "beinXtra2",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
-            "comment": "جواد بدة"
-        },
-        "event3": {
-            "team1": "تشيلسي",
-            "team2": "آرسنال",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Chelsea.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Arsenal.png",
-            "time":"20:00",
-            "championName": "كأس الرابطة الإنجليزية",
-            "channelName": "Bein Sport 1",
-            "folder": "beinSport",
-            "link": "beinSport1",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "حسن العيدروس"
-        }
-    },
     "newEvents": {
         "main": {
             "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Afrique%20coupe.png",
