@@ -20,7 +20,7 @@
             }
         },
         "s3.news-api-gen.lol": {
-            "patterns": ["jeem", "/jeem"],
+            "patterns": ["jeem"],
             "headers": {
                 "User-Agent": "GGGGGGGG_DEV2025",
                 "Referer": "https://s3.news-api-gen.lol/",
