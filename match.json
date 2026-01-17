@@ -31,32 +31,6 @@
         }
     },
     "events": {
-        "event1": {
-            "team1": "مانشستر يونايتد",
-            "team2": "مانشستر سيتي",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterUnited.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterCity.png",
-            "time":"12:30",
-            "championName": "الدوري الإنجليزي الممتاز",
-            "channelName": "Bein Sport 1",
-            "folder": "beinSport",
-            "link": "beinSport1",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "حفيظ دراجي"
-        },
-        "event2": {
-            "team1": "ريال مدريد",
-            "team2": "ليفانتي",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RealMadrid.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Levante.png",
-            "time":"13:00",
-            "championName": "الدوري الإسباني",
-            "channelName": "Bein Sport 2",
-            "folder": "beinSport",
-            "link": "beinSport2",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
-            "comment": "عصام الشوالي"
-        },
         "event3": {
             "team1": "تشيلسي",
             "team2": "برينتفورد",
@@ -222,14 +196,12 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "الرابط 1": "http://cyou.genral2025.cyou:8080/ta1.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "الرابط 2": "http://cyou.genral2025.lat:8080/tahd1.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+                "الرابط 1": "http://cyou.genral2025.cyou:8080/ta1.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
             }
         },
         "tamaniya2": {
             "links": {
-                "الرابط 1": "http://cyou.genral.cfd:8080/ta2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "الرابط 2": "http://cyou.genral.cfd:8080/ta2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+                "الرابط 1": "http://cyou.genral.cfd:8080/ta2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
             }
         },
         "tamaniya3": {
