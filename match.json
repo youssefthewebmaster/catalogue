@@ -10,7 +10,7 @@
     },
     "specialDomains": {
         "s1.news-api-gen.lol": {
-            "patterns": ["bein_movies", "bein_movies_2", "fatafeat"],
+            "patterns": ["bein_movies", "bein_movies_2", "fatafeat", "gorment"],
             "headers": {
                 "User-Agent": "GGGGGGGG_DEV2025",
                 "Referer": "https://s1.news-api-gen.lol/",
