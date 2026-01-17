@@ -28,7 +28,16 @@
                 "Connection": "keep-alive",
                 "Cache-Control": "no-cache"
             }
+        },
+         "shd-mediacdn-live.edgenextcdn.net": {
+        "patterns": ["bitmovin-mbc-2"],
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/",
+            "Accept-Encoding": "gzip",
+            "Connection": "Keep-Alive",
+            "Accept": "*/*"
         }
+    }
     },
     "events": {
         "event3": {
@@ -180,7 +189,7 @@
                         "الرابط 6": "https://jeem/index.m3u8?token=f0c6c1f00302b3ea49557e14e714b001254f9214-4eead3a09ab18e13aa2b7233e0048176-1768692910-1768682110&remote=196.117.207.217",
                         "الرابط 7": "https://fatafeat/index.m3u8?token=71e571d591c433e3713f85b41da3d08cfe05f017-9fa38c59293be126ff933a9be2908201-1768692943-1768682143&remote=196.117.207.217",
                         "الرابط 8": "https://gorment/index.m3u8?token=c7110703e56ac34cb28fcd832e7d54678005cdc1-1a3e8fe011b0b0afdf715e22ed8f7768-1768692960-1768682160&remote=196.117.207.217/GORMENT/index.m3u8?token=7fcae9608d1a353cd10a05f45abc19a80189e7d0-393109a9494afa9fa9108a7ea9d8ed12-1768692960-1768682160&remote=196.117.207.217",
-                        "الرابط 9": "https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/video/1080p2400kbps/segment_EJWkvWc40r_458856.m4s"
+                        "الرابط 9": "https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264"
                     }
                 },
                 "element2": {
