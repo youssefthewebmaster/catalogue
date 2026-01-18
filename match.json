@@ -10,7 +10,7 @@
     },
     "specialDomains": {
         "s1.news-api-gen.lol": {
-            "patterns": ["bein_movies", "bein_movies_2", "fatafeat", "gorment", "bein_drama"],
+            "patterns": ["bein_movies", "bein_movies_2", "bein_movies_3", "bein_movies_4", "bein_box_office1", "bein_box_office2", "bein_series_1", "bein_series_2", "fatafeat", "gorment"],
             "headers": {
                 "User-Agent": "GGGGGGGG_DEV2025",
                 "Referer": "https://s1.news-api-gen.lol/",
@@ -27,15 +27,6 @@
                 "Accept": "*/*",
                 "Connection": "keep-alive",
                 "Cache-Control": "no-cache"
-            }
-        },
-        "shd-mediacdn-live.edgenextcdn.net": {
-            "patterns": [],
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; Win64; x64) AppleWebKit/ (KHTML, like Gecko) Chrome/",
-                "Accept-Encoding": "gzip",
-                "Host": "shd-mediacdn-live.edgenextcdn.net",
-                "Connection": "Keep-Alive"
             }
         }
     },
@@ -145,12 +136,12 @@
                         "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=HBtbAWeCnks_lwhhqneIJA&e=1767812228",
                         "الرابط 2": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=B78roPOdlRlOFaJkGr1qqw&e=1767812228",
                         "الرابط 3": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=vBde2pkpd6B4nuwTE1dHhQ&e=1767812239",
-                        "الرابط 4": "https://bein_movies/index.m3u8?token=72de4ba0c387a6f04f1e8905d6fb2b5e457b75e7-16623d2eeccf6f8f31a8614b2f2460db-1768760602-1768749802&remote=196.117.207.217/beIN_MOVIES/index.m3u8?token=ce250e70641ef95989083386437a13171bd66ce9-05d2ec02dbed4523bc34df06c7af3c09-1768760602-1768749802&remote=196.117.207.217",
-                        "الرابط 5": "https://bein_movies_2/index.m3u8?token=9648f2f637d8f936b62da184ad2a765cbc8a48de-362210d0d415bafdfd384e9ffcab9273-1768760631-1768749831&remote=196.117.207.217/beIN_MOVIES_2/index.m3u8?token=496e6db13fc342c0027e5cd52cb7c1c45b59a17f-9a31e4c7d396b71142b18ec1dc9a288a-1768760631-1768749831&remote=196.117.207.217",
-                        "الرابط 6": "https://jeem/index.m3u8?token=33ee170763481a4d3e8a7b531d91bbfe9e940916-a8c931a91c2ab8f1616aeaa1246a1bd5-1768755132-1768744332&remote=196.117.207.217/jeem/index.m3u8?token=829b99798ed404d8ba762d8d45281666e388f0b0-54339e2777a4616516cc68423fd6ee27-1768755132-1768744332&remote=196.117.207.217",
-                        "الرابط 7": "https://fatafeat/index.m3u8?token=5334e53a485d834d96c0a419b6195e676d73bcce-0f5e0575c0cc896ece32165c0bb21188-1768760661-1768749861&remote=196.117.207.217/FATAFEAT/index.m3u8?token=4405ebc319b03986440e92ca227b4ff12bb91171-6ffca67d2d2d65754b74c6af84d77733-1768760661-1768749861&remote=196.117.207.217",
-                        "الرابط 8": "https://gorment/tracks-v1a1/mono.css?remote=196.117.207.217&remote=196.117.207.217/GORMENT/index.css?token=7b7e7bbc2cb7d9f9b3bf89f997ded837c56ba416-8c828721e45a6ca3c2089d3139b28b1f-1768760681-1768749881&token=a7a34df6e6107593ab31f280d00beeae822f7da4-19fd2c965eb5fd5faee05634d54f7550-1768760681-1768749881",
-                        "الرابط 9": "https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264"
+                        "الرابط 4": "https://bein_movies_3/index.m3u8?token=985c357f6533203e5045eafdfe23a6e832d54a7d-e97841bf2671f4a889a33e8aba892d3a-1768769817-1768759017&remote=196.117.207.217/beIN_MOVIES_3/index.m3u8?token=4caa145237da7924ec018718c038148e7fa14868-8b81e695c92edca0683788140371edd2-1768769817-1768759017&remote=196.117.207.217",
+                        "الرابط 5": "https://bein_movies_4/index.m3u8?token=12a6afb10fb2e6c8033c092418c5cd832fceffe9-79b91d808b89128693c744ab9d7bf1cd-1768769842-1768759042&remote=196.117.207.217/beIN_MOVIES_4/index.m3u8?token=3a08e21c9f43076e1f811394f2ecbca6c45449d8-2f953a5fa7dd9b7d98042e48180fb652-1768769842-1768759042&remote=196.117.207.217",
+                        "الرابط 6": "https://bein_box_office1/index.m3u8?token=d9ef62032e70d6c0c3ce41705e7253eb4ccb0192-233025e3dfe5aa2a530c5789be8b51c4-1768769867-1768759067&remote=196.117.207.217",
+                        "الرابط 7": "https://bein_box_office2/index.m3u8?token=a7bb19bd3c40f104d047a6dc4272d33aa1e1e2a4-48a644a3189c269b7f2ae111378a0aed-1768769890-1768759090&remote=196.117.207.217",
+                        "الرابط 8": "https://bein_series_1/index.m3u8?token=02bc560ba7972e58516f7064935660df802d567a-61688f8506de0123703f68c05f90d5c3-1768769919-1768759119&remote=196.117.207.217",
+                        "الرابط 9": "https://bein_series_2/index.m3u8?token=9b04563bb83e7d1a80581185bf064f03390d88b1-cf38e08604b56fc2ba962a961c594cf0-1768769981-1768759181&remote=196.117.207.217/beIN_SERIES_2/index.m3u8?token=bca1279f153da1ae09087f46e5bb970c4470999d-f1ccff7d89450d96dcf702b971564784-1768769981-1768759181&remote=196.117.207.217"
                     }
                 },
                 "element2": {
