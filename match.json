@@ -5,34 +5,28 @@
         "new": 1
     },
     "globalHeaders": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-        "Referer": "https://x.com/",
-        "Accept": "*/*",
-        "Connection": "keep-alive"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+        "Referer": "https://x.com/"
     },
     "specialDomains": {
         "s1.news-api-gen.lol": {
-            "patterns": ["bein_movies", "bein_movies_2", "fatafeat", "gorment", "bein_drama"],
+            "patterns": ["bein_movies", "bein_movies_2", "fatafeat", "gorment"],
             "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+                "User-Agent": "GGGGGGGG_DEV2025",
                 "Referer": "https://s1.news-api-gen.lol/",
                 "Accept": "*/*",
-                "Accept-Encoding": "gzip",
                 "Connection": "keep-alive",
-                "Cache-Control": "no-cache",
-                "Host": "s1.news-api-gen.lol"
+                "Cache-Control": "no-cache"
             }
         },
         "s3.news-api-gen.lol": {
             "patterns": ["jeem"],
             "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+                "User-Agent": "GGGGGGGG_DEV2025",
                 "Referer": "https://s3.news-api-gen.lol/",
                 "Accept": "*/*",
-                "Accept-Encoding": "gzip",
                 "Connection": "keep-alive",
-                "Cache-Control": "no-cache",
-                "Host": "s3.news-api-gen.lol"
+                "Cache-Control": "no-cache"
             }
         }
     },
