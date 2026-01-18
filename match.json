@@ -10,36 +10,23 @@
     },
     "specialDomains": {
         "s1.news-api-gen.lol": {
-            "patterns": [
-                "bein_movies",
-                "bein_movies_2",
-                "bein_drama",
-                "fatafeat",
-                "gorment"
-            ],
+            "patterns": ["bein_movies", "bein_movies_2", "fatafeat", "gorment", "bein_drama"],
             "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-                "Accept-Encoding": "gzip",
-                "Host": "s1.news-api-gen.lol"
+                "User-Agent": "GGGGGGGG_DEV2025",
+                "Referer": "https://s1.news-api-gen.lol/",
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Cache-Control": "no-cache"
             }
         },
         "s3.news-api-gen.lol": {
-            "patterns": [
-                "jeem"
-            ],
+            "patterns": ["jeem"],
             "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-                "Accept-Encoding": "gzip",
-                "Host": "s3.news-api-gen.lol"
-            }
-        },
-        "shd-mediacdn-live.edgenextcdn.net": {
-            "patterns": [],
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; Win64; x64) AppleWebKit/ (KHTML, like Gecko) Chrome/",
-                "Accept-Encoding": "gzip",
-                "Host": "shd-mediacdn-live.edgenextcdn.net",
-                "Connection": "Keep-Alive"
+                "User-Agent": "GGGGGGGG_DEV2025",
+                "Referer": "https://s3.news-api-gen.lol/",
+                "Accept": "*/*",
+                "Connection": "keep-alive",
+                "Cache-Control": "no-cache"
             }
         }
     },
