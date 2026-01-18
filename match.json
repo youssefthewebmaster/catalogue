@@ -141,7 +141,7 @@
                         "الرابط 6": "https://jeem/index.m3u8?token=33ee170763481a4d3e8a7b531d91bbfe9e940916-a8c931a91c2ab8f1616aeaa1246a1bd5-1768755132-1768744332&remote=196.117.207.217/jeem/index.m3u8?token=829b99798ed404d8ba762d8d45281666e388f0b0-54339e2777a4616516cc68423fd6ee27-1768755132-1768744332&remote=196.117.207.217",
                         "الرابط 7": "https://fatafeat/index.m3u8?token=6f8ab1199b00c6a027ebe6aef80b9d36540c5541-800d6dac0e21789f0203894384ee4194-1768755165-1768744365&remote=196.117.207.217/FATAFEAT/index.m3u8?token=ea2e177d1a2f0b3bd9ef74fd8e5355cdc20c9bee-891aafd9632b21190eceaeb92f17ace7-1768755165-1768744365&remote=196.117.207.217",
                         "الرابط 8": "https://gorment/index.m3u8?token=46417237adc62db8df8f8808c654f700b61040ce-6484e4e3af7e6a7235164d5686c4fd6f-1768755184-1768744384&remote=196.117.207.217/GORMENT/index.m3u8?token=9e40b29e31b1ab190127114353be32b6edb9bd11-f468003d0b2e05c31b3fcf0024e5406e-1768755184-1768744384&remote=196.117.207.217",
-                        "الرابط 9": "https://bein_drama/index.m3u8?token=c2df810fdfc7b9c5d7758201f25418438ae82ab2-28b2ffa24a1f72342563ed99a164d4f5-1768755395-1768744595&remote=196.117.207.217/bein_drama/index.m3u8?token=f4bbfd841b630f04784f982eae5b9ef3ac8b88af-25cc78f0fa062063e49805cef55e7d16-1768755395-1768744595&remote=196.117.207.217"
+                        "الرابط 9": "https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264"
                     }
                 },
                 "element2": {
