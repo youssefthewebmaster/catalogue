@@ -5,39 +5,36 @@
         "new": 1
     },
     "globalHeaders": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-        "Referer": "https://x.com/"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+        "Referer": "https://x.com/",
+        "Accept": "*/*",
+        "Connection": "keep-alive"
     },
     "specialDomains": {
         "s1.news-api-gen.lol": {
-            "patterns": ["bein_movies", "bein_movies_2", "fatafeat", "gorment", "bein_series_1", "bein_drama"],
+            "patterns": ["bein_movies", "bein_movies_2", "fatafeat", "gorment", "bein_drama"],
             "headers": {
-                "User-Agent": "GGGGGGGG_DEV2025",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
                 "Referer": "https://s1.news-api-gen.lol/",
                 "Accept": "*/*",
+                "Accept-Encoding": "gzip",
                 "Connection": "keep-alive",
-                "Cache-Control": "no-cache"
+                "Cache-Control": "no-cache",
+                "Host": "s1.news-api-gen.lol"
             }
         },
         "s3.news-api-gen.lol": {
             "patterns": ["jeem"],
             "headers": {
-                "User-Agent": "GGGGGGGG_DEV2025",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
                 "Referer": "https://s3.news-api-gen.lol/",
                 "Accept": "*/*",
+                "Accept-Encoding": "gzip",
                 "Connection": "keep-alive",
-                "Cache-Control": "no-cache"
+                "Cache-Control": "no-cache",
+                "Host": "s3.news-api-gen.lol"
             }
-        },
-         "shd-mediacdn-live.edgenextcdn.net": {
-        "patterns": ["bitmovin-mbc-2"],
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/",
-            "Accept-Encoding": "gzip",
-            "Connection": "Keep-Alive",
-            "Accept": "*/*"
         }
-    }
     },
     "events": {
         "event1": {
