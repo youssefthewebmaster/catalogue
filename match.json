@@ -28,6 +28,15 @@
                 "Connection": "keep-alive",
                 "Cache-Control": "no-cache"
             }
+        },
+        "shd-mediacdn-live.edgenextcdn.net": {
+            "patterns": [],
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; Win64; x64) AppleWebKit/ (KHTML, like Gecko) Chrome/",
+                "Accept-Encoding": "gzip",
+                "Host": "shd-mediacdn-live.edgenextcdn.net",
+                "Connection": "Keep-Alive"
+            }
         }
     },
     "events": {
