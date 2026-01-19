@@ -10,7 +10,7 @@
     },
     "specialDomains": {
         "s1.news-api-gen.lol": {
-            "patterns": ["bein_movies", "bein_movies_2", "bein_movies_3", "bein_movies_4", "bein_box_office1", "bein_box_office2", "bein_series_1", "bein_series_2", "bein_drama", "fatafeat", "gorment"],
+            "patterns": ["bein_movies", "bein_movies_2", "bein_movies_3", "bein_movies_4", "bein_box_office1", "bein_box_office2", "bein_series_1", "bein_series_2", "bein_drama", "bein_bbc_earth", "fatafeat", "gorment"],
             "headers": {
                 "User-Agent": "GGGGGGGG_DEV2025",
                 "Referer": "https://s1.news-api-gen.lol/",
