@@ -123,39 +123,6 @@
             "comment": "علي الكعبي"
         }
     },
-    "newEvents": {
-        "main": {
-            "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Afrique%20coupe.png",
-            "title": "كأس أفريقيا",
-            "link": "newEventsMenu",
-            "elements": {
-                "element1": {
-                    "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
-                    "title": "Bein Sport MAX 1",
-                    "links": {
-                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=HBtbAWeCnks_lwhhqneIJA&e=1767812228",
-                        "الرابط 2": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=B78roPOdlRlOFaJkGr1qqw&e=1767812228",
-                        "الرابط 3": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=vBde2pkpd6B4nuwTE1dHhQ&e=1767812239",
-                        "الرابط 4": "https://bein_movies_3/index.m3u8?token=985c357f6533203e5045eafdfe23a6e832d54a7d-e97841bf2671f4a889a33e8aba892d3a-1768769817-1768759017&remote=196.117.207.217/beIN_MOVIES_3/index.m3u8?token=4caa145237da7924ec018718c038148e7fa14868-8b81e695c92edca0683788140371edd2-1768769817-1768759017&remote=196.117.207.217",
-                        "الرابط 5": "https://bein_movies_4/index.m3u8?token=12a6afb10fb2e6c8033c092418c5cd832fceffe9-79b91d808b89128693c744ab9d7bf1cd-1768769842-1768759042&remote=196.117.207.217/beIN_MOVIES_4/index.m3u8?token=3a08e21c9f43076e1f811394f2ecbca6c45449d8-2f953a5fa7dd9b7d98042e48180fb652-1768769842-1768759042&remote=196.117.207.217",
-                        "الرابط 6": "https://bein_box_office1/index.m3u8?token=d9ef62032e70d6c0c3ce41705e7253eb4ccb0192-233025e3dfe5aa2a530c5789be8b51c4-1768769867-1768759067&remote=196.117.207.217",
-                        "الرابط 7": "https://bein_box_office2/index.m3u8?token=a7bb19bd3c40f104d047a6dc4272d33aa1e1e2a4-48a644a3189c269b7f2ae111378a0aed-1768769890-1768759090&remote=196.117.207.217",
-                        "الرابط 8": "https://bein_series_1/index.m3u8?token=02bc560ba7972e58516f7064935660df802d567a-61688f8506de0123703f68c05f90d5c3-1768769919-1768759119&remote=196.117.207.217",
-                        "الرابط 9": "https://bein_series_2/index.m3u8?token=9b04563bb83e7d1a80581185bf064f03390d88b1-cf38e08604b56fc2ba962a961c594cf0-1768769981-1768759181&remote=196.117.207.217/beIN_SERIES_2/index.m3u8?token=bca1279f153da1ae09087f46e5bb970c4470999d-f1ccff7d89450d96dcf702b971564784-1768769981-1768759181&remote=196.117.207.217"
-                    }
-                },
-                "element2": {
-                    "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png",
-                    "title": "Bein Sport MAX 2",
-                    "links": {
-                        "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=HRv8XVZh5a-cu-_y4r-j0g&e=1767812229",
-                        "الرابط 2": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=CV8krYpkHZUZgLiEfjSbAw&e=1767812250",
-                        "الرابط 3": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=hidrjp0naQ-9BMSv6CTOwQ&e=1767812540"
-                    }
-                }
-            }
-        }
-    },
     "tamaniya": {
         "tamaniya1": {
             "links": {
