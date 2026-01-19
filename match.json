@@ -10,7 +10,8 @@
     },
     "specialDomains": {
         "s1.news-api-gen.lol": {
-            "patterns": ["bein_movies", "bein_movies_2", "bein_movies_3", "bein_movies_4", "bein_box_office1", "bein_box_office2", "bein_series_1", "bein_series_2", "bein_drama", "bein_bbc_earth", "fatafeat", "gorment", "cartoon_n"],
+            "patterns": ["bein_movies", "bein_movies_2", "bein_movies_3", "bein_movies_4", "bein_box_office1", "bein_box_office2", 
+            "bein_series_1", "bein_series_2", "bein_drama", "bein_bbc_earth", "fatafeat", "gorment", "cartoon_n", "nickelodeon"],
             "headers": {
                 "User-Agent": "GGGGGGGG_DEV2025",
                 "Referer": "https://s1.news-api-gen.lol/",
@@ -52,7 +53,7 @@
             "links": {
                 "الرابط 1": "https://cartoon_n/index.m3u8?token=b72aad57b4dc871223a9c9b833191d3493156a3b-776996c27220e00e27cf3376e5fc8c68-1768844861-1768834061&remote=160.178.124.69",
                 "الرابط 2": "https://s1.news-api-gen.lol/BARAEAM/index.m3u8?token=0a6055a44407189f51d41311105fd900e4d79423-4f914146c2bb3275fddbdbd0716b8e5f-1768844789-1768833989&remote=160.178.124.69/BARAEAM/index.m3u8?token=777d9f065bc3f5453aec09854de315da8c38b313-aa43ec14951be4a353202bcf79dbf5a1-1768844789-1768833989&remote=160.178.124.69",
-                "الرابط 3": "https://bein_bbc_earth/index.m3u8?token=c91281dfd6042d4b93ebb9acd898aa012429bf1e-53603aeb08373aba6934c200b1e5dd6d-1768842342-1768831542&remote=105.157.46.137/bein_bbc_earth/index.m3u8?token=07c33447809e47d2f3f2d832134f51209169d0bc-645907be8e669cfaa8b0928ab19b134d-1768842342-1768831542&remote=105.157.46.137",
+                "الرابط 3": "https://nickelodeon/index.m3u8?token=1a90f621612bc67dd49a9aaa6abf192895922466-49165cf0da63fd6f1a70f99e2619fd23-1768845262-1768834462&remote=160.178.124.69/Nickelodeon/index.m3u8?token=3f4d4829410bbc49a89f3f57e1e83ae4ac0856b4-72b8275f1ed524751950a77b2f4b9f18-1768845262-1768834462&remote=160.178.124.69",
                 "الرابط 4": "https://jeem/index.m3u8?token=25c6e53353dcbc8a7e79d6acde013cfb22954c5e-bfc0b30058a0a3ad4860514723e848b9-1768841339-1768830539&remote=105.157.46.137/jeem/index.m3u8?token=d35dfb270aaff5759334b8c1a00699d3a8b47f9a-38537fec66acfdcef3172c4d016c0a5b-1768841339-1768830539&remote=105.157.46.137",
                 "الرابط 5": "https://bein_box_office1/index.m3u8?token=7763eae038d75cc4cda9ea499b3bfca3996a842d-8c28d1bc3c782fe950b29a7ac49155cd-1768836189-1768825389&remote=105.157.46.137/bein_box_office1/index.m3u8?token=02ed89d7b89fb4a85bccc8658d64f5a21daaf067-43035961b8ba51c1af52ffec4639a5b4-1768836189-1768825389&remote=105.157.46.137",
                 "الرابط 6": "https://bein_box_office2/index.m3u8?token=a3240f41f23fe059b992b5974ca9433da2f9d385-b7fbeb9eb636cd41d70d24a8a3199880-1768836218-1768825418&remote=105.157.46.137/bein_box_office2/index.m3u8?token=05ecd3d6eeaa5f71c3c6feb62f7ee81a83c3f745-39804dba07c7d8daca2e1b199d1e8efb-1768836218-1768825418&remote=105.157.46.137",
