@@ -50,7 +50,12 @@
     "beinSport": {
         "beinSportNews": {
             "links": {
-                "الرابط 1": "http://vipnorseman.top:8080/VIP013661762174235102/986986065583/1681"
+                "الرابط 1": "https://bein_movies/index.m3u8?token=8fe3055f2a3a85a47a5dcd405d19eb6e4584f40d-eec4cf7b5399d2063b47cfcaf47849f0-1768836025-1768825225&remote=105.157.46.137/beIN_MOVIES/index.m3u8?token=8eaeaf6eef5ce4f51ed9e6723b560d47d25c6289-e7be88d31fc8fbe11d2dfd2739c62090-1768836025-1768825225&remote=105.157.46.137",
+                "الرابط 2": "https://bein_movies_2/index.m3u8?token=c8a6f1d7ebc6eab2ad1e5ef1f980bb2a22f851ea-1cf61489f4488a4c911ace3fb1dfcdde-1768836085-1768825285&remote=105.157.46.137/beIN_MOVIES_2/index.m3u8?token=3dcf3e872a0454015d923c4112416348fc10c1c1-66aabca2fc32f74f9685dde9c2529d7d-1768836085-1768825285&remote=105.157.46.137",
+                "الرابط 3": "https://bein_movies_3/index.m3u8?token=2034ef5b9cc2d2c36ec4a33f448fe533c072ab83-74a857db3bbcc567b213c1d2d022faec-1768836113-1768825313&remote=105.157.46.137/beIN_MOVIES_3/index.m3u8?token=dfb2e2f09b8aa47d8ea23c92b299b35423674cf7-bf1a42b44c750e2c6628dbe153b6b91a-1768836113-1768825313&remote=105.157.46.137",
+                "الرابط 4": "https://bein_movies_4/index.m3u8?token=d444cea0d715a60ba33ff52cd2a70d6b7477033f-4ce48bff3c8dca7caf68658dce3fc6e3-1768836138-1768825338&remote=105.157.46.137/beIN_MOVIES_4/index.m3u8?token=d27982a075f2ed240f159b6462ab01711fa234ee-1fd9c0c00c8dd6110eb1b5eab11160e4-1768836138-1768825338&remote=105.157.46.137",
+                "الرابط 5": "https://bein_box_office1/index.m3u8?token=7763eae038d75cc4cda9ea499b3bfca3996a842d-8c28d1bc3c782fe950b29a7ac49155cd-1768836189-1768825389&remote=105.157.46.137/bein_box_office1/index.m3u8?token=02ed89d7b89fb4a85bccc8658d64f5a21daaf067-43035961b8ba51c1af52ffec4639a5b4-1768836189-1768825389&remote=105.157.46.137",
+                "الرابط 6": "https://bein_box_office2/index.m3u8?token=a3240f41f23fe059b992b5974ca9433da2f9d385-b7fbeb9eb636cd41d70d24a8a3199880-1768836218-1768825418&remote=105.157.46.137/bein_box_office2/index.m3u8?token=05ecd3d6eeaa5f71c3c6feb62f7ee81a83c3f745-39804dba07c7d8daca2e1b199d1e8efb-1768836218-1768825418&remote=105.157.46.137"
             }
         },
         "beinSportGlobal": {
