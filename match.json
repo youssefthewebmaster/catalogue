@@ -30,6 +30,99 @@
             }
         }
     },
+    "events": {
+        "event1": {
+            "team1": "خيتافي",
+            "team2": "فالنسيا",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Getafe.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Valencia.png",
+            "time":"13:00",
+            "championName": "الدوري الإسباني",
+            "channelName": "Bein Sport 3",
+            "folder": "beinSport",
+            "link": "beinSport3",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
+            "comment": "باسم الزير"
+        },
+        "event2": {
+            "team1": "وولفرهامبتون",
+            "team2": "نيوكاسل يونايتد",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Wolverhampton.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/NewcastleUnited.png",
+            "time":"14:00",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
+            "comment": "محمد بركات"
+        },
+        "event3": {
+            "team1": "أتلتيكو مدريد",
+            "team2": "ديبورتيفو ألافيس",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Getafe.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Valencia.png",
+            "time":"15:15",
+            "championName": "الدوري الإسباني",
+            "channelName": "Bein Sport 3",
+            "folder": "beinSport",
+            "link": "beinSport3",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
+            "comment": "حسن العيدروس"
+        },
+        "event4": {
+            "team1": "أستون فيلا",
+            "team2": "إيفرتون",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/AstonVilla.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Everton.png",
+            "time":"16:30",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
+            "comment": "أحمد البلوشي"
+        },
+        "event5": {
+            "team1": "سيلتا دي فيغو",
+            "team2": "رايو فايكانو",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/CeltaVigo.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RayoVallecano.png",
+            "time":"17:30",
+            "championName": "الدوري الإسباني",
+            "channelName": "Bein Sport 3",
+            "folder": "beinSport",
+            "link": "beinSport3",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
+            "comment": "عبدالله الغامدي"
+        },
+        "event6": {
+            "team1": "السنغال",
+            "team2": "المغرب",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Sinigal.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Maroc.png",
+            "time":"19:00",
+            "championName": "كأس أمم أفريقيا",
+            "channelName": "Bein Sport MAX 1",
+            "folder": "beinSport",
+            "link": "beinXtra1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
+            "comment": "عصام الشوالي"
+        },
+        "event7": {
+            "team1": "برشلونة",
+            "team2": "ريال سوسييداد",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Barcelona.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RealSociedad.png",
+            "time":"20:00",
+            "championName": "الدوري الإسباني",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
+            "comment": "علي الكعبي"
+        }
+    },
     "newEvents": {
         "main": {
             "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/Afrique%20coupe.png",
@@ -43,10 +136,12 @@
                         "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=HBtbAWeCnks_lwhhqneIJA&e=1767812228",
                         "الرابط 2": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=B78roPOdlRlOFaJkGr1qqw&e=1767812228",
                         "الرابط 3": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=vBde2pkpd6B4nuwTE1dHhQ&e=1767812239",
-                        "الرابط 4": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=E-BfRDW0iXgE_aBxKpP1zA&e=1768780285",
-                        "الرابط 5": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=MXVephgcmK0RGzBS0W5u9A&e=1768780285",
-                        "الرابط 6": "http://het000.4rouwanda-shop.store/live/79247621/index.m3u8?t=PbSCI1ZTEOwDzVKK-OK8PA&e=1768780285",
-                        "الرابط 7": "http://het000.4rouwanda-shop.store/live/79247621/index.m3u8?t=PbSCI1ZTEOwDzVKK-OK8PA&e=1768780285"
+                        "الرابط 4": "https://bein_movies_3/index.m3u8?token=985c357f6533203e5045eafdfe23a6e832d54a7d-e97841bf2671f4a889a33e8aba892d3a-1768769817-1768759017&remote=196.117.207.217/beIN_MOVIES_3/index.m3u8?token=4caa145237da7924ec018718c038148e7fa14868-8b81e695c92edca0683788140371edd2-1768769817-1768759017&remote=196.117.207.217",
+                        "الرابط 5": "https://bein_movies_4/index.m3u8?token=12a6afb10fb2e6c8033c092418c5cd832fceffe9-79b91d808b89128693c744ab9d7bf1cd-1768769842-1768759042&remote=196.117.207.217/beIN_MOVIES_4/index.m3u8?token=3a08e21c9f43076e1f811394f2ecbca6c45449d8-2f953a5fa7dd9b7d98042e48180fb652-1768769842-1768759042&remote=196.117.207.217",
+                        "الرابط 6": "https://bein_box_office1/index.m3u8?token=d9ef62032e70d6c0c3ce41705e7253eb4ccb0192-233025e3dfe5aa2a530c5789be8b51c4-1768769867-1768759067&remote=196.117.207.217",
+                        "الرابط 7": "https://bein_box_office2/index.m3u8?token=a7bb19bd3c40f104d047a6dc4272d33aa1e1e2a4-48a644a3189c269b7f2ae111378a0aed-1768769890-1768759090&remote=196.117.207.217",
+                        "الرابط 8": "https://bein_series_1/index.m3u8?token=02bc560ba7972e58516f7064935660df802d567a-61688f8506de0123703f68c05f90d5c3-1768769919-1768759119&remote=196.117.207.217",
+                        "الرابط 9": "https://bein_series_2/index.m3u8?token=9b04563bb83e7d1a80581185bf064f03390d88b1-cf38e08604b56fc2ba962a961c594cf0-1768769981-1768759181&remote=196.117.207.217/beIN_SERIES_2/index.m3u8?token=bca1279f153da1ae09087f46e5bb970c4470999d-f1ccff7d89450d96dcf702b971564784-1768769981-1768759181&remote=196.117.207.217"
                     }
                 },
                 "element2": {
@@ -58,6 +153,3187 @@
                         "الرابط 3": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=hidrjp0naQ-9BMSv6CTOwQ&e=1767812540"
                     }
                 }
+            }
+        }
+    },
+    "tamaniya": {
+        "tamaniya1": {
+            "links": {
+                "الرابط 1": "http://cyou.genral2025.cyou:8080/ta1.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+            }
+        },
+        "tamaniya2": {
+            "links": {
+                "الرابط 1": "http://cyou.genral.cfd:8080/ta2.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+            }
+        },
+        "tamaniya3": {
+            "links": {
+                "480p": "http://cyou.genral2025.cyou:8080/ta3.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "1080p": "http://cyou.cinema2.vip:8080/tahd3.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+            }
+        }
+    },
+    "beinSport": {
+        "beinSportNews": {
+            "links": {
+                "الرابط 1": "http://vipnorseman.top:8080/VIP013661762174235102/986986065583/1681"
+            }
+        },
+        "beinSportGlobal": {
+            "links": {
+                "الرابط 1": "https://bein_sports/tracks-v1a1/mono.css?remote=196.117.207.217&token=26b607499f51cc2630078c098e2fe83a28a2d24d-8be267397a89ba6451b7b4045c6cc2ec-1768676384-1768665584"
+            }
+        },
+        "beinSport1": {
+            "links": {
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=r3Hq9GDSZWwJhHS0pg5sSQ&e=1767812226",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=XoCJjY1loyVLvEl8rIA57w&e=1767812255",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/31009988005/index.m3u8?t=alLFG2Lox1Q3P75Z5R1UxQ&e=1768679083"
+            }
+        },
+        "beinSport2": {
+            "links": {
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=fPbTf5ZP-aqWvGnEzviTcw&e=1767812252",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=NOov9IUCjyIEc-eUPtsRbA&e=1767812380",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/4798998070/index.m3u8?t=M1ebOYZSqpZ-Ses8slox9Q&e=1768677898"
+            }
+        },
+        "beinSport3": {
+            "links": {
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=cmiK0PVlH88Sek59FuaEnA&e=1767812230",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=Gren2t5hlo0ALkdRdvfACQ&e=1767812266",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/161988840/index.m3u8?t=2xxVw74Qt3vQYvtHYP4QOw&e=1768678447",
+                "الرابط 4": "http://het000.4rouwanda-shop.store/live/551818447/index.m3u8?t=IWbPOs5Th48Q49I1sfANQA&e=1768678447",
+                "الرابط 5": "http://cyou.genral2025.sbs:8080/sa3.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 6": "http://cyou.genral2025.lat:8080/ha3.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+            }
+        }
+        ,
+        "beinSport4": {
+            "links": {
+                "الرابط 5": "http://cyou.genral2025.sbs:8080/sa4.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 6": "http://cyou.genral2025.sbs:8080/ha4.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+            }
+        },
+        "beinSport5": {
+            "links": {
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=JqmSSI1cy9fCUTdljYOe1w&e=1767812256",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=NskvSt3TrNgIs2lH00IwNA&e=1767812238",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/181818444/index.m3u8?t=FqIR2LBvFDFRSQ_nscAxVA&e=1768648241",
+                "الرابط 4": "http://cyou.genral2025.lol:8080/sa5.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 5": "http://cyou.fastes.sbs:8080/sa5.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+            }
+        },
+        "beinSport6": {
+            "links": {
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=57TjVwkr9342DLzvxSXd7A&e=1767812443",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=pJsc3AIsw0XiQpLAZIL02w&e=1767812240",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/9883322/index.m3u8?t=6RbE00c38NmGm0UmkwkERw&e=1768676514",
+                "الرابط 4": "http://cyou.genral2025.lat:8080/ha6.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+            }
+        },
+        "beinSport7": {
+            "links": {
+                "الرابط 1": "http://cyou.genral2025.forum:8080/sa7.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 2": "https://s1.news-api-gen.lol/b7/index.m3u8?token=75429948117925eb3d68d6c695640ab71a89d7d8-fa24003219c58eba3efecad2c9fb9e9e-1768675382-1768664582&remote=196.117.207.217"
+            }
+        },
+        "beinSport8": {
+            "links": {
+                "الرابط 1": "http://cyou.fastes.sbs:8080/ha8.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 2": "https://s1.news-api-gen.lol/b8/index.m3u8?token=1e427eefb4660620113d0338f0d849cb9ad6af33-5eb2f2e1dd91c57653717393b32b75d8-1768675646-1768664846&remote=196.117.207.217"
+            }
+        },
+        "beinSport9": {
+            "links": {
+                "الرابط 1": "http://cyou.fastes.sbs:8080/sa9.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 2": "http://cyou.genral2025.lol:8080/ha9.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 3": ""
+            }
+        },
+        "beinXtra1": {
+            "links": {
+                "الرابط 1": "http://cyou.cinema2.vip:8080/bmax1sd.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 2": "http://cyou.genral.cfd:8080/bmax1hd.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=HBtbAWeCnks_lwhhqneIJA&e=1767812228",
+                "الرابط 4": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=B78roPOdlRlOFaJkGr1qqw&e=1767812228",
+                "الرابط 5": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=vBde2pkpd6B4nuwTE1dHhQ&e=1767812239"
+            }
+        },
+        "beinXtra2": {
+            "links": {
+                "الرابط 1": "http://cyou.fastes.sbs:8080/bmax2sd.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 2": "http://cyou.genral2025.forum:8080/bmax2hd.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=HRv8XVZh5a-cu-_y4r-j0g&e=1767812229",
+                "الرابط 4": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=CV8krYpkHZUZgLiEfjSbAw&e=1767812250",
+                "الرابط 5": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=hidrjp0naQ-9BMSv6CTOwQ&e=1767812540"
+            }
+        },
+        "beinXtra3": {
+            "links": {
+                "الرابط 1": "http://fast.genral2025.sbs:8080/bmax3hd.css?token=9a053cc78ba0514584e0d2a72f58c331&ip=41.143.12.171"
+            }
+        },
+        "beinSportEng1": {
+            "links": {
+                "الرابط 1": "http://vipnorseman.top:8080/VIP013661762174235102/986986065583/135469",
+                "الرابط 2": "http://ip96.uk:8080//live/H645668DH/7565848DHY/683620.ts"
+            }
+        },
+        "beinSportEng2": {
+            "links": {
+                "الرابط 1": "http://ip96.uk:8080//live/H645668DH/7565848DHY/683623.ts"
+            }
+        },
+        "beinSportEng3": {
+            "links": {
+                "الرابط 1": "http://ip96.uk:8080//live/H645668DH/7565848DHY/683626.ts"
+            }
+        },
+        "beinSportFr1": {
+            "links": {
+                "الرابط 1": "http://vipnorseman.top:8080/VIP013661762174235102/986986065583/373"
+            }
+        },
+        "beinSportFr2": {
+            "links": {
+                "الرابط 1": "http://vipnorseman.top:8080/VIP013661762174235102/986986065583/374"
+            }
+        },
+        "beinSportFr3": {
+            "links": {
+                "الرابط 1": "http://vipnorseman.top:8080/VIP013661762174235102/986986065583/375"
+            }
+        }
+    },
+    "beinEntertainment": {
+        "beinMoviesPremiere": {
+            "links": {
+                "الرابط 1": "https://bein_movies/tracks-v1a1/2026/01/11/16/19/40-10000.ts?token=b07bd35dd523947309f5b114c2a7a8d7697872c9-9a97f022f6b254bfc172acb7d52aa5d7-1768158856-1768148056"
+            }
+        },
+        "beinBoxOffice1": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400212972"
+            }
+        },
+        "beinBoxOffice2": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400212973"
+            }
+        },
+        "beinMoviesDrama": {
+            "links": {
+                "الرابط 1": "http://apk.arabic-ch.space/live/078/index.m3u8?t=SG7PqEVfiGnRufRyUGGc_w&e=1767501404"
+            }
+        },
+        "beinMoviesAction": {
+            "links": {
+                "الرابط 1": "http://apk.arabic-ch.space/live/077/index.m3u8?t=G9ghsL6lELayh61etDc4jw&e=1767499452",
+                "الرابط 2": "http://apk.arabic-ch.space/live/076/index.m3u8?t=Hloy1HcakmGFkZZe1IYxnw&e=1767500881"
+            }
+        },
+        "beinMoviesFamily": {
+            "links": {
+                "الرابط 1": "http://norkadymm.top:8080/191703089055131/01703089055686/25103"
+            }
+        },
+        "beinSeries1": {
+            "links": {
+                "الرابط 1": "http://norkadymm.top:8080/191703089055131/01703089055686/25104"
+            }
+        },
+        "beinSeries2": {
+            "links": {
+                "الرابط 1": "http://norkadymm.top:8080/191703089055131/01703089055686/25105"
+            }
+        },
+        "beinDrama": {
+            "links": {
+                "الرابط 1": "http://apk.arabic-ch.space/live/072/index.m3u8?t=N_1tKC5lItQizNLOIAXMCA&e=1767069280"
+            }
+        },
+        "beinGourmet": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/122048"
+            }
+        },
+        "baraem": {
+            "links":{
+                "الرابط 1": "http://apk.arabic-ch.space/live/070/index.m3u8?t=EwGh6ujQ4sL0AwfEq16k-w&e=1766151524"
+            }
+        },
+        "BeJunior": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/401669349"
+            }
+        },
+        "CartoonNetworkArabic": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/15371"
+            }
+        },
+        "jeem": {
+            "links":{
+                "الرابط 1": "http://norkadymm.top:8080/191703089055131/01703089055686/52690"
+            }
+        },
+        "Fatafeat": {
+            "links": {
+                "الرابط 1": "http://apk.arabic-ch.space/live/073/index.m3u8?t=spSq78_e5ugSZoDMJmpWoQ&e=1767501477"
+            }
+        }
+    },
+    "sscSport": {
+        "sscNews": {
+            "links": {
+                "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/626560",
+                "720p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331333"
+            }
+        },
+        "ssc1": {
+            "links": {
+                "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/340106",
+                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1139622"
+            }
+        },
+        "ssc2": {
+            "links": {
+                "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/340254",
+                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/340253"
+            }
+        },
+        "ssc3": {
+            "links": {
+                "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1139620",
+                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/626557"
+            }
+        },
+        "ssc4": {
+            "links": {
+                "1080p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/255705",
+                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/626558"
+            }
+        },
+        "ssc5": {
+            "links": {
+                "1080p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/255706",
+                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/626559"
+            }
+        },
+        "sscExtra1": {
+            "links": {
+                "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/340124",
+                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/340125"
+            }
+        },"sscExtra2": {
+            "links": {
+                "1080p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1123483",
+                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1123486"
+            }
+        },"sscExtra3": {
+            "links": {
+                "1080p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1123484",
+                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1123487"
+            }
+        }
+    },
+    "osn": {
+        "OsnKids": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400652542"
+            }
+        },
+        "OsnCrime": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400406178"
+            }
+        },
+        "OsnBoxOffice1": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/6378"
+            }
+        },
+        "OsnBoxOffice2": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400406171"
+            }
+        },
+        "_OsnBoxOffice3": {
+            "links": {
+                "الرابط 1": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/1454"
+            }
+        },
+        "OsnComedy": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400652592"
+            }
+        },
+        "_OsnOne": {
+            "links": {
+                "الرابط 1": "http://brex.fun:8080/27685241750679/5oA796YSr7/578487",
+                "الرابط 2": "http://brex.fun:8080/27685241750679/5oA796YSr7/578488"
+            }
+        },
+        "OsnFamily": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/39671"
+            }
+        },
+        "OsnMoviesPremiere": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400652586"
+            }
+        },
+        "OsnMoviesAction": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/122118"
+            }
+        },
+        "_OsnMoviesDisney": {
+            "links": {
+                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/13666"
+            }
+        },
+        "_OsnMoviesFirst": {
+            "links": {
+                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2858"
+            }
+        },
+        "_OsnMoviesFirst2": {
+            "links": {
+                "الرابط 1": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/1469",
+                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/1461"
+            }
+        },
+        "_OsnMoviesOnDemand": {
+            "links": {
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/96608"
+            }
+        },
+        "_OsnMoviesOnDemand2": {
+            "links": {
+                "الرابط 1": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/2436"
+            }
+        },
+        "_OsnMoviesOnDemandExtra1": {
+            "links": {
+                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/43922"
+            }
+        },
+        "_OsnMoviesOnDemandExtra2": {
+            "links": {
+                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2857"
+            }
+        },
+        "_OsnPopUp": {
+            "links": {
+                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/283286"
+            }
+        },
+        "OsnMoviesHollywood": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/39681"
+            }
+        },
+        "OsnShowcase": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/122124"
+            }
+        },
+        "OsnYaHalaAflam": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/14013"
+            }
+        },
+        "_OsnYaHala": {
+            "links": {
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/636"
+            }
+        },
+        "OsnYaHalaBilArabi": {
+            "links": {
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/636"
+            }
+        },
+        "OsnNow": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/39672"
+            }
+        },
+        "OsnMezze": {
+            "links": {
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400188412"
+            }
+        }
+    },
+    "mbc": {
+        "mbc1": {
+            "links":{
+                "1080p": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8",
+                "720p": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8",
+                "360p": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_2.m3u8",
+                "244p": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_1.m3u8"
+            }
+        },
+        "mbc2": {
+            "links":{
+                "الرابط 1": "http://213.57.91.138:8000/play/a05k"
+            }
+        },
+        "mbc3": {
+            "links":{
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
+            }
+        },
+        "mbc4": {
+            "links":{
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8"
+            }
+        },
+        "mbc5": {
+            "links":{
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
+            }
+        },
+        "mbcAction": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/74",
+                "الرابط 2": "http://213.57.91.138:8000/play/a05l"
+            }
+        },
+        "mbcMax": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/2839.ts"
+            }
+        },
+        "mbcDrama": {
+            "links":{
+                "1080p": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8",
+                "720p": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8",
+                "360p": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_25.m3u8",
+                "244p": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_26.m3u8"
+            }
+        },
+        "mbcDramaPlus": {
+            "links":{
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8"
+            }
+        },
+        "mbcEygpt1": {
+            "links":{
+                "1080p": "https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8",
+                "720p": "https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_47.m3u8",
+                "360p": "https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_50.m3u8",
+                "244p": "https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_51.m3u8"
+            }
+        },
+        "mbcEygpt2": {
+            "links":{
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
+            }
+        },
+        "mbcIraq": {
+            "links":{
+                "1080p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/1080p2400kbps/video.m3u8",
+                "720p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/720p1750kbps/video.m3u8",
+                "360p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/360p500kbps/video.m3u8",
+                "244p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/288p350kbps/video.m3u8"
+            }
+        },
+        "mbcPersia": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/2841.ts"
+            }
+        },
+        "mbcVariety": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/2845.ts"
+            }
+        },
+        "mbcBollywood": {
+            "links":{
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
+            }
+        }
+    },
+    "sa": {
+        "quoranSA": {
+            "links":{
+                "الرابط 1": "https://win.holol.com/live/quran/chunklist_w1480108352.m3u8",
+                "الرابط 2": "https://win.holol.com/live/quran/chunklist_w813174388.m3u8"
+            }
+        },
+        "sonnaSA": {
+            "links":{
+                "الرابط 1": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+            }
+        },
+        "so3odiya": {
+            "links":{
+                "1080p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/manifest/video/1080p2400kbps/video.m3u8",
+                "720p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/manifest/video/720p1750kbps/video.m3u8",
+                "360p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/manifest/video/360p500kbps/video.m3u8",
+                "244p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/manifest/video/288p350kbps/video.m3u8"
+            }
+        },
+        "ikhbariyaSA": {
+            "links":{
+                "1080p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/manifest/video/1080p2400kbps/video.m3u8",
+                "720p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/manifest/video/720p1750kbps/video.m3u8",
+                "360p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/manifest/video/468p750kbps/video.m3u8",
+                "244p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/manifest/video/288p350kbps/video.m3u8"
+            }
+        },
+        "dikrayat": {
+            "links":{
+                "1080p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_1.m3u8",
+                "720p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_2.m3u8",
+                "360p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_5.m3u8",
+                "244p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_6.m3u8"
+            }
+        },
+        "takafiyaSA": {
+            "links":{
+                "1080p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8"
+            }
+        },
+        "sbc": {
+            "links":{
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8"
+            }
+        },
+        "iqra": {
+            "links":{
+                "1080p": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/0.m3u8?v=3296702621",
+                "720p": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/1.m3u8?v=3296702621",
+                "360p": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/2.m3u8?v=3296702621",
+                "244p": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/3.m3u8?v=3296702621"
+            }
+        },
+        "makka": {
+            "links":{
+                "الرابط 1": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w93405166.m3u8?v=3296702621",
+                "الرابط 2": "http://013tv.com:8080/umer.zia660/e7388412/47622",
+                "الرابط 3": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w117824305.m3u8?v=3296702621",
+                "الرابط 4": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w1356437359.m3u8"
+            }
+        },
+        "khalijSA": {
+            "links":{
+                "الرابط 1": "https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8",
+                "الرابط 2":"https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8"
+            }
+        },
+        "char9SA": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_source/chunks_dvr.m3u8",
+                "720p": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_720p/chunks_dvr.m3u8",
+                "360p": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_480p/chunks_dvr.m3u8",
+                "244p": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_240p/chunks_dvr.m3u8"
+            }
+        },
+        "char9DocSA": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8",
+                "720p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_720p/chunks_dvr.m3u8",
+                "480p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_480p/chunks_dvr.m3u8",
+                "244p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_240p/chunks_dvr.m3u8"
+            }
+        },
+        "char9DiscovreySA": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8",
+                "720p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_720p/chunks_dvr.m3u8",
+                "480p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_480p/chunks_dvr.m3u8",
+                "244p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_240p/chunks_dvr.m3u8",
+                "الرابط 1": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+            }
+        },
+        "sahraSA": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/63926"
+            }
+        },
+        "bidaya": {
+            "links":{
+                "الرابط 1": "https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8"
+            }
+        }
+    },
+    "arts": {
+        "artCinema": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/559"
+            }
+        },
+        "artAflam1": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/557"
+            }
+        },
+        "artAflam2": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/558"
+            }
+        },
+        "artHikayat1": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/560"
+            }
+        },
+        "artHikayat2": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/561"
+            }
+        }
+    },
+    "majd" : {
+        "majd": {
+          "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/883",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0b0"
+            }  
+        },
+        "majdKoran": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/882",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0am"
+            }
+        },
+        "majdDocu": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331529"
+            }
+        },
+        "majdSonna": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/881",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0an"
+            }
+        },
+        "majd3lmiya": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331530"
+            }
+        },
+        "majdRawda": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331532"
+            }
+        },
+        "_mjd": {
+            "links":{
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129862"
+            }
+        },
+        "_المجد ماسة": {
+            "links":{
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129863"
+            }
+        },
+        "المجد الطبيعية": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331527"
+            }
+        }
+    },
+    "qa": {
+        "aljazeera": {
+            "links":{
+                "1080p": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/01.m3u8",
+                "720p": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/02.m3u8",
+                "360p": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/05.m3u8",
+                "244p": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/06.m3u8"
+            }
+        },
+        "aljazeeraDocu": {
+            "links":{
+                "1080p": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/01.m3u8",
+                "720p": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/02.m3u8",
+                "360p": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/05.m3u8",
+                "244p": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/06.m3u8"
+            }
+        },
+        "aljazeeraDirect": {
+            "links":{
+                "1080p": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/01.m3u8",
+                "720p": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/02.m3u8",
+                "360p": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/05.m3u8",
+                "244p": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/06.m3u8"
+            }
+        },
+        "quatar": {
+            "links":{
+                "1080p": "https://qatartv.akamaized.net/hls/live/2026573-b/qtv1/4.m3u8",
+                "720p": "https://qatartv.akamaized.net/hls/live/2026573-b/qtv1/3.m3u8",
+                "360p": "https://qatartv.akamaized.net/hls/live/2026573-b/qtv1/2.m3u8",
+                "244p": "https://qatartv.akamaized.net/hls/live/2026573-b/qtv1/1.m3u8"
+            }
+        },
+        "quatar2": {
+            "links":{
+                "1080p": "https://qatartv.akamaized.net/hls/live/2026574-b/qtv2/4.m3u8",
+                "720p": "https://qatartv.akamaized.net/hls/live/2026574-b/qtv2/3.m3u8",
+                "360p": "https://qatartv.akamaized.net/hls/live/2026574-b/qtv2/2.m3u8",
+                "244p": "https://qatartv.akamaized.net/hls/live/2026574-b/qtv2/1.m3u8"
+            }
+        },
+        "arrayan": {
+            "links":{
+                "1080p": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_1080p/chunks_dvr.m3u8",
+                "720p": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_720p/chunks_dvr.m3u8",
+                "360p": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_480p/chunks_dvr.m3u8",
+                "244p": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_360p/chunks_dvr.m3u8"
+            }
+        },
+        "arrayanKadim": {
+            "links":{
+                "1080p": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8",
+                "720p": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_720p/chunks_dvr.m3u8",
+                "360p": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_480p/chunks_dvr.m3u8",
+                "244p": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_360p/chunks_dvr.m3u8"
+            }
+        },
+        "alarabyQa": {
+            "links":{
+                "الرابط 1": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8"
+            }
+        },
+        "alarabyQa2": {
+            "links":{
+                "الرابط 1": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/19368.ts"
+            }
+        }
+    },
+    "kass": {
+        "alkass1": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/112537"
+            }
+        },
+        "alkass2": {
+            "links":{
+                "الرابط 1": "https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8",
+                "الرابط 2": "https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/chunklist_w1704834587.m3u8"
+            }
+        },
+        "alkass3": {
+            "links":{
+                "الرابط 1": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8",
+                "الرابط 2": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/chunklist_w1299305872.m3u8"
+            }
+        },
+        "alkass4": {
+            "links":{
+                "الرابط 1": "https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8",
+                "الرابط 2": "https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/chunklist_w1713350136.m3u8"
+            }
+        },
+        "alkass5": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/112533"
+            }
+        }
+    },
+    "ua": {
+        "almashhad": {
+            "links":{
+                "1080p": "https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8",
+                "720p": "https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_1/chunklist.m3u8",
+                "360p": "https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_2/chunklist.m3u8",
+                "244p": "https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_2/chunklist.m3u8"
+            }
+        },
+        "sharjah": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/smc1live/smc1tv.smil/smc1publish/smc1tvhd_source/chunks.m3u8",
+                "720p": "https://svs.itworkscdn.net/smc1live/smc1tv.smil/smc1publish/smc1tvhd_720p/chunks.m3u8",
+                "360p": "https://svs.itworkscdn.net/smc1live/smc1tv.smil/smc1publish/smc1tvhd_360p/chunks.m3u8",
+                "244p": "https://svs.itworkscdn.net/smc1live/smc1tv.smil/smc1publish/smc1tvhd_240p/chunks.m3u8"
+            }
+        },
+        "sharjah2": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8",
+                "720p": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8",
+                "360p": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8",
+                "244p": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_240p/chunks.m3u8"
+            }
+        },
+        "kalbaa": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kablatvpublish/kabtv_source/chunks.m3u8",
+                "720p": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kablatvpublish/kabtv_source/chunks.m3u8",
+                "360p": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kablatvpublish/kabtv_360p/chunks.m3u8",
+                "244p": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kablatvpublish/kabtv_240p/chunks.m3u8"
+            }
+        },
+        "alwosta": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustapublish/alwoustatv_source/chunks.m3u8",
+                "720p": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustapublish/alwoustatv_source/chunks.m3u8",
+                "360p": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustapublish/alwoustatv_360p/chunks.m3u8",
+                "244p": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustapublish/alwoustatv_240p/chunks.m3u8"
+            }
+        },
+        "alfojira": {
+            "links":{
+                "1080p": "https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8",
+                "720p": "https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8",
+                "360p": "https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_480p/chunks.m3u8",
+                "244p": "https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_240p/chunks.m3u8"
+            }
+        },
+        "addfra": {
+            "links":{
+                "الرابط 1": "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8"
+            }
+        },
+        "noorDubai": {
+            "links":{
+                "1080p": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b2400000.m3u8",
+                "720p": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b2400000.m3u8",
+                "360p": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8",
+                "244p": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b360000.m3u8"
+            }
+        },
+        "dubai": {
+            "links":{
+                "1080p": "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8",
+                "720p": "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8",
+                "360p": "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b850000.m3u8",
+                "244p": "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b850000.m3u8"
+            }
+        },
+        "samaDubai": {
+            "links":{
+                "1080p": "https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b8500000.m3u8",
+                "720p": "https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8",
+                "360p": "https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b850000.m3u8",
+                "244p": "https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b850000.m3u8"
+            }
+        },
+        "dubaiZaman": {
+            "links":{
+                "1080p": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8",
+                "720p": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8",
+                "360p": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b725000.m3u8",
+                "244p": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b360000.m3u8"
+            }
+        },
+        "dubaione": {
+            "links":{
+                "1080p": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8",
+                "720p": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8",
+                "360p": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8",
+                "244p": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8"
+            }
+        },
+        "abudabi": {
+            "links":{
+                "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8",
+                "الرابط 2": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8"
+            }
+        },
+        "imarate": {
+            "links":{
+                "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8",
+                "الرابط 2": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8"
+            }
+        },
+        "baynonah": {
+            "links":{
+                "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8",
+                "الرابط 2": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8"
+            }
+        },
+        "*yas": {
+            "links":{
+                "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8"
+            }
+        },
+        "_abudhabiDrama": {
+            "links":{
+                "الرابط 1": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_drama"
+            }
+        },
+        "ajman": {
+            "links":{
+                "الرابط 1": "https://cdn1.logichost.in/ajmantv/live/chunklist_w137834585.m3u8",
+                "الرابط 2": "https://cdn1.logichost.in/ajmantv/live/chunklist_w35031112.m3u8",
+                "الرابط 3": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+            }
+        }
+    },
+    "kw": {
+        "kowit1": {
+            "links":{
+                "1080p": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8",
+                "720p": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8",
+                "360p": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8",
+                "244p": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
+            }
+        },
+        "kowit2": {
+            "links":{
+                "1080p": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
+                "720p": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b1500000_t64NzIwcA==.m3u8",
+                "360p": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8",
+                "244p": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
+            }
+        },
+        "almajlis": {
+            "links":{
+                "1080p": "https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8",
+                "720p": "https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8",
+                "360p": "https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8",
+                "244p": "https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
+            }
+        },
+        "itraa": {
+            "links":{
+                "1080p": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
+                "720p": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8",
+                "360p": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8",
+                "244p": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
+            }
+        },
+        "alarabi": {
+            "links":{
+                "1080p": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
+                "720p": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8",
+                "360p": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8",
+                "244p": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
+            }
+        },
+        "al9arin": {
+            "links":{
+                "1080p": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8",
+                "720p": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8",
+                "360p": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8",
+                "244p": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
+            }
+        },
+        "al3adala": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231826"
+            }
+        },
+        "assaba7": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/275303"
+            }
+        },
+        "achahid": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231828"
+            }
+        },
+        "albawadi": {
+            "links":{
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/531462"
+            }
+        },
+        "alray": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056505"
+            }
+        },
+        "rissala": {
+            "links":{
+                "الرابط 1": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8"
+            }
+        }
+    },
+    "ym": {
+        "yaman": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/587",
+                "الرابط 2": "http://154.58.202.131:8000/play/a03u"
+            }
+        },
+        "bilkiss": {
+            "links":{
+                "الرابط 1": "http://213.57.91.138:8000/play/a068"
+            }
+        },
+        "sohil": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/309484"
+            }
+        },
+        "sa3ida": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/48630"
+            }
+        },
+        "_almassira": {
+            "links":{
+                "الرابط 1": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_1080p/chunks.m3u8",
+                "الرابط 2": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_720p/chunks.m3u8"
+            }
+        },
+        "adan": {
+            "links":{
+                "الرابط 1": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8"
+            }
+        },
+        "almohriya": {
+            "links":{
+                "الرابط 1": "https://starmenajo.com/hls/almahriah/index.m3u8"
+            }
+        },
+        "yamanChabab": {
+            "links":{
+                "الرابط 1": "https://starmenajo.com/hls/yemenshabab/index.m3u8"
+            }
+        },
+        "yamanToday": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/420",
+                "الرابط 2": "https://video.yementdy.tv/hls/yementoday_src.m3u8"
+            }
+        },
+        "hadramout": {
+            "links":{
+                "الرابط 1": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/hadhramaut.m3u8"
+            }
+        },
+        "sabaa": {
+            "links": {
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/584",
+                "الرابط 2": "http://154.58.202.131:8000/play/a03w"
+            }
+        }
+    },
+    "om": {
+        "sal6anatOman": {
+            "links":{
+                "1080p": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8",
+                "720p": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b2000000.m3u8",
+                "360p": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b900000.m3u8",
+                "244p": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b250000.m3u8"
+            }
+        },
+        "omanDirect": {
+            "links":{
+                "1080p": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8",
+                "720p": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8",
+                "360p": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8",
+                "244p": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
+            }
+        },
+        "omanTa9afiya": {
+            "links":{
+                "1080p": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8",
+                "720p": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8",
+                "360p": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8",
+                "244p": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
+            }
+        },
+        "isti9ama": {
+            "links":{
+                "الرابط 1": "https://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8",
+                "الرابط 2": "https://jmc-live.ercdn.net/alistiqama/alistiqama_360p.m3u8",
+                "الرابط 3": "http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8"
+            }
+        }
+    },
+    "bh": {
+        "bahrinQuran": {
+            "links":{
+                "1080p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1652649977_b2487000.m3u8",
+                "720p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1652649977_b2487000.m3u8",
+                "360p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1652649977_b978000.m3u8",
+                "244p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1652649977_b978000.m3u8"
+            }
+        },
+        "bahrin": {
+            "links":{
+                "1080p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w512379000_b1307000.m3u8",
+                "720p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w512379000_b1307000.m3u8",
+                "360p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w512379000_b978000.m3u8",
+                "244p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w512379000_b978000.m3u8"
+            }
+        },
+        "bahrinInter": {
+            "links":{
+                "1080p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1116894608_b2487000.m3u8",
+                "720p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1116894608_b2487000.m3u8",
+                "360p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1116894608_b978000.m3u8",
+                "244p": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1116894608_b978000.m3u8"
+            }
+        }
+    },
+    "or": {
+        "ordon": {
+            "links":{
+                "1080p": "https://jrtv-live.ercdn.net/jordanhd/jordanhd_720p.m3u8?DVR&v=1717690408",
+                "720p": "https://jrtv-live.ercdn.net/jordanhd/jordanhd_720p.m3u8?DVR&v=1717690408",
+                "360p": "https://jrtv-live.ercdn.net/jordanhd/jordanhd_480p.m3u8?DVR&v=1717690408",
+                "244p": "https://jrtv-live.ercdn.net/jordanhd/jordanhd_360p.m3u8?DVR&v=1717690408"
+            }
+        },
+        "ordonDrama": {
+            "links":{
+                "1080p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist/0.m3u8",
+                "720p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist/1.m3u8",
+                "360p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist/3.m3u8",
+                "244p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist/4.m3u8"
+            }
+        },
+        "ordonComedy": {
+            "links":{
+                "1080p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist/0.m3u8",
+                "720p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist/1.m3u8",
+                "360p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist/3.m3u8",
+                "244p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist/4.m3u8"
+            }
+        },
+        "ordonKitchen": {
+            "links":{
+                "1080p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist/4.m3u8",
+                "720p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist/3.m3u8",
+                "360p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist/1.m3u8",
+                "244p": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist/0.m3u8"
+            }
+        },
+        "*ordonArchif": {
+            "links":{
+                "الرابط 1": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8"
+            }
+        },
+        "ro2ya": {
+            "links":{
+                "1080p": "https://royatv-live.daioncdn.net/royatv/royatv_1080p.m3u8",
+                "720p": "https://royatv-live.daioncdn.net/royatv/royatv_720p.m3u8",
+                "360p": "https://royatv-live.daioncdn.net/royatv/royatv_480p.m3u8",
+                "244p": "https://royatv-live.daioncdn.net/royatv/royatv_360p.m3u8"
+            }
+        },
+        "ro2yaComedy": {
+            "links":{
+                "1080p": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/0.m3u8",
+                "720p": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/1.m3u8",
+                "360p": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/2.m3u8",
+                "244p": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/3.m3u8"
+            }
+        },
+        "ro2yaDrama": {
+            "links":{
+                "1080p": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/0.m3u8",
+                "720p": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/1.m3u8",
+                "360p": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/2.m3u8",
+                "244p": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/3.m3u8"
+            }
+        },
+        "ro2yaKids": {
+            "links":{
+                "1080p": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/1.m3u8",
+                "720p": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/2.m3u8",
+                "360p": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/3.m3u8",
+                "244p": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/4.m3u8"
+            }
+        },
+        "ro2yaKitchen": {
+            "links":{
+                "1080p": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist/0.m3u8",
+                "720p": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist/1.m3u8",
+                "360p": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist/2.m3u8",
+                "244p": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist/3.m3u8"
+            }
+        },
+        "mamlaka": {
+            "links":{
+                "الرابط 1": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8",
+                "1080p": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/profile_0/chunklist_dvr.m3u8",
+                "720p": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/profile_1/chunklist_dvr.m3u8",
+                "360p": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/profile_2/chunklist_dvr.m3u8",
+                "244p": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/profile_3/chunklist_dvr.m3u8"
+            }
+        },
+        "Amman": {
+            "links":{
+                "1080p": "https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?sid=8kEDEN_xNEagwr34lQLDBg&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=1500000",
+                "720p": "https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?sid=8kEDEN_xNEagwr34lQLDBg&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=1500000",
+                "360p": "https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_480p.m3u8?sid=8kEDEN_xNEagwr34lQLDBg&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=1000000",
+                "244p": "https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_360p.m3u8?sid=8kEDEN_xNEagwr34lQLDBg&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=600000"
+            }
+        },
+        "karamich": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/725"
+            }
+        },
+        "toyorJanna": {
+            "links":{
+                "الرابط 1": "http://149.62.177.103:8000/play/a01a"                
+            }
+        }
+    },
+    "sy": {
+        "sorya1": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8",
+                "720p": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8",
+                "360p": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_480p/chunks_dvr.m3u8",
+                "244p": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_360p/chunks_dvr.m3u8"
+            }
+        },
+        "sorya2": {
+            "links":{
+                "1080p": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8",
+                "720p": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_720p/chunks.m3u8",
+                "360p": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_480p/chunks.m3u8",
+                "244p": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_360p/chunks.m3u8"
+            }
+        },
+        "halabToday": {
+            "links":{
+                "الرابط 2": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/17410"
+            }
+        },
+        "lana": {
+            "links":{
+                "الرابط 1": "https://p-ltv.akamaized.net/ltv/ltv.m3u8",
+                "الرابط 2": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/422"
+            }
+        }
+    },
+    "lb": {
+        "aljadid": {
+            "links":{
+                "الرابط 1": "http://185.9.2.18/chid_391/mono.m3u8"
+            }
+        },
+        "MTV": {
+            "links":{
+                "الرابط 1": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+                "الرابط 2": "https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8"
+            }
+        },
+        "LBC": {
+            "links":{
+                "الرابط 1": "http://185.9.2.18/chid_327/mono.m3u8"
+            }
+        },
+        "LBCInternational": {
+            "links":{
+                "الرابط 1": "http://185.9.2.18/chid_521/index.m3u8"
+            }
+        },
+        "OTV": {
+            "links":{
+                "الرابط 1": "http://185.9.2.18/chid_312/index.m3u8"
+            }
+        },
+        "NBN": {
+            "links":{
+                "الرابط 1": "http://5.9.119.146:8883/nbn/index.m3u8"
+            }
+        },
+        "futur": {
+            "links":{
+                "الرابط 1": "https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/chunks.m3u8",
+                "الرابط 2": "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8"
+            }
+        },
+        "teleLiban": {
+            "links":{
+                "الرابط 2": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/448",
+                "الرابط 1": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8"
+            }
+        }
+    },
+    "sportArab": {
+        "so3odiyaSport1": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7993.ts"
+            }
+        },
+        "so3odiyaSport2": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7996.ts"
+            }
+        },
+        "so3odiyaSport3": {
+            "links":{
+                "الرابط 1": "http://154.58.202.185:8000/play/a0a2",
+                "الرابط 2": "http://149.62.177.103:8000/play/a053",
+                "الرابط 3": "http://brex.fun:8080/27685241750679/5oA796YSr7/640216",
+                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/640217"
+            }
+        },
+        "sharjahSport1": {
+            "links":{
+                "الرابط 1": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8",
+                "الرابط 2": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+                "الرابط 3": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil//smc4sportspublish/smc4tv_source/chunks.m3u8"
+            }
+        },
+        "sharjahSport2": {
+            "links":{
+                "الرابط 1": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8"
+            }
+        },
+        "omanSport": {
+            "links":{
+                "1080p": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8",
+                "720p": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b2000000.m3u8",
+                "360p": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8",
+                "244p": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b250000.m3u8"
+            }
+        },
+        "bahrinSport1": {
+            "links":{
+                "1080p": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1859407451_b1307000.m3u8",
+                "720p": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1859407451_b1307000.m3u8",
+                "360p": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1859407451_b978000.m3u8",
+                "244p": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1859407451_b978000.m3u8"
+            }
+        },
+        "bahrinSport2": {
+            "links":{
+                "1080p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w49934462_b2487000.m3u8",
+                "720p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w49934462_b2487000.m3u8",
+                "360p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w49934462_b978000.m3u8",
+                "244p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w49934462_b978000.m3u8"
+            }
+        },
+        "dubaiRacing1": {
+            "links":{
+                "1080p": "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b4000000.m3u8",
+                "720p": "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b2500000.m3u8",
+                "360p": "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b700000.m3u8",
+                "244p": "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b700000.m3u8"
+            }
+        },
+        "dubaiRacing2": {
+            "links":{
+                "1080p": "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8",
+                "720p": "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8",
+                "360p": "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b300000.m3u8",
+                "244p": "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b300000.m3u8"
+            }
+        },
+        "dubaiRacing3": {
+            "links":{
+                "1080p": "https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8",
+                "720p": "https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8",
+                "360p": "https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b300000.m3u8",
+                "244p": "https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b300000.m3u8"
+            }
+        },
+        "dubaiSport1": {
+            "links":{
+                "1080p": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8",
+                "720p": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1500000.m3u8",
+                "360p": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1000000.m3u8",
+                "244p": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b200000.m3u8"
+            }
+        },
+        "dubaiSport2": {
+            "links":{
+                "1080p": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8",
+                "720p": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8",
+                "360p": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8",
+                "244p": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8"
+            }
+        },
+        "dubaiSport3": {
+            "links":{
+                "1080p": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8",
+                "720p": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8",
+                "360p": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8",
+                "244p": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8"
+            }
+        },
+        "abudhabiSport1": {
+            "links":{
+                "الرابط 1": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
+            }
+        },
+        "abudhabiSport2": {
+            "links":{
+                "الرابط 2": "https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd",
+                "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8"
+            }
+        },
+        "abudhabiSportAsia1": {
+            "links":{
+                "1080p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/319516",
+                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/583807"
+            }
+        },
+        "abudhabiSportAsia2": {
+            "links":{
+                "1080p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/319517",
+                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/583808"
+            }
+        },
+        "abudhabiSportPermium1": {
+            "links":{
+                "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/992043"
+            }
+        },
+        "abudhabiSportPermium2": {
+            "links":{
+                "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/992042"
+            }
+        },
+        "kowitSport1": {
+            "links":{
+                "1080p": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
+                "720p": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b2500000_t64NzIwcA==.m3u8",
+                "360p": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8",
+                "244p": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
+            }
+        },
+        "kowitSport2": {
+            "links":{
+                "1080p": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8",
+                "720p": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8",
+                "360p": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8",
+                "244p": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
+            }
+        },
+        "arriyadiaMa": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/597",
+                "الرابط 2": "https://cdnet.alwaysdata.net/maro66/maarrytnt.php?m3u8"
+            }
+        },
+        "ONSport1": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7956.ts"
+            }
+        },
+        "ONSport2": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7957.ts"
+            }
+        },
+        "NileSport": {
+            "links":{
+                "الرابط 1": "http://93.184.10.248/NileSport/index.m3u8",
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7951.ts"
+            }
+        },
+        "alahli": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7899.ts"
+            }
+        },
+        "azamalik": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7970.ts"
+            }
+        },
+        "iraqiyaSport": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/676"
+            }
+        },
+        "libyaSport1": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/49526",
+                "الرابط 2": "http://154.58.202.185:8000/play/a05x"
+            }
+        },
+        "libyaSport2": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/200824",
+                "الرابط 2": "http://154.58.202.185:8000/play/a05z"
+            }
+        },
+        "*ordonSport": {
+            "links": {
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/535"
+            }
+        },
+        "*moritaniyaSport": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/63929"
+            }
+        }
+    },
+    "pl": {
+        "filistine": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/616"
+            }
+        },
+        "filistineMobachir": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/617"
+            }
+        },
+        "mossawat": {
+            "links":{
+                "1080p": "https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8",
+                "720p": "https://pbc.furrera.ps/musawahd/tracks-v2a1/mono.m3u8",
+                "360p": "https://pbc.furrera.ps/musawahd/tracks-v3a1/mono.m3u8",
+                "244p": "https://pbc.furrera.ps/musawahd/tracks-v3a1/mono.m3u8"
+            }
+        },
+        "alakssa": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/620",
+                "الرابط 2": "https://s1.ettehadlive.com/live/68/chunklist_w1973059032.m3u8",
+                "الرابط 3": "https://s1.ettehadlive.com/live/68/chunklist_w1208158007.m3u8",
+                "الرابط 4": "http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8"
+            }
+        },
+        "filistineToday": {
+            "links":{
+                "الرابط 1": "https://s1.ettehadlive.com/live/12/chunklist_w1773692181.m3u8?v=1717684924",
+                "الرابط 2": "https://s1.ettehadlive.com/live/12/chunklist_w1801467224.m3u8",
+                "الرابط 3": "https://live.paltodaytv.com/paltv/live/chunklist_w1839669699_vo.m3u8",
+                "الرابط 4": "https://live.paltodaytv.com/paltv/live/playlist.m3u8"
+            }
+        },
+        "alfajr1": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/64"
+            }
+        },
+        "alfajr2": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/65"
+            }
+        },
+        "alfajr3": {
+            "links":{
+                "الرابط 1": "http://platform.topuphost.com:8577/live/alfajr3.stream/playlist.m3u8"
+            }
+        },
+        "alfajr4": {
+            "links":{
+                "الرابط 1": "http://platform.topuphost.com:8577/live/alfajr4.stream/playlist.m3u8"
+            }
+        },
+        "alfajr5": {
+            "links":{
+                "الرابط 1": "https://www.elahmad.com/tv/watchtv.php?id=alfajertv3"
+            }
+        },
+        "wikalatMa3an": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/622",
+                "الرابط 2": "http://154.58.202.131:8000/play/a03e"
+            }
+        },
+        "najah": {
+            "links":{
+                "الرابط 1": "https://streaming.najah.edu:8443/hls/AlNajah_hd720/index.m3u8",
+                "الرابط 2": "https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8"
+            }
+        },
+        "raj3in": {
+            "links":{
+                "الرابط 1": "https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8",
+                "الرابط 2": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8"
+            }
+        },
+        "kolnass": {
+            "links":{
+                "الرابط 1": "https://htvint.mada.ps/kolalnas/tracks-v1a1/mono.m3u8",
+                "الرابط 2": "https://htvint.mada.ps/kolalnas/index.m3u8"
+            }
+        },
+        "watan": {
+            "links":{
+                "الرابط 1": "https://htvmada.mada.ps:4443/wattan/tracks-v1a1/mono.m3u8"
+            }
+        },
+        "hikaya": {
+            "links":{
+                "الرابط 1": "https://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8"
+            }
+        },
+        "raya": {
+            "links":{
+                "الرابط 1": "https://htvmada.mada.ps:4443/raya/tracks-v1a1/mono.m3u8",
+                "الرابط 2": "http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8"
+            }
+        },
+        "filistineTa3limiya": {
+            "links":{
+                "1080p": "https://pbc.furrera.ps/PalestineEDU/tracks-v1a1/mono.m3u8",
+                "720p": "https://pbc.furrera.ps/PalestineEDU/tracks-v2a1/mono.m3u8",
+                "360p": "https://pbc.furrera.ps/PalestineEDU/tracks-v3a1/mono.m3u8",
+                "244p": "https://pbc.furrera.ps/PalestineEDU/tracks-v3a1/mono.m3u8"
+            }
+        }
+    },
+    "iq": {
+        "arafidayn": {
+            "links":{
+                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/225175",
+                "الرابط 2": "http://mo3ad.xyz/U9pXkj6ZCG/KZXN37xjz7/253"
+            }
+        },
+        "attasi3a": {
+            "links":{
+                "الرابط 1": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8?v=1717684924",
+                "الرابط 2": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8?v=3296702621",
+                "الرابط 3": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8"
+            }
+        },
+        "alfalouja": {
+            "links":{
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/45555"
+            }
+        },
+        "albaghdadiya": {
+            "links":{
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/56857",
+                "الرابط 2": "http://149.62.177.103:8000/play/a046"
+            }
+        },
+        "charkiya": {
+            "links":{
+                "الرابط 1": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1145048897.m3u8",
+                "الرابط 2": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8"
+            }
+        },
+        "arrachid": {
+            "links":{
+                "الرابط 1": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8"
+            }
+        },
+        "horra": {
+            "links":{
+                "1080p": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904-b/MBNV_ALHURRA_MAIN_HLS/master_12.m3u8",
+                "720p": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master_11.m3u8",
+                "360p": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master_13.m3u8",
+                "244p": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master_14.m3u8"
+            }
+        },
+        "soumariya": {
+            "links":{
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/60779"
+            }
+        },
+        "iraqiyaAkhbar": {
+            "links":{
+                "الرابط 1": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8",
+                "الرابط 2": "http://wolvestv.net:8880/farahxalbayati/ar15681985/60747"
+            }
+        },
+        "iraqiya": {
+            "links":{
+                "الرابط 1": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chunks.m3u8",
+                "الرابط 2": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
+            }
+        },
+        "ichtar": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/294795"
+            }
+        },
+        "utvIraq": {
+            "links":{
+                "الرابط 1": "https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8",
+                "الرابط 2":"http://wolvestv.net:8880/farahxalbayati/ar15681985/45550"
+            }
+        }
+    },
+    "eg": {
+        "nass": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/42543"
+            }
+        },
+        "_assafa": {
+            "links":{
+                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/283152"
+            }
+        },
+        "achark": {
+            "links":{
+                "الرابط 1": "https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8", 
+                "الرابط 2": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8"
+            }
+        },
+        "mikamilin": {
+            "links":{
+                "1080p": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b3128000.m3u8?v=1717676530",
+                "720p": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b2128000.m3u8?v=1717676530",
+                "360p": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8?v=1717676530",
+                "244p": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b3128000.m3u8?v=3296702621"
+            }
+        },
+        "almissriya": {
+            "links":{
+                "الرابط 1": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8"
+            }
+        },
+        "canat1":{
+            "links":{
+                "الرابط 1": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ertu1.m3u8"
+            }
+        },
+        "canat2": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/785"
+            }
+        },
+        "ONLive": {
+            "links":{
+                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2886"
+            }
+        },
+        "ONDrama": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/807",
+                "الرابط 2": "http://149.62.177.103:8000/play/a08h"
+            }
+        },
+        "ONEnt": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/806",
+                "الرابط 2": "http://149.62.177.103:8000/play/a08f",
+                "الرابط 3": "https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8"
+            }
+        },
+        "DMCdrama": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/792"
+            }
+        },
+        "DMC": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/812"
+            }
+        },
+        "_NileComedy": {
+            "links":{
+                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1233"
+            }
+        },
+        "NileCinema": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/855"
+            }
+        },
+        "NileLife": {
+            "links":{
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/38830",
+                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/2159"
+            }
+        },
+        "NileDrama": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/854",
+                "الرابط 2": "http://185.9.2.18/chid_352/mono.m3u8"
+            }
+        },
+        "NileCulture": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/849"
+            }
+        },
+        "NileFamily": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/850"
+            }
+        },
+        "NileNews": {
+            "links":{
+                "الرابط 1": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/niletv.m3u8"
+            }
+        },
+        "NileInternational": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/19163"
+            }
+        },
+        "mi7war": {
+            "links":{
+                "الرابط 1": "http://154.58.202.131:8000/play/a04r",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/835"
+            }
+        },
+        "alhayat": {
+            "links":{
+                "الرابط 1": "http://185.9.2.18/chid_659/mono.m3u8",
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7904.ts"
+            }
+        },
+        "alhayatDrama": {
+            "links":{
+                "الرابط 1": "http://213.57.91.138:8000/play/a06s"
+            }
+        },
+        "CBC": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056520"
+            }
+        },
+        "CBCDrama": {
+            "links":{
+                "الرابط 1": "http://213.57.91.138:8000/play/a06q"
+            }
+        },
+        "CBCSofra": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056523"
+            }
+        },
+        "PanoramaFilm": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/830"
+            }
+        },
+        "PanoramaDrama1": {
+            "links":{
+                "الرابط 1": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8"
+            }
+        },
+        "PanoramaDrama2": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/800"
+            }
+        },
+        "PanoramaFood": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/799"
+            }
+        },
+        "annhar": {
+            "links":{
+                "الرابط 1": "http://213.57.91.138:8000/play/a06m"
+            }
+        },
+        "annharDrama": {
+            "links":{
+                "الرابط 1": "http://185.9.2.18/chid_518/mono.m3u8",
+                "الرابط 2": "http://213.57.91.138:8000/play/a06n"
+            }
+        },
+        "_annharCinema": {
+            "links":{
+                "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/300995"
+            }
+        },
+        "sadalbalad1": {
+            "links":{
+                "الرابط 1": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/elbaladtv.m3u8"
+            }
+        },
+        "sadalbalad2": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/73092"
+            }
+        },
+        "sadalbaladDrama": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/844"
+            }
+        },
+        "alghadAlarabi": {
+            "links":{
+                "1080p": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_1080p.m3u8",
+                "720p": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_720p.m3u8",
+                "360p": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_480p.m3u8",
+                "244p": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_360p.m3u8"
+            }
+        },
+        "TenTv": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/841"
+            }
+        }
+    },
+    "rotanas": {
+        "rotanaCinema": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/52802.ts"
+            }
+        },
+        "rotanaMissriya": {
+            "links":{
+                "الرابط 1": "http://149.62.177.103:8000/play/a02x",
+                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/1339",
+                "الرابط 3": "http://149.62.177.103:8000/play/a02t"
+            }
+        },
+        "RotanaKids": {
+            "links":{
+                "الرابط 1": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo"
+            }
+        },
+        "rotanaDrama": {
+            "links":{
+                "الرابط 1": "http://185.9.2.18/chid_2179/mono.m3u8",
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/52799.ts"
+            }
+        },
+        "rotanaComedy": {
+            "links":{
+                "الرابط 1": "http://185.9.2.18/chid_5224/mono.m3u8",
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/52797.ts"
+            }
+        },
+        "rotanaClassic": {
+            "links":{
+                "الرابط 1": "https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0b6",
+                "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/59201"
+            }
+        },
+        "rotanaAflam": {
+            "links":{
+                "الرابط 1": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo",
+                "الرابط 2": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8"
+            }
+        }
+    },
+    "sd": {
+        "soudan": {
+            "links":{
+                "الرابط 1": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8"
+            }
+        },
+        "khor6om": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/150113"
+            }
+        },
+        "azzarka": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/600990"
+            }
+        }
+    },
+    "tn": {
+        "alinsan": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/611"
+            }
+        },
+        "alwataniya1": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/606"
+            }
+        },
+        "alwataniya2": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/607"
+            }
+        },
+        "nassma": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058160",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/289989"
+            }
+        },
+        "hiwarTounossi": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/609"
+            }
+        },
+        "hanabal": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058162",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1007"
+            }
+        },
+        "azzaytouna": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058175",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/230663"
+            }
+        },
+        "aljanoubiya": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058165",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1004"
+            }
+        },
+        "almosta9ila": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058177"
+            }
+        }
+    },
+    "ma": {
+        "oulaL3youn": {
+            "links":{
+                "الرابط 1": "https://oppomu.serv00.net/maro66/malaayoune.php?m3u8"
+            }
+        },
+        "oulaMA": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/595",
+                "الرابط 2": "https://xddrts.alwaysdata.net/maro66/maaloula.php?m3u8"
+            }
+        },
+        "m2": {
+            "links":{
+                "الرابط 1": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+            }
+        },
+        "arriyadiaMa": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/597",
+                "الرابط 2": "https://cdnet.alwaysdata.net/maro66/maarrytnt.php?m3u8"
+            }
+        },
+        "attakafiya": {
+            "links":{
+                "الرابط 1": "https://oppomu.serv00.net/maro66/maarrabia.php?m3u8"
+            }
+        },
+        "maghribiya": {
+            "links":{
+                "الرابط 1": "https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-dash/almaghribia.mpd",
+                "الرابط 2": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/594",
+                "الرابط 3": "https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8"
+            }
+        },
+        "assadissa": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/596",
+                "الرابط 2": "https://xddrts.alwaysdata.net/maro66/maassadi.php?m3u8"
+            }
+        },
+        "aflam": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/3016.ts"
+            }
+        },
+        "tamazightMa": {
+            "links":{
+                "الرابط 1": "https://cdnet.alwaysdata.net/maro66/matamaz.php?m3u8"
+            }
+        },
+        "medi1": {
+            "links":{
+                "الرابط 1": "https://streaming2.medi1tv.com/live/smil:medi1ar.smil/chunklist_w535235413_b1428000_slar.m3u8",
+                "الرابط 2": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w130535054_b2256000_slar.m3u8"
+            }
+        }
+    },
+    "dz": {
+        "oulaJZ": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058180",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1041"
+            }
+        },
+        "taniyaJZ": {
+            "links":{
+                "الرابط 1": "http://162.212.179.33/dvrfl05/gin-canalalgerie/index.m3u8"
+            }
+        },
+        "ikhbariyaJZ": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/35269.ts"
+            }
+        },
+        "amazighiyaJZ": {
+            "links":{
+                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/604"
+            }
+        },
+        "quranJZ": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/35257.ts"
+            }
+        },
+        "aljazayria": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058187",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1012"
+            }
+        },
+        "alma3rifaJZ": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/35258.ts"
+            }
+        },
+        "addakira": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058189"
+            }
+        },
+        "samira": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058191",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1031"
+            }
+        },
+        "chorokNews": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058200",
+                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/665017041"
+            }
+        },
+        "chorok": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/35259.ts"
+            }
+        },
+        "aljazayerN1": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058197",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/143045"
+            }
+        },
+        "annahar": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058201",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056503"
+            }
+        },
+        "alaniss": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058192",
+                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/2926"
+            }
+        },
+        "albilad": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/35260.ts"
+            }
+        },
+        "alhayatJZ": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058206",
+                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/665017056"
+            }
+        },
+        "alhaddaf": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058195",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1030"
+            }
+        },
+        "alfajrJZ": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058198",
+                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/1749"
+            }
+        },
+        "aljazayerDawliya": {
+            "links":{
+                "1080p": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8",
+                "720p": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_720p/chunks.m3u8",
+                "360p": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_360p/chunks.m3u8",
+                "244p": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8"
+            }
+        },
+        "alwataniyaJZ": {
+            "links":{
+                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058207"
+            }
+        }
+    },
+    "ly": {
+        "atanaso7": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/49528"
+            }
+        },
+        "asslam": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57107"
+            }
+        },
+        "libyaL7adat": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/49531"
+            }
+        },
+        "wassa6": {
+            "links":{
+                "الرابط 1": "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8"
+            }
+        },
+        "libyaAlwataniya": {
+            "links":{
+                "الرابط 1": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8"
+            }
+        },
+        "libyaRassmiya": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/701",
+                "الرابط 2": "http://154.58.202.185:8000/play/a05y"
+            }
+        },
+        "almassar": {
+            "links":{
+                "الرابط 1": "https://starmenajo.com/hls/almasar/index.m3u8"
+            }
+        },
+        "libyaMosta9bal": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/83214"
+            }
+        }
+    },
+    "mo": {
+        "moritaniya1": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/568",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0a5",
+                "الرابط 3":"http://154.58.202.185:8000/play/a0a4"
+            }
+        },
+        "moritaniya2": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/567",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0a6"
+            }
+        },
+        "morabiton": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/571",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0ae"
+            }
+        },
+        "moritaniyaSport": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/63929"
+            }
+        },
+        "almadina": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/301472",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0ai"
+            }
+        }
+    },
+    "kids": {
+        "*ro2yaKids": {
+            "links":{
+                "1080p": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/1.m3u8",
+                "720p": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/2.m3u8",
+                "360p": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/3.m3u8",
+                "244p": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/4.m3u8"
+            }
+        },
+        "majid": {
+            "links":{
+                "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8"
+            }
+        },
+        "SpaceToon": {
+            "links":{
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
+                "الرابط 2": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+            }
+        },
+        "GulliArabic": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400652543"
+            }
+        },
+        "CartoonNetworkArab1": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/15371"
+            }
+        },
+        "baraem": {
+            "links":{
+                "الرابط 1": "http://apk.arabic-ch.space/live/070/index.m3u8?t=EwGh6ujQ4sL0AwfEq16k-w&e=1766151524"
+            }
+        },
+        "mbc3": {
+            "links":{
+                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/2835.ts"
+            }
+        },
+        "_mbc3Euroup": {
+            "links":{
+                "الرابط 1": "https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8",
+                "الرابط 2": "https://mbc-3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_2.m3u8",
+                "الرابط 3": "https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_5.m3u8"
+            }
+        },
+        "RotanaKids": {
+            "links":{
+                "الرابط 1": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo",
+                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056619"
+            }
+        },
+        "jeem": {
+            "links":{
+                "الرابط 1": "http://norkadymm.top:8080/191703089055131/01703089055686/52690"
+            }
+        },
+        "BeJunior": {
+            "links": {
+                "الرابط 1": "http://tv.123tv.to:8080/1A64T2q8PH/ewviImt2lD/98140"
+            }
+        },
+        "nickJr": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400217868"
+            }
+        },
+        "nickelodeon": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/122114"
+            }
+        },
+        "nickToons": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/122101"
+            }
+        },
+        "cartoonito": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400652543"
+            }
+        },
+        "majd": {
+            "links":{
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129862"
+            }
+        },
+        "majdRawda": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331532"
+            }
+        },
+        "toyorJanna": {
+            "links":{
+                "الرابط 1": "http://149.62.177.103:8000/play/a01a"                
+            }
+        },
+        "karamich": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/725"
+            }
+        },
+        "amoYazid": {
+            "links": {
+                "الرابط 1": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8",
+                "الرابط 2": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8"
+            }
+        },
+        "atfalMawahib": {
+            "links":{
+                "الرابط 1": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist_w615743277.m3u8",
+                "الرابط 2": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist_w350798062.m3u8"
+            }
+        }
+    },
+    "newss": {
+        "aljazeera": {
+            "links":{
+                "1080p": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/01.m3u8",
+                "720p": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/02.m3u8",
+                "360p": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/05.m3u8",
+                "244p": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/06.m3u8"
+            }
+        },
+        "aljazeeraDirect": {
+            "links":{
+                "1080p": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/01.m3u8",
+                "720p": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/02.m3u8",
+                "360p": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/05.m3u8",
+                "244p": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/06.m3u8"
+            }
+        },
+        "char9SA": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_source/chunks_dvr.m3u8",
+                "720p": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_720p/chunks_dvr.m3u8",
+                "360p": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_480p/chunks_dvr.m3u8",
+                "244p": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_240p/chunks_dvr.m3u8"
+            }
+        },
+        "alhiwar": {
+            "links":{
+                "1080p": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b3128000.m3u8",
+                "720p": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b2128000.m3u8",
+                "480p": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b928000.m3u8",
+                "360p": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b928000.m3u8"
+            }
+        },
+        "horra": {
+            "links":{
+                "1080p": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904-b/MBNV_ALHURRA_MAIN_HLS/master_12.m3u8",
+                "720p": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master_11.m3u8",
+                "360p": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master_13.m3u8",
+                "244p": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master_14.m3u8"
+            }
+        },
+        "bbcArabic": {
+            "links":{
+                "الرابط 1": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8",
+                "الرابط 2": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
+            }
+        },
+        "dw": {
+            "links":{
+                "1080p": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8",
+                "720p": "https://dwamdstream103.akamaized.net/hls/live/2015526-b/dwstream103/stream04/streamPlaylist.m3u8",
+                "360p": "https://dwamdstream103.akamaized.net/hls/live/2015526-b/dwstream103/stream02/streamPlaylist.m3u8",
+                "288p": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream01/streamPlaylist.m3u8"
+            }
+        },
+        "alarabiya": {
+            "links":{
+                "1080p": "https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_38.m3u8",
+                "720p": "https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_37.m3u8",
+                "360p": "https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_34.m3u8",
+                "244p": "https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_33.m3u8"
+            }
+        },
+        "alhadat": {
+            "links":{
+                "1080p": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
+                "720p": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8",
+                "360p": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_360p/chunks.m3u8",
+                "244p": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_240p/chunks.m3u8"
+            }
+        },
+        "skynews": {
+            "links":{
+                "1080p": "https://stream.skynewsarabia.com/hls/sna_720.m3u8",
+                "720p": "https://stream.skynewsarabia.com/hls/sna_480.m3u8",
+                "360p": "https://stream.skynewsarabia.com/hls/sna_360.m3u8",
+                "244p": "https://stream.skynewsarabia.com/hls/sna_240.m3u8"
+            }
+        },
+        "cnbcArabiya": {
+            "links":{
+                "1080p": "https://cnbc-live.akamaized.net/cnbc/master_1080p.m3u8",
+                "720p": "https://cnbc-live.akamaized.net/cnbc/master_720p.m3u8",
+                "360p": "https://cnbc-live.akamaized.net/cnbc/master_360p.m3u8",
+                "244p": "https://cnbc-live.akamaized.net/cnbc/master_360p.m3u8"
+            }
+        },
+        "chinaArabic": {
+            "links":{
+                "الرابط 1": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
+            }
+        },
+        "trtArabic": {
+            "links":{
+                "1080p": "https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8",
+                "720p": "https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8",
+                "480p": "https://tv-trtarabi.medya.trt.com.tr/master_480.m3u8",
+                "360p": "https://tv-trtarabi.medya.trt.com.tr/master_360.m3u8"
+            }
+        },
+        "france24": {
+            "links":{
+                "الرابط 1": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+                "الرابط 2": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8"
+            }
+        },
+        "rt2day": {
+            "links": {
+                "1080p": "https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8",
+                "720p": "https://rt-arb.rttv.com/dvr/rtarab/playlist_2500Kb.m3u8",
+                "480p": "https://rt-arb.rttv.com/dvr/rtarab/playlist_1600Kb.m3u8",
+                "288p": "https://rt-arb.rttv.com/dvr/rtarab/playlist_800Kb.m3u8"
+            }
+        }
+    },
+    "islam": {
+        "quoranSA": {
+            "links":{
+                "1080p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8",
+                "720p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_2.m3u8",
+                "360p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_5.m3u8",
+                "244p": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8"
+            }
+        },
+        "sonnaSA": {
+            "links":{
+                "1080p": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+            }
+        },
+        "iqra": {
+            "links":{
+                "1080p": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/0.m3u8?v=3296702621",
+                "720p": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/1.m3u8?v=3296702621",
+                "360p": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/2.m3u8?v=3296702621",
+                "244p": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/3.m3u8?v=3296702621"
+            }
+        },
+        "makka": {
+            "links":{
+                "الرابط 1": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w93405166.m3u8?v=3296702621",
+                "الرابط 2": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w117824305.m3u8?v=3296702621",
+                "الرابط 3": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w1356437359.m3u8"
+            }
+        },
+        "saad": {
+            "links":{
+                "الرابط 1": "https://win.holol.com/live/saad/chunklist.m3u8"
+            }
+        },
+        "isti9ama": {
+            "links":{
+                "الرابط 1": "https://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8",
+                "الرابط 2": "https://jmc-live.ercdn.net/alistiqama/alistiqama_360p.m3u8",
+                "الرابط 3": "http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
+                "الرابط 4": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8"
+            }
+        },
+        "majdKoran": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/882",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0am"
+            }
+        },
+        "majdSonna": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/881",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0an"
+            }
+        },
+        "noorDubai": {
+            "links":{
+                "1080p": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b2400000.m3u8",
+                "720p": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b2400000.m3u8",
+                "360p": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8",
+                "244p": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b360000.m3u8"
+            }
+        },
+        "bahrinQuran": {
+            "links":{
+                "1080p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1652649977_b2487000.m3u8",
+                "720p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1652649977_b2487000.m3u8",
+                "360p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1652649977_b978000.m3u8",
+                "244p": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1652649977_b978000.m3u8"
+            }
+        },
+        "assadissa": {
+            "links":{
+                "720p": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8",
+                "480p": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8",
+                "360p": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_360p/chunks_dvr.m3u8",
+                "244p": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_240p/chunks_dvr.m3u8"
+            }
+        },
+        "sharjah2": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8",
+                "720p": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8",
+                "360p": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8",
+                "244p": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_240p/chunks.m3u8"
+            }
+        },
+        "arra7ma": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/884",
+                "الرابط 2": "http://154.58.202.185:8000/play/a0b3"
+            }
+        },
+        "rissala": {
+            "links":{
+                "الرابط 1": "http://154.58.202.185:8000/play/a0bb",
+                "الرابط 2": "http://149.62.177.103:8000/play/a02w"
+            }
+        }
+    },
+    "documentries": {
+        "aljazeeraDocu": {
+            "links":{
+                "1080p": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/01.m3u8",
+                "720p": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/02.m3u8",
+                "360p": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/05.m3u8",
+                "244p": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/06.m3u8"
+            }
+        },
+        "natgeoad": {
+            "links":{
+                "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8",
+                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/2970.ts"
+            }
+        },
+        "char9DocSA": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8",
+                "720p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_720p/chunks_dvr.m3u8",
+                "480p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_480p/chunks_dvr.m3u8",
+                "244p": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_240p/chunks_dvr.m3u8"
+            }
+        },
+        "char9DiscovreySA": {
+            "links":{
+                "1080p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8",
+                "720p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_720p/chunks_dvr.m3u8",
+                "480p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_480p/chunks_dvr.m3u8",
+                "244p": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_240p/chunks_dvr.m3u8",
+                "الرابط 1": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+            }
+        },
+        "alarabiyaBaramij": {
+            "links": {
+                "1080p": "https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index_1.m3u8",
+                "720p": "https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index_2.m3u8",
+                "480p": "https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index_3.m3u8",
+                "244p": "https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index_4.m3u8" 
+            }
+        },
+        "alarabi": {
+            "links":{
+                "1080p": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
+                "720p": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8",
+                "360p": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8",
+                "244p": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
+            }
+        },
+        "takafiyaSA": {
+            "links":{
+                "1080p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8"
+            }
+        },
+        "omanTa9afiya": {
+            "links":{
+                "1080p": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8",
+                "720p": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8",
+                "360p": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8",
+                "244p": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8"
+            }
+        },
+        "attakafiya": {
+            "links":{
+                "الرابط 1": "https://oppomu.serv00.net/maro66/maarrabia.php?m3u8"
+            }
+        },
+        "yamanDoc": {
+            "links": {
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129882",
+                "الرابط 2": "http://154.58.202.131:8000/play/a03p"
+            }
+        },
+        "kayf": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/913",
+                "الرابط 2": "http://154.58.202.131:8000/play/a04t"
+            }
+        },
+        "natureTime": {
+            "links": {
+                "الرابط 1": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8",
+                "الرابط 2": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+                "الرابط 3": "https://stitcher.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=24f9129c-4a1d-11ef-b473-2ab7b6cbcb35",
+                "الرابط 4": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6eb9bb4-6b13-4301-ab2b-7475ad0a7145"
+            }
+        },
+        "animalPlanet": {
+            "links":{
+                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/18996",
+                "الرابط 2": "http://mu3241218.oknirvana.club:8880/D12m4714/96067027/2154",
+                "الرابط 3": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/1467"
+            }
+        },
+        "natgeoWild": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/122100"
+            }
+        },
+        "discovery": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/122107"
+            }
+        },
+        "discoveryFamily": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/28535"
+            }
+        },
+        "discoveryId": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/6392"
+            }
+        },
+        "history1": {
+            "links":{
+                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/171507"
+            }
+        },
+        "history2": {
+            "links":{
+                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/107381"
+            }
+        }
+    },
+    "frances": {
+        "tf1": {
+            "links": {
+                "الرابط 2": "http://41.205.93.154/TF1/mpegts",
+                "الرابط 1": "https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8"
+            }
+        },
+        "france2": {
+            "links": {
+                "الرابط 1": "https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8"
+            }
+        },
+        "france3": {
+            "links": {
+                "الرابط 1": "http://tvmate.icu:8080/60023165/94429242/160298",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148466"
+            }
+        },
+        "france4": {
+            "links": {
+                "الرابط 1": "http://tvmate.icu:8080/60023165/94429242/160299",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148467"
+            }
+        },
+        "france5": {
+            "links": {
+                "الرابط 1": "http://tvmate.icu:8080/60023165/94429242/160300",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148468"
+            }
+        },
+        "m6": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148462",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/270"
+            }
+        },
+        "arte": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/7411",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12907"
+            }
+        },
+        "rtl9": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32794",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/273"
+            }
+        },
+        "syfy": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32817",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/318"
+            }
+        },
+        "c8": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32759"
+            }
+        },
+        "tv5": {
+            "links": {
+                "الرابط 1": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/7528"
+            }
+        },
+        "bfmTv": {
+            "links": {
+                "الرابط 1": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END",
+                "الرابط 2": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
+            }
+        },
+        "figaro": {
+            "links": {
+                "الرابط 1": "https://static.lefigaro.fr/secom/tnt.m3u8",
+                "الرابط 2": "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8"
+            }
+        },
+        "euroNews": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/2575",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/293"
+            }
+        }
+    },
+    "franceKids": {
+        "plutoRetroToon": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c8-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3784c13-5aeb-4c18-bd31-9334376945c6",
+                "الرابط 2": "https://stitcher.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=24f9129c-4a1d-11ef-b473-2ab7b6cbcb35"
+            }
+        },
+        "plutoJunior": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc43-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39cb1f02-1907-4cc7-8224-1bd6adfb09bc",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/246303"
+            }
+        },
+        "plutoKids": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1894d5d0-76ab-4321-9f74-30abda806f6e",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/246300"
+            }
+        },
+        "plutoKidsClassic": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a58dbf9cc82000868f0fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072639-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f64d55f0-5a5d-460e-9d8f-a12bb3309360"
+            }
+        },
+        "plutoKidsGaming": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6ddc7fcd580007d1eb5f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c9-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e5e05ce9-206e-4e18-bc1a-aeaae6cc75d3",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/246307"
+            }
+        },
+        "gulli": {
+            "links": {
+                "الرابط 2": "https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext",
+                "الرابط 1": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8"
+            }
+        },
+        "mangas": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/274709",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1227"
+            }
+        },
+        "baby": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/116313",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/233442"
+            }
+        },
+        "tiji": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32830",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/299"
+            }
+        },
+        "boomerang": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/35528",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/307"
+            }
+        },
+        "boomerangMax": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/8194"
+            }
+        },
+        "cartoonNetwork": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148484",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/306",
+                "الرابط 3": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12883"
+            }
+        },
+        "canalJ": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1222",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32828",
+                "الرابط 3": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12884"
+            }
+        },
+        "boing": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/309",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12893"
+            }
+        },
+        "disneyJunior": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32827",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12861"
+            }
+        },
+        "disneyChannel": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/35529",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/302"
+            }
+        },
+        "piwi": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148483",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1228"
+            }
+        },
+        "nickelodeon": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/274707",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/4185"
+            }
+        },
+        "nickelodeonJunior": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/310",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/308"
+            }
+        },
+        "canalPlusKids": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32771",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/251"
+            }
+        },
+        "okoo": {
+            "links": {
+                "الرابط 1": "http://pro.ipcover.lol:8080/6164819/7361615/259205"
+            }
+        },
+        "teleToon": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/11024",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/300"
+            }
+        },
+        "tfou": {
+            "links": {
+                "الرابط 1": "http://pro.ipcover.lol:8080/6164819/7361615/216583"
+            }
+        },
+        "tfouMax": {
+            "links": {
+                "الرابط 1": "http://pro.ipcover.lol:8080/6164819/7361615/216584"
+            }
+        },
+        "gameOne": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1225",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/312"
+            }
+        },
+        "jOne": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/250644",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/2577"
+            }
+        }
+    },
+    "franceDoc": {
+        "*driveTV": {
+            "links": {
+                "الرابط 1": "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8"
+            }
+        },
+        "*motorvisionTv": {
+            "links": {
+                "الرابط 1": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/336"
+            }
+        },
+        "natgeo": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32814",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/336"
+            }
+        },
+        "natgeoWild": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148489",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/337"
+            }
+        },
+        "ushuaia": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148487",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/335"
+            }
+        },
+        "animaux": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/203430",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/338"
+            }
+        },
+        "chassePeche": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32823",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/339"
+            }
+        },
+        "sienceVie": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/340"
+            }
+        },
+        "seasons": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/355"
+            }
+        },
+        "discovery": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148480",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/334"
+            }
+        },
+        "discoveryScience": {
+            "links": {
+                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426568",
+                "الرابط 2": "http://ky-iptv.com:80/DAVMR31/44991177/182483.ts"
+            }
+        },
+        "discoveryFamily": {
+            "links": {
+                "الرابط 1": "http://atv-pro.net:80/6448907643/7654389887/426546"
+            }
+        },
+        "RMCDécouverte": {
+            "links": {
+                "الرابط 1": "https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8"
+            }
+        },
+        "RMCStory": {
+            "links": {
+                "الرابط 1": "https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8"
+            }
+        },
+        "*RMCLife": {
+            "links": {
+                "الرابط 1": "https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8"
+            }
+        },
+        "plutoMotor": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/246317"
+            }
+        },
+        "plutoParanormal": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057882-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71e28713-4d07-4b50-8bdf-ede6b2fac167"
+            }
+        },
+        "plutoSciFi": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b2680c6-291b-492d-a7cf-589b55d330d2",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/246234"
+            }
+        },
+        "plutoInvestigation": {
+            "links": {
+                "الرابط 1": "https://stitcher.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=24f9129c-4a1d-11ef-b473-2ab7b6cbcb35",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/246262"
+            }
+        },
+        "plutoAnimal": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=754cd30f-6a34-42d3-9e06-63128a8e07e3",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/246288"
+            }
+        },
+        "plutoAventure": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4bcb3a3-c66e-47ef-80c5-fcf29cba6e6a",
+                "الرابط 2": "https://stitcher.pluto.tv/stitch/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=24f9129c-4a1d-11ef-b473-2ab7b6cbcb35"
+            }
+        },
+        "plutoHistoire": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7663e8d-062c-4293-9b93-a2bd07b5cb20",
+                "الرابط 2": "https://stitcher.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=24f9129c-4a1d-11ef-b473-2ab7b6cbcb35"
+            }
+        },
+        "plutoMicanique": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055174-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=487dd86d-4b70-41e0-bab7-33de0eda4283",
+                "الرابط 2": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=24f9129c-4a1d-11ef-b473-2ab7b6cbcb35"
+            }
+        },
+        "planetPlus": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148479",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/330"
+            }
+        },
+        "planetCrime": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/250651",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/332"
+            }
+        },
+        "planetAventure": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/250650",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/331"
+            }
+        },
+        "histoire": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1226",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32820"
+            }
+        },
+        "toutHistoir": {
+            "links": {
+                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32821",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/2542"
+            }
+        },
+        "homiCide": {
+            "links": {
+                "الرابط 1": "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8"
+            }
+        },
+        "lesNouveauxDecteves": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057884-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=887f2f41-cfec-4cf3-9d93-fd01cf780148",
+                "الرابط 2": "https://stitcher.pluto.tv/stitch/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=24f9129c-4a1d-11ef-b473-2ab7b6cbcb35"
+            }
+        },
+        "natureTime": {
+            "links": {
+                "الرابط 1": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8",
+                "الرابط 2": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+                "الرابط 3": "https://stitcher.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=24f9129c-4a1d-11ef-b473-2ab7b6cbcb35",
+                "الرابط 4": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6eb9bb4-6b13-4301-ab2b-7475ad0a7145"
+            }
+        },
+        "*destinationNature": {
+            "links": {
+                "الرابط 1": "https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8"
+            }
+        },
+        "*capTerre": {
+            "links": {
+                "الرابط 1": "https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8"
+            }
+        },
+        "*voyages+": {
+            "links": {
+                "الرابط 1": "https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c30aa0d0-fb77-4f9b-8acf-b156ab5b969b/manifest.m3u8",
+                "الرابط 2": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8"
+            }
+        },
+        "bfmGrandReportage": {
+            "links": {
+                "الرابط 1": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1063896"
+            }
+        },
+        "techEco": {
+            "links": {
+                "الرابط 1": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END",
+                "الرابط 2": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE"
+            }
+        },
+        "travelXp": {
+            "links": {
+                "الرابط 1": "http://norkadymm.top:8080/191703089055131/01703089055686/53347"
+            }
+        },
+        "docs100": {
+            "links": {
+                "الرابط 1": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
+            }
+        },
+        "dossierFBI": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057883-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a243842a-2a92-4ca0-bdea-73f35b29bf5c",
+                "الرابط 2": "https://stitcher.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=24f9129c-4a1d-11ef-b473-2ab7b6cbcb35"
+            }
+        },
+        "motorVision": {
+            "links": {
+                "الرابط 1": "https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8"
+            }
+        },
+        "failArmy": {
+            "links": {
+                "الرابط 1": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a61-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9b7a96a5-bbde-4e9f-8dd8-997f6a97611f",
+                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/246293"
             }
         }
     },
