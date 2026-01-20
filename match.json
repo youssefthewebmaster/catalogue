@@ -31,6 +31,23 @@
             }
         }
     },
+    "alwan": {
+        "alwan1": {
+            "links": {
+                "الرابط 1": "http://cyou.genral2025.cyou:8080/ta1.css?token=c892002112f6f746f41bdb21f9e9ab0d&ip=105.157.46.137"
+            }
+        },
+        "alwan2": {
+            "links": {
+                "الرابط 1": "http://cyou.fastes.sbs:8080/ta2.css?token=c892002112f6f746f41bdb21f9e9ab0d&ip=105.157.46.137"
+            }
+        },
+        "alwan3": {
+            "links": {
+                "480p": "http://cyou.genral2025.cfd:8080/ta3.css?token=c892002112f6f746f41bdb21f9e9ab0d&ip=105.157.46.137"
+            }
+        }
+    },
     "tamaniya": {
         "tamaniya1": {
             "links": {
@@ -263,23 +280,6 @@
         "Fatafeat": {
             "links": {
                 "الرابط 1": "http://apk.arabic-ch.space/live/073/index.m3u8?t=spSq78_e5ugSZoDMJmpWoQ&e=1767501477"
-            }
-        }
-    },
-    "alwan": {
-        "alwan1": {
-            "links": {
-                "الرابط 1": "http://cyou.genral2025.cyou:8080/ta1.css?token=c892002112f6f746f41bdb21f9e9ab0d&ip=105.157.46.137"
-            }
-        },
-        "alwan2": {
-            "links": {
-                "الرابط 1": "http://cyou.fastes.sbs:8080/ta2.css?token=c892002112f6f746f41bdb21f9e9ab0d&ip=105.157.46.137"
-            }
-        },
-        "alwan3": {
-            "links": {
-                "480p": "http://cyou.genral2025.cfd:8080/ta3.css?token=c892002112f6f746f41bdb21f9e9ab0d&ip=105.157.46.137"
             }
         }
     },
