@@ -54,7 +54,7 @@
                 "الرابط 1": "https://cartoon_n/index.m3u8?token=b72aad57b4dc871223a9c9b833191d3493156a3b-776996c27220e00e27cf3376e5fc8c68-1768844861-1768834061&remote=160.178.124.69",
                 "الرابط 2": "https://s1.news-api-gen.lol/BARAEAM/index.m3u8?token=0a6055a44407189f51d41311105fd900e4d79423-4f914146c2bb3275fddbdbd0716b8e5f-1768844789-1768833989&remote=160.178.124.69/BARAEAM/index.m3u8?token=777d9f065bc3f5453aec09854de315da8c38b313-aa43ec14951be4a353202bcf79dbf5a1-1768844789-1768833989&remote=160.178.124.69",
                 "الرابط 3": "https://nickelodeon/index.m3u8?token=1a90f621612bc67dd49a9aaa6abf192895922466-49165cf0da63fd6f1a70f99e2619fd23-1768845262-1768834462&remote=160.178.124.69/Nickelodeon/index.m3u8?token=3f4d4829410bbc49a89f3f57e1e83ae4ac0856b4-72b8275f1ed524751950a77b2f4b9f18-1768845262-1768834462&remote=160.178.124.69",
-                "الرابط 4": "https://jeem/index.m3u8?token=25c6e53353dcbc8a7e79d6acde013cfb22954c5e-bfc0b30058a0a3ad4860514723e848b9-1768841339-1768830539&remote=105.157.46.137/jeem/index.m3u8?token=d35dfb270aaff5759334b8c1a00699d3a8b47f9a-38537fec66acfdcef3172c4d016c0a5b-1768841339-1768830539&remote=105.157.46.137",
+                "الرابط 4": "https://s3.news-api-gen.lol/Boomerang/index.m3u8?token=66fac4a1fe0bacaf6e78af445799646ca0fa275c-cdcd2ee3ec1ac70e8e47409dfe2a1efc-1768845573-1768834773&remote=160.178.124.69",
                 "الرابط 5": "https://bein_box_office1/index.m3u8?token=7763eae038d75cc4cda9ea499b3bfca3996a842d-8c28d1bc3c782fe950b29a7ac49155cd-1768836189-1768825389&remote=105.157.46.137/bein_box_office1/index.m3u8?token=02ed89d7b89fb4a85bccc8658d64f5a21daaf067-43035961b8ba51c1af52ffec4639a5b4-1768836189-1768825389&remote=105.157.46.137",
                 "الرابط 6": "https://bein_box_office2/index.m3u8?token=a3240f41f23fe059b992b5974ca9433da2f9d385-b7fbeb9eb636cd41d70d24a8a3199880-1768836218-1768825418&remote=105.157.46.137/bein_box_office2/index.m3u8?token=05ecd3d6eeaa5f71c3c6feb62f7ee81a83c3f745-39804dba07c7d8daca2e1b199d1e8efb-1768836218-1768825418&remote=105.157.46.137",
                 "الرابط 7": "https://bein_series_1/index.m3u8?token=8adff0657b72b47e42f09359dbb5ba46f9d3dcef-bac8426acd04f217c9d24db0dabe043b-1768839213-1768828413&remote=105.157.46.137/beIN_SERIES_1/index.m3u8?token=e6f8eaa26d5b2573ae61dd01d30265d027b4db34-20274150327915dc6da31b08ead7fece-1768839213-1768828413&remote=105.157.46.137",
@@ -263,6 +263,23 @@
         "Fatafeat": {
             "links": {
                 "الرابط 1": "http://apk.arabic-ch.space/live/073/index.m3u8?t=spSq78_e5ugSZoDMJmpWoQ&e=1767501477"
+            }
+        }
+    },
+    "alwan": {
+        "alwan1": {
+            "links": {
+                "الرابط 1": "http://cyou.genral2025.cyou:8080/ta1.css?token=c892002112f6f746f41bdb21f9e9ab0d&ip=105.157.46.137"
+            }
+        },
+        "alwan2": {
+            "links": {
+                "الرابط 1": "http://cyou.fastes.sbs:8080/ta2.css?token=c892002112f6f746f41bdb21f9e9ab0d&ip=105.157.46.137"
+            }
+        },
+        "alwan3": {
+            "links": {
+                "480p": "http://cyou.genral2025.cfd:8080/ta3.css?token=c892002112f6f746f41bdb21f9e9ab0d&ip=105.157.46.137"
             }
         }
     },
