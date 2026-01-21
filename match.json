@@ -153,16 +153,14 @@
                 "الرابط 1": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=cmiK0PVlH88Sek59FuaEnA&e=1767812230",
                 "الرابط 2": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=Gren2t5hlo0ALkdRdvfACQ&e=1767812266",
                 "الرابط 3": "http://het000.4rouwanda-shop.store/live/161988840/index.m3u8?t=2xxVw74Qt3vQYvtHYP4QOw&e=1768678447",
-                "الرابط 4": "http://het000.4rouwanda-shop.store/live/551818447/index.m3u8?t=IWbPOs5Th48Q49I1sfANQA&e=1768678447",
-                "الرابط 5": "http://cyou.genral2025.sbs:8080/sa3.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "الرابط 6": "http://cyou.genral2025.lat:8080/ha3.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+                "الرابط 4": "http://het000.4rouwanda-shop.store/live/551818447/index.m3u8?t=IWbPOs5Th48Q49I1sfANQA&e=1768678447"
             }
-        }
-        ,
+        },
         "beinSport4": {
             "links": {
-                "الرابط 5": "http://cyou.genral2025.sbs:8080/sa4.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "الرابط 6": "http://cyou.genral2025.sbs:8080/ha4.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8?t=tokXw1QzVo9ETxLWfI2aMQ&e=1769014836",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/0103088447/index.m3u8?t=jX3uXwFLsbwSYl_pXc55Ww&e=1769014836",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/131326625/index.m3u8?t=Wku-1FguSGCrJwyo82hrYw&e=1769014836"
             }
         },
         "beinSport5": {
@@ -184,21 +182,23 @@
         },
         "beinSport7": {
             "links": {
-                "الرابط 1": "http://cyou.genral2025.forum:8080/sa7.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "الرابط 2": "https://s1.news-api-gen.lol/b7/index.m3u8?token=75429948117925eb3d68d6c695640ab71a89d7d8-fa24003219c58eba3efecad2c9fb9e9e-1768675382-1768664582&remote=196.117.207.217"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=VxAJ6GHSIMCAhnpVMwIlwg&e=1769014823",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/14066007/index.m3u8?t=sMcUWTl6dpxEz9bnShds1g&e=1769014823",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/79247621/index.m3u8?t=7tFqZN1Io7RlpqVoel78zg&e=1769014823"
             }
         },
         "beinSport8": {
             "links": {
-                "الرابط 1": "http://cyou.fastes.sbs:8080/ha8.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "الرابط 2": "https://s1.news-api-gen.lol/b8/index.m3u8?token=1e427eefb4660620113d0338f0d849cb9ad6af33-5eb2f2e1dd91c57653717393b32b75d8-1768675646-1768664846&remote=196.117.207.217"
+                "الرابط 1": "http://cyou.fastes.sbs:8080/sa8.css?token=4319a4e02df9114a1f14f20d0b8167c2&ip=196.127.130.83",
+                "الرابط 2": "http://cyou.genral2025.lol:8080/ha8.css?token=4319a4e02df9114a1f14f20d0b8167c2&ip=196.127.130.83",
+                "الرابط 3": "https://s1.news-api-gen.lol/b8/index.m3u8?token=e57b76ee63b836a5f62c41c919ba0b8a50e52729-aa7fe4badc534fdc4bc8ca27e81b8d2f-1769029486-1769018686&remote=196.127.130.83"
             }
         },
         "beinSport9": {
             "links": {
-                "الرابط 1": "http://cyou.fastes.sbs:8080/sa9.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "الرابط 2": "http://cyou.genral2025.lol:8080/ha9.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "الرابط 3": ""
+                "الرابط 1": "http://cyou.genral.xyz:8080/sa9.css?token=4319a4e02df9114a1f14f20d0b8167c2&ip=196.127.130.83",
+                "الرابط 2": "http://cyou.genral2025.lat:8080/ha9.css?token=4319a4e02df9114a1f14f20d0b8167c2&ip=196.127.130.83",
+                "الرابط 3": "https://s1.news-api-gen.lol/b9/index.m3u8?token=678dc873545ba1a62bdbafe6557d039a75235fef-5013e039e3cba6b07fc0215f8c69cad0-1769029589-1769018789&remote=196.127.130.83"
             }
         },
         "beinXtra1": {
