@@ -1,40 +1,40 @@
 {
   "news": {
     "new1": {
+      "title": "Supeco Market",
+      "date": "Offre du 22 Janvier au 11 Février",
+      "thumbnail": "https://hmizate.ma/img/cms/WhatsApp%20Image%202026-01-21%20at%2016-52-05.jpeg",
+      "link": "supeco"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre du 22 au 28 Janvier 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-3%20(1).jpg",
+      "link": "kazyon"
+    },
+    "new3": {
       "title": "Marjane Méga",
       "date": "Offre du 20 Janvier au 03 Février",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Marjane%20Du%2020%20janvier%20au%2003%20f%C3%A9vrier%202026-.jpg",
       "link": "marjane"
     },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mercredi 21 Janvier 2026",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/616387396_764832889997319_1035059399283695141_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=MzgxNDM3MDQyNzA3NDg0MjM4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=ATJX2gIZoPgQ7kNvwFvftem&_nc_oc=AdlX1fv5G2txcfUvHZFGKtJkgLGTQBYr7-VnPXdlIldnzN0kbJMdv_L7fskB7pMfahs&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Hzb_yb_eos_F36s28AwaHQ&oh=00_AfpJ_hnxx7BB0saXltn1msjIG8DdpIMGMelnNFbEtC4uxA&oe=6975CC12",
-      "link": "kazyon1"
-    },
-    "new3": {
+    "new4": {
       "title": "Atacadão Market",
       "date": "Offre du 15 janvier au 4 février",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2015%20janvier%20au%204%20f%C3%A9vrier%202026%20(1)-5.jpg",
       "link": "atacadao"
     },
-    "new4": {
+    "new5": {
       "title": "Aswak Assalam",
       "date": "A partir de Samedi 18 Janvier",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/616190647_889457307016816_80742827031177554_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzgxMTQ3Mjk1MzgxMzU4MTg4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTIwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=vpnrhKXSuYcQ7kNvwFq-Cbu&_nc_oc=Adn_-j3WKk23r9FBFAK-XOOPXJN_wvow8rMLYECWph82lk-epyuULnBoNAjKgrZcNm4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=eJKdNF4j69_w4UfTEvGVuw&oh=00_AfrdMd6OZD5dkjhOrFW_fMFsC4br1ETf0U8iQksafrXkVg&oe=69714AF3",
       "link": "aswak1"
     },
-    "new5": {
+    "new6": {
       "title": "Marjane Market",
       "date": "Offre valable jusqu'au 18 Janvier",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/616549576_1176842044615180_4155456328192888834_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzgxMTIyOTc4MTUyMTkzNTAxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=405PsdQKdnEQ7kNvwFvqP3y&_nc_oc=AdnmCCfPMS6vCxHKSvsO-FeHWnf4r8gvZ4GI6SYdHH239ezl8xuLk1lNsgB9gL3P1Ps&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=b76-8HzuRNrs4BGaLASVLQ&oh=00_AfoobTFyk8_7dwEkO6pU7f1s-Vv6e0WE3_aH_UQ6M0O5Vg&oe=697145DD",
       "link": "marjaneMarket"
-    },
-    "new6": {
-      "title": "Supeco Market",
-      "date": "Offre du 16 au 18 Janvier 2026",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/615561810_1189981259959937_7326687071107517602_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzgwOTg3ODQ5ODMwODA1NzA2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=w7TWvXok2GEQ7kNvwEizOsI&_nc_oc=Adk6ipxg27p03WUFbBqLCErH62SrgYOHBmgoupFRIiqzDSpnwgRUTccebyC_eTPcTIM&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I-V4z3Tife0UGkUViQ0yTw&oh=00_Afru9JAjYW9S8daEvCS-88omqVMidfi6g0UnIW18ZSkaRA&oe=696DE525",
-      "link": "supeco1"
     },
     "new7": {
       "title": "Bim Market",
@@ -64,13 +64,14 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2015%20au%2021%20janvier%202026-1%20(2).jpg",
-    "date": "Offre du 15 au 21 Janvier 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-3%20(1).jpg",
+    "date": "Offre du 22 au 28 Janvier 2026",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2015%20au%2021%20janvier%202026-1%20(2).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2015%20au%2021%20janvier%202026-2%20(2).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2015%20au%2021%20janvier%202026-4%20(2).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2015%20au%2021%20janvier%202026-3%20(2).jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-3%20(1).jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-4%20(1).jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-2%20(1).jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-5%20(1).jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-1%20(1).jpg"
     ]
   },
   "Kazyon1": {
@@ -108,13 +109,11 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco Market",
-    "thumbnail": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(1).png",
-    "date": "Offre du 06 au 13 Décembre 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/WhatsApp%20Image%202026-01-21%20at%2016-52-05.jpeg",
+    "date": "Offre du 22 Janvier au 11 Février",
     "images": [
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(1).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(2).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(3).png",
-      "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/Supeco%20(4).png"
+      "https://hmizate.ma/img/cms/WhatsApp%20Image%202026-01-21%20at%2016-52-05.jpeg",
+      "https://hmizate.ma/img/cms/WhatsApp%20Image%202026-01-21%20at%2016-52-06.jpeg"
     ]
   },
   "Supeco1": {
