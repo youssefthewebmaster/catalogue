@@ -309,22 +309,23 @@
         },
         "baraem": {
             "links":{
-                "الرابط 1": "http://apk.arabic-ch.space/live/070/index.m3u8?t=EwGh6ujQ4sL0AwfEq16k-w&e=1766151524"
+                "الرابط 1": "https://s1.news-api-gen.lol/BARAEAM/index.m3u8?token=04e8d5ffa900d2b50d246b9238d3972de5984191-8e9365874de7c08e306b1db6a839b562-1769123715-1769112915&remote=196.127.130.83/BARAEAM/index.m3u8?token=4065374115ac9f380c8ab3bf2affce0f642a616e-7c02f98497f532c473ddc976d6f2e416-1769123715-1769112915&remote=196.127.130.83"
             }
         },
         "BeJunior": {
             "links": {
-                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/401669349"
+                "الرابط 1": "https://s1.news-api-gen.lol/OSN_Nick_Jr/index.m3u8?token=506baff920f9a4d04e9c4aed64d8655be8c6ff41-fd7350090e9663ec850ad0a4539cb9ee-1769124073-1769113273&remote=196.127.130.83/OSN_Nick_Jr/index.m3u8?token=90b16be79ce62b31ee4d8a9828d4f58e5d44bae6-d5eafcdffd53cc62dd5bf3a9bb783bc6-1769124073-1769113273&remote=196.127.130.83"
             }
         },
         "CartoonNetworkArabic": {
             "links": {
-                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/15371"
+                "الرابط 1": "https://s1.news-api-gen.lol/cartoon_n/index.m3u8?token=a7db3c497c2ada46e171689b09e9c117406ede58-cd3ef5ff299faec8ca8024fab4c716bc-1769123617-1769112817&remote=196.127.130.83"
             }
         },
         "jeem": {
             "links":{
-                "الرابط 1": "https://jeem/index.m3u8?token=9b49d945487d59db7e8035bcb86591223410fa13-4c2bd81321befca80d10f132d6fd7812-1769123128-1769112328&remote=196.127.130.83"
+                "الرابط 1": "https://jeem/index.m3u8?token=9b49d945487d59db7e8035bcb86591223410fa13-4c2bd81321befca80d10f132d6fd7812-1769123128-1769112328&remote=196.127.130.83",
+                "الرابط 2": "https://s3.news-api-gen.lol/jeem/tracks-v1a1/mono.m3u8?remote=196.127.130.83&token=9b49d945487d59db7e8035bcb86591223410fa13-4c2bd81321befca80d10f132d6fd7812-1769123128-1769112328"
             }
         },
         "Fatafeat": {
