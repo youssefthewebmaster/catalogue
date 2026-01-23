@@ -101,17 +101,19 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "الرابط 1": "http://cyou.genralo.lat:8080/tahd1.css?token=4319a4e02df9114a1f14f20d0b8167c2&ip=196.127.130.83"
+                "الرابط 1": "https://s4.news-api-gen.lol/thamnya_sd/index.m3u8?token=eb25b4c4e1a962c86ed08fcbdc396f947e876ca4-eff0864d39778cd23eede6fee69ea9fe-1769209957-1769199157&remote=196.127.165.120/thamnya_sd/index.m3u8?token=e656879c80367cad0ec42ac014e516582f0718c3-77fb751158fe69729e8a1a3396c109fd-1769209957-1769199157&remote=196.127.165.120",
+                "الرابط 2": "http://s4.news-api-gen.lol/cyou.genral2025.cyou:8080/ta1.css?token=6341ccd83712e103c1b87bcce3d0137a&ip=196.127.165.120"
             }
         },
         "tamaniya2": {
             "links": {
-                "الرابط 1": "http://cyou.genral.xyz:8080/ta2.css?token=4319a4e02df9114a1f14f20d0b8167c2&ip=196.127.130.83"
+                "الرابط 1": "http://cyou.genral2025.lol:8080/ta2.css?token=6341ccd83712e103c1b87bcce3d0137a&ip=196.127.165.120",
+                "الرابط 2": "http://cyou.genral.xyz:8080/tahd2.css?token=6341ccd83712e103c1b87bcce3d0137a&ip=196.127.165.120"
             }
         },
         "tamaniya3": {
             "links": {
-                "الرابط 1": "http://cyou.genral2025.lat:8080/ta3.css?token=4319a4e02df9114a1f14f20d0b8167c2&ip=196.127.130.83"
+                "الرابط 1": "http://cyou.fastes.sbs:8080/ta3.css?token=6341ccd83712e103c1b87bcce3d0137a&ip=196.127.165.120"
             }
         }
     },
