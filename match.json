@@ -314,17 +314,18 @@
         },
         "BeJunior": {
             "links": {
-                "الرابط 1": "https://s1.news-api-gen.lol/OSN_Nick_Jr/index.m3u8?token=506baff920f9a4d04e9c4aed64d8655be8c6ff41-fd7350090e9663ec850ad0a4539cb9ee-1769124073-1769113273&remote=196.127.130.83/OSN_Nick_Jr/index.m3u8?token=90b16be79ce62b31ee4d8a9828d4f58e5d44bae6-d5eafcdffd53cc62dd5bf3a9bb783bc6-1769124073-1769113273&remote=196.127.130.83"
+                "الرابط 1": "https://s1.news-api-gen.lol/OSN_Nick_Jr/index.m3u8?token=7035cd36ff3f0c79aebaf5ea1cfd9ec804336139-d7d565a2ab0b0e48e74ec4b43c4aa888-1769209579-1769198779&remote=196.127.165.120"
             }
         },
         "CartoonNetworkArabic": {
             "links": {
-                "الرابط 1": "https://s1.news-api-gen.lol/cartoon_n/index.m3u8?token=a7db3c497c2ada46e171689b09e9c117406ede58-cd3ef5ff299faec8ca8024fab4c716bc-1769123617-1769112817&remote=196.127.130.83"
+                "الرابط 1": "https://s1.news-api-gen.lol/cartoon_n/tracks-v1a1/2026/01/23/20/10/50-06000.js?token=b1f88bb14aecf8f26f67721c3771f0b94584d448-b997145c3d9064e2aed9cdccd48d2738-1769209526-1769198726"
             }
         },
         "jeem": {
             "links":{
-                "الرابط 1": "https://jeem/index.m3u8?token=e763293884a84e6686a8577ffda958dc192eb13e-82b7aec8c538a61e205828aa5b844f10-1769208847-1769198047&remote=196.127.165.120"
+                "الرابط 1": "https://jeem/index.m3u8?token=e763293884a84e6686a8577ffda958dc192eb13e-82b7aec8c538a61e205828aa5b844f10-1769208847-1769198047&remote=196.127.165.120",
+                "الرابط 2": "https://s3.news-api-gen.lol/jeem/index.m3u8?token=b25cef872a9d5b29c9a4172c0fbcdec2c817ba1d-38ef0ef65cb77977e4e3ab09fa8e6692-1769209641-1769198841&remote=196.127.165.120/jeem/index.m3u8?token=93005a686f6ebfdb2f556672275a1bfcc9d9ad20-e30a0c6e5a5513a0fd59f98ef0ec809c-1769209641-1769198841&remote=196.127.165.120"
             }
         },
         "Fatafeat": {
