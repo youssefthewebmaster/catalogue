@@ -340,17 +340,14 @@
             "links": {
                 "الرابط 1": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=JqmSSI1cy9fCUTdljYOe1w&e=1767812256",
                 "الرابط 2": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=NskvSt3TrNgIs2lH00IwNA&e=1767812238",
-                "الرابط 3": "http://het000.4rouwanda-shop.store/live/181818444/index.m3u8?t=FqIR2LBvFDFRSQ_nscAxVA&e=1768648241",
-                "الرابط 4": "http://cyou.genral2025.lol:8080/sa5.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217",
-                "الرابط 5": "http://cyou.fastes.sbs:8080/sa5.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/181818444/index.m3u8?t=FqIR2LBvFDFRSQ_nscAxVA&e=1768648241"
             }
         },
         "beinSport6": {
             "links": {
                 "الرابط 1": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=57TjVwkr9342DLzvxSXd7A&e=1767812443",
                 "الرابط 2": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=pJsc3AIsw0XiQpLAZIL02w&e=1767812240",
-                "الرابط 3": "http://het000.4rouwanda-shop.store/live/9883322/index.m3u8?t=6RbE00c38NmGm0UmkwkERw&e=1768676514",
-                "الرابط 4": "http://cyou.genral2025.lat:8080/ha6.css?token=71d8a2e69080e66276960a957d49f6e2&ip=196.117.207.217"
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/9883322/index.m3u8?t=6RbE00c38NmGm0UmkwkERw&e=1768676514"
             }
         },
         "beinSport7": {
@@ -362,9 +359,9 @@
         },
         "beinSport8": {
             "links": {
-                "الرابط 1": "http://cyou.fastes.sbs:8080/sa8.css?token=4319a4e02df9114a1f14f20d0b8167c2&ip=196.127.130.83",
-                "الرابط 2": "http://cyou.genral2025.lol:8080/ha8.css?token=4319a4e02df9114a1f14f20d0b8167c2&ip=196.127.130.83",
-                "الرابط 3": "https://s1.news-api-gen.lol/b8/index.m3u8?token=e57b76ee63b836a5f62c41c919ba0b8a50e52729-aa7fe4badc534fdc4bc8ca27e81b8d2f-1769029486-1769018686&remote=196.127.130.83"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=oaju8HTO79a_IJjhVJmI_w&e=1769241074",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=oDNmvQac6Fl-d9UybV2hwg&e=1769241074",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/770001000/index.m3u8?t=P4Rp_UKncNiXr4-TNFnUNw&e=1769241074"
             }
         },
         "beinSport9": {
@@ -432,12 +429,13 @@
     "beinEntertainment": {
         "beinMoviesPremiere": {
             "links": {
-                "الرابط 1": "https://bein_movies/index.m3u8?token=73a6ebfc4f9b827d651d7fd0c2c83b4ec9e57a8c-e1a048c7dbcf6cfd5752b167d27900dd-1769254826-1769244026&remote=196.127.165.120/beIN_MOVIES/index.m3u8?token=66ade37308173fd61c22056e431d087d5920dcad-e7bf1c4e257509b41fab48521082f4a8-1769254826-1769244026&remote=196.127.165.120"
+                "الرابط 1": "https://bein_movies/index.m3u8?token=73a6ebfc4f9b827d651d7fd0c2c83b4ec9e57a8c-e1a048c7dbcf6cfd5752b167d27900dd-1769254826-1769244026&remote=196.127.165.120/beIN_MOVIES/index.m3u8?token=66ade37308173fd61c22056e431d087d5920dcad-e7bf1c4e257509b41fab48521082f4a8-1769254826-1769244026&remote=196.127.165.120",
+                "الرابط 2": "http://apk.arabic-ch.space/live/076/index.m3u8?t=S8x4XCmls8Bs2R-OdwjPSQ&e=1769240260"
             }
         },
         "beinMoviesAction": {
             "links": {
-                "الرابط 1": "https://bein_movies_2/index.m3u8?token=a458a4b47eff31cf70cdbba55524d2fe090474be-fd0463b7a93ff2ddedf2b23869dcd99f-1769254873-1769244073&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/077/index.m3u8?t=wj_5PJK7igrVFM2_URw2tw&e=1769249283"
             }
         },
         "beinBoxOffice1": {
@@ -457,22 +455,22 @@
         },
         "beinMoviesFamily": {
             "links": {
-                "الرابط 1": "https://bein_movies_4/index.m3u8?token=b67e24b60217a1f9015e6885fac7364ab43d00f1-9de1d48d7677618277c8f6b1efa139c7-1769208681-1769197881&remote=196.127.165.120/beIN_MOVIES_4/index.m3u8?token=83d445be6e5e9eab9973e8b8d49ad5a04e984f8f-a5dc7755d3591083566a9c3e2cbe27f0-1769208681-1769197881&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/079/index.m3u8?t=g0lQ4kVkSec4oS0txjYDnw&e=1769257872"
             }
         },
         "beinSeries1": {
             "links": {
-                "الرابط 1": "https://bein_series_1/index.m3u8?token=70bf29f90347396aed62a571ce5cd413fe645326-54f9812fdf62e9a1615b7f91eb862220-1769208743-1769197943&remote=196.127.165.120/beIN_SERIES_1/index.m3u8?token=13f6debf751f3c88269e92d7afa4c0fbbf6ebf4e-1a09b7de99a0f338427c0889bec65530-1769208743-1769197943&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/080/index.m3u8?t=xRssGdI6zLtegQT0Mi1HbQ&e=1769241146"
             }
         },
         "beinSeries2": {
             "links": {
-                "الرابط 1": "https://bein_series_2/index.m3u8?token=18cc7e5c605c39091ca4cf9351929e65bb0d458e-7745b0e2f86c8e4d8b738f8cbd538af6-1769208759-1769197959&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/081/index.m3u8?t=SMMpE3hl3cCoPlneIIn9Vw&e=1769242233"
             }
         },
         "beinDrama": {
             "links": {
-                "الرابط 1": "https://bein_drama/index.m3u8?token=4f96bf1a4ce8073d9cfb032af5a011a07e42b734-9dce34b9a8da2f8afef3b5eb2266cdcf-1769208780-1769197980&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/072/index.m3u8?t=XScI5OA41D1S7gphEvGaZA&e=1769246650"
             }
         },
         "beinGourmet": {
@@ -482,12 +480,12 @@
         },
         "baraem": {
             "links":{
-                "الرابط 1": "https://s1.news-api-gen.lol/BARAEAM/index.m3u8?token=04e8d5ffa900d2b50d246b9238d3972de5984191-8e9365874de7c08e306b1db6a839b562-1769123715-1769112915&remote=196.127.130.83/BARAEAM/index.m3u8?token=4065374115ac9f380c8ab3bf2affce0f642a616e-7c02f98497f532c473ddc976d6f2e416-1769123715-1769112915&remote=196.127.130.83"
+                "الرابط 1": "http://apk.arabic-ch.space/live/070/index.m3u8?t=o2CWnSev3EKtpUdOJw9tWA&e=1769246578"
             }
         },
         "BeJunior": {
             "links": {
-                "الرابط 1": "https://s1.news-api-gen.lol/OSN_Nick_Jr/index.m3u8?token=7035cd36ff3f0c79aebaf5ea1cfd9ec804336139-d7d565a2ab0b0e48e74ec4b43c4aa888-1769209579-1769198779&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/082/index.m3u8?t=UlR7a2zuZ4EwwPGQzQ6eWQ&e=1769241404"
             }
         },
         "CartoonNetworkArabic": {
@@ -497,13 +495,13 @@
         },
         "jeem": {
             "links":{
-                "الرابط 1": "https://jeem/index.m3u8?token=e763293884a84e6686a8577ffda958dc192eb13e-82b7aec8c538a61e205828aa5b844f10-1769208847-1769198047&remote=196.127.165.120",
-                "الرابط 2": "https://s3.news-api-gen.lol/jeem/index.m3u8?token=b25cef872a9d5b29c9a4172c0fbcdec2c817ba1d-38ef0ef65cb77977e4e3ab09fa8e6692-1769209641-1769198841&remote=196.127.165.120/jeem/index.m3u8?token=93005a686f6ebfdb2f556672275a1bfcc9d9ad20-e30a0c6e5a5513a0fd59f98ef0ec809c-1769209641-1769198841&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/075/index.m3u8?t=zErHbTOrPUW3dLdy6eLYjg&e=1769252623",
+                "الرابط 2": "http://apk.arabic-ch.space/live/075/index.m3u8?t=zErHbTOrPUW3dLdy6eLYjg&e=1769252623"
             }
         },
         "Fatafeat": {
             "links": {
-                "الرابط 1": "https://fatafeat/index.m3u8?token=bc92b5d2fe4fb3b8e301bb469e17d75f2599d24c-ecf62f0ba9848e6feb560784636326d9-1769208817-1769198017&remote=196.127.165.120/FATAFEAT/index.m3u8?token=e64b102c6f95e52bb70a8d281f1590317efd16ad-d2ad2e5fee3fba2644c53209dc1ab02b-1769208817-1769198017&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/073/index.m3u8?t=BqS0sHcVgF_5Roiyk0zCzg&e=1769242465"
             }
         }
     },
