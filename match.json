@@ -31,6 +31,177 @@
             }
         }
     },
+    "events": {
+        "event1": {
+            "team1": "وست هام يونايتد",
+            "team2": "سندرلاند",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/WestHam.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Sunderland.png",
+            "time":"12:30",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
+            "comment": "عامر الخوذيري"
+        },
+        "event2": {
+            "team1": "رايو فايكانو",
+            "team2": "أوساسونا",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RayoVallecano.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Osasuna.png",
+            "time":"13:00",
+            "championName": "الدوري الإسباني",
+            "channelName": "Bein Sport 4",
+            "folder": "beinSport",
+            "link": "beinSport4",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png",
+            "comment": "سمير اليعقوبي"
+        },
+        "event3": {
+            "team1": "بيرنلي",
+            "team2": "توتنهام هوتسبير",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/WestHam.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Sunderland.png",
+            "time":"15:00",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 3",
+            "folder": "beinSport",
+            "link": "beinSport3",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
+            "comment": "حسن العيدروس"
+        },
+        "event4": {
+            "team1": "فولهام",
+            "team2": "برايتون أند هوف ألبيون",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Fulham.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/BrightonHove.png",
+            "time":"15:00",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 5",
+            "folder": "beinSport",
+            "link": "beinSport5",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b5.png",
+            "comment": "جواد بدة"
+        },
+        "event5": {
+            "team1": "مانشستر سيتي",
+            "team2": "وولفرهامبتون",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterCity.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Wolverhampton.png",
+            "time":"15:00",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
+            "comment": "علي الكعبي"
+        },
+        "event6": {
+            "team1": "فالنسيا",
+            "team2": "إسبانيول",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Valencia.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/EspanyolBarcelona.png",
+            "time":"15:15",
+            "championName": "الدوري الإسباني",
+            "channelName": "Bein Sport 4",
+            "folder": "beinSport",
+            "link": "beinSport4",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png",
+            "comment": "أحمد البلوشي"
+        },
+        "event7": {
+            "team1": "شبيبة القبائل",
+            "team2": "الجيش الملكي",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/teams/chabibat9bayal.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/teams/far.png",
+            "time":"16:00",
+            "championName": "دوري أبطال أفريقيا",
+            "channelName": "Bein Sport 2",
+            "folder": "beinSport",
+            "link": "beinSport2",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
+            "comment": "محمد بركات"
+        },
+        "event8": {
+            "team1": "الترجي التونسي",
+            "team2": "سيمبا",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/teams/attaraji.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/teams/Simba.png",
+            "time":"16:00",
+            "championName": "دوري أبطال أفريقيا",
+            "channelName": "Bein Sport 7",
+            "folder": "beinSport",
+            "link": "beinSport7",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b7.png",
+            "comment": "عصام الشوالي"
+        },
+        "event9": {
+            "team1": "بورنموث",
+            "team2": "ليفربول",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Bournemouth.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Liverpool.png",
+            "time":"17:30",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
+            "comment": "حفيظ دراجي"
+        },
+        "event10": {
+            "team1": "إشبيلية",
+            "team2": "أتلتيك بيلباو",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Sevilla.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/AtleticBelbao.png",
+            "time":"17:30",
+            "championName": "الدوري الإسباني",
+            "channelName": "Bein Sport 3",
+            "folder": "beinSport",
+            "link": "beinSport3",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
+            "comment": "منتصر الأزهري"
+        },
+        "event11": {
+            "team1": "نهضة بركان",
+            "team2": "بيراميدز",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/teams/barkan.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/teams/Pyramids.png",
+            "time":"19:00",
+            "championName": "دوري أبطال أفريقيا",
+            "channelName": "Bein Sport 2",
+            "folder": "beinSport",
+            "link": "beinSport2",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
+            "comment": "نوفل باشي"
+        },
+        "event12": {
+            "team1": "إتحاد الجزائر",
+            "team2": "دجوليبا",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/teams/iti7adJazayer.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/teams/djoliba.png",
+            "time":"19:00",
+            "championName": "كأس الكونفدرالية الأفريقية",
+            "channelName": "Bein Sport 8",
+            "folder": "beinSport",
+            "link": "beinSport8",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b8.png",
+            "comment": "محمد مبروكي"
+        },
+        "event13": {
+            "team1": "فياريال",
+            "team2": "ريال مدريد",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Villarreal.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RealMadrid.png",
+            "time":"20:00",
+            "championName": "الدوري الإسباني",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
+            "comment": "علي محمد علي"
+        }
+    },
     "alwan": {
         "alwan1": {
             "links": {
@@ -261,7 +432,12 @@
     "beinEntertainment": {
         "beinMoviesPremiere": {
             "links": {
-                "الرابط 1": "https://bein_movies/index.m3u8?token=dba28fdfb96ed9fabaf07ef6a1e38dfd17c4e3fd-b5cc90ffa987ed5a8c94640240d84eb4-1769208596-1769197796&remote=196.127.165.120/beIN_MOVIES/index.m3u8?token=8adecfaa9a02e0db547f19436f6c4f0da87b630c-8fa6c62893a64385727d56cca5e4d734-1769208596-1769197796&remote=196.127.165.120"
+                "الرابط 1": "https://bein_movies/index.m3u8?token=73a6ebfc4f9b827d651d7fd0c2c83b4ec9e57a8c-e1a048c7dbcf6cfd5752b167d27900dd-1769254826-1769244026&remote=196.127.165.120/beIN_MOVIES/index.m3u8?token=66ade37308173fd61c22056e431d087d5920dcad-e7bf1c4e257509b41fab48521082f4a8-1769254826-1769244026&remote=196.127.165.120"
+            }
+        },
+        "beinMoviesAction": {
+            "links": {
+                "الرابط 1": "https://bein_movies_2/index.m3u8?token=a458a4b47eff31cf70cdbba55524d2fe090474be-fd0463b7a93ff2ddedf2b23869dcd99f-1769254873-1769244073&remote=196.127.165.120"
             }
         },
         "beinBoxOffice1": {
@@ -277,11 +453,6 @@
         "beinMoviesDrama": {
             "links": {
                 "الرابط 1": "https://bein_movies_3/index.m3u8?token=690f2bc38aa35860e01397853e15f9f79fc4ca1d-d7265cd91042cafd64e4715dbd505454-1769208661-1769197861&remote=196.127.165.120/beIN_MOVIES_3/index.m3u8?token=81ec28f3113eec78911b7d566bec20f4b0ad2d38-d11738f77be891c6217b850131c45ff6-1769208661-1769197861&remote=196.127.165.120"
-            }
-        },
-        "beinMoviesAction": {
-            "links": {
-                "الرابط 1": "https://bein_movies_2/index.m3u8?token=362042ad866f106f91c6ba92e3b5ec4b7198d3e2-0664000b3dd88e8e034c88a316d71f3e-1769208624-1769197824&remote=196.127.165.120/beIN_MOVIES_2/index.m3u8?token=4dd411055209d86771d2f3ec25c5cb7c241f59f3-0abcf1c7ebb943b56f1207db37a34929-1769208624-1769197824&remote=196.127.165.120"
             }
         },
         "beinMoviesFamily": {
