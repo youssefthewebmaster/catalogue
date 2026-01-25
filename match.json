@@ -438,17 +438,17 @@
         },
         "beinBoxOffice1": {
             "links": {
-                "الرابط 1": "https://bein_box_office1/index.m3u8?token=26d424e99499087a41e94c6efc167712b5295d46-1fb4c982be75387204b371d03b2e1092-1769208702-1769197902&remote=196.127.165.120/bein_box_office1/index.m3u8?token=9fac23d88da83346a58c02d35ec0c9118845e5f9-2cc4d1da505002e4e666fd689132f00b-1769208702-1769197902&remote=196.127.165.120"
+                "الرابط 1": "https://bein_box_office1/index.m3u8?token=f2d7fe057599d7e86baac4ab1c736e83e8df12b5-69d529a5136736c61811c4f9e83f7987-1769360289-1769349489&remote=196.127.113.18/bein_box_office1/index.m3u8?token=55c3df4105136aeaeca80bccf32cffd05847d35b-12bb18bcb3ab287e38a8334658e2ad66-1769360289-1769349489&remote=196.127.113.18"
             }
         },
         "beinBoxOffice2": {
             "links": {
-                "الرابط 1": "https://bein_box_office2/index.m3u8?token=db2db21f50be923c186a563cf0b05ea0aea7c6ab-40826e4004b374f68c2f278331fb0d71-1769208723-1769197923&remote=196.127.165.120/bein_box_office2/index.m3u8?token=10de6c1b985e97737a5ef400101999c36b20c8e6-11d5a37fb4ba21669202925b183cafb6-1769208723-1769197923&remote=196.127.165.120"
+                "الرابط 1": "https://bein_box_office2/index.m3u8?token=d10f2b0281859d031fa652536b1cb4ee796e1a92-f8209d47e2a3d3223f29be5c869874b6-1769360314-1769349514&remote=196.127.113.18/bein_box_office2/index.m3u8?token=946d704e6536c70d434df5ce0223883a74c4e2a7-42aa7aa6d1510db9b441c1483e527983-1769360314-1769349514&remote=196.127.113.18"
             }
         },
         "beinMoviesDrama": {
             "links": {
-                "الرابط 1": "https://bein_movies_3/index.m3u8?token=690f2bc38aa35860e01397853e15f9f79fc4ca1d-d7265cd91042cafd64e4715dbd505454-1769208661-1769197861&remote=196.127.165.120/beIN_MOVIES_3/index.m3u8?token=81ec28f3113eec78911b7d566bec20f4b0ad2d38-d11738f77be891c6217b850131c45ff6-1769208661-1769197861&remote=196.127.165.120"
+                "الرابط 1": "https://bein_drama/index.m3u8?token=4fc63bcc28e785a45bab82451906f3f2cbf24135-90d7f01e4ffb1b8a55872321687bc046-1769360471-1769349671&remote=196.127.113.18/bein_drama/index.m3u8?token=50384aaccb234fbe99d2665d723feff22f94ec8f-8322e9022976c0310ef044ad03cbe4c6-1769360471-1769349671&remote=196.127.113.18"
             }
         },
         "beinMoviesFamily": {
@@ -473,7 +473,7 @@
         },
         "beinGourmet": {
             "links": {
-                "الرابط 1": "https://gorment/index.m3u8?token=a0d71a92c063f7b5318d81d52a1acbf501ca384a-0bd5f1a607837133064e887090010b3d-1769208798-1769197998&remote=196.127.165.120/GORMENT/index.m3u8?token=f4ef3cce2eb193ffabc6dbce2927310f7a34dd63-781425a2f87e7340717ab455ea9ba45e-1769208798-1769197998&remote=196.127.165.120"
+                "الرابط 1": "https://gorment/index.m3u8?token=61bc3b0422e6672981613e2c85bc52623df2495d-f19ea2bad7e26f5b02620d438c00a16d-1769360601-1769349801&remote=196.127.113.18/GORMENT/index.m3u8?token=9cc9ca59c052e29fb0a8aa36d2376241a1362852-3aa92081550b58ed961b1fefa54a40c5-1769360601-1769349801&remote=196.127.113.18"
             }
         },
         "baraem": {
@@ -493,8 +493,7 @@
         },
         "jeem": {
             "links":{
-                "الرابط 1": "http://apk.arabic-ch.space/live/075/index.m3u8?t=zErHbTOrPUW3dLdy6eLYjg&e=1769252623",
-                "الرابط 2": "http://apk.arabic-ch.space/live/075/index.m3u8?t=zErHbTOrPUW3dLdy6eLYjg&e=1769252623"
+                "الرابط 1": "http://apk.arabic-ch.space/live/075/index.m3u8?t=zErHbTOrPUW3dLdy6eLYjg&e=1769252623"
             }
         },
         "Fatafeat": {
