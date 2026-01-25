@@ -425,7 +425,7 @@
         }
     },
     "beinEntertainment": {
-        "beinMoviesPremiere": {
+        "*beinMoviesPremiere": {
             "links": {
                 "الرابط 1": "https://bein_movies/index.m3u8?token=73a6ebfc4f9b827d651d7fd0c2c83b4ec9e57a8c-e1a048c7dbcf6cfd5752b167d27900dd-1769254826-1769244026&remote=196.127.165.120/beIN_MOVIES/index.m3u8?token=66ade37308173fd61c22056e431d087d5920dcad-e7bf1c4e257509b41fab48521082f4a8-1769254826-1769244026&remote=196.127.165.120",
                 "الرابط 2": "http://apk.arabic-ch.space/live/076/index.m3u8?t=S8x4XCmls8Bs2R-OdwjPSQ&e=1769240260"
@@ -483,7 +483,7 @@
         },
         "BeJunior": {
             "links": {
-                "الرابط 1": "http://apk.arabic-ch.space/live/082/index.m3u8?t=UlR7a2zuZ4EwwPGQzQ6eWQ&e=1769241404"
+                "الرابط 1": "http://apk.arabic-ch.space/live/082/index.m3u8?t=w64b51yQYOGvuGddiFjuTw&e=1769329337"
             }
         },
         "CartoonNetworkArabic": {
