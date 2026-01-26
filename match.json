@@ -2863,28 +2863,29 @@
     "frances": {
         "tf1": {
             "links": {
-                "الرابط 2": "http://41.205.93.154/TF1/mpegts",
+                "الرابط 2": "http://apk.arabic-ch.space/live/00000/index.m3u8?t=1tBoTkZE45pasyF_R_AN6Q&e=1769452115",
                 "الرابط 1": "https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8"
             }
         },
         "france2": {
             "links": {
-                "الرابط 1": "https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8"
+                "الرابط 1": "https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8",
+                "الرابط 2": "http://apk.arabic-ch.space/live/143/index.m3u8?t=7Ao1SgKjMq7G2pyogAhG9w&e=1769452091"
             }
         },
         "france3": {
             "links": {
-                "الرابط 1": "https://s1.news-api-gen.lol/france_3/index.m3u8?token=0f419011bd398f382de06bd7fb77b25b59ebff65-1090b0e2be1d8c6e04e618e67fb7c4c4-1769280570-1769269770&remote=196.127.165.120/france_3/index.m3u8?token=00e7e1eff063e595007c1bc1d156c651d605481c-f3471ff096f172ac746578acd64ef8a1-1769280570-1769269770&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/144/index.m3u8?t=KOAx2gnol5WOQ2HUZasYnA&e=1769453903"
             }
         },
         "france4": {
             "links": {
-                "الرابط 1": "https://s1.news-api-gen.lol/france_4/index.m3u8?token=3f106ede42f16cfa156b85745169cc4890bddd2c-23d9de11eb4ec912d1885d13c3afc21d-1769280673-1769269873&remote=196.127.165.120/france_4/index.m3u8?token=108caa7c944b3cb96a6354dcc557687006a3fc89-42435e2ac4958b3e774bc90b08fa8cf2-1769280673-1769269873&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/145/index.m3u8?t=cC2XhowiS-40qd9cYpVH6g&e=1769452933"
             }
         },
         "france5": {
             "links": {
-                "الرابط 1": "https://s1.news-api-gen.lol/france_5/index.m3u8?token=04914031e107adce5bb0547d7ac768ef2152a54b-44ff9620045539433dd009c04a3a5655-1769280712-1769269912&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/146/index.m3u8?t=AGqCiZSXzOwjAgTOPAUWcQ&e=1769452123"
             }
         },
         "m6": {
@@ -2894,7 +2895,7 @@
         },
         "arte": {
             "links": {
-                "الرابط 1": "https://s1.news-api-gen.lol/arte/index.m3u8?token=0c878dac03bdb023595a8c2e12c5092fde0f5aaa-c44c279dd6c8fa75fe8ad57fba41c4e7-1769280829-1769270029&remote=196.127.165.120"
+                "الرابط 1": "http://apk.arabic-ch.space/live/102/index.m3u8?t=OyVU0dL4QSDT1_YZyPgjZg&e=1769452118"
             }
         },
         "rtl9": {
@@ -3344,8 +3345,7 @@
         },
         "rmcTalkSport": {
             "links": {
-                "الرابط 1": "https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/925160"
+                "الرابط 1": "http://apk.arabic-ch.space/live/137000/index.m3u8?t=9MtWE_1ULhY1scKGf5l0Wg&e=1769453811"
             }
         },
         "eurosport1": {
@@ -3358,6 +3358,11 @@
             "links": {
                 "الرابط 1": "http://41.205.93.154/EUROSPORT2/mpegts",
                 "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/250664"
+            }
+        },
+        "rmcSport1": {
+            "links": {
+                "الرابط 1": "http://apk.arabic-ch.space/live/137000/index.m3u8?t=9MtWE_1ULhY1scKGf5l0Wg&e=1769453811"
             }
         }
     }
