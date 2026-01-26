@@ -308,9 +308,9 @@
         }
     },
     "beinEntertainment": {
-        "*beinMoviesPremiere": {
+        "beinMoviesPremiere": {
             "links": {
-                "الرابط 1": "https://s1.news-api-gen.lol/bein_movies/index.m3u8?token=183324cf471909b8a35e200e312da31f34eb83a0-9f3256a6c71e493e804c6d4f69bb2f1f-1769386368-1769375568&remote=196.127.113.18/beIN_MOVIES/index.m3u8?token=3a23085f213693327304fe4797e3b724b974f6d6-569a8053cb3b9fd71b6f14a36b9a85fb-1769386368-1769375568&remote=196.127.113.18",
+                "الرابط 1": "http://apk.arabic-ch.space/live/076/index.m3u8?t=cJFZ83bl03ZHUKqqLFRDAA&e=1769414579",
                 "الرابط 2": "http://apk.arabic-ch.space/live/076/index.m3u8?t=S8x4XCmls8Bs2R-OdwjPSQ&e=1769240260"
             }
         },
