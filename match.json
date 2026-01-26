@@ -31,7 +31,7 @@
             }
         }
     },
-    "events": {
+    "*events": {
         "event10": {
             "team1": "الوداد الرياضي",
             "team2": "مانيما يونيون",
@@ -88,7 +88,7 @@
     "alwan": {
         "alwan1": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport1/index.m3u8?token=7b7b821bbed6d883c720449c806dd2bc0e58b1a2-0fd60b9e4553165523ea2c069bf169a2-1769385313-1769374513&remote=196.127.113.18/alwan_sport1/index.m3u8?token=1c15d52873771562f65f5fd92b03a1887cb1b8dc-07726282d596779c35b8c674d7d31c3f-1769385313-1769374513&remote=196.127.113.18"
+                "الرابط 1": "http://s3.news-api-gen.lol/alwan_sport1/index.m3u8?token=440cd556519da1f3939ecfd3f315194b20cd2e5c-7efe14453cfa5279798bf8dbb291fc89-1769443597-1769432797&remote=102.97.169.44"
             }
         },
         "alwan2": {
@@ -310,7 +310,7 @@
     "beinEntertainment": {
         "*beinMoviesPremiere": {
             "links": {
-                "الرابط 1": "https://bein_movies/index.m3u8?token=73a6ebfc4f9b827d651d7fd0c2c83b4ec9e57a8c-e1a048c7dbcf6cfd5752b167d27900dd-1769254826-1769244026&remote=196.127.165.120/beIN_MOVIES/index.m3u8?token=66ade37308173fd61c22056e431d087d5920dcad-e7bf1c4e257509b41fab48521082f4a8-1769254826-1769244026&remote=196.127.165.120",
+                "الرابط 1": "https://s1.news-api-gen.lol/bein_movies/index.m3u8?token=183324cf471909b8a35e200e312da31f34eb83a0-9f3256a6c71e493e804c6d4f69bb2f1f-1769386368-1769375568&remote=196.127.113.18/beIN_MOVIES/index.m3u8?token=3a23085f213693327304fe4797e3b724b974f6d6-569a8053cb3b9fd71b6f14a36b9a85fb-1769386368-1769375568&remote=196.127.113.18",
                 "الرابط 2": "http://apk.arabic-ch.space/live/076/index.m3u8?t=S8x4XCmls8Bs2R-OdwjPSQ&e=1769240260"
             }
         },
@@ -792,25 +792,22 @@
     "majd" : {
         "majd": {
           "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/883",
-                "الرابط 2": "http://154.58.202.185:8000/play/a0b0"
+                "الرابط 1": "https://s3.news-api-gen.lol/majd_genral/index.m3u8?token=0c4f9362d64691848f9c674866558cca595090d7-7f884ea06cbf1492f49a73c5de933276-1769444132-1769433332&remote=102.97.169.44/majd_genral/index.m3u8?token=4be4ac2a9e50c34de4551c627b4afb8964d40494-d9f065fe362e759a593ab95808601dce-1769444132-1769433332&remote=102.97.169.44"
             }  
         },
         "majdKoran": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/882",
-                "الرابط 2": "http://154.58.202.185:8000/play/a0am"
+                "الرابط 1": "https://s1.news-api-gen.lol/majd_quran/index.m3u8?token=73930f9dc557530db2a9245468b1964dbb18fe78-c8caeea2da981859b9469e2881f55c6e-1769444441-1769433641&remote=102.97.169.44/majd_quran/index.m3u8?token=0eeb6e7b219ecd78c4628bfd7c3b8f1af467a793-d04330ba0613c48e6f15196dbcfdc68a-1769444441-1769433641&remote=102.97.169.44"
             }
         },
         "majdDocu": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331529"
+                "الرابط 1": "https://s3.news-api-gen.lol/majd_documentary/tracks-v1a1/mono.css?remote=102.97.169.44&remote=102.97.169.44/majd_documentary/index.css?token=aa464467f157997a9a1c58f891030d6e88f3424d-06847d092fc58a198a29938d518c0ef2-1769444544-1769433744&token=5ea11af73431d7f0abd2c1e6aec2f78c00d43a2c-10d2d80885198b0474c1dc6b910c8321-1769444544-1769433744"
             }
         },
         "majdSonna": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/881",
-                "الرابط 2": "http://154.58.202.185:8000/play/a0an"
+                "الرابط 1": "https://s3.news-api-gen.lol/majd_hadith/index.m3u8?token=355d1095bb6d8b8592e9d3e5909dfbc0e3b91536-e909e5c886e26c18516cfbf5fb8a075a-1769444413-1769433613&remote=102.97.169.44/majd_hadith/index.m3u8?token=b694685efced9c9f3b7167a9020d858e4553826a-e974880507f9c07cd9c916529be7af77-1769444413-1769433613&remote=102.97.169.44"
             }
         },
         "majd3lmiya": {
@@ -820,22 +817,22 @@
         },
         "majdRawda": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331532"
+                "الرابط 1": "https://s3.news-api-gen.lol/majd_rawda/index.m3u8?token=ce42cb91e45d0a0cf1a4a4c8634ae2c91ddaa687-3b0879e53fa3eb653e92436f3f52a6cc-1769444722-1769433922&remote=102.97.169.44/majd_rawda/index.m3u8?token=f2ffbb4e6a7b9cc9ece1329a28835376e2b95f38-7c4c8e2bdd988a2f57b6141c23cdf6d8-1769444722-1769433922&remote=102.97.169.44"
             }
         },
-        "_mjd": {
+        "mjd": {
             "links":{
-                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129862"
+                "الرابط 1": "https://s3.news-api-gen.lol/majd_kids/index.m3u8?token=96eb2aa656f834184b746106c4202b6d85df8e4e-c469b31461abcf285fbf4b5a52f2b39f-1769444783-1769433983&remote=102.97.169.44/majd_kids/index.m3u8?token=dee54ef58a833497a43d12d552f8df4118d5c1e1-d5231b29a13292bd1a70e06a3f4bef67-1769444783-1769433983&remote=102.97.169.44"
             }
         },
-        "_المجد ماسة": {
+        "المجد ماسة": {
             "links":{
-                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129863"
+                "الرابط 1": "https://majd_masa/tracks-v1a1/2026/01/26/13/31/57-06000.js?token=77b2098ad86477104d2a9cd4068be701478f8944-326aadf1ea301d96587cffe2a694f12c-1769444826-1769434026"
             }
         },
         "المجد الطبيعية": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331527"
+                "الرابط 1": "https://s3.news-api-gen.lol/majd_tabeeaiyah/tracks-v1a1/mono.css?remote=102.97.169.44&remote=102.97.169.44/majd_tabeeaiyah/index.css?token=29ee0b62d08e7d9101dfddd6b07e0255207aae67-e21e4b5ad05659208efdbb286f6328f4-1769444859-1769434059&token=2fef019ff4e881b7b3f81c5216ce9eb3b994d499-b4d90a85baf1b357ce71b7f588b16def-1769444859-1769434059"
             }
         }
     },
