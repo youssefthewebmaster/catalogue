@@ -172,15 +172,7 @@
     "beinSport": {
         "beinSportNews": {
             "links": {
-                "الرابط 1": "https://cartoon_n/index.m3u8?token=b72aad57b4dc871223a9c9b833191d3493156a3b-776996c27220e00e27cf3376e5fc8c68-1768844861-1768834061&remote=160.178.124.69",
-                "الرابط 2": "https://s1.news-api-gen.lol/BARAEAM/index.m3u8?token=0a6055a44407189f51d41311105fd900e4d79423-4f914146c2bb3275fddbdbd0716b8e5f-1768844789-1768833989&remote=160.178.124.69/BARAEAM/index.m3u8?token=777d9f065bc3f5453aec09854de315da8c38b313-aa43ec14951be4a353202bcf79dbf5a1-1768844789-1768833989&remote=160.178.124.69",
-                "الرابط 3": "https://nickelodeon/index.m3u8?token=1a90f621612bc67dd49a9aaa6abf192895922466-49165cf0da63fd6f1a70f99e2619fd23-1768845262-1768834462&remote=160.178.124.69/Nickelodeon/index.m3u8?token=3f4d4829410bbc49a89f3f57e1e83ae4ac0856b4-72b8275f1ed524751950a77b2f4b9f18-1768845262-1768834462&remote=160.178.124.69",
-                "الرابط 4": "https://s3.news-api-gen.lol/Boomerang/index.m3u8?token=66fac4a1fe0bacaf6e78af445799646ca0fa275c-cdcd2ee3ec1ac70e8e47409dfe2a1efc-1768845573-1768834773&remote=160.178.124.69",
-                "الرابط 5": "https://bein_box_office1/index.m3u8?token=7763eae038d75cc4cda9ea499b3bfca3996a842d-8c28d1bc3c782fe950b29a7ac49155cd-1768836189-1768825389&remote=105.157.46.137/bein_box_office1/index.m3u8?token=02ed89d7b89fb4a85bccc8658d64f5a21daaf067-43035961b8ba51c1af52ffec4639a5b4-1768836189-1768825389&remote=105.157.46.137",
-                "الرابط 6": "https://bein_box_office2/index.m3u8?token=a3240f41f23fe059b992b5974ca9433da2f9d385-b7fbeb9eb636cd41d70d24a8a3199880-1768836218-1768825418&remote=105.157.46.137/bein_box_office2/index.m3u8?token=05ecd3d6eeaa5f71c3c6feb62f7ee81a83c3f745-39804dba07c7d8daca2e1b199d1e8efb-1768836218-1768825418&remote=105.157.46.137",
-                "الرابط 7": "https://bein_series_1/index.m3u8?token=8adff0657b72b47e42f09359dbb5ba46f9d3dcef-bac8426acd04f217c9d24db0dabe043b-1768839213-1768828413&remote=105.157.46.137/beIN_SERIES_1/index.m3u8?token=e6f8eaa26d5b2573ae61dd01d30265d027b4db34-20274150327915dc6da31b08ead7fece-1768839213-1768828413&remote=105.157.46.137",
-                "الرابط 8": "https://bein_series_2/index.m3u8?token=544abb667b07fddcdf190e43da3deea40cb90f1e-c493f7792321abdf299c6bb0441bdf35-1768839257-1768828457&remote=105.157.46.137/beIN_SERIES_2/index.m3u8?token=91f315ed7c9a5c563b4f8fbfe2ff9e12cf69b9da-47c6d96c00a57cb2b0cb323aa9383c2f-1768839257-1768828457&remote=105.157.46.137",
-                "الرابط 9": "https://bein_drama/index.m3u8?token=3d668346e858238aae4f39ecc7e689070ecde175-dfaf23c277c1caab7fd867e5e56967d3-1768839285-1768828485&remote=105.157.46.137/bein_drama/index.m3u8?token=260c2422d9bb4b40cd001daa2a2f05f49f140356-665a4daf8bb867bb554f46423ef37b44-1768839285-1768828485&remote=105.157.46.137"
+                "الرابط 1": "https://yjaacbk.234276133.fit:8443/hls/4xf1f812.m3u8?s=TbM0d7g0sy0v3x6I4v1j3A&e=1769563419"
             }
         },
         "beinSportGlobal": {
@@ -2996,8 +2988,7 @@
         },
         "boomerang": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/35528",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/307"
+                "الرابط 1": "http://apk.arabic-ch.space/live/082/index.m3u8?t=D9wJPdPdWjue9Gq_QWksTg&e=1769519490"
             }
         },
         "boomerangMax": {
@@ -3014,9 +3005,7 @@
         },
         "canalJ": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1222",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32828",
-                "الرابط 3": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12884"
+                "الرابط 1": "http://apk.arabic-ch.space/live/110/index.m3u8?t=akqXdfofVimMZ_CVaE2sfw&e=1769536572"
             }
         },
         "boing": {
@@ -3033,8 +3022,7 @@
         },
         "disneyChannel": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/35529",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/302"
+                "الرابط 1": "http://apk.arabic-ch.space/live/122/index.m3u8?t=qx5QUMrMLxHiO2AderFjAw&e=1769536007"
             }
         },
         "piwi": {
@@ -3051,8 +3039,7 @@
         },
         "nickelodeonJunior": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/310",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/308"
+                "الرابط 1": "http://apk.arabic-ch.space/live/121/index.m3u8?t=1gtHd3UGDS2GvfnikKikbw&e=1769539837"
             }
         },
         "canalPlusKids": {
@@ -3127,8 +3114,7 @@
         },
         "animaux": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/203430",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/338"
+                "الرابط 1": "http://apk.arabic-ch.space/live/005581/index.m3u8?t=N-e6a3piEpl21-8QhvRbEA&e=1769543297"
             }
         },
         "chassePeche": {
