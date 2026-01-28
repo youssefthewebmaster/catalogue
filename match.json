@@ -114,62 +114,62 @@
     "alwan": {
         "alwan1": {
             "links": {
-                "الرابط 1": "http://s3.news-api-gen.lol/alwan_sport1/index.m3u8?token=440cd556519da1f3939ecfd3f315194b20cd2e5c-7efe14453cfa5279798bf8dbb291fc89-1769443597-1769432797&remote=102.97.169.44"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport1/index.m3u8?token=0e61aad4a27c26755b4e320adc28bb1d6584cd79-6b9cf4bb4f5b9041fc5cc5355264c70b-1769628852-1769618052&remote=102.97.172.15/alwan_sport1/index.m3u8?token=ba92c8064b8b12418d74bc3470e06a00364cbf31-e302f4fe3bf7f524fc2dfaabca1ebad6-1769628852-1769618052&remote=102.97.172.15"
             }
         },
         "alwan2": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport2/index.m3u8?token=a74c6510d751f04de96b7c6e25cd2c2f65383293-625397d3d020ee565b603976d8217de2-1769385722-1769374922&remote=196.127.113.18"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport2/index.m3u8?token=d4a6be12348092923914a8126689c3dc53745b99-b49bf5834929916ebc5bb513fe885ef8-1769629109-1769618309&remote=102.97.172.15/alwan_sport2/index.m3u8?token=9a45c49da1f56a55e95095110dcf22f5c48e2af3-c41cb55a0eb8e7767e9ca358719f11bf-1769629109-1769618309&remote=102.97.172.15"
             }
         },
         "alwan3": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport3/index.m3u8?token=a2c3c86c7568e9d3afe0831a96cb9ab8e75e6110-5c95e652141723a688aed95e9beebe7b-1769385749-1769374949&remote=196.127.113.18/alwan_sport3/index.m3u8?token=98071e4c924a3b6b327fcfdf2a2484e61a5bf702-1f9b68786b67b36e6fa755046d3817ba-1769385749-1769374949&remote=196.127.113.18"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport3/index.m3u8?token=5ba5c822239d86ca48b2764b53d9b157021c523e-9d46a9a5c77749c57d1a51b400b7a385-1769629133-1769618333&remote=102.97.172.15/alwan_sport3/index.m3u8?token=b93db177b5c68a98ee6f96baa1842abb269fbdfd-bd06c1442d05d40ba82da40a95444337-1769629133-1769618333&remote=102.97.172.15"
             }
         },
         "alwan4": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport4/index.m3u8?token=1919e676a0e8955892c95ba35e9c230d5a7b8043-a1fae225006ad3896231cca6e5750ccb-1769385780-1769374980&remote=196.127.113.18/alwan_sport4/index.m3u8?token=3ad65efaeec430863ac47b385f62e7f130488658-ae00235d0f078a26f4a7f643879d3629-1769385780-1769374980&remote=196.127.113.18"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport4/index.m3u8?token=17fc56822ca9fa20148c88191e6825255fdd12fd-4f3e41960aa6a38ec97f301e46f58775-1769629164-1769618364&remote=102.97.172.15"
             }
         },
         "alwan5": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport5/index.m3u8?token=56f1572d330e4cb6469aef5b0c7417b756d7f68d-099c63b78e12a13a405121dea8bfcc24-1769385799-1769374999&remote=196.127.113.18"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport5/index.m3u8?token=221b0c52202db6dc0dd9222e636218aa22b748bf-561dac422353b4d29fbdebce449bb116-1769629183-1769618383&remote=102.97.172.15/alwan_sport5/index.m3u8?token=bde1deb53149f1a34e85eb0e85e2829bc4d7ca03-6fe9abf6abf93bc8878a2b4001a1f1d6-1769629183-1769618383&remote=102.97.172.15"
             }
         },
         "alwan6": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport6/index.m3u8?token=59210c75562f4b3a32dd51efc639d6a244452787-9c1a8629ed0f6d998aa1e3f96477eb47-1769385815-1769375015&remote=196.127.113.18/alwan_sport6/index.m3u8?token=ae9287127c3adfeb520d70171ae9acac582fdf39-28c4b6fd6608ffdc366706a99bcf0c1f-1769385815-1769375015&remote=196.127.113.18"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport6/index.m3u8?token=9d36a7dafd21c1d93f69ab3f43293b69f4ae02da-979c0c53d4daa3b9cc3850bfd9f9635f-1769629210-1769618410&remote=102.97.172.15/alwan_sport6/index.m3u8?token=9d835956eb5064a51becba11aee9cf5505905672-3b868a5a810ee2363e6dfbf3b81ac3e2-1769629210-1769618410&remote=102.97.172.15"
             }
         },
         "alwan7": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport7/index.m3u8?token=19b87cce989f35c5e399090c7c68f9d59c407bcd-1feacbda1d2ca4eca80067df25be6b9a-1769385837-1769375037&remote=196.127.113.18/alwan_sport7/index.m3u8?token=8c75cccd677f0f2087923f23525e71eab4fc50b8-7537e8b93ad872a8da3d15cd9c31dc83-1769385837-1769375037&remote=196.127.113.18"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport7/index.m3u8?token=2c7e42886a6b6eab8e2893b5d7b080bb000a82dc-e1cc4b9711f6353e4245cc6b2779ce1e-1769629228-1769618428&remote=102.97.172.15"
             }
         },
         "alwan8": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport8/index.m3u8?token=70cc4068da8eda8b16f006fadc62563141d7b4af-7cd150fabcea1d85f9aaed10c611574f-1769385852-1769375052&remote=196.127.113.18/alwan_sport8/index.m3u8?token=cbdc86079c2b976d4462913808ed2a762ae1ab3a-a03cf9b94478d4545e8dd07a3c6e3ce3-1769385852-1769375052&remote=196.127.113.18"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport8/index.m3u8?token=a706127bb5564c5bc491e840c85876a24a614a43-3a79d0a7f8881e90b5085991cc6ad09b-1769629259-1769618459&remote=102.97.172.15/alwan_sport8/index.m3u8?token=8bef14a28e0101d0a9cfc65b798c23df8058f94c-ac931bb3b724259fc0b0d06d5dc1ddaa-1769629259-1769618459&remote=102.97.172.15"
             }
         },
         "alwan9": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport9/index.m3u8?token=be46786ab6fbbca39671682660d16ffa37589799-c73ef5d3d73b11d4d4d75d9dabe2d147-1769385869-1769375069&remote=196.127.113.18/alwan_sport9/index.m3u8?token=64cb6c88882633fff51d9c06cbd69682c3f52728-002c7b1f474ac5cf373190317a8721b3-1769385869-1769375069&remote=196.127.113.18"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport9/index.m3u8?token=d4a49dca1446f006ef47018043fdbbbe84fb0b11-709cc50224a95ed2f767c789ac432649-1769629287-1769618487&remote=102.97.172.15/alwan_sport9/index.m3u8?token=cd236e0890c014cd28ae58dcac128a22de2ffeb0-ee9bdb808573f33e4efc56d080e41b53-1769629287-1769618487&remote=102.97.172.15"
             }
         },
         "alwan10": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport10/index.m3u8?token=b3f9b39e34b27a99eff9e6caa73af69adf054cd2-58507e9fe555090af7ddc0a5d475107b-1769385887-1769375087&remote=196.127.113.18/alwan_sport10/index.m3u8?token=97d5daa7d0ddda3d79220d4bd4ba574e56c0c6ee-674d8c5c1fb3d0889606abf3bf2013e0-1769385887-1769375087&remote=196.127.113.18"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport10/index.m3u8?token=9b49a88965b57f76210b5d67df7b069650dc05e7-005627482f25e9f5af7b77198cd789de-1769629318-1769618518&remote=102.97.172.15/alwan_sport10/index.m3u8?token=0755ea1aedf61075093df183a17225daa546f88b-4743a649fa7e4e4d7cd61f7c931fbfa8-1769629318-1769618518&remote=102.97.172.15"
             }
         },
         "alwanwwe": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_wwe/index.m3u8?token=5dc0dd2a494d933ae60f4bfd94dc20361031dca8-967a1dde6235abecedf9bfb5a8805d8a-1769385913-1769375113&remote=196.127.113.18"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_wwe/index.m3u8?token=7c2543bb80070cd7efadbae6027893e85f5c99a9-e7d768a9a5c1d48d381a4288bfc62d8c-1769629341-1769618541&remote=102.97.172.15/alwan_wwe/index.m3u8?token=4d404232fcc7bc866ea6dd28307f249d5434d0a0-7b3210884b4f76b8d2aab9768de5022d-1769629341-1769618541&remote=102.97.172.15"
             }
         },
         "alwanufc": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_aflam1/index.m3u8?token=25097694f97a35a7477c5a99afb9e3b9fcd50856-534bfdd2ad25b9441a44554bfb44c443-1769385939-1769375139&remote=196.127.113.18/alwan_aflam1/index.m3u8?token=bc3d8d9b3b9738e63632e9223e9cf0ed75276d92-e8890c782c055dc218a238a621c44281-1769385939-1769375139&remote=196.127.113.18"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_aflam1/index.m3u8?token=07be3c387a50eed40ef56c7811fdee838783022e-01a8d6008fa0228be38583860c290176-1769629382-1769618582&remote=102.97.172.15/alwan_aflam1/index.m3u8?token=65d1aea557f0d384db876d3013ad84dd8a1c7015-bcbd1299e5c3d360650443f61c4fa523-1769629382-1769618582&remote=102.97.172.15"
             }
         },
         "alwanf1": {
