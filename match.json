@@ -181,17 +181,19 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "الرابط 1": "https://yjaacbk.234276133.fit:8443/hls/tr81yto0ib1p.m3u8?s=4oZ4Z-i0-_rm_bQIyEApVg&e=1769566993"
+                "الرابط 1": "https://s4.news-api-gen.lol/thamnya_sd/index.m3u8?token=bf7266ec4b71022f80bd985d38dc0e0525f03cbe-274785da242834fb974112c660b0a216-1769629504-1769618704&remote=102.97.172.15/thamnya_sd/index.m3u8?token=f61bdb9ea56ed4fc9db76b357e1ee84f9f371361-d985eb481505190d7dd47cd5ffa870e8-1769629504-1769618704&remote=102.97.172.15"
             }
         },
         "tamaniya2": {
             "links": {
-                "الرابط 1": "https://yjaacbk.234276133.fit:8443/hls/tr81yto0ib1p.m3u8?s=MJ-WehvGhvKpb6WJadscNQ&e=1769568035"
+                "الرابط 1": "https://s4.news-api-gen.lol/thamnya_sd2/index.m3u8?token=f86641fc4ff1458b426003ea94b943633b52535e-a412a7ab3bc8d832f92920252912e6a8-1769629840-1769619040&remote=102.97.172.15/thamnya_sd2/index.m3u8?token=0fee96f2cd8ef0f53ec9e984ec6ebdd6f98b162f-63536b042f17ccd92b4e572583cb5592-1769629840-1769619040&remote=102.97.172.15",
+                "الرابط 2": "http://cyou.genral2025.cfd:8080/tahd2.css?token=f32c9594fad5e7cc0d085e029680717b&ip=102.97.172.15"
             }
         },
         "tamaniya3": {
             "links": {
-                "الرابط 1": "https://yjaacbk.234276133.fit:8443/hls/tr81yto0ib1p.m3u8?s=vMkAMF0OAgg0onekWx9rNg&e=1769568116"
+                "الرابط 1": "http://cyou.genral2025.cfd:8080/ta3.css?token=f32c9594fad5e7cc0d085e029680717b&ip=102.97.172.15",
+                "الرابط 2": "http://cyou.genral2025.cyou:8080/tahd3.css?token=f32c9594fad5e7cc0d085e029680717b&ip=102.97.172.15"
             }
         }
     },
