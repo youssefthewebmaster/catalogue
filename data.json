@@ -1,46 +1,46 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre du 29 Janvier au 4 Février",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-8_1.jpg",
+      "link": "kazyon"
+    },
+    "new2": {
+      "title": "Aswak Assalam",
+      "date": "Offre du 23 Janvier au 12 Février",
+      "thumbnail": "https://hmizate.ma/img/cms/1_11.jpg",
+      "link": "aswak"
+    },
+    "new3": {
       "title": "Carrefour Méga",
       "date": "Offre du 22 Janvier au 11 Février",
       "thumbnail": "https://hmizate.ma/img/cms/279d80e68e0457c4e8c5974964d350e8.webp",
       "link": "carrefour1"
     },
-    "new2": {
+    "new4": {
       "title": "Bim Market",
       "date": "Offre de Vendredi 23 Janvier 2026",
       "thumbnail": "https://www.bim.ma/Uploads/ma/Files/19-01-2026-14-08-44-WEB%20SPOT%20BIM%2023%20JANVIER%202026.jpg",
       "link": "bim1"
     },
-    "new3": {
+    "new5": {
       "title": "Supeco Market",
       "date": "Offre du 23 au 25 Janvier 2026",
       "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/616172266_1195493006075429_2614993694420187471_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzgxNDkzNTM4NjQ0MzAwMzg1MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=He_H8pjWVC8Q7kNvwHf6Kxf&_nc_oc=AdmCqzSUw31awJWUTdd5vGm7hVsiGzq-RLsEk9gDVzq1EqLIRdx3rT9TeaO7Fhzsq3U&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LqiFdjpCJREQrtDc4u6KUw&oh=00_AfpfZ6xg2RcfDgDu4vQDlyhrKqhr1bCI9SQFGnUoTHBAqg&oe=69787543",
       "link": "supeco1"
     },
-    "new4": {
-      "title": "Kazyon Market",
-      "date": "Offre du 22 au 28 Janvier 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-3%20(1).jpg",
-      "link": "kazyon"
-    },
-    "new5": {
+    "new6": {
       "title": "Marjane Méga",
       "date": "Offre du 20 Janvier au 03 Février",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Marjane%20Du%2020%20janvier%20au%2003%20f%C3%A9vrier%202026-.jpg",
       "link": "marjane"
     },
-    "new6": {
+    "new7": {
       "title": "Atacadão Market",
       "date": "Offre du 15 janvier au 4 février",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2015%20janvier%20au%204%20f%C3%A9vrier%202026%20(1)-5.jpg",
       "link": "atacadao"
-    },
-    "new7": {
-      "title": "Aswak Assalam",
-      "date": "A partir de Samedi 18 Janvier",
-      "thumbnail": "https://scontent.cdninstagram.com/v/t39.30808-6/616190647_889457307016816_80742827031177554_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzgxMTQ3Mjk1MzgxMzU4MTg4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTIwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=vpnrhKXSuYcQ7kNvwFq-Cbu&_nc_oc=Adn_-j3WKk23r9FBFAK-XOOPXJN_wvow8rMLYECWph82lk-epyuULnBoNAjKgrZcNm4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=eJKdNF4j69_w4UfTEvGVuw&oh=00_AfrdMd6OZD5dkjhOrFW_fMFsC4br1ETf0U8iQksafrXkVg&oe=69714AF3",
-      "link": "aswak1"
     },
     "new8": {
       "title": "Marjane Market",
@@ -64,14 +64,17 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-3%20(1).jpg",
-    "date": "Offre du 22 au 28 Janvier 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-8_1.jpg",
+    "date": "Offre du 29 Janvier au 4 Février",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-3%20(1).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-4%20(1).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-2%20(1).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-5%20(1).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2022%20au%2028%20janvier%202026-1%20(1).jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-8_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-7_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-3_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-6_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-1_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-5_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-2_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-4_1.jpg"
     ]
   },
   "Kazyon1": {
@@ -129,30 +132,34 @@
   "AswakAssalam": {
     "title": "Aswak Assalam",
     "link": "aswak",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-1-min%20-%20Copie.jpg",
-    "date": "Offre du 17 Décembre au 08 Janvier 2025",
+    "thumbnail": "https://hmizate.ma/img/cms/1_11.jpg",
+    "date": "Offre du 23 Janvier au 12 Février",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-1-min%20-%20Copie.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-2-min%20-%20Copie.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-3-min%20-%20Copie.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-4-min%20-%20Copie.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-5-min%20-%20Copie.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-7-min%20-%20Copie.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-8-min%20-%20Copie.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-9-min%20-%20Copie.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-10-min%20-%20Copie.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-11-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-12-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-13-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-14-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-15-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-16-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-18-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-19-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-20-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-21-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-22-min.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20du%2017%20d%C3%A9cembre%20au%208%20janvier%202026-17-min.jpg"
+      "https://hmizate.ma/img/cms/1_11.jpg",
+      "https://hmizate.ma/img/cms/2_8.jpg",
+      "https://hmizate.ma/img/cms/3_10.jpg",
+      "https://hmizate.ma/img/cms/5_8.jpg",
+      "https://hmizate.ma/img/cms/6_7.jpg",
+      "https://hmizate.ma/img/cms/8_7.jpg",
+      "https://hmizate.ma/img/cms/11_7.jpg",
+      "https://hmizate.ma/img/cms/12_7.jpg",
+      "https://hmizate.ma/img/cms/13_5.jpg",
+      "https://hmizate.ma/img/cms/15_7.jpg",
+      "https://hmizate.ma/img/cms/16_6.jpg",
+      "https://hmizate.ma/img/cms/17_5.jpg",
+      "https://hmizate.ma/img/cms/19_8.jpg",
+      "https://hmizate.ma/img/cms/20_8.jpg",
+      "https://hmizate.ma/img/cms/21_6.jpg",
+      "https://hmizate.ma/img/cms/22_6.jpg",
+      "https://hmizate.ma/img/cms/23_7.jpg",
+      "https://hmizate.ma/img/cms/24_7.jpg",
+      "https://hmizate.ma/img/cms/25_5.jpg",
+      "https://hmizate.ma/img/cms/26_4.jpg",
+      "https://hmizate.ma/img/cms/27_6.jpg",
+      "https://hmizate.ma/img/cms/28_6.jpg",
+      "https://hmizate.ma/img/cms/30_6.jpg",
+      "https://hmizate.ma/img/cms/31_5.jpg",
+      "https://hmizate.ma/img/cms/32_6.jpg"
     ]
   },
   "AswakAssalam1": {
