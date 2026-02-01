@@ -1057,13 +1057,12 @@
     "kass": {
         "alkass1": {
             "links":{
-                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/112537"
+                "الرابط 1": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260115T071402Z/mux_video_1080p_ts/index-1.m3u8"
             }
         },
         "alkass2": {
             "links":{
-                "الرابط 1": "https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8",
-                "الرابط 2": "https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/chunklist_w1704834587.m3u8"
+                "الرابط 1": "https://liveeu-gcp.alkassdigital.net/alkass2-p/20260102T032831Z/mux_video_1080p_ts/index-1.m3u8"
             }
         },
         "alkass3": {
@@ -1074,13 +1073,12 @@
         },
         "alkass4": {
             "links":{
-                "الرابط 1": "https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8",
-                "الرابط 2": "https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/chunklist_w1713350136.m3u8"
+                "الرابط 1": "https://liveeu-gcp.alkassdigital.net/alkass4-p/20260114T125055Z/mux_video_1080p_ts/index-1.m3u8"
             }
         },
         "alkass5": {
             "links":{
-                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/112533"
+                "الرابط 1": "https://liveeu-gcp.alkassdigital.net/alkass5-p/20260115T072042Z/mux_video_1080p_ts/index-1.m3u8"
             }
         }
     },
@@ -1699,10 +1697,11 @@
         },
         "abudhabiSport1": {
             "links":{
-                "الرابط 1": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
+                "1080p": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index_sp1_video_enc_1080p25.m3u8",
+                "480p": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index_sp1_video_enc_480p25.m3u8"
             }
         },
-        "abudhabiSport2": {
+        "*abudhabiSport2": {
             "links":{
                 "الرابط 2": "https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd",
                 "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8"
@@ -1710,19 +1709,17 @@
         },
         "abudhabiSportAsia1": {
             "links":{
-                "1080p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/319516",
-                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/583807"
+                "1080p": "https://s1.news-api-gen.lol/ad_asia_1/index.m3u8?token=a9332a239b83f9656245222a908256c9f7f0ed20-e1055b7c20f81c76dc5414ec6039507f-1769993802-1769983002&remote=196.127.64.161/ad_asia_1/index.m3u8?token=cd40c6f37345ded49983da0a5dbdde556207ce34-25e4aca0a6b4919a290f1059df0c14dc-1769993802-1769983002&remote=196.127.64.161"
             }
         },
         "abudhabiSportAsia2": {
             "links":{
-                "1080p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/319517",
-                "480p": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/583808"
+                "1080p": "https://s1.news-api-gen.lol/ad_asia_2/index.m3u8?token=51c05464484d01e5d8f464b899de6cf0c584f17e-3b3700a8943773fee12d9be057f9fc4b-1769993887-1769983087&remote=196.127.64.161/ad_asia_2/index.m3u8?token=20313fea20f1a44dca5a407e5b28703bde5f0b0e-f100539b84a98b0c7d64a96ecf5180a0-1769993887-1769983087&remote=196.127.64.161"
             }
         },
-        "abudhabiSportPermium1": {
+        "*abudhabiSportPermium1": {
             "links":{
-                "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/992043"
+                "4k": "https://s3.news-api-gen.lol/ad_pr1/index.m3u8?token=46c9e3814389c8b3d59d38a336d0b856e8719ac4-6d4ac78fa40191f50044ad8efe724bab-1769993220-1769982420&remote=196.127.64.161"
             }
         },
         "abudhabiSportPermium2": {
@@ -1754,12 +1751,12 @@
         },
         "ONSport1": {
             "links":{
-                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7956.ts"
+                "الرابط 1": "http://apk.arabic-ch.space/live/006900/index.m3u8?t=pSgkpuCD2mMZ0y-8iQxokw&e=1769966264"
             }
         },
         "ONSport2": {
             "links":{
-                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7957.ts"
+                "الرابط 1": "http://apk.arabic-ch.space/live/007000/index.m3u8?t=ZYZsd_kqro-SIPBSavQjGQ&e=1769966315"
             }
         },
         "NileSport": {
@@ -1770,7 +1767,7 @@
         },
         "alahli": {
             "links":{
-                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7899.ts"
+                "الرابط 1": "https://s1.news-api-gen.lol/ahly/index.m3u8?token=a002169a04e8c3830ed588e3890a530762617a04-7cee329d1c51514dd0a00af6a3da92a9-1769993393-1769982593&remote=196.127.64.161"
             }
         },
         "azamalik": {
