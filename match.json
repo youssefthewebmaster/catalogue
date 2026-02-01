@@ -241,20 +241,20 @@
             "comment": "نوفل باشي"
         }
     },
-    "alwan": {
-        "alwan1": {
+    "*alwan": {
+        "*alwan1": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport1/index.m3u8?token=0e61aad4a27c26755b4e320adc28bb1d6584cd79-6b9cf4bb4f5b9041fc5cc5355264c70b-1769628852-1769618052&remote=102.97.172.15/alwan_sport1/index.m3u8?token=ba92c8064b8b12418d74bc3470e06a00364cbf31-e302f4fe3bf7f524fc2dfaabca1ebad6-1769628852-1769618052&remote=102.97.172.15"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport1/index.m3u8?token=b9ff529af8f6890c3f613ee3630023bd53128f48-39bc95811bf48c4c39f13fa876d234ed-1769986689-1769975889&remote=196.127.64.161/alwan_sport1/index.m3u8?token=b596fc89ad0664228d8d45cfb65978e2f04843ee-dded0424c0fe8e30617eef694dc3e683-1769986689-1769975889&remote=196.127.64.161"
             }
         },
         "alwan2": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport2/index.m3u8?token=d4a6be12348092923914a8126689c3dc53745b99-b49bf5834929916ebc5bb513fe885ef8-1769629109-1769618309&remote=102.97.172.15/alwan_sport2/index.m3u8?token=9a45c49da1f56a55e95095110dcf22f5c48e2af3-c41cb55a0eb8e7767e9ca358719f11bf-1769629109-1769618309&remote=102.97.172.15"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport2/index.m3u8?token=d9764dab3f25146f51a4d1bc573420fb55e9b2a9-3037c06d93271d4642e4fff03741a7fa-1769972385-1769961585&remote=196.127.64.161/alwan_sport2/index.m3u8?token=1c8c4ec4e568035edf49bd6fd2786260e8365eea-d29fd47f68ee3fc09c8cff4f733c745c-1769972385-1769961585&remote=196.127.64.161"
             }
         },
         "alwan3": {
             "links": {
-                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport3/index.m3u8?token=5ba5c822239d86ca48b2764b53d9b157021c523e-9d46a9a5c77749c57d1a51b400b7a385-1769629133-1769618333&remote=102.97.172.15/alwan_sport3/index.m3u8?token=b93db177b5c68a98ee6f96baa1842abb269fbdfd-bd06c1442d05d40ba82da40a95444337-1769629133-1769618333&remote=102.97.172.15"
+                "الرابط 1": "https://s3.news-api-gen.lol/alwan_sport3/index.m3u8?token=57b434ef4dc8befd8465b60d7d1418c31d36da68-4cc8f465bac06531a40cc8b04acbfad2-1769972456-1769961656&remote=196.127.64.161/alwan_sport3/index.m3u8?token=7ce7e93f9681baa589418a58f9d45a1906dbfeec-a8372bfe0a24952e97875f3583115b20-1769972456-1769961656&remote=196.127.64.161"
             }
         },
         "alwan4": {
@@ -311,18 +311,18 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "الرابط 1": "https://s4.news-api-gen.lol/thamnya_sd/index.m3u8?token=bf7266ec4b71022f80bd985d38dc0e0525f03cbe-274785da242834fb974112c660b0a216-1769629504-1769618704&remote=102.97.172.15/thamnya_sd/index.m3u8?token=f61bdb9ea56ed4fc9db76b357e1ee84f9f371361-d985eb481505190d7dd47cd5ffa870e8-1769629504-1769618704&remote=102.97.172.15"
+                "الرابط 1": "https://s4.news-api-gen.lol/thamnya_sd/index.m3u8?token=2d89c7ee21cd82d0ea43b6e301d03b02de048249-15fe706238a7250d8bfacc853c0ee89b-1769986759-1769975959&remote=196.127.64.161/thamnya_sd/index.m3u8?token=5cfc94c619843b419e5bfc4bea4528356e75d8d3-5616dff4ea19c449441ca14205276aac-1769986759-1769975959&remote=196.127.64.161"
             }
         },
         "tamaniya2": {
             "links": {
-                "الرابط 1": "https://s4.news-api-gen.lol/thamnya_sd2/index.m3u8?token=f86641fc4ff1458b426003ea94b943633b52535e-a412a7ab3bc8d832f92920252912e6a8-1769629840-1769619040&remote=102.97.172.15/thamnya_sd2/index.m3u8?token=0fee96f2cd8ef0f53ec9e984ec6ebdd6f98b162f-63536b042f17ccd92b4e572583cb5592-1769629840-1769619040&remote=102.97.172.15",
+                "الرابط 1": "https://s4.news-api-gen.lol/thamnya_sd2/index.m3u8?token=87a086ac9fa7fb90877447a47cb77198e7c43133-ccac78800b53156758d4c8b31d71bfe3-1769986878-1769976078&remote=196.127.64.161/thamnya_sd2/index.m3u8?token=fa0299d9c181d694f081a219bc213ed166e22752-55949dd0852c1904a3ec44e33a88ae28-1769986878-1769976078&remote=196.127.64.161",
                 "الرابط 2": "http://cyou.genral2025.cfd:8080/tahd2.css?token=f32c9594fad5e7cc0d085e029680717b&ip=102.97.172.15"
             }
         },
         "tamaniya3": {
             "links": {
-                "الرابط 1": "http://cyou.genral2025.cfd:8080/ta3.css?token=f32c9594fad5e7cc0d085e029680717b&ip=102.97.172.15",
+                "الرابط 1": "http://cyou.genral2025.click:8080/ta3.m3u8?token=680b757a0cb0577dda478db52c710bb4&ip=196.127.64.161",
                 "الرابط 2": "http://cyou.genral2025.cyou:8080/tahd3.css?token=f32c9594fad5e7cc0d085e029680717b&ip=102.97.172.15"
             }
         }
