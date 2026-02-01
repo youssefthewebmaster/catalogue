@@ -2195,10 +2195,10 @@
     "rotanas": {
         "rotanaCinema": {
             "links":{
-                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/52802.ts"
+                "الرابط 1": "https://fastly.live.brightcove.com/1843594381386176912/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1OTQzODEzODYxNzY5MTIifQ.gR3SH1NAJV7B314ehg7D4VKEKZpTcNP1k3lpbk3o7GY/playlist-hls.m3u8"
             }
         },
-        "rotanaMissriya": {
+        "*rotanaMissriya": {
             "links":{
                 "الرابط 1": "http://149.62.177.103:8000/play/a02x",
                 "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/1339",
@@ -2210,7 +2210,7 @@
                 "الرابط 1": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo"
             }
         },
-        "rotanaDrama": {
+        "*rotanaDrama": {
             "links":{
                 "الرابط 1": "http://185.9.2.18/chid_2179/mono.m3u8",
                 "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/52799.ts"
@@ -2218,11 +2218,11 @@
         },
         "rotanaComedy": {
             "links":{
-                "الرابط 1": "http://185.9.2.18/chid_5224/mono.m3u8",
-                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/52797.ts"
+                "الرابط 1": "https://fastly.live.brightcove.com/1843594119353354904/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1OTQxMTkzNTMzNTQ5MDQifQ.Xk0VSYct-eSxskkz5c8Fwe3futJsjM4isoi-c66M3h8/playlist-hls.m3u8",
+                "الرابط 2": "http://185.9.2.18/chid_5224/mono.m3u8"
             }
         },
-        "rotanaClassic": {
+        "*rotanaClassic": {
             "links":{
                 "الرابط 1": "https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8",
                 "الرابط 2": "http://154.58.202.185:8000/play/a0b6",
@@ -2231,8 +2231,7 @@
         },
         "rotanaAflam": {
             "links":{
-                "الرابط 1": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo",
-                "الرابط 2": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8"
+                "الرابط 1": "https://s1.news-api-gen.lol/rotana_aflam/index.m3u8?token=a6d1c74b389d8dbb7aee7b201f70467a4d16c69b-20c981008a56ec661d756319260dfb09-1769994861-1769984061&remote=196.127.64.161"
             }
         }
     },
