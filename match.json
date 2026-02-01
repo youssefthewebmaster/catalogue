@@ -914,27 +914,27 @@
     "arts": {
         "artCinema": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/559"
+                "الرابط 1": "https://s1.news-api-gen.lol/art_CINEMA/index.m3u8?token=5681278c1f55c60c2e4b3038182236873ed82f75-c97d347fcf20e823671015dd5d60c665-1769995304-1769984504&remote=196.127.64.161"
             }
         },
         "artAflam1": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/557"
+                "الرابط 1": "https://s1.news-api-gen.lol/art_aflam_1/index.m3u8?token=17c10587740e7f2f17ae6add3f1b549f673f4a22-f1bfbf4bf9a26f948ad4b72dfecbe67c-1769995112-1769984312&remote=196.127.64.161"
             }
         },
         "artAflam2": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/558"
+                "الرابط 1": "https://s1.news-api-gen.lol/art_aflam_2/index.m3u8?token=a442bdaff2d8db1acf77692bc802d6bdb28228a7-56276b94556fa6440ccc62fd10395273-1769995164-1769984364&remote=196.127.64.161"
             }
         },
         "artHikayat1": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/560"
+                "الرابط 1": "https://s1.news-api-gen.lol/art_HEKAYAT_1/index.m3u8?token=6b1227f201acebbb79e54d55b47fa557f83bfee9-b4e9baff39a4ffe210d79cf9fb3acde9-1769995205-1769984405&remote=196.127.64.161"
             }
         },
         "artHikayat2": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad710/mo3ad710/561"
+                "الرابط 1": "https://s1.news-api-gen.lol/art_HEKAYAT_2/index.m3u8?token=032aa818254f10c6dcb428427b955bfd8ce89451-71f0bec3409eeed278e55130479c0674-1769995239-1769984439&remote=196.127.64.161"
             }
         }
     },
