@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mardi 03 Février 2026",
+      "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/626815174_775696105577664_3371812846950750204_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgyMzc5OTYzNjg4MDkwOTE1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2MzV4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=wFYmSeTMnE8Q7kNvwFmXmGb&_nc_oc=AdnKrOa0vlYQTzlAtdm0aCf97YUrJDseEmGETuj1YhCB13pGcPTEixd8VSdMfQjZwU4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-4.fna&_nc_gid=dlJ05etFK_ottlOcK6l1pw&oh=00_AfuS54XZMStMUE60DDwr5BNnDrZztJWAOyMWB2Cw56zknQ&oe=6986FF51",
+      "link": "kazyon1"
+    },
+    "new2": {
+      "title": "Supeco Market",
+      "date": "Offre de Mardi 03 Février 2026",
+      "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/627395731_1205214531769943_919442035883351233_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgyMzYyOTE5NTk1MzAyMjk3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=JVPIzmJJGQ0Q7kNvwHJo6H3&_nc_oc=AdlX5sdsP_Lr_y-Z_Od9Id9Q5yVjSF--dVu7dOjFJu8vMGZzxJbpzCJbuUoropdZRZc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-2.fna&_nc_gid=kt8FpK3G3cWEkFgsFkIfoA&oh=00_AfuAQB4wUl2dEVbw6lAfDCdZyRwv-E9hTpVupPHUHSLLsA&oe=69870956",
+      "link": "supeco1"
+    },
+    "new3": {
       "title": "Bim Market",
       "date": "Offre de Mardi 03 Février 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%203%20f%C3%A9vrier%202026-5.jpg",
       "link": "bim2"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Lundi 02 Février 2026",
-      "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/625003402_774028539077754_4777356186816122778_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzgyMzA2Nzc1NDI0NTE1NzQ0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2MzV4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=I410wKR0d-MQ7kNvwHjQ7eF&_nc_oc=AdkEY1XZP3Sllk4NLTqSCho5XEU4GDcv1ltZ7-BAHu7HESQPfDx1ZVge4yE_wsq3GGI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcmn2-1.fna&_nc_gid=y7M1KxeGk0cFtFbB5ntQ-g&oh=00_AfvMESJ6RdP9jl6NsYnEiOlWmzOxRlcuUwsjK9OrLSTvUA&oe=69861134",
-      "link": "kazyon1"
-    },
-    "new3": {
-      "title": "Supeco Market",
-      "date": "Offre du 30 Janvier au 01 Février",
-      "thumbnail": "https://instagram.ftng4-1.fna.fbcdn.net/v/t39.30808-6/624310590_1201358658822197_3434662294308437563_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzgyMDA0NzEyMzk4ODYwMzYzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ith3aXB8HcYQ7kNvwHMs7dG&_nc_oc=Adm-DSmL7TB1Lq4UokYHnDqg2bIdlTRKlEnPH6z87VtbAb0TxtkQfN4YrXcTWVnRUz8&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.ftng4-1.fna&_nc_gid=wPh-EhVK0tXFBTQZ2ZWQHg&oh=00_AfrVhBuPYWmFiUJIn2IQx3ccTMNK3Hp7_OAQl1quxQoTGA&oe=698124E5",
-      "link": "supeco1"
     },
     "new4": {
       "title": "Aswak Assalam",
@@ -80,10 +80,10 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/625003402_774028539077754_4777356186816122778_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzgyMzA2Nzc1NDI0NTE1NzQ0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2MzV4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=I410wKR0d-MQ7kNvwHjQ7eF&_nc_oc=AdkEY1XZP3Sllk4NLTqSCho5XEU4GDcv1ltZ7-BAHu7HESQPfDx1ZVge4yE_wsq3GGI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcmn2-1.fna&_nc_gid=y7M1KxeGk0cFtFbB5ntQ-g&oh=00_AfvMESJ6RdP9jl6NsYnEiOlWmzOxRlcuUwsjK9OrLSTvUA&oe=69861134",
-    "date": "Offre de Lundi 02 Février 2026",
+    "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/626815174_775696105577664_3371812846950750204_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgyMzc5OTYzNjg4MDkwOTE1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2MzV4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=wFYmSeTMnE8Q7kNvwFmXmGb&_nc_oc=AdnKrOa0vlYQTzlAtdm0aCf97YUrJDseEmGETuj1YhCB13pGcPTEixd8VSdMfQjZwU4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-4.fna&_nc_gid=dlJ05etFK_ottlOcK6l1pw&oh=00_AfuS54XZMStMUE60DDwr5BNnDrZztJWAOyMWB2Cw56zknQ&oe=6986FF51",
+    "date": "Offre de Mardi 03 Février 2026",
     "images": [
-      "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/625003402_774028539077754_4777356186816122778_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzgyMzA2Nzc1NDI0NTE1NzQ0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2MzV4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=I410wKR0d-MQ7kNvwHjQ7eF&_nc_oc=AdkEY1XZP3Sllk4NLTqSCho5XEU4GDcv1ltZ7-BAHu7HESQPfDx1ZVge4yE_wsq3GGI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcmn2-1.fna&_nc_gid=y7M1KxeGk0cFtFbB5ntQ-g&oh=00_AfvMESJ6RdP9jl6NsYnEiOlWmzOxRlcuUwsjK9OrLSTvUA&oe=69861134"
+      "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/626815174_775696105577664_3371812846950750204_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgyMzc5OTYzNjg4MDkwOTE1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2MzV4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=wFYmSeTMnE8Q7kNvwFmXmGb&_nc_oc=AdnKrOa0vlYQTzlAtdm0aCf97YUrJDseEmGETuj1YhCB13pGcPTEixd8VSdMfQjZwU4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-4.fna&_nc_gid=dlJ05etFK_ottlOcK6l1pw&oh=00_AfuS54XZMStMUE60DDwr5BNnDrZztJWAOyMWB2Cw56zknQ&oe=6986FF51"
     ]
   },
   "bims": {
@@ -125,10 +125,10 @@
   "Supeco1": {
     "link": "supeco1",
     "title": "Supeco Market",
-    "thumbnail": "https://instagram.ftng4-1.fna.fbcdn.net/v/t39.30808-6/624310590_1201358658822197_3434662294308437563_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzgyMDA0NzEyMzk4ODYwMzYzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ith3aXB8HcYQ7kNvwHMs7dG&_nc_oc=Adm-DSmL7TB1Lq4UokYHnDqg2bIdlTRKlEnPH6z87VtbAb0TxtkQfN4YrXcTWVnRUz8&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.ftng4-1.fna&_nc_gid=wPh-EhVK0tXFBTQZ2ZWQHg&oh=00_AfrVhBuPYWmFiUJIn2IQx3ccTMNK3Hp7_OAQl1quxQoTGA&oe=698124E5",
-    "date": "Offre du 30 Janvier au 01 Février",
+    "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/627395731_1205214531769943_919442035883351233_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgyMzYyOTE5NTk1MzAyMjk3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=JVPIzmJJGQ0Q7kNvwHJo6H3&_nc_oc=AdlX5sdsP_Lr_y-Z_Od9Id9Q5yVjSF--dVu7dOjFJu8vMGZzxJbpzCJbuUoropdZRZc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-2.fna&_nc_gid=kt8FpK3G3cWEkFgsFkIfoA&oh=00_AfuAQB4wUl2dEVbw6lAfDCdZyRwv-E9hTpVupPHUHSLLsA&oe=69870956",
+    "date": "Offre de Mardi 03 Février 2026",
     "images": [
-      "https://instagram.ftng4-1.fna.fbcdn.net/v/t39.30808-6/624310590_1201358658822197_3434662294308437563_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzgyMDA0NzEyMzk4ODYwMzYzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ith3aXB8HcYQ7kNvwHMs7dG&_nc_oc=Adm-DSmL7TB1Lq4UokYHnDqg2bIdlTRKlEnPH6z87VtbAb0TxtkQfN4YrXcTWVnRUz8&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.ftng4-1.fna&_nc_gid=wPh-EhVK0tXFBTQZ2ZWQHg&oh=00_AfrVhBuPYWmFiUJIn2IQx3ccTMNK3Hp7_OAQl1quxQoTGA&oe=698124E5"
+      "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/627395731_1205214531769943_919442035883351233_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgyMzYyOTE5NTk1MzAyMjk3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=JVPIzmJJGQ0Q7kNvwHJo6H3&_nc_oc=AdlX5sdsP_Lr_y-Z_Od9Id9Q5yVjSF--dVu7dOjFJu8vMGZzxJbpzCJbuUoropdZRZc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-2.fna&_nc_gid=kt8FpK3G3cWEkFgsFkIfoA&oh=00_AfuAQB4wUl2dEVbw6lAfDCdZyRwv-E9hTpVupPHUHSLLsA&oe=69870956"
     ]
   },
   "AswakAssalam": {
