@@ -31,7 +31,7 @@
             }
         }
     },
-    "events": {
+    "*events": {
         "event1": {
             "team1": "مانيما يونيون",
             "team2": "الوداد الرياضي",
@@ -2012,7 +2012,7 @@
         },
         "almissriya": {
             "links":{
-                "الرابط 1": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8"
+                "الرابط 1": "https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwMDc0MjIzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9hbG1hc3JpeWFoL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjRiZTgwMzliMjg3OTNlM2IiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOlsxMDBdfQ==.2XKdmWq_Aevl3Kgmtdri3XcB6IJR2dYkpSkAkxQx_f2koSeOMhjligRFBgLHii7SCZH5JrN0RLBTv_6L947SHg==/live/eds/almasriyah/browser-HLS8/almasriyah-avc1_3000000=2.m3u8"
             }
         },
         "canat1":{
@@ -2043,44 +2043,42 @@
                 "الرابط 3": "https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8"
             }
         },
-        "DMCdrama": {
+        "*DMCdrama": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/792"
             }
         },
-        "DMC": {
+        "*DMC": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/812"
             }
         },
-        "_NileComedy": {
+        "*NileComedy": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1233"
             }
         },
-        "NileCinema": {
+        "*NileCinema": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/855"
             }
         },
-        "NileLife": {
+        "*NileLife": {
             "links":{
-                "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/38830",
                 "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/2159"
             }
         },
         "NileDrama": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/854",
-                "الرابط 2": "http://185.9.2.18/chid_352/mono.m3u8"
+                "الرابط 1": "http://185.9.2.18/chid_352/mono.m3u8"
             }
         },
-        "NileCulture": {
+        "*NileCulture": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/849"
             }
         },
-        "NileFamily": {
+        "*NileFamily": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/850"
             }
@@ -2090,18 +2088,18 @@
                 "الرابط 1": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/niletv.m3u8"
             }
         },
-        "NileInternational": {
+        "*NileInternational": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/19163"
             }
         },
-        "mi7war": {
+        "*mi7war": {
             "links":{
                 "الرابط 1": "http://154.58.202.131:8000/play/a04r",
                 "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/835"
             }
         },
-        "alhayat": {
+        "*alhayat": {
             "links":{
                 "الرابط 1": "http://185.9.2.18/chid_659/mono.m3u8",
                 "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7904.ts"
@@ -2109,7 +2107,9 @@
         },
         "alhayatDrama": {
             "links":{
-                "الرابط 1": "http://213.57.91.138:8000/play/a06s"
+                "1080p": "https://fastly.live.brightcove.com/1843521635140662966/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjE2MzUxNDA2NjI5NjYifQ.3f6Ek99wdZf_GSaWnd7hHgbJOSa2zbyqt2cUoxyTHzk/chunklist__3.m3u8",
+                "720p": "https://fastly.live.brightcove.com/1843521635140662966/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjE2MzUxNDA2NjI5NjYifQ.3f6Ek99wdZf_GSaWnd7hHgbJOSa2zbyqt2cUoxyTHzk/chunklist__2.m3u8",
+                "480p": "https://fastly.live.brightcove.com/1843521635140662966/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjE2MzUxNDA2NjI5NjYifQ.3f6Ek99wdZf_GSaWnd7hHgbJOSa2zbyqt2cUoxyTHzk/chunklist__1.m3u8"
             }
         },
         "CBC": {
