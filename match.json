@@ -734,12 +734,13 @@
         },
         "mbc3": {
             "links":{
-                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+                "الرابط 2": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/video/1080p2400kbps/video.m3u8"
             }
         },
         "mbc4": {
             "links":{
-                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8"
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/1080p2400kbps/video.m3u8"
             }
         },
         "mbc5": {
@@ -1986,12 +1987,12 @@
         }
     },
     "eg": {
-        "nass": {
+        "*nass": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/42543"
             }
         },
-        "_assafa": {
+        "*assafa": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/283152"
             }
@@ -2020,23 +2021,23 @@
                 "الرابط 1": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ertu1.m3u8"
             }
         },
-        "canat2": {
+        "*canat2": {
             "links":{
-                "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/785"
+                "الرابط 1": ""
             }
         },
-        "ONLive": {
+        "*ONLive": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2886"
             }
         },
-        "ONDrama": {
+        "*ONDrama": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/807",
                 "الرابط 2": "http://149.62.177.103:8000/play/a08h"
             }
         },
-        "ONEnt": {
+        "*ONEnt": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/806",
                 "الرابط 2": "http://149.62.177.103:8000/play/a08f",
@@ -2099,10 +2100,9 @@
                 "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/835"
             }
         },
-        "*alhayat": {
+        "alhayat": {
             "links":{
-                "الرابط 1": "http://185.9.2.18/chid_659/mono.m3u8",
-                "الرابط 2": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7904.ts"
+                "الرابط 1": "http://185.9.2.18/chid_659/mono.m3u8"
             }
         },
         "alhayatDrama": {
@@ -2112,68 +2112,67 @@
                 "480p": "https://fastly.live.brightcove.com/1843521635140662966/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjE2MzUxNDA2NjI5NjYifQ.3f6Ek99wdZf_GSaWnd7hHgbJOSa2zbyqt2cUoxyTHzk/chunklist__1.m3u8"
             }
         },
-        "CBC": {
+        "*CBC": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056520"
             }
         },
-        "CBCDrama": {
+        "*CBCDrama": {
             "links":{
                 "الرابط 1": "http://213.57.91.138:8000/play/a06q"
             }
         },
-        "CBCSofra": {
+        "*CBCSofra": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056523"
             }
         },
-        "PanoramaFilm": {
+        "*PanoramaFilm": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/830"
             }
         },
-        "PanoramaDrama1": {
+        "*PanoramaDrama1": {
             "links":{
                 "الرابط 1": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8"
             }
         },
-        "PanoramaDrama2": {
+        "*PanoramaDrama2": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/800"
             }
         },
-        "PanoramaFood": {
+        "*PanoramaFood": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/799"
             }
         },
-        "annhar": {
+        "*annhar": {
             "links":{
                 "الرابط 1": "http://213.57.91.138:8000/play/a06m"
             }
         },
         "annharDrama": {
             "links":{
-                "الرابط 1": "http://185.9.2.18/chid_518/mono.m3u8",
-                "الرابط 2": "http://213.57.91.138:8000/play/a06n"
+                "الرابط 1": "http://185.9.2.18/chid_518/mono.m3u8"
             }
         },
-        "_annharCinema": {
+        "*annharCinema": {
             "links":{
                 "الرابط 1": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/300995"
             }
         },
-        "sadalbalad1": {
+        "*sadalbalad1": {
             "links":{
                 "الرابط 1": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/elbaladtv.m3u8"
             }
         },
-        "sadalbalad2": {
+        "*sadalbalad2": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/73092"
             }
         },
-        "sadalbaladDrama": {
+        "*sadalbaladDrama": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/844"
             }
@@ -2207,7 +2206,7 @@
         },
         "RotanaKids": {
             "links":{
-                "الرابط 1": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo"
+                "الرابط 1": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?token=demo"
             }
         },
         "*rotanaDrama": {
@@ -2231,7 +2230,7 @@
         },
         "rotanaAflam": {
             "links":{
-                "الرابط 1": "https://s1.news-api-gen.lol/rotana_aflam/index.m3u8?token=a6d1c74b389d8dbb7aee7b201f70467a4d16c69b-20c981008a56ec661d756319260dfb09-1769994861-1769984061&remote=196.127.64.161"
+                "الرابط 1": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?nimblesessionid=537586267&token=demo"
             }
         }
     },
@@ -2588,10 +2587,11 @@
         },
         "mbc3": {
             "links":{
-                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/2835.ts"
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+                "الرابط 2": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/video/1080p2400kbps/video.m3u8"
             }
         },
-        "_mbc3Euroup": {
+        "*mbc3Euroup": {
             "links":{
                 "الرابط 1": "https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8",
                 "الرابط 2": "https://mbc-3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_2.m3u8",
@@ -2600,8 +2600,7 @@
         },
         "RotanaKids": {
             "links":{
-                "الرابط 1": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo",
-                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1056619"
+                "الرابط 1": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?token=demo"
             }
         },
         "jeem": {
