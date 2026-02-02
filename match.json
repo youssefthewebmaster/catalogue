@@ -2551,7 +2551,7 @@
         }
     },
     "kids": {
-        "*ro2yaKids": {
+        "ro2yaKids": {
             "links":{
                 "1080p": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/1.m3u8",
                 "720p": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/2.m3u8",
@@ -2561,7 +2561,7 @@
         },
         "majid": {
             "links":{
-                "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8"
+                "الرابط 1": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index_majid_video_enc_1080p25.m3u8"
             }
         },
         "SpaceToon": {
@@ -2605,50 +2605,50 @@
         },
         "jeem": {
             "links":{
-                "الرابط 1": "http://norkadymm.top:8080/191703089055131/01703089055686/52690"
+                "الرابط 1": "http://apk.arabic-ch.space/live/075/index.m3u8?t=zErHbTOrPUW3dLdy6eLYjg&e=1769252623"
             }
         },
         "BeJunior": {
             "links": {
-                "الرابط 1": "http://tv.123tv.to:8080/1A64T2q8PH/ewviImt2lD/98140"
+                "الرابط 1": "http://apk.arabic-ch.space/live/082/index.m3u8?t=w64b51yQYOGvuGddiFjuTw&e=1769329337"
             }
         },
-        "nickJr": {
+        "*nickJr": {
             "links":{
                 "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400217868"
             }
         },
-        "nickelodeon": {
+        "*nickelodeon": {
             "links":{
                 "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/122114"
             }
         },
-        "nickToons": {
+        "*nickToons": {
             "links":{
                 "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/122101"
             }
         },
-        "cartoonito": {
+        "*cartoonito": {
             "links":{
                 "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/400652543"
             }
         },
-        "majd": {
+        "*majd": {
             "links":{
                 "الرابط 1": "http://wolvestv.net:8880/farahxalbayati/ar15681985/129862"
             }
         },
-        "majdRawda": {
+        "*majdRawda": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/331532"
             }
         },
-        "toyorJanna": {
+        "*toyorJanna": {
             "links":{
                 "الرابط 1": "http://149.62.177.103:8000/play/a01a"                
             }
         },
-        "karamich": {
+        "*karamich": {
             "links":{
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/725"
             }
