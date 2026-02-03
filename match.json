@@ -547,7 +547,8 @@
         },
         "mbc2": {
             "links":{
-                "الرابط 1": "https://yjaacbk.234276133.fit:8443/hls/4xf1f812.m3u8?s=TbM0d7g0sy0v3x6I4v1j3A&e=1769563419"
+                "الرابط 1": "http://185.9.2.18/chid_375/mono.m3u8",
+                "الرابط 2": "https://edge.safedk.com/v1/events?p=1%3A96943fdea087a1d759e08734fce0068af23ef96e%3A1EUTtm_ayVkGoR4Ff4h6iH2IUm9LO0l4cCJA2VeveSXXHBLWhXxgDg%3Ag4Oue94EN1BvpZLv0atlebvZj3NiIY_Qp5vqMB_LJkearRMBItR4tQ**"
             }
         },
         "mbc3": {
@@ -568,12 +569,14 @@
         },
         "mbcAction": {
             "links":{
-                "الرابط 1": "https://yjaacbk.234276133.fit:8443/hls/amuy2ju8ud0rk.m3u8?s=RfEJoYE_EsEJtOaqMjx8lQ&e=1769566685"
+                "الرابط 1": "http://185.9.2.18/chid_378/mono.m3u8",
+                "الرابط 2": "https://edge.safedk.com/v1/events?p=1%3A96943fdea087a1d759e08734fce0068af23ef96e%3A1EUTtm_ayVkGoR4Ff4h6iH2IUm9LO0l4cCJA2VeveSXXHBLWhXxgDg%3A_hSve94EN1COiEUsZdbaXzqJDck-y9nSVduy3tW0yiBM40PP-4xDrA**"
             }
         },
         "mbcMax": {
             "links":{
-                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/2839.ts"
+                "الرابط 1": "http://185.9.2.18/chid_379/mono.m3u8",
+                "الرابط 2": "https://prod-mediate-events.applovin.com/1.0/event/mimp?id=922aac341505a51bc4ea7a9168c0e4a14ecd1f73&creative_id=1540789&custom_data=&placement=&cuid=&postback_ts=1770112565993"
             }
         },
         "mbcDrama": {
@@ -612,10 +615,10 @@
         },
         "mbcPersia": {
             "links":{
-                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/2841.ts"
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/manifest/video/1080p2400kbps/video.m3u8"
             }
         },
-        "mbcVariety": {
+        "*mbcVariety": {
             "links":{
                 "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/2845.ts"
             }
