@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 03 Février 2026",
-      "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/626815174_775696105577664_3371812846950750204_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgyMzc5OTYzNjg4MDkwOTE1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2MzV4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=wFYmSeTMnE8Q7kNvwFmXmGb&_nc_oc=AdnKrOa0vlYQTzlAtdm0aCf97YUrJDseEmGETuj1YhCB13pGcPTEixd8VSdMfQjZwU4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-4.fna&_nc_gid=dlJ05etFK_ottlOcK6l1pw&oh=00_AfuS54XZMStMUE60DDwr5BNnDrZztJWAOyMWB2Cw56zknQ&oe=6986FF51",
-      "link": "kazyon1"
+      "title": "Bim Market",
+      "date": "Offre du 05 au 08 Février 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2005%20au%2008%20f%C3%A9vrier%202026-2.jpg",
+      "link": "bim2"
     },
     "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre du 05 au 11 Février",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20f%C3%A9vrier%202026-1.jpg",
+      "link": "kazyon"
+    },
+    "new3": {
       "title": "Supeco Market",
       "date": "Offre de Mardi 03 Février 2026",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/627395731_1205214531769943_919442035883351233_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgyMzYyOTE5NTk1MzAyMjk3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=JVPIzmJJGQ0Q7kNvwHJo6H3&_nc_oc=AdlX5sdsP_Lr_y-Z_Od9Id9Q5yVjSF--dVu7dOjFJu8vMGZzxJbpzCJbuUoropdZRZc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-2.fna&_nc_gid=kt8FpK3G3cWEkFgsFkIfoA&oh=00_AfuAQB4wUl2dEVbw6lAfDCdZyRwv-E9hTpVupPHUHSLLsA&oe=69870956",
       "link": "supeco1"
-    },
-    "new3": {
-      "title": "Bim Market",
-      "date": "Offre de Mardi 03 Février 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%203%20f%C3%A9vrier%202026-5.jpg",
-      "link": "bim2"
     },
     "new4": {
       "title": "Aswak Assalam",
@@ -64,17 +64,16 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-8_1.jpg",
-    "date": "Offre du 29 Janvier au 4 Février",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20f%C3%A9vrier%202026-1.jpg",
+    "date": "Offre du 05 au 11 Février",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-8_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-7_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-3_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-6_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-1_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-5_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-2_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2029%20janvier%20au%204%20f%C3%A9vrier%202026-4_1.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20f%C3%A9vrier%202026-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20f%C3%A9vrier%202026-2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20f%C3%A9vrier%202026-3.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20f%C3%A9vrier%202026-4.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20f%C3%A9vrier%202026-5.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20f%C3%A9vrier%202026-6.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20f%C3%A9vrier%202026-7.jpg"
     ]
   },
   "Kazyon1": {
@@ -101,14 +100,11 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "Offre de Mardi 03 Février 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%203%20f%C3%A9vrier%202026-5.jpg",
+      "date": "Offre du 05 au 08 Février 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2005%20au%2008%20f%C3%A9vrier%202026-2.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%203%20f%C3%A9vrier%202026-5.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%203%20f%C3%A9vrier%202026-4.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%203%20f%C3%A9vrier%202026-3.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%203%20f%C3%A9vrier%202026-2.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%203%20f%C3%A9vrier%202026-1.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2005%20au%2008%20f%C3%A9vrier%202026-2.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2005%20au%2008%20f%C3%A9vrier%202026-1.jpg"
       ]
     }
   },
