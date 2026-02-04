@@ -33,30 +33,17 @@
     },
     "events": {
         "event1": {
-            "team1": "آرسنال",
-            "team2": "تشيلسي",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Arsenal.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Chelsea.png",
+            "team1": "مانشستر سيتي",
+            "team2": "نيوكاسل يونايتد",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterCity.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/NewcastleUnited.png",
             "time":"20:00",
             "championName": "كأس الرابطة الإنجليزية",
             "channelName": "Bein Sport 1",
             "folder": "beinSport",
             "link": "beinSport1",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "عامر الخوذيري"
-        },
-        "event2": {
-            "team1": "برشلونة",
-            "team2": "ألباسيتي",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Barcelona.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Albacete.png",
-            "time":"20:00",
-            "championName": "كأس ملك إسبانيا",
-            "channelName": "مصر 2 MBC",
-            "folder": "mbc",
-            "link": "mbcEygpt2",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/MBCMasr2.png",
-            "comment": "مدحت شلبي"
+            "comment": "حفيظ دراجي"
         }
     },
     "*alwan": {
