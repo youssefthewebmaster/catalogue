@@ -33,17 +33,43 @@
     },
     "events": {
         "event1": {
-            "team1": "مانشستر سيتي",
-            "team2": "نيوكاسل يونايتد",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterCity.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/NewcastleUnited.png",
-            "time":"20:00",
-            "championName": "كأس الرابطة الإنجليزية",
+            "team1": "مولودية الجزائر",
+            "team2": "الهلال",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/teams/MolodiyatAlger.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/Afrique/teams/HilalSoudan.png",
+            "time":"19:00",
+            "championName": "دوري أبطال أفريقيا",
             "channelName": "Bein Sport 1",
             "folder": "beinSport",
             "link": "beinSport1",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "حفيظ دراجي"
+            "comment": "محمد بركات"
+        },
+        "event2": {
+            "team1": "ليدز يونايتد",
+            "team2": "نوتينغهام فورست",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/LeedsUnited.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/NotinghamForest.png",
+            "time":"20:00",
+            "championName": "الدوري الإنجليزي الممتاز",
+            "channelName": "Bein Sport 6",
+            "folder": "beinSport",
+            "link": "beinSport6",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b6.png",
+            "comment": "أحمد البلوشي"
+        },
+        "event3": {
+            "team1": "سيلتا دي فيغو",
+            "team2": "أوساسونا",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/CeltaVigo.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Osasuna.png",
+            "time":"20:00",
+            "championName": "الدوري الإسباني",
+            "channelName": "Bein Sport 3",
+            "folder": "beinSport",
+            "link": "beinSport3",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
+            "comment": "عامر الخوذيري"
         }
     },
     "*alwan": {
