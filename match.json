@@ -142,7 +142,7 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "الرابط 1": "https://s4.news-api-gen.lol/thamnya_sd/index.m3u8?token=2d89c7ee21cd82d0ea43b6e301d03b02de048249-15fe706238a7250d8bfacc853c0ee89b-1769986759-1769975959&remote=196.127.64.161/thamnya_sd/index.m3u8?token=5cfc94c619843b419e5bfc4bea4528356e75d8d3-5616dff4ea19c449441ca14205276aac-1769986759-1769975959&remote=196.127.64.161"
+                "الرابط 1": "https://y4mpwzd7.12703830.net:8443/hls/tr81yto0ib1p.m3u8?s=BgNE5RCj_lM2v_OAgIhWAA&e=1770429110"
             }
         },
         "tamaniya2": {
@@ -651,7 +651,7 @@
     "sa": {
         "quoranSA": {
             "links":{
-                "الرابط 1": "https://win.holol.com/live/quran/chunklist_w1480108352.m3u8",
+                "الرابط 1": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/saudi_quran-avc1_249984=1-mp4a_145600_ara=3.m3u8",
                 "الرابط 2": "https://win.holol.com/live/quran/chunklist_w813174388.m3u8"
             }
         },
