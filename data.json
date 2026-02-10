@@ -1,16 +1,16 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mercredi 11 Février 2026",
+      "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/633280464_782497928230815_7302618202779617185_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgyOTU5MjAyMjcyMjYzNDc2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzl4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=YPNzTAOzspQQ7kNvwEKe2hR&_nc_oc=Adn-6gtZsiGK_2Yp6ds6BZVBfDVvxvS95uyLlaMp_AZDjdTjkRFe3O7KqDJROwMfM_I&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-4.fna&_nc_gid=WrO3Gpq4FT0eecoIcXE4mw&oh=00_Afslhm7Gktd609ctGd489z71xhHd1hoiJBdhYcZtu-pDsA&oe=69918778",
+      "link": "kazyon1"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "Offre de Mardi 10 Février 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20f%C3%A9vrier%202026-1_1.jpg",
       "link": "bim2"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 10 Février 2026",
-      "thumbnail": "https://instagram.fcmn3-1.fna.fbcdn.net/v/t39.30808-6/631147016_781558664991408_7641932029219729769_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzgyODg2NTkzNTY2NjY4NDkwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2NDZ4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=E_aCjqXNGTsQ7kNvwECSoLO&_nc_oc=AdlIAMR7C7BeTU7H2ACxtcPtiGAXI-gXd9X8dZottbDrKanwSbSXWPoHfw4m6nD9ay8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcmn3-1.fna&_nc_gid=RYv-_S2tSlphRAFt-pDZbg&oh=00_AfsXFpzY1w8oivO2TLrarLkJ93UEBYjEh9lZ3Bym6aOmVQ&oe=6990AC76",
-      "link": "kazyon1"
     },
     "new3": {
       "title": "Supeco Market",
@@ -79,10 +79,10 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://instagram.fcmn3-1.fna.fbcdn.net/v/t39.30808-6/631147016_781558664991408_7641932029219729769_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzgyODg2NTkzNTY2NjY4NDkwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2NDZ4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=E_aCjqXNGTsQ7kNvwECSoLO&_nc_oc=AdlIAMR7C7BeTU7H2ACxtcPtiGAXI-gXd9X8dZottbDrKanwSbSXWPoHfw4m6nD9ay8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcmn3-1.fna&_nc_gid=RYv-_S2tSlphRAFt-pDZbg&oh=00_AfsXFpzY1w8oivO2TLrarLkJ93UEBYjEh9lZ3Bym6aOmVQ&oe=6990AC76",
-    "date": "Offre de Mardi 10 Février 2026",
+    "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/633280464_782497928230815_7302618202779617185_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgyOTU5MjAyMjcyMjYzNDc2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzl4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=YPNzTAOzspQQ7kNvwEKe2hR&_nc_oc=Adn-6gtZsiGK_2Yp6ds6BZVBfDVvxvS95uyLlaMp_AZDjdTjkRFe3O7KqDJROwMfM_I&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-4.fna&_nc_gid=WrO3Gpq4FT0eecoIcXE4mw&oh=00_Afslhm7Gktd609ctGd489z71xhHd1hoiJBdhYcZtu-pDsA&oe=69918778",
+    "date": "Offre de Mercredi 11 Février 2026",
     "images": [
-      "https://instagram.fcmn3-1.fna.fbcdn.net/v/t39.30808-6/631147016_781558664991408_7641932029219729769_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzgyODg2NTkzNTY2NjY4NDkwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2NDZ4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=E_aCjqXNGTsQ7kNvwECSoLO&_nc_oc=AdlIAMR7C7BeTU7H2ACxtcPtiGAXI-gXd9X8dZottbDrKanwSbSXWPoHfw4m6nD9ay8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcmn3-1.fna&_nc_gid=RYv-_S2tSlphRAFt-pDZbg&oh=00_AfsXFpzY1w8oivO2TLrarLkJ93UEBYjEh9lZ3Bym6aOmVQ&oe=6990AC76"
+      "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/633280464_782497928230815_7302618202779617185_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgyOTU5MjAyMjcyMjYzNDc2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzl4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=YPNzTAOzspQQ7kNvwEKe2hR&_nc_oc=Adn-6gtZsiGK_2Yp6ds6BZVBfDVvxvS95uyLlaMp_AZDjdTjkRFe3O7KqDJROwMfM_I&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-4.fna&_nc_gid=WrO3Gpq4FT0eecoIcXE4mw&oh=00_Afslhm7Gktd609ctGd489z71xhHd1hoiJBdhYcZtu-pDsA&oe=69918778"
     ]
   },
   "bims": {
