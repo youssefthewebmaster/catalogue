@@ -212,7 +212,7 @@
         },
         "tamaniya2": {
             "links": {
-                "الرابط 1": "https://pro.onsitv.site/Thmanya-2-4K/tracks-v1a1/2026/02/11/11/03/30-06000.ts?token=onsitv"
+                "الرابط 1": "https://pro.onsitv.site/Thmanya-2-4K/tracks-v1a1/mono.ts.m3u8?token=onsitv"
             }
         },
         "tamaniya3": {
@@ -235,6 +235,7 @@
         "beinSport1": {
             "links": {
                 "الرابط 1": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=r3Hq9GDSZWwJhHS0pg5sSQ&e=1767812226",
+                "": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=OWgvIUOSRlTW70x75lS5sQ&e=1770828726",
                 "الرابط 2": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=XoCJjY1loyVLvEl8rIA57w&e=1767812255",
                 "الرابط 3": "http://het000.4rouwanda-shop.store/live/31009988005/index.m3u8?t=alLFG2Lox1Q3P75Z5R1UxQ&e=1768679083"
             }
@@ -1495,20 +1496,17 @@
     "sportArab": {
         "so3odiyaSport1": {
             "links":{
-                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7993.ts"
+                "الرابط 1": "https://live.kwikmotion.com/ksasports1live/ksasports1.smil/playlist_dvr.m3u8?hdnts=exp=1770839298~acl=/ksasports1live/ksasports1.smil/*~hmac=3b684af656ba0159d15f53e8b4753c495ba80606194951960d0aba2f01f7cafa"
             }
         },
         "so3odiyaSport2": {
             "links":{
-                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/7996.ts"
+                "الرابط 1": "https://live.kwikmotion.com/ksasports2live/ksasports2.smil/playlist_dvr.m3u8?hdnts=exp=1770839471~acl=/ksasports2live/ksasports2.smil/*~hmac=4e4df24a8d3b57cf0e60386a3a88191e55321430e3d02a1f1e0a574681223ed3"
             }
         },
         "so3odiyaSport3": {
             "links":{
-                "الرابط 1": "http://154.58.202.185:8000/play/a0a2",
-                "الرابط 2": "http://149.62.177.103:8000/play/a053",
-                "الرابط 3": "http://brex.fun:8080/27685241750679/5oA796YSr7/640216",
-                "الرابط 4": "http://brex.fun:8080/27685241750679/5oA796YSr7/640217"
+                "الرابط 1": "https://live.kwikmotion.com/ksasports3live/ksasports3.smil/playlist_dvr.m3u8?hdnts=exp=1770839511~acl=/ksasports3live/ksasports3.smil/*~hmac=55216c757b57c0973d44ae4a9df0d465dc11b020d2def227b7b763b49d3af701"
             }
         },
         "sharjahSport1": {
@@ -1603,16 +1601,17 @@
         },
         "*abudhabiSport2": {
             "links":{
-                "الرابط 2": "https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd",
-                "الرابط 1": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8"
+                "الرابط 1": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8",
+                "1080p": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index_sp2_video_enc_1080p25.m3u8",
+                "480p": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index_sp2_video_enc_480p25.m3u8"
             }
         },
-        "abudhabiSportAsia1": {
+        "*abudhabiSportAsia1": {
             "links":{
                 "1080p": "https://s1.news-api-gen.lol/ad_asia_1/index.m3u8?token=a9332a239b83f9656245222a908256c9f7f0ed20-e1055b7c20f81c76dc5414ec6039507f-1769993802-1769983002&remote=196.127.64.161/ad_asia_1/index.m3u8?token=cd40c6f37345ded49983da0a5dbdde556207ce34-25e4aca0a6b4919a290f1059df0c14dc-1769993802-1769983002&remote=196.127.64.161"
             }
         },
-        "abudhabiSportAsia2": {
+        "*abudhabiSportAsia2": {
             "links":{
                 "1080p": "https://s1.news-api-gen.lol/ad_asia_2/index.m3u8?token=51c05464484d01e5d8f464b899de6cf0c584f17e-3b3700a8943773fee12d9be057f9fc4b-1769993887-1769983087&remote=196.127.64.161/ad_asia_2/index.m3u8?token=20313fea20f1a44dca5a407e5b28703bde5f0b0e-f100539b84a98b0c7d64a96ecf5180a0-1769993887-1769983087&remote=196.127.64.161"
             }
@@ -1622,7 +1621,7 @@
                 "4k": "https://s3.news-api-gen.lol/ad_pr1/index.m3u8?token=46c9e3814389c8b3d59d38a336d0b856e8719ac4-6d4ac78fa40191f50044ad8efe724bab-1769993220-1769982420&remote=196.127.64.161"
             }
         },
-        "abudhabiSportPermium2": {
+        "*abudhabiSportPermium2": {
             "links":{
                 "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/992042"
             }
