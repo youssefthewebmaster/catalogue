@@ -207,18 +207,17 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "الرابط 1": "https://s4.news-api-gen.lol/thamnya_sd/index.m3u8?token=0276fec374dbcffd902e7c79dc6fbf87bb7691b9-acac7f085afc90d313898177fea8e71a-1770420504-1770409704&remote=196.127.64.161/thamnya_sd/index.m3u8?token=4c1632823b71b73afab3a6e17c840e053bdd0d56-2123fc0116fc09a467b1628382788209-1770420504-1770409704&remote=196.127.64.161"
+                "الرابط 1": "https://pro.onsitv.site/Thmanya-1-4K/tracks-v1a1/mono.ts.m3u8?token=onsitv"
             }
         },
         "tamaniya2": {
             "links": {
-                "الرابط 1": "https://s4.news-api-gen.lol/thamnya_hd2/index.m3u8?token=c2c443c93d28f53398a18153316eaeb53de877be-a6079f1ddee6c54d3ef9027bd7d57fdf-1770420675-1770409875&remote=196.127.64.161/thamnya_hd2/index.m3u8?token=3086423a62dbc7a309d3a8be371bca89ffaf3bc1-b78344b2d0834d7fca825df691c05dee-1770420675-1770409875&remote=196.127.64.161"
+                "الرابط 1": "https://pro.onsitv.site/Thmanya-2-4K/tracks-v1a1/2026/02/11/11/03/30-06000.ts?token=onsitv"
             }
         },
         "tamaniya3": {
             "links": {
-                "الرابط 1": "http://cyou.genral2025.click:8080/ta3.m3u8?token=680b757a0cb0577dda478db52c710bb4&ip=196.127.64.161",
-                "الرابط 2": "http://cyou.genral2025.cyou:8080/tahd3.css?token=f32c9594fad5e7cc0d085e029680717b&ip=102.97.172.15"
+                "الرابط 1": "https://pro.onsitv.site/Thmanya-3-4K/video.m3u8?token=onsitv"
             }
         }
     },
