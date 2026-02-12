@@ -1,52 +1,52 @@
 {
   "news": {
     "new1": {
+      "title": "Aswak Assalam",
+      "date": "Offre du 13 Février au 08 Mars",
+      "thumbnail": "https://hmizate.ma/img/cms/1%20(1).jpg",
+      "link": "aswak"
+    },
+    "new2": {
+      "title": "Bim Market",
+      "date": "Offre de Vendredi 13 Février 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20f%C3%A9vrier%202026-1%20(1).jpg",
+      "link": "bim1"
+    },
+    "new3": {
+      "title": "Carrefour Méga",
+      "date": "Offre du 12 Février au 04 Mars",
+      "thumbnail": "https://hmizate.ma/img/cms/477b3bcaf5f70327f8c63cc64d7e4dba.webp",
+      "link": "carrefour1"
+    },
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre de Mercredi 11 Février 2026",
       "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/633280464_782497928230815_7302618202779617185_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzgyOTU5MjAyMjcyMjYzNDc2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzl4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=YPNzTAOzspQQ7kNvwEKe2hR&_nc_oc=Adn-6gtZsiGK_2Yp6ds6BZVBfDVvxvS95uyLlaMp_AZDjdTjkRFe3O7KqDJROwMfM_I&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-4.fna&_nc_gid=WrO3Gpq4FT0eecoIcXE4mw&oh=00_Afslhm7Gktd609ctGd489z71xhHd1hoiJBdhYcZtu-pDsA&oe=69918778",
       "link": "kazyon1"
     },
-    "new2": {
-      "title": "Bim Market",
-      "date": "Offre de Mardi 10 Février 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20f%C3%A9vrier%202026-1_1.jpg",
-      "link": "bim2"
-    },
-    "new3": {
+    "new5": {
       "title": "Supeco Market",
       "date": "Offre du 06 au 08 Février 2026",
       "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t39.30808-6/629301561_1208700898087973_680587904569999311_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgyNjU5ODM1NDAyMjIzNjI2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=GHLrYIKgneUQ7kNvwEe1i6d&_nc_oc=AdnoZQ_rf_W4VXWZyYZmViULWZ_pgvgiqfTmeFx2NCfFEZkocl2qCKKEjouKHLfonxM&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-2.fna&_nc_gid=WXVz4lTiKDalMkcAwbsTwg&oh=00_Aft_TDwEL7URH6aPvZ8HgYBwFmWclr7A_JeDLMYuOZa1SA&oe=698C2DFA",
       "link": "supeco1"
     },
-    "new4": {
+    "new6": {
       "title": "Atacadão Market",
       "date": "Offre du 05 au 25 Février 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%205%20au%2025%20f%C3%A9vrier%202026-4.jpg",
       "link": "atacadao"
     },
-    "new5": {
+    "new7": {
       "title": "Marjane Méga",
       "date": "Offre du 4 au 22 Février 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Ramadan%20Al%20Kheir_page-0001.jpg",
       "link": "marjane"
     },
-    "new6": {
+    "new8": {
       "title": "Marjane Market",
       "date": "Offre du 4 au 22 Février 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Cha%C3%A2bane%202_page-0001.jpg",
       "link": "marjaneMarket"
-    },
-    "new7": {
-      "title": "Aswak Assalam",
-      "date": "Offre du 23 Janvier au 12 Février",
-      "thumbnail": "https://hmizate.ma/img/cms/1_11.jpg",
-      "link": "aswak"
-    },
-    "new8": {
-      "title": "Carrefour Méga",
-      "date": "Offre du 22 Janvier au 11 Février",
-      "thumbnail": "https://hmizate.ma/img/cms/279d80e68e0457c4e8c5974964d350e8.webp",
-      "link": "carrefour1"
     },
     "new9": {
       "title": "Carrefour Market",
@@ -89,11 +89,17 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "Offre de Vendredi 06 Février",
-      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/3-02-2026-11-27-28-SPOT%20BIM%2006%20FEVRIER%202026.jpg",
+      "date": "Offre de Vendredi 13 Février",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20f%C3%A9vrier%202026-1%20(1).jpg",
       "images": [
-        "https://www.bim.ma/Uploads/ma/Files/3-02-2026-11-27-28-SPOT%20BIM%2006%20FEVRIER%202026.jpg",
-        "https://www.bim.ma/Uploads/ma/Files/3-02-2026-11-27-38-SPOT%20BIM%2006%20FEVRIER%2020262.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20f%C3%A9vrier%202026-1%20(1).jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20f%C3%A9vrier%202026-2%20(1).jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20f%C3%A9vrier%202026-3%20(1).jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20f%C3%A9vrier%202026-4%20(1).jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20f%C3%A9vrier%202026-5%20(1).jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20f%C3%A9vrier%202026-6%20(1).jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20f%C3%A9vrier%202026-7%20(1).jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20f%C3%A9vrier%202026-8%20(1).jpg"
       ]
     },
     "bim2": {
@@ -141,34 +147,40 @@
   "AswakAssalam": {
     "title": "Aswak Assalam",
     "link": "aswak",
-    "thumbnail": "https://hmizate.ma/img/cms/1_11.jpg",
-    "date": "Offre du 23 Janvier au 12 Février",
+    "thumbnail": "https://hmizate.ma/img/cms/1%20(1).jpg",
+    "date": "Offre du 13 Février au 08 Mars",
     "images": [
-      "https://hmizate.ma/img/cms/1_11.jpg",
-      "https://hmizate.ma/img/cms/2_8.jpg",
-      "https://hmizate.ma/img/cms/3_10.jpg",
-      "https://hmizate.ma/img/cms/5_8.jpg",
-      "https://hmizate.ma/img/cms/6_7.jpg",
-      "https://hmizate.ma/img/cms/8_7.jpg",
-      "https://hmizate.ma/img/cms/11_7.jpg",
-      "https://hmizate.ma/img/cms/12_7.jpg",
-      "https://hmizate.ma/img/cms/13_5.jpg",
-      "https://hmizate.ma/img/cms/15_7.jpg",
-      "https://hmizate.ma/img/cms/16_6.jpg",
-      "https://hmizate.ma/img/cms/17_5.jpg",
-      "https://hmizate.ma/img/cms/19_8.jpg",
-      "https://hmizate.ma/img/cms/20_8.jpg",
-      "https://hmizate.ma/img/cms/21_6.jpg",
-      "https://hmizate.ma/img/cms/22_6.jpg",
-      "https://hmizate.ma/img/cms/23_7.jpg",
-      "https://hmizate.ma/img/cms/24_7.jpg",
-      "https://hmizate.ma/img/cms/25_5.jpg",
-      "https://hmizate.ma/img/cms/26_4.jpg",
-      "https://hmizate.ma/img/cms/27_6.jpg",
-      "https://hmizate.ma/img/cms/28_6.jpg",
-      "https://hmizate.ma/img/cms/30_6.jpg",
-      "https://hmizate.ma/img/cms/31_5.jpg",
-      "https://hmizate.ma/img/cms/32_6.jpg"
+      "https://hmizate.ma/img/cms/1%20(1).jpg",
+      "https://hmizate.ma/img/cms/2%20(1).jpg",
+      "https://hmizate.ma/img/cms/3%20(1).jpg",
+      "https://hmizate.ma/img/cms/4_9.jpg",
+      "https://hmizate.ma/img/cms/7_8.jpg",
+      "https://hmizate.ma/img/cms/8_8.jpg",
+      "https://hmizate.ma/img/cms/9_7.jpg",
+      "https://hmizate.ma/img/cms/10_7.jpg",
+      "https://hmizate.ma/img/cms/12_8.jpg",
+      "https://hmizate.ma/img/cms/13_6.jpg",
+      "https://hmizate.ma/img/cms/14_7.jpg",
+      "https://hmizate.ma/img/cms/17_6.jpg",
+      "https://hmizate.ma/img/cms/18_5.jpg",
+      "https://hmizate.ma/img/cms/21_7.jpg",
+      "https://hmizate.ma/img/cms/22_7.jpg",
+      "https://hmizate.ma/img/cms/23_8.jpg",
+      "https://hmizate.ma/img/cms/25_6.jpg",
+      "https://hmizate.ma/img/cms/26_5.jpg",
+      "https://hmizate.ma/img/cms/27%20(1).jpg",
+      "https://hmizate.ma/img/cms/28_7.jpg",
+      "https://hmizate.ma/img/cms/30_7.jpg",
+      "https://hmizate.ma/img/cms/31_6.jpg",
+      "https://hmizate.ma/img/cms/32_7.jpg",
+      "https://hmizate.ma/img/cms/33_3.jpg",
+      "https://hmizate.ma/img/cms/34_3.jpg",
+      "https://hmizate.ma/img/cms/35_2.jpg",
+      "https://hmizate.ma/img/cms/36_2.jpg",
+      "https://hmizate.ma/img/cms/37_2.jpg",
+      "https://hmizate.ma/img/cms/38_2.jpg",
+      "https://hmizate.ma/img/cms/39_1.jpg",
+      "https://hmizate.ma/img/cms/40_1.jpg"
     ]
   },
   "AswakAssalam1": {
@@ -258,40 +270,55 @@
     "carrefour1": {
       "title": "Carrefour",
       "link": "carrefour1",
-      "thumbnail": "https://hmizate.ma/img/cms/279d80e68e0457c4e8c5974964d350e8.webp",
-      "date": "Offre du 22 Janvier au 11 Février",
+      "thumbnail": "https://hmizate.ma/img/cms/477b3bcaf5f70327f8c63cc64d7e4dba.webp",
+      "date": "Offre du 12 Février au 04 Mars",
       "images": [
-        "https://hmizate.ma/img/cms/279d80e68e0457c4e8c5974964d350e8.webp",
-        "https://hmizate.ma/img/cms/259115a6fe889794f7cca9b7c91ef67c.webp",
-        "https://hmizate.ma/img/cms/77d0f51e6aa19990e9ad978a2dc0483c.webp",
-        "https://hmizate.ma/img/cms/35250611276202e992bd715f933c1739.webp",
-        "https://hmizate.ma/img/cms/31dc23251215606b1374644004cafe72.webp",
-        "https://hmizate.ma/img/cms/55a00d36e0be29be71491c375774fd7b.webp",
-        "https://hmizate.ma/img/cms/deca70b6ab84d0259cba0c558b554335.webp",
-        "https://hmizate.ma/img/cms/619e475fa651480e95f3ae7b92dec5f4.webp",
-        "https://hmizate.ma/img/cms/da6e4e3ff58a72bcb5ac2bfef8c44eb5.webp",
-        "https://hmizate.ma/img/cms/7aa910ec1cd652a16abdb37b68bd2876.webp",
-        "https://hmizate.ma/img/cms/6974f5a44eb47c657b09787cccf1df91.webp",
-        "https://hmizate.ma/img/cms/1f9b537fe7154079847500fde3eafeec.webp",
-        "https://hmizate.ma/img/cms/a9735fe45104a112a0684528885e8de7.webp",
-        "https://hmizate.ma/img/cms/ca207844db66de2b6e21b67ca5665760.webp",
-        "https://hmizate.ma/img/cms/2e05aef04ef7d25010db8b080d71a347.webp",
-        "https://hmizate.ma/img/cms/5f3cb38d7b3942ea13546944ecd08de4.webp",
-        "https://hmizate.ma/img/cms/ceb9ec1b0654fd7f75518e938df8d2bd.webp",
-        "https://hmizate.ma/img/cms/f64a192112fac98f75dfae94148cc4fa.webp",
-        "https://hmizate.ma/img/cms/f200dcde0b16c7dbaa25c010967194d1.webp",
-        "https://hmizate.ma/img/cms/1ed30ea56f80c8319f0ce1d1153cdc18.webp",
-        "https://hmizate.ma/img/cms/2bebbf5adf91e1d26a95c00c18d21c5f.webp",
-        "https://hmizate.ma/img/cms/8d5abf99bc35b338df152f9a2900f681.webp",
-        "https://hmizate.ma/img/cms/f809e76e4bae51114b7b9bb534648c02.webp",
-        "https://hmizate.ma/img/cms/736c0cf607c5617402ea87616cb19d77.webp",
-        "https://hmizate.ma/img/cms/c57bc67890d75cd1f9e53a43c8e97d2d.webp",
-        "https://hmizate.ma/img/cms/363f7e14b14a4244ae4c18e860572281.webp",
-        "https://hmizate.ma/img/cms/c1b8d6024a8a71d66d69dd782bf18e4b.webp",
-        "https://hmizate.ma/img/cms/555eb0b5469bd64045c84ea1a288fdc4.webp",
-        "https://hmizate.ma/img/cms/5460d3085ce13d0790e2a6a914bb32fa.webp",
-        "https://hmizate.ma/img/cms/37f2135f3b0eb29b68cffbe73075ae1b.webp",
-        "https://hmizate.ma/img/cms/1ecf46937f06259cb4d4f0c6f2d7e53f.webp"
+        "https://hmizate.ma/img/cms/477b3bcaf5f70327f8c63cc64d7e4dba.webp",
+        "https://hmizate.ma/img/cms/ba31ac70aa28462cdf3b9379c3d1bc29.webp",
+        "https://hmizate.ma/img/cms/303401e136812bbf37c4c65858d7d1de.webp",
+        "https://hmizate.ma/img/cms/ef8677b2b6d1102894e4938bde14659f.webp",
+        "https://hmizate.ma/img/cms/fe367dbccd3199fe35bc46be0194da17.webp",
+        "https://hmizate.ma/img/cms/dba78af6ee2d4b4f752e7790acc1858f.webp",
+        "https://hmizate.ma/img/cms/ff3c4877c55e6e641727f10c178980d7.webp",
+        "https://hmizate.ma/img/cms/d0a5f63e0c885906c0c337b7ace5a699.webp",
+        "https://hmizate.ma/img/cms/3033b018ed21f547d7b6d599149164f2.webp",
+        "https://hmizate.ma/img/cms/c5dbd96ba38ba98759291050ca9a7d0c.webp",
+        "https://hmizate.ma/img/cms/886b5da14f4b76377328346d4da4f67a.webp",
+        "https://hmizate.ma/img/cms/b59129272b63403174257b36f4347f27.webp",
+        "https://hmizate.ma/img/cms/77eac69b0e5563a53a890eca308524f1.webp",
+        "https://hmizate.ma/img/cms/21e93352707948da0bf5d72b2c7fa411.webp",
+        "https://hmizate.ma/img/cms/f2f19f3e3c75482b58918b9d45f66442.webp",
+        "https://hmizate.ma/img/cms/3dcb67ccdc0b05f5151fe471c6e83760.webp",
+        "https://hmizate.ma/img/cms/c993a2f3e76f89ecbdedb140633567e4.webp",
+        "https://hmizate.ma/img/cms/333521348f81c5e4112537b5dc8a86e2.webp",
+        "https://hmizate.ma/img/cms/5ca84482a7343ecc95be49f90665bd90.webp",
+        "https://hmizate.ma/img/cms/32be05420f0bcd66096c0773c2c6ee6e.webp",
+        "https://hmizate.ma/img/cms/94cab8f2769d9673ebd91fbbef2e21e5.webp",
+        "https://hmizate.ma/img/cms/4e1b808925b3784d05561747bb598bce.webp",
+        "https://hmizate.ma/img/cms/802b5ed4bbc3aadeb44152d099e46cff.webp",
+        "https://hmizate.ma/img/cms/b79518034e10650e3d5abec773078053.webp",
+        "https://hmizate.ma/img/cms/c317b1a109ac4709188551463d393d4c.webp",
+        "https://hmizate.ma/img/cms/a1944cffbefb808a01b5735206ccc143.webp",
+        "https://hmizate.ma/img/cms/1fc1ec691ae92bf7d40317392ef05ec3.webp",
+        "https://hmizate.ma/img/cms/5e614b3d0a7535c55782d54003bca6ef.webp",
+        "https://hmizate.ma/img/cms/98c3e52c9208b8d424d9d16a2a7b3959.webp",
+        "https://hmizate.ma/img/cms/d093ec5a48e41f39d910aafbee92f87d.webp",
+        "https://hmizate.ma/img/cms/032010bfa407c57449ed930df132596c.webp",
+        "https://hmizate.ma/img/cms/94cab8f2769d9673ebd91fbbef2e21e5.webp",
+        "https://hmizate.ma/img/cms/4a653c946e5eeb2ff675b79b217c84e5.webp",
+        "https://hmizate.ma/img/cms/d071b8e58757e0a557a5bb0db5f7d707.webp",
+        "https://hmizate.ma/img/cms/460d66237b3022934e01e6b3ed12db4c.webp",
+        "https://hmizate.ma/img/cms/e1e668083e90cc90a076389667d9ed27.webp",
+        "https://hmizate.ma/img/cms/0a52f21228d7e44df068e85b806cb66a.webp",
+        "https://hmizate.ma/img/cms/7f623915542d5b99e9803e8f407c954e.webp",
+        "https://hmizate.ma/img/cms/c82397b77a82ac8d23e085819b6e0fa6.webp",
+        "https://hmizate.ma/img/cms/57ddd9734c3d65f1fe078eba7c95bb9b.webp",
+        "https://hmizate.ma/img/cms/00e8af21057667fde2cede69595428b5.webp",
+        "https://hmizate.ma/img/cms/478f690966de5902cbc9ae91f6fe221d.webp",
+        "https://hmizate.ma/img/cms/468532d4737ee3c9a5abcf1687cf9696.webp",
+        "https://hmizate.ma/img/cms/518c6dd6d5320d738c62072dcbc18074.webp",
+        "https://hmizate.ma/img/cms/183df19e5827a5bee2e2f5cc2cbe9258.webp",
+        "https://hmizate.ma/img/cms/d7089ef77039262ee38cb55a335eae5a.webp"
         
       ]
     },
