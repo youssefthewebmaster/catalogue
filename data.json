@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
-      "title": "Kazyon Market",
-      "date": "Offre de 14 au 15 Février 2026",
-      "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/635151275_785025564644718_7768149541121048841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgzMTgyNTUwMzg1NDgzMTkyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjIwNDh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=oEd_aEPd-hAQ7kNvwF9AwFt&_nc_oc=AdnXSrhjKvGYZMZeA5t4BQlKCF4UJUC-Im4Ctiu-l1FTI5Wl1zLpoRGhfjUCB7dgr88&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=TMwPcHlJhcnyhV57Hddg2Q&oh=00_Afv4AB3NEtYr3LDaTdEl2VvzkkOV2kcrkfG26kTeblVivA&oe=69957E5F",
-      "link": "kazyon1"
+      "title": "Bim Market",
+      "date": "Offre de Mardi 17 Février 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/catalogue%20bim%2017%20fevrier%202026-1.jpg",
+      "link": "bim2"
     },
     "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de Lundi 16 Février 2026",
+      "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/633931684_785028897977718_1937956781133415120_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgzMzI0NDgxMTM5OTAzNjA1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=ye0P9xcdQxQQ7kNvwGRuN-8&_nc_oc=Adk0x3ge6G4ISWfLpKgsj3BEsPc4rrbC4Ip1_U456jcogfmWs7eDEgaaOqoAD3IE7AQ&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-1.fna&_nc_gid=ZilpyNn7L85Q6rA8zX71Bw&oh=00_AfsU9A5ddLLLTNnmJUAXQwVJwYtxNnOV4gg9owkt6uPH_Q&oe=6997FC4C",
+      "link": "kazyon1"
+    },
+    "new3": {
       "title": "Supeco Market",
       "date": "Offre du 13 au 15 Février 2026",
       "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/634128892_1213669010924495_5644715891804662685_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgzMDgyNjM2ODE4MDM3ODM4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=1BMnrAps0YoQ7kNvwGyNJ7T&_nc_oc=Adn-IW433K4VnHKOjkyGMAwyxAn4C7Y2NNb0PPC2kaW3SZAnMioewW9UcTuAfrGFHKM&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=ThyVAKYfHqxBHFMaDdfO_Q&oh=00_AfvnwxDbvCJE3cfJ8ODCNkO9iPliY7QhidsNGWAz3vy_Kg&oe=69956302",
       "link": "supeco1"
     },
-    "new3": {
+    "new4": {
       "title": "Aswak Assalam",
       "date": "Offre du 13 Février au 08 Mars",
       "thumbnail": "https://hmizate.ma/img/cms/1%20(1).jpg",
       "link": "aswak"
-    },
-    "new4": {
-      "title": "Bim Market",
-      "date": "Offre de Vendredi 13 Février 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20f%C3%A9vrier%202026-1%20(1).jpg",
-      "link": "bim1"
     },
     "new5": {
       "title": "Carrefour Méga",
@@ -79,11 +79,10 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/635151275_785025564644718_7768149541121048841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgzMTgyNTUwMzg1NDgzMTkyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjIwNDh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=oEd_aEPd-hAQ7kNvwF9AwFt&_nc_oc=AdnXSrhjKvGYZMZeA5t4BQlKCF4UJUC-Im4Ctiu-l1FTI5Wl1zLpoRGhfjUCB7dgr88&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=TMwPcHlJhcnyhV57Hddg2Q&oh=00_Afv4AB3NEtYr3LDaTdEl2VvzkkOV2kcrkfG26kTeblVivA&oe=69957E5F",
-    "date": "Offre de 14 au 15 Février 2026",
+    "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/633931684_785028897977718_1937956781133415120_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgzMzI0NDgxMTM5OTAzNjA1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=ye0P9xcdQxQQ7kNvwGRuN-8&_nc_oc=Adk0x3ge6G4ISWfLpKgsj3BEsPc4rrbC4Ip1_U456jcogfmWs7eDEgaaOqoAD3IE7AQ&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-1.fna&_nc_gid=ZilpyNn7L85Q6rA8zX71Bw&oh=00_AfsU9A5ddLLLTNnmJUAXQwVJwYtxNnOV4gg9owkt6uPH_Q&oe=6997FC4C",
+    "date": "Offre de Lundi 16 Février 2026",
     "images": [
-      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/635151275_785025564644718_7768149541121048841_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgzMTgyNTUwMzg1NDgzMTkyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjIwNDh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=oEd_aEPd-hAQ7kNvwF9AwFt&_nc_oc=AdnXSrhjKvGYZMZeA5t4BQlKCF4UJUC-Im4Ctiu-l1FTI5Wl1zLpoRGhfjUCB7dgr88&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=TMwPcHlJhcnyhV57Hddg2Q&oh=00_Afv4AB3NEtYr3LDaTdEl2VvzkkOV2kcrkfG26kTeblVivA&oe=69957E5F",
-      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/634368858_785026591311282_6405839121806878299_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgzMTgyNTUwMjk3NDA0MDM0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjIwNDh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=KdjYpNr0G0sQ7kNvwHIfiy7&_nc_oc=Adnr3tP8b_soMQX6gF46STkkUzLUph_xfeQ5DK4l7rb-jLLDrLu6-caG5ECjYRgf2uY&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=TMwPcHlJhcnyhV57Hddg2Q&oh=00_AfvWhiN2vSexWrV3ooTVcJbySIiFCNuogMslsmZRAYh-8Q&oe=69958288"
+      "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/633931684_785028897977718_1937956781133415120_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzgzMzI0NDgxMTM5OTAzNjA1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=ye0P9xcdQxQQ7kNvwGRuN-8&_nc_oc=Adk0x3ge6G4ISWfLpKgsj3BEsPc4rrbC4Ip1_U456jcogfmWs7eDEgaaOqoAD3IE7AQ&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-1.fna&_nc_gid=ZilpyNn7L85Q6rA8zX71Bw&oh=00_AfsU9A5ddLLLTNnmJUAXQwVJwYtxNnOV4gg9owkt6uPH_Q&oe=6997FC4C"
     ]
   },
   "bims": {
@@ -106,23 +105,12 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "Offre de Mardi 10 Février 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20f%C3%A9vrier%202026-1_1.jpg",
+      "date": "Offre de Mardi 17 Février 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/catalogue%20bim%2017%20fevrier%202026-1.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20f%C3%A9vrier%202026-1_1.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20f%C3%A9vrier%202026-2.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-5.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-3.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-4.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-6.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-8.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-7.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-16.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-13.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-17.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-9.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-19.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20mardi%20f%C3%A9vrier%202026-20.jpg"
+        "https://hmizate.ma/img/cms/catalogue%20bim%2017%20fevrier%202026-1.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20bim%2017%20fevrier%202026-2.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20bim%2017%20fevrier%202026-3.jpg"
       ]
     }
   },
