@@ -979,30 +979,32 @@
     "kass": {
         "alkass1": {
             "links":{
-                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260214T162115Z/mux_video_1080p_ts/index-1.m3u8",
-                "720p": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260214T162115Z/mux_video_720p_ts/index-1.m3u8",
-                "360p": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260214T162115Z/mux_video_360p_ts/index-1.m3u8"
+                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260219T144449Z/mux_video_1080p_ts/index-1.m3u8",
+                "360p": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260219T144449Z/mux_video_360p_ts/index-1.m3u8"
             }
         },
         "alkass2": {
             "links":{
-                "الرابط 1": "https://liveeu-gcp.alkassdigital.net/alkass2-p/20260201T230010Z/mux_video_1080p_ts/index-1.m3u8"
+                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass2-p/20260219T144749Z/mux_video_1080p_ts/index-1.m3u8",
+                "360p": "https://liveeu-gcp.alkassdigital.net/alkass2-p/20260219T144749Z/mux_video_360p_ts/index-1.m3u8"
             }
         },
         "alkass3": {
             "links":{
-                "الرابط 1": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8",
-                "الرابط 2": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/chunklist_w1299305872.m3u8"
+                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass3-p/20260219T144836Z/mux_video_1080p_ts/index-1.m3u8",
+                "360p": "https://liveeu-gcp.alkassdigital.net/alkass3-p/20260219T144836Z/mux_video_360p_ts/index-1.m3u8"
             }
         },
         "alkass4": {
             "links":{
-                "الرابط 1": "https://liveeu-gcp.alkassdigital.net/alkass4-p/20260214T003842Z/mux_video_720p_ts/index-1.m3u8"
+                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass4-p/20260219T145101Z/mux_video_1080p_ts/index-1.m3u8",
+                "360p": "https://liveeu-gcp.alkassdigital.net/alkass4-p/20260219T145101Z/mux_video_360p_ts/index-1.m3u8"
             }
         },
         "alkass5": {
             "links":{
-                "الرابط 1": "https://liveeu-gcp.alkassdigital.net/alkass5-p/20260214T195121Z/mux_video_720p_ts/index-1.m3u8"
+                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass5-p/20260219T145227Z/mux_video_1080p_ts/index-1.m3u8",
+                "360p": "https://liveeu-gcp.alkassdigital.net/alkass5-p/20260219T145227Z/mux_video_360p_ts/index-1.m3u8"
             }
         }
     },
