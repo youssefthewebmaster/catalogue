@@ -324,12 +324,12 @@
         },
         "beinBoxOffice1": {
             "links": {
-                "الرابط 1": "https://bein_box_office1/index.m3u8?token=f2d7fe057599d7e86baac4ab1c736e83e8df12b5-69d529a5136736c61811c4f9e83f7987-1769360289-1769349489&remote=196.127.113.18/bein_box_office1/index.m3u8?token=55c3df4105136aeaeca80bccf32cffd05847d35b-12bb18bcb3ab287e38a8334658e2ad66-1769360289-1769349489&remote=196.127.113.18"
+                "الرابط 1": "https://s1.genral.vip/bein_box_office1/tracks-v1a1/mono.m3u8?remote=105.159.137.114&token=7b9a5a3371418d275defd57199ea207f54c1a174-7376087418eb7ed650d74b06aebe77fd-1772546267-1772535467"
             }
         },
         "beinBoxOffice2": {
             "links": {
-                "الرابط 1": "https://bein_box_office2/index.m3u8?token=d10f2b0281859d031fa652536b1cb4ee796e1a92-f8209d47e2a3d3223f29be5c869874b6-1769360314-1769349514&remote=196.127.113.18/bein_box_office2/index.m3u8?token=946d704e6536c70d434df5ce0223883a74c4e2a7-42aa7aa6d1510db9b441c1483e527983-1769360314-1769349514&remote=196.127.113.18"
+                "الرابط 1": "https://s1.genral.vip/bein_box_office2/index.m3u8?token=b3da958ee956cf758411514046620c4aae54b69c-13bc5e26220911a56606fba88af712d3-1772546413-1772535613&remote=105.159.137.114"
             }
         },
         "beinMoviesDrama": {
@@ -394,7 +394,7 @@
             }
         }
     },
-    "sscSport": {
+    "*sscSport": {
         "sscNews": {
             "links": {
                 "4k": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/626560",
