@@ -168,17 +168,19 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "الرابط 1": "https://s4.genral.vip/thamnya_hd1/index.m3u8?token=9abfcf621d802589d16ea0b7c222b8e8fd127aa0-a88f297fdf219aa131d2294854faa170-1772286885-1772276085&remote=196.117.235.118"
+                "480p": "https://s4.genral.vip/thamnya_sd/index.m3u8?token=d08f7f85781c696f8f2c841df923e2cf562f77bf-ded838a9db5e5b06974b9b7904966399-1772542201-1772531401&remote=105.159.137.114",
+                "1080p": "https://s4.genral.vip/thamnya_hd1/index.m3u8?token=b0eb1684af35421306e94455bac2adaa05997e1c-38367f7e61d60dd0272820d37e366eaa-1772542366-1772531566&remote=105.159.137.114"
             }
         },
         "tamaniya2": {
             "links": {
-                "الرابط 1": "https://s4.genral.vip/thamnya_sd2/index.m3u8?token=ecac015674d58a9d7b8ec7c962b63e837c16a7e1-5413f92144fc24d23d639ccdfc279f51-1772287078-1772276278&remote=196.117.235.118"
+                "480p": "https://s4.genral.vip/thamnya_sd2/index.m3u8?token=2d60e0449adb90035cbc78155d7782f66ce8140a-0ba60ec600a792f805e66107a13330db-1772542457-1772531657&remote=105.159.137.114",
+                "1080p": "https://s4.genral.vip/thamnya_hd2/index.m3u8?token=73b16107a1fa83331c93c6d2d6dad327902b12b1-ddda244b515d0e4d6ba768c2c4baaf3e-1772542526-1772531726&remote=105.159.137.114"
             }
         },
         "tamaniya3": {
             "links": {
-                "الرابط 1": "https://s4.genral.vip/thamnya_sd3/index.m3u8?token=2ec85f607bb8ed5f0298d5df6f83d9d994012b69-4d7be84a7959a8010733fd3b3f7fb96e-1772287218-1772276418&remote=196.117.235.118"
+                "480p": "https://s4.genral.vip/thamnya_sd3/index.m3u8?token=7f7d23cd1439d0cfe880a4c947f34d0432937027-82a7cd8e0ed97b575cbcf090f7d5f4fe-1772542589-1772531789&remote=105.159.137.114"
             }
         }
     },
