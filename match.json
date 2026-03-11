@@ -33,36 +33,23 @@
     },
     "events": {
         "event1": {
-            "team1": "غلطة سراي",
-            "team2": "ليفربول",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/championsLeague/Galatasaray.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Liverpool.png",
+            "team1": "باير ليفركوزن",
+            "team2": "آرسنال",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/germany/BayerLeverkusin.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Arsenal.png",
             "time":"17:45",
             "championName": "دوري أبطال أوروبا",
-            "channelName": "Bein Sport 1",
+            "channelName": "Bein Sport 2",
             "folder": "beinSport",
-            "link": "beinSport1",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "أحمد البلوشي"
+            "link": "beinSport2",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
+            "comment": "علي محمد علي"
         },
         "event2": {
-            "team1": "نيوكاسل يونايتد",
-            "team2": "برشلونة",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/NewcastleUnited.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/Barcelona.png",
-            "time":"20:00",
-            "championName": "دوري أبطال أوروبا",
-            "channelName": "Bein Sport 1",
-            "folder": "beinSport",
-            "link": "beinSport1",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "خليل البلوشي"
-        },
-        "event3": {
-            "team1": "أتالانتا",
-            "team2": "بايرن ميونخ",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/championsLeague/Atalanta.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/germany/BayernM%C3%BCnchen.png",
+            "team1": "ريال مدريد",
+            "team2": "مانشستر سيتي",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RealMadrid.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterCity.png",
             "time":"20:00",
             "championName": "دوري أبطال أوروبا",
             "channelName": "Bein Sport 2",
@@ -71,18 +58,31 @@
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
             "comment": "عصام الشوالي"
         },
-        "event4": {
-            "team1": "أتلتيكو مدريد",
-            "team2": "توتنهام هوتسبير",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/AtleticMadrid.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/TottenhamHotspur.png",
+        "event3": {
+            "team1": "بودو غليمت",
+            "team2": "سبورتينغ لشبونة",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/championsLeague/BodoGlimit.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/championsLeague/SportingLishbona.png",
             "time":"20:00",
             "championName": "دوري أبطال أوروبا",
             "channelName": "Bein Sport 3",
             "folder": "beinSport",
             "link": "beinSport3",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
-            "comment": "عامر الخوذيري"
+            "comment": "محمد مبروكي"
+        },
+        "event4": {
+            "team1": "باريس سان جيرمان",
+            "team2": "تشيلسي",
+            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/championsLeague/PSG.png",
+            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Chelsea.png",
+            "time":"20:00",
+            "championName": "دوري أبطال أوروبا",
+            "channelName": "Bein Sport 1",
+            "folder": "beinSport",
+            "link": "beinSport1",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
+            "comment": "حسن العيدروس"
         }
     },
     "*alwan": {
