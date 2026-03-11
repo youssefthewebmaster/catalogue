@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "Offre de Vendredi 13 Mars 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-3.webp",
+      "link": "bim1"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre du 12 au 18 Mars 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20Mars%202026-1_1.jpg",
+      "link": "kazyon"
+    },
+    "new3": {
       "title": "Aswak Assalam",
       "date": "A partir de Mardi 10 Mars 2026",
       "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/649027585_931512622811284_1510740084315164837_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg0OTIwNzk3NjAyNDUyNTgyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=oO751teWa10Q7kNvwEIs9XY&_nc_oc=Adlc32kMxs0yl_Aw1ly95oVkvGedmzrm9sIWHMYQYlYoS7MpSgkMH1nlLTdAWP6U8ck&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-1.fna&_nc_gid=vKIctdlZiY-sVxL9MbKNbg&_nc_ss=8&oh=00_AfxM9wKn1_cg0aP_bqgGj6t8raIotxSzBVfDicD1sbXkxg&oe=69B4FA65",
       "link": "aswak1"
-    },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre de Mardi 10 Mars 2026",
-      "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t39.30808-6/649697988_804301786050429_6870253589675149915_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=110&ig_cache_key=Mzg0OTE4OTkzODUwNDc5MDEzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=GcixlCNezEAQ7kNvwFRCIu0&_nc_oc=AdnHrV25tGvaGYPJSi_VfnxZDdK3b7W1a0youNV1DaXOfd2MKHfosDBSb-Nd80bm8KE&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-1.fna&_nc_gid=zTzRUeoZKHeqta_Y5PONbA&_nc_ss=8&oh=00_AfyihlV9DVXRyARVXiw2bGLv_OO6pPF4NSjIMveybqU7_g&oe=69B52A86",
-      "link": "kazyon1"
-    },
-    "new3": {
-      "title": "Bim Market",
-      "date": "Offre de Mardi 10 Mars 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-1.jpg",
-      "link": "bim2"
     },
     "new4": {
       "title": "Kitea Géant",
@@ -64,14 +64,15 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20mars%202026-2%20(2).jpg",
-    "date": "Offre du 05 au 11 Mars 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20Mars%202026-1_1.jpg",
+    "date": "Offre du 12 au 18 Mars 2026",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20mars%202026-2%20(2).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20mars%202026-5%20(2).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20mars%202026-4%20(2).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20mars%202026-3%20(2).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%205%20au%2011%20mars%202026-1%20(2).jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20Mars%202026-1_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20Mars%202026-2_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20Mars%202026-3_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20Mars%202026-4_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20Mars%202026-5_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2012%20au%2018%20Mars%202026-6_1.jpg"
     ]
   },
   "Kazyon1": {
@@ -87,12 +88,14 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "Offre de Vendredi 06 Mars 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%206%20mars%202026-1.jpg",
+      "date": "Offre de Vendredi 13 Mars 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-3.webp",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%206%20mars%202026-1.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%206%20mars%202026-2.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%206%20mars%202026-3.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-3.webp",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-7.webp",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-6.webp",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-4.webp",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-5.webp"
       ]
     },
     "bim2": {
