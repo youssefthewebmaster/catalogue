@@ -1,40 +1,40 @@
 {
   "news": {
     "new1": {
-      "title": "Kazyon Market",
-      "date": "Offre de Lundi 16 Mars 2026",
-      "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/651255826_807387122408562_4718517200094748395_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg1MzUzODU2MDgxMzUxODc2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=Ge5PmvcHOBgQ7kNvwEntqzF&_nc_oc=AdkL59pxjei8sfZkfWA58MM0Ss1fCik3c5etPwxrFEOkUXedhTUaKFqFJpH5vY_F14I&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=xMQ6QCCnRzze0pBjVYsqig&_nc_ss=8&oh=00_Afx_a-LxrRsdKayW0wlDP9O8limXHLYEJyFrYTb0H8mvlQ&oe=69BDA4CE",
-      "link": "kazyon1"
+      "title": "Bim Market",
+      "date": "Offre de Mardi 17 Mars 2026",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/16-03-2026-13-50-28-WebGroupe%20spot%20Bim%2017%20Mars%2020262.jpg",
+      "link": "bim2"
     },
     "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre de Mardi 17 Mars 2026",
+      "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/653704247_809738165506791_2218147926094400967_n.jpg?stp=dst-jpg_e35_p720x720_tt6&_nc_cat=104&ig_cache_key=Mzg1NDI2MzYzNjIwOTk3MDM0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNTJ4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=-DiGpvr2w60Q7kNvwEu4KQ4&_nc_oc=Adk-70kiUS9pZF4kblmeoVYsrWFXBf-ozgEFbLpn1-Z5X5TvIvDhqeyEJPuZapv-wGk&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=2g3BcDB5qa0wkX8aFsrT9g&_nc_ss=8&oh=00_AfzBuPYTxRxAkC25eKapnP9-ClEcGqTUQEiPyrlU8IN2mg&oe=69BE5883",
+      "link": "kazyon1"
+    },
+    "new3": {
       "title": "Aswak Assalam",
       "date": "Offre du 13 Mars au 5 Avril 2026",
       "thumbnail": "https://hmizate.ma/img/cms/649870341_934451869184026_1485492403226855154_n.jpg",
       "link": "aswak"
     },
-    "new3": {
+    "new4": {
       "title": "Marjane Méga",
       "date": "Offre du 12 Mars au 12 Avril",
       "thumbnail": "https://hmizate.ma/img/cms/Nouvelle%20Technologie%20-%20Edition%20Sp%C3%A9ciale%20(1)_page-0001.jpg",
       "link": "marjane"
     },
-    "new4": {
+    "new5": {
       "title": "Supeco Market",
       "date": "Offre du 13 au 19 Mars 2026",
       "thumbnail": "https://hmizate.ma/img/cms/IMG-20260314-WA0002.jpg",
       "link": "supeco"
     },
-    "new5": {
+    "new6": {
       "title": "Atacadão Market",
       "date": "Offre du 14 au 25 Mars 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2012%20au%2025%20Mars%202026%20(2).jpg",
       "link": "atacadao"
-    },
-    "new6": {
-      "title": "Bim Market",
-      "date": "Offre de Vendredi 13 Mars 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-3.webp",
-      "link": "bim1"
     },
     "new7": {
       "title": "Kitea Géant",
@@ -78,12 +78,10 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/651255826_807387122408562_4718517200094748395_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg1MzUzODU2MDgxMzUxODc2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=Ge5PmvcHOBgQ7kNvwEntqzF&_nc_oc=AdkL59pxjei8sfZkfWA58MM0Ss1fCik3c5etPwxrFEOkUXedhTUaKFqFJpH5vY_F14I&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=xMQ6QCCnRzze0pBjVYsqig&_nc_ss=8&oh=00_Afx_a-LxrRsdKayW0wlDP9O8limXHLYEJyFrYTb0H8mvlQ&oe=69BDA4CE",
-    "date": "Offre de Lundi 16 Mars 2026",
+    "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/653704247_809738165506791_2218147926094400967_n.jpg?stp=dst-jpg_e35_p720x720_tt6&_nc_cat=104&ig_cache_key=Mzg1NDI2MzYzNjIwOTk3MDM0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNTJ4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=-DiGpvr2w60Q7kNvwEu4KQ4&_nc_oc=Adk-70kiUS9pZF4kblmeoVYsrWFXBf-ozgEFbLpn1-Z5X5TvIvDhqeyEJPuZapv-wGk&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=2g3BcDB5qa0wkX8aFsrT9g&_nc_ss=8&oh=00_AfzBuPYTxRxAkC25eKapnP9-ClEcGqTUQEiPyrlU8IN2mg&oe=69BE5883",
+    "date": "Offre de Mardi 17 Mars 2026",
     "images": [
-      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/651255826_807387122408562_4718517200094748395_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg1MzUzODU2MDgxMzUxODc2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=Ge5PmvcHOBgQ7kNvwEntqzF&_nc_oc=AdkL59pxjei8sfZkfWA58MM0Ss1fCik3c5etPwxrFEOkUXedhTUaKFqFJpH5vY_F14I&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=xMQ6QCCnRzze0pBjVYsqig&_nc_ss=8&oh=00_Afx_a-LxrRsdKayW0wlDP9O8limXHLYEJyFrYTb0H8mvlQ&oe=69BDA4CE",
-      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/652296922_807387102408564_5743690645719860871_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzg1MzUzODU2MTI0OTc1Mzc4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=I9ypl7kA1SkQ7kNvwEiL3Ew&_nc_oc=AdkOl0GWHdoLx9U51f2RS84vSvL3lzFHVKNTl0f04FFl3HMbf_e-x8Q56kq0-0zNPng&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=xMQ6QCCnRzze0pBjVYsqig&_nc_ss=8&oh=00_AfwXoPZ1FRN4bR2cZM_waVt1JR9vsfE7QReV4_mCHmLjSw&oe=69BDAB60",
-      "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/651215989_807387152408559_3606543076492572916_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=108&ig_cache_key=Mzg1MzUzODU2MDk5ODA1NjgxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=7rpO5fxVLekQ7kNvwFNJKf5&_nc_oc=Admx1FuLm4xXMNCHffnIMDJueYnG6gn8j3vrFCezHzyOu0B0iU2R_WFAuX1OSBa6uJw&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=xMQ6QCCnRzze0pBjVYsqig&_nc_ss=8&oh=00_AfwTNWub2mYl4sT10CE8NXXjDNXKuvLleM9i5JdeGVDlYw&oe=69BDAF04"
+      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/653704247_809738165506791_2218147926094400967_n.jpg?stp=dst-jpg_e35_p720x720_tt6&_nc_cat=104&ig_cache_key=Mzg1NDI2MzYzNjIwOTk3MDM0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNTJ4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=-DiGpvr2w60Q7kNvwEu4KQ4&_nc_oc=Adk-70kiUS9pZF4kblmeoVYsrWFXBf-ozgEFbLpn1-Z5X5TvIvDhqeyEJPuZapv-wGk&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=2g3BcDB5qa0wkX8aFsrT9g&_nc_ss=8&oh=00_AfzBuPYTxRxAkC25eKapnP9-ClEcGqTUQEiPyrlU8IN2mg&oe=69BE5883"
     ]
   },
   "bims": {
@@ -103,19 +101,15 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "Offre de Mardi 10 Mars 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-1.jpg",
+      "date": "Offre de Mardi 17 Mars 2026",
+      "thumbnail": "https://www.bim.ma/Uploads/ma/Files/16-03-2026-13-50-28-WebGroupe%20spot%20Bim%2017%20Mars%2020262.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-1.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-15.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-2.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-4.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-3.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-6.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-7.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-11.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-13.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2010%20Mars%202026-12.jpg"
+        "https://www.bim.ma/Uploads/ma/Files/16-03-2026-13-50-28-WebGroupe%20spot%20Bim%2017%20Mars%2020262.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/16-03-2026-13-49-45-WEBSpot%20Bim%20%2017%20Mars%202026.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/16-03-2026-13-49-54-WEBSpot%20Bim%20%2017%20Mars%2020263.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/16-03-2026-13-50-02-WEBSpot%20Bim%20%2017%20Mars%2020262.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/16-03-2026-13-50-11-WebGroupe%20spot%20Bim%2017%20Mars%202026.jpg",
+        "https://www.bim.ma/Uploads/ma/Files/16-03-2026-13-50-20-WebGroupe%20spot%20Bim%2017%20Mars%2020263.jpg"
       ]
     }
   },
