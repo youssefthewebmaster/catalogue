@@ -575,8 +575,14 @@
             }
         },
         "mbc2": {
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://babaktv.com/"
+            },
             "links":{
-                "الرابط 1": "http://185.9.2.18/chid_375/mono.m3u8"
+                "الرابط 1": "http://185.9.2.18/chid_375/mono.m3u8",
+                "الرابط 2": "https://pass2.iranvids.com/http://154.58.202.18:8080/mbc2/index.m3u8",
+                "الرابط 3": "https://pass2.iranvids.com/http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8"
             }
         },
         "mbc3": {
@@ -615,20 +621,27 @@
         },
         "mbcDramaPlus": {
             "links":{
-                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8"
+                "جودة متعددة": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
+                "1080p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/manifest/video/1080p2400kbps/video.m3u8",
+                "720p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/manifest/video/720p1750kbps/video.m3u8",
+                "480p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/manifest/video/468p750kbps/video.m3u8",
+                "360p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/manifest/video/360p500kbps/video.m3u8"
             }
         },
         "mbcEygpt1": {
             "links":{
-                "1080p": "https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8",
-                "720p": "https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_47.m3u8",
-                "360p": "https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_50.m3u8",
-                "244p": "https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_51.m3u8"
+                "1080p": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/1080p2400kbps/video.m3u8",
+                "720p": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/720p1750kbps/video.m3u8",
+                "360p": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/360p500kbps/video.m3u8",
+                "244p": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/288p350kbps/video.m3u8"
             }
         },
         "mbcEygpt2": {
             "links":{
-                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
+                "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+                "1080p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/1080p2400kbps/video.m3u8",
+                "360p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/360p500kbps/video.m3u8",
+                "288p": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/288p350kbps/video.m3u8"
             }
         },
         "mbcIraq": {
@@ -2430,13 +2443,6 @@
             "links":{
                 "الرابط 1": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
                 "الرابط 2": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/video/1080p2400kbps/video.m3u8"
-            }
-        },
-        "*mbc3Euroup": {
-            "links":{
-                "الرابط 1": "https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8",
-                "الرابط 2": "https://mbc-3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_2.m3u8",
-                "الرابط 3": "https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_5.m3u8"
             }
         },
         "RotanaKids": {
