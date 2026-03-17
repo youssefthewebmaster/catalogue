@@ -33,6 +33,19 @@
     },
     "events": {
         "event1": {
+            "team1": "سبورتينغ براغا",
+            "team2": "فيرينكفاروس",
+            "team1Image": "https://images.elbotola.com/stats/logos/9vjxm8ghoojr6od.png",
+            "team2Image": "https://images.elbotola.com/stats/logos/vl7oqdehzwpr510.png",
+            "time":"15:30",
+            "championName": "الدوري الأوروبي",
+            "channelName": "Bein Sport 3",
+            "folder": "beinSport",
+            "link": "beinSport3",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
+            "comment": "أحمد عبده"
+        },
+        "event11": {
             "team1": "برشلونة",
             "team2": "نيوكاسل",
             "team1Image": "https://images.elbotola.com/stats/logos/e4wyrn4h127q86p.png",
@@ -45,7 +58,7 @@
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
             "comment": "عصام الشوالي"
         },
-        "event2": {
+        "event21": {
             "team1": "ليفربول",
             "team2": "غلطة سراي",
             "team1Image": "https://images.elbotola.com/stats/logos/gpxwrxlhw8gryk0.png",
@@ -58,7 +71,7 @@
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
             "comment": "علي محمد علي"
         },
-        "event3": {
+        "event31": {
             "team1": "بايرن ميونخ",
             "team2": "أتالانتا",
             "team1Image": "https://images.elbotola.com/stats/logos/yl5ergphjy2r8k0.png",
@@ -71,7 +84,7 @@
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png",
             "comment": "جواد بدة"
         },
-        "event4": {
+        "event41": {
             "team1": "توتنهام",
             "team2": "أتليتيكو مدريد",
             "team1Image": "https://images.elbotola.com/stats/logos/l965mkyh90gr1ge.png",
