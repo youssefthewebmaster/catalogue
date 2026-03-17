@@ -33,56 +33,56 @@
     },
     "events": {
         "event1": {
-            "team1": "سبورتينغ لشبونة",
-            "team2": "بودو غليمت",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/championsLeague/SportingLishbona.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/championsLeague/BodoGlimit.png",
+            "team1": "برشلونة",
+            "team2": "نيوكاسل",
+            "team1Image": "https://images.elbotola.com/stats/logos/e4wyrn4h127q86p.png",
+            "team2Image": "https://images.elbotola.com/stats/logos/8y39mp1h8dpmojx.png",
             "time":"17:45",
-            "championName": "دوري أبطال أوروبا",
-            "channelName": "Bein Sport 4",
-            "folder": "beinSport",
-            "link": "beinSport4",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png",
-            "comment": "أحمد عبده"
-        },
-        "event2": {
-            "team1": "مانشستر سيتي",
-            "team2": "ريال مدريد",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/ManchesterCity.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/espana/RealMadrid.png",
-            "time":"20:00",
             "championName": "دوري أبطال أوروبا",
             "channelName": "Bein Sport 2",
             "folder": "beinSport",
             "link": "beinSport2",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png",
-            "comment": "حسن العيدروس"
-        },
-        "event3": {
-            "team1": "آرسنال",
-            "team2": "باير ليفركوزن",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Arsenal.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/germany/BayerLeverkusin.png",
-            "time":"20:00",
-            "championName": "دوري أبطال أوروبا",
-            "channelName": "Bein Sport 3",
-            "folder": "beinSport",
-            "link": "beinSport3",
-            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
             "comment": "عصام الشوالي"
         },
-        "event4": {
-            "team1": "تشيلسي",
-            "team2": "باريس سان جيرمان",
-            "team1Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/england/Chelsea.png",
-            "team2Image": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/france/ParisSain-Germain.png",
+        "event2": {
+            "team1": "ليفربول",
+            "team2": "غلطة سراي",
+            "team1Image": "https://images.elbotola.com/stats/logos/gpxwrxlhw8gryk0.png",
+            "team2Image": "https://images.elbotola.com/stats/logos/z318q66hp66qo9j.png",
             "time":"20:00",
             "championName": "دوري أبطال أوروبا",
             "channelName": "Bein Sport 1",
             "folder": "beinSport",
             "link": "beinSport1",
             "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png",
-            "comment": "أحمد البلوشي"
+            "comment": "علي محمد علي"
+        },
+        "event3": {
+            "team1": "بايرن ميونخ",
+            "team2": "أتالانتا",
+            "team1Image": "https://images.elbotola.com/stats/logos/yl5ergphjy2r8k0.png",
+            "team2Image": "https://images.elbotola.com/stats/logos/gx7lm7phyw6m2wd.png",
+            "time":"20:00",
+            "championName": "دوري أبطال أوروبا",
+            "channelName": "Bein Sport 4",
+            "folder": "beinSport",
+            "link": "beinSport4",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png",
+            "comment": "جواد بدة"
+        },
+        "event4": {
+            "team1": "توتنهام",
+            "team2": "أتليتيكو مدريد",
+            "team1Image": "https://images.elbotola.com/stats/logos/l965mkyh90gr1ge.png",
+            "team2Image": "https://images.elbotola.com/stats/logos/9vjxm8ghodjr6od.png",
+            "time":"20:00",
+            "championName": "دوري أبطال أوروبا",
+            "channelName": "Bein Sport 3",
+            "folder": "beinSport",
+            "link": "beinSport3",
+            "picture":"https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png",
+            "comment": "محمد بركات"
         }
     },
     "*alwan": {
