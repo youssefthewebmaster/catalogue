@@ -317,13 +317,12 @@
     "beinSport": {
         "beinSportNews": {
             "links": {
-                "الرابط 1": "http://135.125.109.73:9000/beinsportnew_.m3u8",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/788550011/index.m3u8?t=_KnDhf900OCT1JGNtSI0eg&e=1770306073"
+                "الرابط 1": "https://s3.alajil24.com/b_news/index.m3u8?token=a84ccf284b9fb737b812219f9221be0ab5d8bb31-52a6bfd0e5e1c840ea702f88fc80b504-1773954799-1773943999&remote=196.117.15.221"
             }
         },
         "beinSportGlobal": {
             "links": {
-                "الرابط 1": "http://135.125.109.73:9000/beinsportglobal_.m3u8"
+                "الرابط 1": "https://s4.alajil24.com/bein_sports/tracks-v1a1/mono.m3u8?remote=196.117.15.221&token=f254130fc70acb4bea29ea16c5b75bb4ba0dae36-2c586e702eb1e4b747505130993a597b-1773954660-1773943860"
             }
         },
         "beinSport1": {
@@ -366,9 +365,10 @@
         },
         "beinSport6": {
             "links": {
-                "الرابط 1": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=n4Erqjs7hqWvrTWdGOuouA&e=1772270332",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=uYDiqVnHZZv_cOlIQ3G_Rg&e=1772278093",
-                "الرابط 3": "http://het000.4rouwanda-shop.store/live/788550011/index.m3u8?t=B92kQ3Uw0s2FbxvJun4ETg&e=1772273853"
+                "الرابط 1": "http://t1.genral2025.sbs:8080/ha6.html?token=169051e0145f9bc060f266bbb53b31c7&ip=196.117.15.221",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=n4Erqjs7hqWvrTWdGOuouA&e=1772270332",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=uYDiqVnHZZv_cOlIQ3G_Rg&e=1772278093",
+                "الرابط 4": "http://het000.4rouwanda-shop.store/live/788550011/index.m3u8?t=B92kQ3Uw0s2FbxvJun4ETg&e=1772273853"
             }
         },
         "beinSport7": {
@@ -382,13 +382,13 @@
             "links": {
                 "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=oaju8HTO79a_IJjhVJmI_w&e=1769241074",
                 "الرابط 2": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=oDNmvQac6Fl-d9UybV2hwg&e=1769241074",
-                "الرابط 3": "http://het000.4rouwanda-shop.store/live/770001000/index.m3u8?t=P4Rp_UKncNiXr4-TNFnUNw&e=1769241074"
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/770001000/index.m3u8?t=P4Rp_UKncNiXr4-TNFnUNw&e=1769241074",
+                "الرابط 4": "http://t1.genral2025.lol:8080/sa8.html?token=169051e0145f9bc060f266bbb53b31c7&ip=196.117.15.221"
             }
         },
         "beinSport9": {
             "links": {
-                "الرابط 1": "http://135.125.109.73:9000/beinsport9_.m3u8",
-                "الرابط 2": "https://a.3lok3.site/auth/FOMEyzxM9srjnF7J9DWpf_TI_O8FoYjLiSDSg0OmM7EV7U23m_bw_MDiq0gAfXgsbmj1hBzpmr8kxZSu1M0VLBcssmQ5HiqxGk8zwUwc7BIp0_OrzfvaYHsSAL8OUGudPCZ2vdELj5vUmA_tqUWGbSPLX6cm-6Ta7nR24M42F-8cmeU-WmKbjlHruRh8TreO3Q8mu_pnA8AdN_dHOPfeKh0VE-0GIk1fVQOM_BhlJ9KwqgE-f2Vu6MQArynsCAkn8LKZ92sBDamk5BMF24gjSpaad3-7BN5ryLuclKdc7pTMLiJ6g1I73HQ-h4-DmYAw-VKFA9O723Wmp_kjVbsLxExMuufuXt4X_zJd3flNIyy2by2fQlanQymQj7IZz935bgF3zS04cpZpMdu6yklkelOCSpat6wrRcFn_tEt9Kt6IW2qeiJeCfwFZQxtHv9_Y5kWlYQMdHhIhhRW4Jr_u_fg0FpYmNQRaNR8xPwTfl-daayVDrVm_pLTDCC1bmOepUb_QE9Yuaruvv2v273dTp2nFkRjjidofE2Rvqywr4tyzW0XGB_2iohDLINLyglXSz0CNX_CR3_e8_GkVhRVzMlvMGn9G0DrymFC5rqvWcuivkHoX9KTG9hyL4fGyptZ0j5mU4a-GU9y9FrACtQ1dmQ"
+                "الرابط 1": "http://t1.genral.xyz:8080/ha9.html?token=169051e0145f9bc060f266bbb53b31c7&ip=196.117.15.221"
             }
         },
         "beinXtra1": {
