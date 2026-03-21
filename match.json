@@ -381,15 +381,13 @@
         },
         "beinSport5": {
             "links": {
-                "الرابط 1": "http://t1.genral.xyz:8080/sa5.html?token=cfe85df5c9afbd0103de2497c0089d21&ip=196.117.235.118",
-                "الرابط 2": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=JqmSSI1cy9fCUTdljYOe1w&e=1767812256",
-                "الرابط 3": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=NskvSt3TrNgIs2lH00IwNA&e=1767812238",
-                "الرابط 4": "http://het000.4rouwanda-shop.store/live/181818444/index.m3u8?t=FqIR2LBvFDFRSQ_nscAxVA&e=1768648241"
+                "الرابط 1": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=JqmSSI1cy9fCUTdljYOe1w&e=1767812256",
+                "الرابط 2": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=NskvSt3TrNgIs2lH00IwNA&e=1767812238",
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/181818444/index.m3u8?t=FqIR2LBvFDFRSQ_nscAxVA&e=1768648241"
             }
         },
         "beinSport6": {
             "links": {
-                "الرابط 1": "http://t1.genral2025.sbs:8080/ha6.html?token=169051e0145f9bc060f266bbb53b31c7&ip=196.117.15.221",
                 "الرابط 2": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=n4Erqjs7hqWvrTWdGOuouA&e=1772270332",
                 "الرابط 3": "http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=uYDiqVnHZZv_cOlIQ3G_Rg&e=1772278093",
                 "الرابط 4": "http://het000.4rouwanda-shop.store/live/788550011/index.m3u8?t=B92kQ3Uw0s2FbxvJun4ETg&e=1772273853"
@@ -406,8 +404,7 @@
             "links": {
                 "الرابط 1": "http://het000.4rouwanda-shop.store/live/996251000/index.m3u8?t=oaju8HTO79a_IJjhVJmI_w&e=1769241074",
                 "الرابط 2": "http://het000.4rouwanda-shop.store/live/500021000/index.m3u8?t=oDNmvQac6Fl-d9UybV2hwg&e=1769241074",
-                "الرابط 3": "http://het000.4rouwanda-shop.store/live/770001000/index.m3u8?t=P4Rp_UKncNiXr4-TNFnUNw&e=1769241074",
-                "الرابط 4": "http://t1.genral2025.lol:8080/sa8.html?token=169051e0145f9bc060f266bbb53b31c7&ip=196.117.15.221"
+                "الرابط 3": "http://het000.4rouwanda-shop.store/live/770001000/index.m3u8?t=P4Rp_UKncNiXr4-TNFnUNw&e=1769241074"
             }
         },
         "beinSport9": {
@@ -2226,9 +2223,9 @@
                 "الرابط 1": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?token=demo"
             }
         },
-        "*rotanaDrama": {
+        "rotanaDrama": {
             "links":{
-                "الرابط 1": "http://185.9.2.18/chid_2179/mono.m3u8"
+                "الرابط 1": "https://tgn.bozztv.com/gin-36bay3/ga-rotanadrama/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1513929455&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI2IDM6NTU6MzEgUE0maGFzaF92YWx1ZT1uclQ2T2VMUmtQN2lhV2JMc08vZ2pnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU="
             }
         },
         "rotanaComedy": {
@@ -2237,11 +2234,9 @@
                 "الرابط 2": "http://185.9.2.18/chid_5224/mono.m3u8"
             }
         },
-        "*rotanaClassic": {
+        "rotanaClassic": {
             "links":{
-                "الرابط 1": "https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8",
-                "الرابط 2": "http://154.58.202.185:8000/play/a0b6",
-                "الرابط 3": "http://wolvestv.net:8880/farahxalbayati/ar15681985/59201"
+                "الرابط 1": "https://fastly.live.brightcove.com/1843594022373749545/eu-central-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXltc3VjLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1OTQwMjIzNzM3NDk1NDUifQ.AsLkcH3mNGMzO3FQqhSk6G3soXaKCYDtyjmXrJugpYE/chunklist__3.m3u8"
             }
         },
         "rotanaAflam": {
