@@ -324,17 +324,17 @@
     "tamaniya": {
         "tamaniya1": {
             "links": {
-                "480p": "https://s4.alajil24.com/thamnya_sd/tracks-v1a1/mono.m3u8?remote=196.117.15.221&token=c678c0af817484fee07a3d51441e275fed4104c3-b201c2d6303af6a65ee8b3aa3a50700a-1773955107-1773944307"
+                "480p": "https://s4.alajil24.com/thamnya_sd/index.m3u8?token=299770e262b6873a66eaeecc144ffa1068b18c34-7bcab0ad84c285d4a0ae76a90b374f6d-1774111562-1774100762&remote=41.143.19.195"
             }
         },
         "tamaniya2": {
             "links": {
-                "480p": "https://s4.alajil24.com/thamnya_sd2/index.m3u8?token=7299f497fba3510655407dbdeb37365dd6c33cc3-d802431f7c799316a2b6b05a1daac3da-1773955261-1773944461&remote=196.117.15.221"
+                "480p": "https://s4.alajil24.com/thamnya_sd2/index.m3u8?token=49ff5f1f580e90a23f70b6a01fbe16a70aa2aac5-88877660a66fa2caf063cd080d6d2791-1774111694-1774100894&remote=41.143.19.195"
             }
         },
         "tamaniya3": {
             "links": {
-                "480p": "https://s4.genral.vip/thamnya_sd3/index.m3u8?token=7f7d23cd1439d0cfe880a4c947f34d0432937027-82a7cd8e0ed97b575cbcf090f7d5f4fe-1772542589-1772531789&remote=105.159.137.114"
+                "480p": "https://s4.alajil24.com/thamnya_sd3/index.m3u8?token=922f95ee5df3852f6e6047b927eb4656920eb4ef-275eeeae75d355539b9cc2174c0626b0-1774111878-1774101078&remote=41.143.19.195"
             }
         }
     },
