@@ -40,6 +40,8 @@
       "time": "11:15",
       "championName": "الدوري الهولندي (إيريديفيزي)",
       "channelName": "Bein Sport 2",
+      "folder": "beinSport",
+      "link": "beinSport2",
       "comment": "راشد عبدالرحمن"
     },
     "event2": {
@@ -50,6 +52,8 @@
       "time": "12:00",
       "championName": "الدوري الإنجليزي الممتاز",
       "channelName": "Bein Sport 2",
+      "folder": "beinSport",
+      "link": "beinSport2",
       "comment": "محمد المبروكي"
     },
     "event3": {
@@ -60,6 +64,8 @@
       "time": "13:00",
       "championName": "الدوري الإسباني (لاليغا - إي أيه سبورتس)",
       "channelName": "Bein Sport 1",
+      "folder": "beinSport",
+      "link": "beinSport1",
       "comment": "حسن العيدروس"
     },
     "event4": {
@@ -70,6 +76,8 @@
       "time": "13:30",
       "championName": "الدوري الهولندي (إيريديفيزي)",
       "channelName": "Bein Sport 2",
+      "folder": "beinSport",
+      "link": "beinSport2",
       "comment": "رؤوف خليف"
     },
     "event5": {
@@ -80,6 +88,8 @@
       "time": "14:00",
       "championName": "الدوري الفرنسي - ليج 1",
       "channelName": "Bein Sport 4",
+      "folder": "beinSport",
+      "link": "beinSport4",
       "comment": "نوفل باشي"
     },
     "event6": {
@@ -90,6 +100,8 @@
       "time": "14:15",
       "championName": "الدوري الإنجليزي الممتاز",
       "channelName": "Bein Sport 6",
+      "folder": "beinSport",
+      "link": "beinSport6",
       "comment": "محمد بركات"
     },
     "event7": {
@@ -100,6 +112,8 @@
       "time": "14:15",
       "championName": "الدوري الإنجليزي الممتاز",
       "channelName": "Bein Sport 2",
+      "folder": "beinSport",
+      "link": "beinSport2",
       "comment": "أحمد عبده"
     },
     "event8": {
@@ -110,6 +124,8 @@
       "time": "15:15",
       "championName": "الدوري الإسباني (لاليغا - إي أيه سبورتس)",
       "channelName": "Bein Sport 9",
+      "folder": "beinSport",
+      "link": "beinSport9",
       "comment": "بكر علوان"
     },
     "event9": {
@@ -120,6 +136,8 @@
       "time": "15:45",
       "championName": "الدوري الهولندي (إيريديفيزي)",
       "channelName": "Bein Sport ة",
+      "folder": "beinSport",
+      "link": "beinSportة",
       "comment": "أحمد العبيدلي"
     },
     "event10": {
@@ -130,6 +148,8 @@
       "time": "15:45",
       "championName": "الدوري الهولندي (إيريديفيزي)",
       "channelName": "Bein Sport 2",
+      "folder": "beinSport",
+      "link": "beinSport2",
       "comment": "عبدالحميد الجسمي"
     },
     "event11": {
@@ -140,6 +160,8 @@
       "time": "16:00",
       "championName": "دوري أبطال أفريقيا",
       "channelName": "Bein Sport 5",
+      "folder": "beinSport",
+      "link": "beinSport5",
       "comment": "علي محمد علي"
     },
     "event12": {
@@ -150,6 +172,8 @@
       "time": "16:00",
       "championName": "دوري أبطال أفريقيا",
       "channelName": "Bein Sport 2",
+      "folder": "beinSport",
+      "link": "beinSport2",
       "comment": "منتصر الأزهري"
     },
     "event13": {
@@ -160,6 +184,8 @@
       "time": "16:00",
       "championName": "كأس الكونفدرالية الأفريقية",
       "channelName": "Bein Sport 1",
+      "folder": "beinSport",
+      "link": "beinSport1",
       "comment": ""
     },
     "event14": {
@@ -170,6 +196,8 @@
       "time": "16:15",
       "championName": "الدوري الفرنسي - ليج 1",
       "channelName": "Bein Sport 4",
+      "folder": "beinSport",
+      "link": "beinSport4",
       "comment": "حسن العيدروس"
     },
     "event15": {
@@ -180,6 +208,8 @@
       "time": "16:15",
       "championName": "الدوري الفرنسي - ليج 1",
       "channelName": "Bein Sport 6",
+      "folder": "beinSport",
+      "link": "beinSport6",
       "comment": "محمد السعدي"
     },
     "event16": {
@@ -190,6 +220,8 @@
       "time": "16:15",
       "championName": "الدوري الفرنسي - ليج 1",
       "channelName": "Bein Sport 1",
+      "folder": "beinSport",
+      "link": "beinSport1",
       "comment": "محمد نضال"
     },
     "event17": {
@@ -200,6 +232,8 @@
       "time": "16:30",
       "championName": "كأس الرابطة الإنجليزية",
       "channelName": "Bein Sport 1",
+      "folder": "beinSport",
+      "link": "beinSport1",
       "comment": "عصام الشوالي"
     },
     "event18": {
@@ -210,6 +244,8 @@
       "time": "17:30",
       "championName": "الدوري الإسباني (لاليغا - إي أيه سبورتس)",
       "channelName": "Bein Sport 2",
+      "folder": "beinSport",
+      "link": "beinSport2",
       "comment": "باسم الزير"
     },
     "event19": {
@@ -220,6 +256,8 @@
       "time": "18:30",
       "championName": "الدوري الألماني (البوندسليغا)",
       "channelName": "Bein Sport n",
+      "folder": "beinSport",
+      "link": "beinSportn",
       "comment": "عصام عبده"
     },
     "event20": {
@@ -230,6 +268,8 @@
       "time": "19:00",
       "championName": "كأس الكونفدرالية الأفريقية",
       "channelName": "Bein Sport 1",
+      "folder": "beinSport",
+      "link": "beinSport1",
       "comment": ""
     },
     "event21": {
@@ -240,6 +280,8 @@
       "time": "19:00",
       "championName": "كأس الكونفدرالية الأفريقية",
       "channelName": "Bein Sport 3",
+      "folder": "beinSport",
+      "link": "beinSport3",
       "comment": "جواد بدة"
     },
     "event22": {
@@ -250,6 +292,8 @@
       "time": "19:45",
       "championName": "الدوري الفرنسي - ليج 1",
       "channelName": "Bein Sport 4",
+      "folder": "beinSport",
+      "link": "beinSport4",
       "comment": "أحمد عبده"
     },
     "event23": {
@@ -260,6 +304,8 @@
       "time": "20:00",
       "championName": "الدوري الإسباني (لاليغا - إي أيه سبورتس)",
       "channelName": "Bein Sport 1",
+      "folder": "beinSport",
+      "link": "beinSport1",
       "comment": "أحمد البلوشي"
     },
     "event24": {
@@ -270,6 +316,8 @@
       "time": "20:30",
       "championName": "الدوري البرتغالي الممتاز",
       "channelName": "Bein Sport 2",
+      "folder": "beinSport",
+      "link": "beinSport2",
       "comment": "طارق الملا"
     }
     },
