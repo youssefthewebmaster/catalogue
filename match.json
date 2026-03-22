@@ -432,7 +432,7 @@
     "beinSport": {
         "beinSportNews": {
             "links": {
-                "الرابط 1": "https://s3.alajil24.com/b_news/index.m3u8?token=a84ccf284b9fb737b812219f9221be0ab5d8bb31-52a6bfd0e5e1c840ea702f88fc80b504-1773954799-1773943999&remote=196.117.15.221"
+                "الرابط 1": "https://dmi-live-a.akamaized.net/Content/Channel/dubaisports1/DASH/master.mpd?hdntl=exp=1774265440~acl=%2f*~data=hdntl~hmac=e504f0ec647cbca0a3c5a4e5d190f062e14f3d83c45e689c775727ea230d343f"
             }
         },
         "beinSportGlobal": {
