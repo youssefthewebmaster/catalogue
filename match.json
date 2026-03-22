@@ -39,10 +39,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/4zp5rzgh9ygq82w.png",
       "time": "11:15",
       "championName": "الدوري الهولندي (إيريديفيزي)",
-      "channelName": "Bein Sport 2",
-      "folder": "beinSport",
-      "link": "beinSport2",
-      "comment": "راشد عبدالرحمن"
+      "channelName": "دبي الرياضية 2",
+      "folder": "ua",
+      "link": "dubaiSport2",
+      "comment": "راشد عبدالرحمن",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/dubaiSport2.png"
     },
     "event2": {
       "team1": "نيوكاسل",
@@ -54,7 +55,8 @@
       "channelName": "Bein Sport 2",
       "folder": "beinSport",
       "link": "beinSport2",
-      "comment": "محمد المبروكي"
+      "comment": "محمد المبروكي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png"
     },
     "event3": {
       "team1": "برشلونة",
@@ -66,7 +68,8 @@
       "channelName": "Bein Sport 1",
       "folder": "beinSport",
       "link": "beinSport1",
-      "comment": "حسن العيدروس"
+      "comment": "حسن العيدروس",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png"
     },
     "event4": {
       "team1": "فاينورد روتردام",
@@ -75,10 +78,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/jednm9whl7kryox.png",
       "time": "13:30",
       "championName": "الدوري الهولندي (إيريديفيزي)",
-      "channelName": "Bein Sport 2",
-      "folder": "beinSport",
-      "link": "beinSport2",
-      "comment": "رؤوف خليف"
+      "channelName": "دبي الرياضية 2",
+      "folder": "ua",
+      "link": "dubaiSport2",
+      "comment": "رؤوف خليف",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/dubaiSport2.png"
     },
     "event5": {
       "team1": "أولمبيك ليون",
@@ -90,7 +94,8 @@
       "channelName": "Bein Sport 4",
       "folder": "beinSport",
       "link": "beinSport4",
-      "comment": "نوفل باشي"
+      "comment": "نوفل باشي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png"
     },
     "event6": {
       "team1": "أستون فيلا",
@@ -102,7 +107,8 @@
       "channelName": "Bein Sport 6",
       "folder": "beinSport",
       "link": "beinSport6",
-      "comment": "محمد بركات"
+      "comment": "محمد بركات",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b6.png"
     },
     "event7": {
       "team1": "توتنهام",
@@ -114,7 +120,8 @@
       "channelName": "Bein Sport 2",
       "folder": "beinSport",
       "link": "beinSport2",
-      "comment": "أحمد عبده"
+      "comment": "أحمد عبده",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png"
     },
     "event8": {
       "team1": "سيلتا فيغو",
@@ -126,7 +133,8 @@
       "channelName": "Bein Sport 9",
       "folder": "beinSport",
       "link": "beinSport9",
-      "comment": "بكر علوان"
+      "comment": "بكر علوان",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b9.png"
     },
     "event9": {
       "team1": "جرونينجن",
@@ -135,10 +143,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/kjw2r09hv3zrz84.png",
       "time": "15:45",
       "championName": "الدوري الهولندي (إيريديفيزي)",
-      "channelName": "Bein Sport ة",
-      "folder": "beinSport",
-      "link": "beinSportة",
-      "comment": "أحمد العبيدلي"
+      "channelName": "دبي الرياضية",
+      "folder": "ua",
+      "link": "dubaiSport1",
+      "comment": "أحمد العبيدلي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/dubaiSport1.png"
     },
     "event10": {
       "team1": "تيلستار",
@@ -147,10 +156,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/p3glrw7h5klqdyj.png",
       "time": "15:45",
       "championName": "الدوري الهولندي (إيريديفيزي)",
-      "channelName": "Bein Sport 2",
-      "folder": "beinSport",
-      "link": "beinSport2",
-      "comment": "عبدالحميد الجسمي"
+      "channelName": "دبي الرياضية 2",
+      "folder": "ua",
+      "link": "dubaiSport2",
+      "comment": "عبدالحميد الجسمي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/dubaiSport2.png"
     },
     "event11": {
       "team1": "الهلال السوداني",
@@ -162,7 +172,8 @@
       "channelName": "Bein Sport 5",
       "folder": "beinSport",
       "link": "beinSport5",
-      "comment": "علي محمد علي"
+      "comment": "علي محمد علي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b5.png"
     },
     "event12": {
       "team1": "الملعب المالي",
@@ -171,10 +182,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/pxwrxlhggw3ryk0.png",
       "time": "16:00",
       "championName": "دوري أبطال أفريقيا",
-      "channelName": "Bein Sport 2",
+      "channelName": "Bein Sport EXTRA 2",
       "folder": "beinSport",
-      "link": "beinSport2",
-      "comment": "منتصر الأزهري"
+      "link": "beinXtra2",
+      "comment": "منتصر الأزهري",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2extra.png"
     },
     "event13": {
       "team1": "الزمالك",
@@ -183,10 +195,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/zp5rzghz17yq82w.png",
       "time": "16:00",
       "championName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "Bein Sport 1",
+      "channelName": "Bein Sport 2",
       "folder": "beinSport",
-      "link": "beinSport1",
-      "comment": ""
+      "link": "beinSport2",
+      "comment": "محمد فوزي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png"
     },
     "event14": {
       "team1": "أولمبيك مارسيليا",
@@ -198,7 +211,8 @@
       "channelName": "Bein Sport 4",
       "folder": "beinSport",
       "link": "beinSport4",
-      "comment": "حسن العيدروس"
+      "comment": "حسن العيدروس",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png"
     },
     "event15": {
       "team1": "باريس",
@@ -210,7 +224,8 @@
       "channelName": "Bein Sport 6",
       "folder": "beinSport",
       "link": "beinSport6",
-      "comment": "محمد السعدي"
+      "comment": "محمد السعدي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b6.png"
     },
     "event16": {
       "team1": "ستاد رين",
@@ -219,10 +234,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/vl7oqdehwner510.png",
       "time": "16:15",
       "championName": "الدوري الفرنسي - ليج 1",
-      "channelName": "Bein Sport 1",
+      "channelName": "Bein Sport EXTRA 1",
       "folder": "beinSport",
-      "link": "beinSport1",
-      "comment": "محمد نضال"
+      "link": "beinXtra1",
+      "comment": "محمد نضال",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1extra.png"
     },
     "event17": {
       "team1": "أرسنال",
@@ -234,7 +250,8 @@
       "channelName": "Bein Sport 1",
       "folder": "beinSport",
       "link": "beinSport1",
-      "comment": "عصام الشوالي"
+      "comment": "عصام الشوالي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png"
     },
     "event18": {
       "team1": "أتلتيك بلباو",
@@ -246,7 +263,8 @@
       "channelName": "Bein Sport 2",
       "folder": "beinSport",
       "link": "beinSport2",
-      "comment": "باسم الزير"
+      "comment": "باسم الزير",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png"
     },
     "event19": {
       "team1": "آوغسبورغ",
@@ -255,10 +273,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/gx7lm7phd7em2wd.png",
       "time": "18:30",
       "championName": "الدوري الألماني (البوندسليغا)",
-      "channelName": "Bein Sport n",
-      "folder": "beinSport",
-      "link": "beinSportn",
-      "comment": "عصام عبده"
+      "channelName": "MBC Action",
+      "folder": "mbc",
+      "link": "mbcAction",
+      "comment": "عصام عبده",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/mbcAction.png"
     },
     "event20": {
       "team1": "اتحاد العاصمة",
@@ -267,10 +286,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/vjxm8ghjx4dr6od.png",
       "time": "19:00",
       "championName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "Bein Sport 1",
+      "channelName": "Bein Sport 3",
       "folder": "beinSport",
-      "link": "beinSport1",
-      "comment": ""
+      "link": "beinSport3",
+      "comment": "محمد مبروكي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png"
     },
     "event21": {
       "team1": "الوداد الرياضي",
@@ -282,7 +302,8 @@
       "channelName": "Bein Sport 3",
       "folder": "beinSport",
       "link": "beinSport3",
-      "comment": "جواد بدة"
+      "comment": "جواد بدة",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png"
     },
     "event22": {
       "team1": "نانت",
@@ -294,7 +315,8 @@
       "channelName": "Bein Sport 4",
       "folder": "beinSport",
       "link": "beinSport4",
-      "comment": "أحمد عبده"
+      "comment": "أحمد عبده",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png"
     },
     "event23": {
       "team1": "ريال مدريد",
@@ -306,7 +328,8 @@
       "channelName": "Bein Sport 1",
       "folder": "beinSport",
       "link": "beinSport1",
-      "comment": "أحمد البلوشي"
+      "comment": "أحمد البلوشي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png"
     },
     "event24": {
       "team1": "سبورتينغ براغا",
@@ -315,10 +338,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/gpxwrxlhwl4ryk0.png",
       "time": "20:30",
       "championName": "الدوري البرتغالي الممتاز",
-      "channelName": "Bein Sport 2",
-      "folder": "beinSport",
-      "link": "beinSport2",
-      "comment": "طارق الملا"
+      "channelName": "الكويت الرياضية 2",
+      "folder": "kw",
+      "link": "kowitSport2",
+      "comment": "طارق الملا",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/kowitSport2.png"
     }
     },
     "*alwan": {
