@@ -1920,15 +1920,16 @@
         },
         "CBC": {
             "links":{
-                "الرابط 1": "https://fastly.live.brightcove.com/1843521364865282260/eu-central-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXltc3VjLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjEzNjQ4NjUyODIyNjAifQ.0dAr9XfheySFlNSKyHmeaasEMRIr-eZhJXZkoB1nzu4/chunklist__3.m3u8"
+                "الرابط 1": "https://fastly.live.brightcove.com/1843521364865282260/eu-central-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXltc3VjLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjEzNjQ4NjUyODIyNjAifQ.0dAr9XfheySFlNSKyHmeaasEMRIr-eZhJXZkoB1nzu4/chunklist__3.m3u8",
+                "الرابط 2": "https://flu.systemnet.tv/CBC/index.m3u8"
             }
         },
-        "*CBCDrama": {
+        "CBCDrama": {
             "links":{
-                "الرابط 1": "http://213.57.91.138:8000/play/a06q"
+                "الرابط 1": "https://flu.systemnet.tv/CBCDrama/index.m3u8"
             }
         },
-        "*CBCSofra": {
+        "CBCSofra": {
             "links":{
                 "الرابط 1": "http://185.9.2.18/chid_652/mono.m3u8"
             }
@@ -1938,9 +1939,9 @@
                 "الرابط 1": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/830"
             }
         },
-        "*PanoramaDrama1": {
+        "PanoramaDrama1": {
             "links":{
-                "الرابط 1": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8"
+                "الرابط 1": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=S1kySuSK58S"
             }
         },
         "*PanoramaDrama2": {
