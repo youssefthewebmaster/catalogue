@@ -311,18 +311,19 @@
         },
         "baraem": {
             "links":{
-                "الرابط 1": "http://apk.arabic-ch.space/live/070/index.m3u8?t=o2CWnSev3EKtpUdOJw9tWA&e=1769246578",
-                "الرابط 2": "http://apk.arabic-ch.space/live/070/index.m3u8?t=Ugza0y1PX6Byz-BeX6PrsA&e=1770320154"
+                "الرابط 1": "http://tr.zengi34.xyz:8080//live/hursitabaci/jgTJMkHuEDbn/174178.ts",
+                "الرابط 2": "http://apk.arabic-ch.space/live/070/index.m3u8?t=o2CWnSev3EKtpUdOJw9tWA&e=1769246578",
+                "الرابط 3": "http://apk.arabic-ch.space/live/070/index.m3u8?t=Ugza0y1PX6Byz-BeX6PrsA&e=1770320154"
             }
         },
         "BeJunior": {
             "links": {
-                "الرابط 1": "http://apk.arabic-ch.space/live/082/index.m3u8?t=w64b51yQYOGvuGddiFjuTw&e=1769329337"
+                "الرابط 1": "http://apk.ch-arabic.buzz/live/074/index.m3u8?t=W5lUHxO5M6CofNu3VKsFIw&e=1774287146"
             }
         },
-        "*CartoonNetworkArabic": {
+        "CartoonNetworkArabic": {
             "links": {
-                "الرابط 1": "https://s1.news-api-gen.lol/cartoon_n/tracks-v1a1/2026/01/23/20/10/50-06000.js?token=b1f88bb14aecf8f26f67721c3771f0b94584d448-b997145c3d9064e2aed9cdccd48d2738-1769209526-1769198726"
+                "الرابط 1": "http://tr.zengi34.xyz:8080//live/hursitabaci/jgTJMkHuEDbn/174176.ts"
             }
         },
         "jeem": {
@@ -2353,13 +2354,15 @@
             }
         },
         "CartoonNetworkArab1": {
-            "links":{
-                "الرابط 1": "http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/15371"
+            "links": {
+                "الرابط 1": "http://tr.zengi34.xyz:8080//live/hursitabaci/jgTJMkHuEDbn/174176.ts"
             }
         },
         "baraem": {
             "links":{
-                "الرابط 1": "http://apk.arabic-ch.space/live/070/index.m3u8?t=EwGh6ujQ4sL0AwfEq16k-w&e=1766151524"
+                "الرابط 1": "http://tr.zengi34.xyz:8080//live/hursitabaci/jgTJMkHuEDbn/174178.ts",
+                "الرابط 2": "http://apk.arabic-ch.space/live/070/index.m3u8?t=o2CWnSev3EKtpUdOJw9tWA&e=1769246578",
+                "الرابط 3": "http://apk.arabic-ch.space/live/070/index.m3u8?t=Ugza0y1PX6Byz-BeX6PrsA&e=1770320154"
             }
         },
         "mbc3": {
@@ -2886,42 +2889,38 @@
         },
         "gulli": {
             "links": {
-                "الرابط 2": "https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext",
-                "الرابط 1": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8"
+                "الرابط 2": "https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext"
             }
         },
         "mangas": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/274709",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1227"
+                "الرابط 1": "http://tr.zengi34.xyz:8080//live/hursitabaci/jgTJMkHuEDbn/171039.ts"
             }
         },
         "baby": {
             "links": {
-                "الرابط 1": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
+                "الرابط 1": "https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8"
             }
         },
         "tiji": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32830",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/299"
+                "الرابط 1": "http://tr.zengi34.xyz:8080//live/hursitabaci/jgTJMkHuEDbn/171208.ts"
             }
         },
         "boomerang": {
             "links": {
-                "الرابط 1": "http://apk.arabic-ch.space/live/082/index.m3u8?t=D9wJPdPdWjue9Gq_QWksTg&e=1769519490"
+                "الرابط 1": "http://apk.arabic-ch.space/live/082/index.m3u8?t=D9wJPdPdWjue9Gq_QWksTg&e=1769519490",
+                "الرابط 2": "http://apk.ch-arabic.buzz/live/082/index.m3u8?t=KvZRQUpWBiSRwjOPSKBxEg&e=1774286673"
             }
         },
         "boomerangMax": {
             "links": {
-                "الرابط 1": "https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8"
+                "الرابط 1": "http://tr.zengi34.xyz:8080//live/hursitabaci/jgTJMkHuEDbn/171042.ts"
             }
         },
         "cartoonNetwork": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148484",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/306",
-                "الرابط 3": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12883"
+                "الرابط 1": "http://tr.zengi34.xyz:8080//live/hursitabaci/jgTJMkHuEDbn/171036.ts"
             }
         },
         "canalJ": {
@@ -2931,8 +2930,7 @@
         },
         "boing": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/309",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/12893"
+                "الرابط 1": "http://tr.zengi34.xyz:8080//live/hursitabaci/jgTJMkHuEDbn/171042.ts"
             }
         },
         "disneyJunior": {
@@ -2948,8 +2946,7 @@
         },
         "piwi": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/148483",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1228"
+                "الرابط 1": "http://tr.zengi34.xyz:8080//live/hursitabaci/jgTJMkHuEDbn/171192.ts"
             }
         },
         "nickelodeon": {
@@ -2962,43 +2959,40 @@
                 "الرابط 1": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
             }
         },
-        "canalPlusKids": {
+        "*canalPlusKids": {
             "links": {
                 "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/32771",
                 "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/251"
             }
         },
-        "okoo": {
+        "*okoo": {
             "links": {
-                "الرابط 1": "http://pro.ipcover.lol:8080/6164819/7361615/259205"
+                "الرابط 1": ""
             }
         },
         "teleToon": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/11024",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/300"
+                "الرابط 1": "http://tr.zengi34.xyz:8080//live/hursitabaci/jgTJMkHuEDbn/171206.ts"
             }
         },
-        "tfou": {
+        "*tfou": {
             "links": {
-                "الرابط 1": "http://pro.ipcover.lol:8080/6164819/7361615/216583"
+                "الرابط 1": ""
             }
         },
-        "tfouMax": {
+        "*tfouMax": {
             "links": {
-                "الرابط 1": "http://pro.ipcover.lol:8080/6164819/7361615/216584"
+                "الرابط 1": ""
             }
         },
-        "gameOne": {
+        "*gameOne": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/1225",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/312"
+                "الرابط 1": ""
             }
         },
-        "jOne": {
+        "*jOne": {
             "links": {
-                "الرابط 1": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/250644",
-                "الرابط 2": "http://dm.opixtv.com:80/SoLostream_216664/eXcCETGe/2577"
+                "الرابط 1": ""
             }
         }
     },
