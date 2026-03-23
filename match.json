@@ -2466,16 +2466,14 @@
         }
     },
     "dz": {
-        "*oulaJZ": {
+        "oulaJZ": {
             "links":{
-                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058180",
-                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1041"
+                "1080p": "http://5.253.46.190:8000/play/a0eu/index.m3u8"
             }
         },
         "taniyaJZ": {
             "links":{
-                "480p": "http://162.212.179.33/dvrfl05/gin-canalalgerie/index.m3u8",
-                "720p": "https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwMTU5MTU0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jYW5hbGFsZ2VyaWUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNjVlNmFmMWM1Y2U2ZTc2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.9WtHhTMo7PmW_aJXl47mMXEcvGbrUQN-__zHcjq_0oIBrLodiLqUJ2jbidzxbMiqRD-Ua5bhYol6aWV84c76wg==/live/eds/canalalgerie/browser-HLS8/canalalgerie-avc1_1300000=3.m3u8"
+                "1080p": "http://5.253.46.190:8000/play/a0em/index.m3u8"
             }
         },
         "*ikhbariyaJZ": {
@@ -2483,30 +2481,29 @@
                 "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/35269.ts"
             }
         },
-        "*amazighiyaJZ": {
+        "amazighiyaJZ": {
             "links":{
-                "الرابط 1": "https://mo3ad.xyz:443/mo3ad626/mo3ad626/604"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0en/index.m3u8"
             }
         },
-        "*quranJZ": {
+        "quranJZ": {
             "links":{
-                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/35257.ts"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0eo/index.m3u8"
             }
         },
-        "*aljazayria": {
+        "aljazayria": {
             "links":{
-                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058187",
-                "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1012"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0ep/index.m3u8"
             }
         },
-        "*alma3rifaJZ": {
+        "alma3rifaJZ": {
             "links":{
-                "الرابط 1": "http://ott.mtg4k.xyz:80//live/1321917738/2355476823/35258.ts"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0eq/index.m3u8"
             }
         },
-        "*addakira": {
+        "addakira": {
             "links":{
-                "الرابط 1": "http://d4k4u.com:80/Tili2Vlore/bhfpcxx4fw/1058189"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0er/index.m3u8"
             }
         },
         "*samira": {
@@ -2515,10 +2512,9 @@
                 "الرابط 2": "http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1031"
             }
         },
-        "chorokNews": {
+        "*chorokNews": {
             "links":{
-                "الرابط 1": "https://tgn.bozztv.com/gin-36bay3/ga-echorouknews/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1437071677&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjYgODo1ODoxNCBBTSZoYXNoX3ZhbHVlPWRDOWZ4WWpEWllsdTlBQmdJeFJSWVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNg==",
-                "الرابط 2": "http://hdlocal.de:8080/EmgXzRYMaqRS/MYWfCM32ZynU/665017041"
+                "الرابط 1": ""
             }
         },
         "*chorok": {
