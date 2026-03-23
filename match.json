@@ -113,7 +113,7 @@
             }
         }
     },
-    "tamaniya": {
+    "*tamaniya": {
         "tamaniya1": {
             "links": {
                 "480p": "https://s4.alajil24.com/thamnya_sd/index.m3u8?token=299770e262b6873a66eaeecc144ffa1068b18c34-7bcab0ad84c285d4a0ae76a90b374f6d-1774111562-1774100762&remote=41.143.19.195"
@@ -266,17 +266,17 @@
                 "الرابط 1": "http://apk.arabic-ch.space/live/077/index.m3u8?t=wj_5PJK7igrVFM2_URw2tw&e=1769249283"
             }
         },
-        "beinBoxOffice1": {
+        "*beinBoxOffice1": {
             "links": {
                 "الرابط 1": "https://s1.genral.vip/bein_box_office1/tracks-v1a1/mono.m3u8?remote=105.159.137.114&token=7b9a5a3371418d275defd57199ea207f54c1a174-7376087418eb7ed650d74b06aebe77fd-1772546267-1772535467"
             }
         },
         "beinBoxOffice2": {
             "links": {
-                "الرابط 1": "https://s1.genral.vip/bein_box_office2/index.m3u8?token=b3da958ee956cf758411514046620c4aae54b69c-13bc5e26220911a56606fba88af712d3-1772546413-1772535613&remote=105.159.137.114"
+                "الرابط 1": "http://apk.arabic-ch.space/live/081/index.m3u8?t=SMMpE3hl3cCoPlneIIn9Vw&e=1769242233"
             }
         },
-        "beinMoviesDrama": {
+        "*beinMoviesDrama": {
             "links": {
                 "الرابط 1": "https://bein_drama/index.m3u8?token=4fc63bcc28e785a45bab82451906f3f2cbf24135-90d7f01e4ffb1b8a55872321687bc046-1769360471-1769349671&remote=196.127.113.18/bein_drama/index.m3u8?token=50384aaccb234fbe99d2665d723feff22f94ec8f-8322e9022976c0310ef044ad03cbe4c6-1769360471-1769349671&remote=196.127.113.18"
             }
@@ -304,7 +304,7 @@
                 "الرابط 2": "http://apk.arabic-ch.space/live/072/index.m3u8?t=H7KiiuuIIuuBwuDi08oDgw&e=1770312296"
             }
         },
-        "beinGourmet": {
+        "*beinGourmet": {
             "links": {
                 "الرابط 1": "https://gorment/index.m3u8?token=61bc3b0422e6672981613e2c85bc52623df2495d-f19ea2bad7e26f5b02620d438c00a16d-1769360601-1769349801&remote=196.127.113.18/GORMENT/index.m3u8?token=9cc9ca59c052e29fb0a8aa36d2376241a1362852-3aa92081550b58ed961b1fefa54a40c5-1769360601-1769349801&remote=196.127.113.18"
             }
@@ -320,7 +320,7 @@
                 "الرابط 1": "http://apk.arabic-ch.space/live/082/index.m3u8?t=w64b51yQYOGvuGddiFjuTw&e=1769329337"
             }
         },
-        "CartoonNetworkArabic": {
+        "*CartoonNetworkArabic": {
             "links": {
                 "الرابط 1": "https://s1.news-api-gen.lol/cartoon_n/tracks-v1a1/2026/01/23/20/10/50-06000.js?token=b1f88bb14aecf8f26f67721c3771f0b94584d448-b997145c3d9064e2aed9cdccd48d2738-1769209526-1769198726"
             }
