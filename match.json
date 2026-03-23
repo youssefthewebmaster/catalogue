@@ -2407,40 +2407,44 @@
     "ma": {
         "oulaL3youn": {
             "links":{
-                "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8?token=rt1ue0ilQMllAb5R28FQKuTgHXveZ0vYUwjzonW34GM&token_path=%2Fabr_corp%2F73_laayoune_pgagr52&expires=1770805384"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0eg/index.m3u8",
+                "1080p": "http://5.253.46.190:8000/play/a0ac/index.m3u8"
             }
         },
         "oulaMA": {
             "links":{
-                "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks.m3u8?token=AXi2jRSJKvuU8dP-2zVaFxRGFQ02rVxY4lT1aY4CfkQ&token_path=%2Fabr_corp%2F73_aloula_w1dqfwm&expires=1770805156"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0ef/index.m3u8",
+                "1080p": "http://5.253.46.190:8000/play/a0ab/index.m3u8"
             }
         },
         "m2": {
             "links":{
                 "الرابط 1": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
-                "1080p": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/a7ef2e2e-e78a-4596-8261-ac44afe0fa29/0.m3u8",
-                "720p": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/a7ef2e2e-e78a-4596-8261-ac44afe0fa29/1.m3u8",
-                "360p": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/a7ef2e2e-e78a-4596-8261-ac44afe0fa29/3.m3u8"
+                "الرابط 2": "http://5.253.46.190:8000/play/a0dt/index.m3u8"
             }
         },
         "arriyadiaMa": {
             "links":{
-                "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=hh_Jq7D5ZZesHCjTFrFPdCQOWMMTb96dbb0Oy52eYEs&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0&expires=1770805779"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0ea/index.m3u8",
+                "الرابط 2": "http://5.253.46.190:8000/play/a0dq/index.m3u8"
             }
         },
         "attakafiya": {
             "links":{
-                "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/corp/73_arrabia_hthcj4p_480p/chunks_dvr.m3u8?token=E-td2_xiM8HYkOMpCzMkWPiICa9nmJmS94DrxcVErBQ&token_path=%2Fabr_corp%2F73_arrabia_hthcj4p&expires=1770805831"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0eb/index.m3u8",
+                "1080p": "http://5.253.46.190:8000/play/a0ae/index.m3u8"
             }
         },
         "maghribiya": {
             "links":{
-                "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8?token=CyxXYra1ZLuJyg0BF0LbU0ga5UcI5u2C-W6ijKb6oJo&token_path=%2Fabr_corp%2F73_almaghribia_83tz85q&expires=1770805922"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0ec/index.m3u8",
+                "1080p": "http://5.253.46.190:8000/play/a0af/index.m3u8"
             }
         },
         "assadissa": {
             "links":{
-                "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8?token=vAKmuBZL6YyBuvjwrpnohdsIr-lnwHzToo-WPMsWQ20&token_path=%2Fabr_corp%2F73_assadissa_7b7u5n1&expires=1770806554"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0ed/index.m3u8",
+                "1080p": "http://5.253.46.190:8000/play/a0ag/index.m3u8"
             }
         },
         "*aflam": {
@@ -2450,7 +2454,8 @@
         },
         "tamazightMa": {
             "links":{
-                "الرابط 1": "https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_480p/chunks_dvr.m3u8?token=DEqgjZVzdxc8NLTq4O8kRMALcfdAtzHVM1i8hdM2HKg&token_path=%2Fabr_corp%2F73_tamazight_tccybxt&expires=1770806670"
+                "الرابط 1": "http://5.253.46.190:8000/play/a0ee/index.m3u8",
+                "1080p": "http://5.253.46.190:8000/play/a0ah/index.m3u8"
             }
         },
         "medi1": {
