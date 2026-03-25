@@ -2,15 +2,15 @@
   "news": {
     "new1": {
       "title": "Bim Market",
-      "date": "Offre de Mardi 24 Mars 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2024%20Mars%202026-2%20(1).jpg",
-      "link": "bim2"
+      "date": "Offre de Vendredi 27 Mars 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2027%20Mars%202026-1.jpg",
+      "link": "bim1"
     },
     "new2": {
       "title": "Kazyon Market",
-      "date": "Offre de Mardi 24 Mars 2026",
-      "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/657326830_815480338265907_1256243565635691550_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzg1OTMwODYwNjIyMzQxMzIzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=GAiZqeF_ZS4Q7kNvwEPBCiv&_nc_oc=Ado5QgqYP-_aP-yUJ9-34ITeJ1hm7ixf1__Wfelitg7OT3Ds4rfwsTPvl6OCZLjatXs&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=gYyA71BRgKUHt7QzpLUFEA&_nc_ss=7a32e&oh=00_AfxzY7jVjGR7ax1YHjeDbK1QS07KiLhiAxawsJtn-soaaA&oe=69C7A724",
-      "link": "kazyon1"
+      "date": "Offre du 26 Mars au 1 Avril",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20mars%20au%201%20avril%202026-6_1.jpg",
+      "link": "kazyon"
     },
     "new3": {
       "title": "Aswak Assalam",
@@ -64,14 +64,15 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%2019%20au%2025%20Mars%202026-50.jpg",
-    "date": "Offre du 19 au 25 Mars 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20mars%20au%201%20avril%202026-6_1.jpg",
+    "date": "Offre du 26 Mars au 1 Avril",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%2019%20au%2025%20Mars%202026-50.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%2019%20au%2025%20Mars%202026-40.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%2019%20au%2025%20Mars%202026-30.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%2019%20au%2025%20Mars%202026-20.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%2019%20au%2025%20Mars%202026-10.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20mars%20au%201%20avril%202026-6_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20mars%20au%201%20avril%202026-4_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20mars%20au%201%20avril%202026-5_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20mars%20au%201%20avril%202026-3_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20mars%20au%201%20avril%202026-2_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20mars%20au%201%20avril%202026-1_1.jpg"
     ]
   },
   "Kazyon1": {
@@ -89,14 +90,15 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "Offre de Vendredi 13 Mars 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-3.webp",
+      "date": "Offre de Vendredi 27 Mars 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2027%20Mars%202026-1.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-3.webp",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-7.webp",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-6.webp",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-4.webp",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2013%20Mars%202026-5.webp"
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2027%20Mars%202026-1.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2027%20Mars%202026-2.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2027%20Mars%202026-3.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2027%20Mars%202026-4.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2027%20Mars%202026-6.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2027%20Mars%202026-5.jpg"
       ]
     },
     "bim2": {
