@@ -31,20 +31,137 @@
             }
         }
     },
-    "*events": {
+    "events": {
       "event1": {
-      "team1": "نيميجن",
-      "team2": "هيرنفين",
-      "team1Image": "https://images.elbotola.com/stats/logos/9k82rekh4yzrepz.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/4zp5rzgh9ygq82w.png",
-      "time": "11:15",
-      "championName": "الدوري الهولندي (إيريديفيزي)",
-      "channelName": "دبي الرياضية 2",
-      "folder": "sportArab",
-      "link": "dubaiSport2",
-      "comment": "راشد عبدالرحمن",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/dubaiSport2.png"
-        }
+      "team1": "تركيا",
+      "team2": "رومانيا",
+      "team1Image": "https://images.elbotola.com/stats/logos/kn54qllhvxyqvy9.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/56ypq3nh912md7o.png",
+      "time": "17:00",
+      "championName": "تصفيات كأس العالم - أوروبا",
+      "channelName": "Bein Sport 2",
+      "folder": "beinSport",
+      "link": "beinSport2",
+      "comment": "علي محمد علي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png"
+    },
+    "event2": {
+      "team1": "جبل طارق",
+      "team2": "لاتفيا",
+      "team1Image": "https://images.elbotola.com/stats/logos/1l4rjnh65l8m7vx.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/gy0or5jh2vgqwzv.png",
+      "time": "17:00",
+      "championName": "دوري الأمم الأوروبية",
+      "channelName": "Bein Sport 1",
+      "folder": "beinSport",
+      "link": "beinSport1",
+      "comment": "باسم الزير",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png"
+    },
+    "event3": {
+      "team1": "مالطا",
+      "team2": "لوكسمبورغ",
+      "team1Image": "https://images.elbotola.com/stats/logos/gx7lm7ph6edm2wd.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/gy0or5jhkl5qwzv.png",
+      "time": "17:00",
+      "championName": "دوري الأمم الأوروبية",
+      "channelName": "Bein Sport 3",
+      "folder": "beinSport",
+      "link": "beinSport3",
+      "comment": "جواد بدة",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png"
+    },
+    "event4": {
+      "team1": "الدنمارك",
+      "team2": "مقدونيا الشمالية",
+      "team1Image": "https://images.elbotola.com/stats/logos/8y39mp1hnlgmojx.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/kn54qllhyopqvy9.png",
+      "time": "19:45",
+      "championName": "تصفيات كأس العالم - أوروبا",
+      "channelName": "Bein Sport 9",
+      "folder": "beinSport",
+      "link": "beinSport9",
+      "comment": "محمد بركات",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b9.png"
+    },
+    "event5": {
+      "team1": "جمهورية التشيك",
+      "team2": "إيرلندا",
+      "team1Image": "https://images.elbotola.com/stats/logos/56ypq3nhy07md7o.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/9dn1m1ghzz5moep.png",
+      "time": "19:45",
+      "championName": "تصفيات كأس العالم - أوروبا",
+      "channelName": "Bein Sport 5",
+      "folder": "beinSport",
+      "link": "beinSport5",
+      "comment": "محمد المبروكي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b5.png"
+    },
+    "event6": {
+      "team1": "جمهورية التشيك",
+      "team2": "إيرلندا",
+      "team1Image": "https://images.elbotola.com/stats/logos/56ypq3nhy07md7o.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/9dn1m1ghzz5moep.png",
+      "time": "19:45",
+      "championName": "تصفيات كأس العالم - أوروبا",
+      "channelName": "Bein Sport 5",
+      "folder": "beinSport",
+      "link": "beinSport5",
+      "comment": "محمد المبروكي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b5.png"
+    },
+    "event7": {
+      "team1": "ويلز",
+      "team2": "البوسنة والهرسك",
+      "team1Image": "https://images.elbotola.com/stats/logos/ednm9whk0w2ryox.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/gx7lm7phewxm2wd.png",
+      "time": "19:45",
+      "championName": "تصفيات كأس العالم - أوروبا",
+      "channelName": "Bein Sport 2",
+      "folder": "beinSport",
+      "link": "beinSport2",
+      "comment": "أحمد عبده",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png"
+    },
+    "event8": {
+      "team1": "أوكرانيا",
+      "team2": "السويد",
+      "team1Image": "https://images.elbotola.com/stats/logos/jednm9whj29ryox.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/z318q66hpe5qo9j.png",
+      "time": "19:45",
+      "championName": "تصفيات كأس العالم - أوروبا",
+      "channelName": "Bein Sport 4",
+      "folder": "beinSport",
+      "link": "beinSport4",
+      "comment": "حسن العيدروس",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png"
+    },
+    "event9": {
+      "team1": "بولندا",
+      "team2": "ألبانيا",
+      "team1Image": "https://images.elbotola.com/stats/logos/e4wyrn4hnngq86p.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/4zp5rzgh9j9q82w.png",
+      "time": "19:45",
+      "championName": "تصفيات كأس العالم - أوروبا",
+      "channelName": "Bein Sport 3",
+      "folder": "beinSport",
+      "link": "beinSport3",
+      "comment": "محمد فوزي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png"
+    },
+    "event10": {
+      "team1": "سلوفاكيا",
+      "team2": "كوسوفو",
+      "team1Image": "https://images.elbotola.com/stats/logos/z318q66h916qo9j.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/dj2ryohke43q1zp.png",
+      "time": "19:45",
+      "championName": "تصفيات كأس العالم - أوروبا",
+      "channelName": "Bein Sport 8",
+      "folder": "beinSport",
+      "link": "beinSport8",
+      "comment": "أحمد فؤاد",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b8.png"
+    }
     },
     "*alwan": {
         "*alwan1": {
