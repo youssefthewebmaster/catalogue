@@ -1,46 +1,46 @@
 {
   "news": {
     "new1": {
+      "title": "Aswak Assalam",
+      "date": "A partir de Vendredi 27 Mars 2026",
+      "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/658981941_945203151442231_9200112937017666949_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg2MTU3NzA0NjI4MzY2MjE5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=Dcw4OemzR68Q7kNvwEMCB44&_nc_oc=AdpJIX2zZlAugbsZjtUI4WNt3rly0fUo-0PaiMhdYtKfSvEJTnkBsAZymQ2ZYX1lCck&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=IDo9TYG8g-w2w0WG7_TSUg&_nc_ss=7a32e&oh=00_AfwsnPHL7O-o3lQvaKJj_0ilkcK6UGdBskhQmOHiS2smrg&oe=69CB87AF",
+      "link": "aswak1"
+    },
+    "new2": {
       "title": "Bim Market",
       "date": "Offre de Vendredi 27 Mars 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2027%20Mars%202026-1.jpg",
       "link": "bim1"
     },
-    "new2": {
+    "new3": {
+      "title": "Atacadão Market",
+      "date": "Offre du 26 mars au 15 avril",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-5.jpg",
+      "link": "atacadao"
+    },
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre du 26 Mars au 1 Avril",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2026%20mars%20au%201%20avril%202026-6_1.jpg",
       "link": "kazyon"
     },
-    "new3": {
-      "title": "Aswak Assalam",
-      "date": "A partir de Mardi 24 Mars 2026",
-      "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/656228970_941113875184492_9094643225071521895_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzg1ODM0MDk0MTYxOTA0MzE0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=550eAlifTugQ7kNvwF55WMS&_nc_oc=Adq1r7r0SvNeZ7C3MEAQfQ-EM1vMnFhhV7dAUd9pQXeS8YgLa4txa2R7znMhdo5G5UA&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=Pkbmcdpf7lViFExWNfSEFA&_nc_ss=7a32e&oh=00_Afx0ENVAVf2atYkucaqFO8IboA0_Mbx58x625nlRMRRk4Q&oe=69C790C8",
-      "link": "aswak1"
-    },
-    "new4": {
+    "new5": {
       "title": "Kitea Géant",
       "date": "A partir de Mercredi 18 Mars 2026",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/651828001_1374360861398997_2029104344802528816_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg1NDIwMjk4OTI1OTQ3ODkxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE1MDB4MTg3Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=7fWbRwEioY8Q7kNvwHXufYM&_nc_oc=AdnJL02gf4joDyryX6WAM_sCj1KRqyU3AtWTlwDXxG5YopNLXdJHSbXqAoDQ0P0zau0&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=VuVKLbaEyiPeKH7if4sxYg&_nc_ss=8&oh=00_Afy38RryBFhXLD0duxTgYDxDXGkv_9R5o79az7QCyZ7IWA&oe=69BFD2F2",
       "link": "kitea"
     },
-    "new5": {
+    "new6": {
       "title": "Marjane Méga",
       "date": "Offre du 12 Mars au 12 Avril",
       "thumbnail": "https://hmizate.ma/img/cms/Nouvelle%20Technologie%20-%20Edition%20Sp%C3%A9ciale%20(1)_page-0001.jpg",
       "link": "marjane"
     },
-    "new6": {
+    "new7": {
       "title": "Supeco Market",
       "date": "Offre du 13 au 19 Mars 2026",
       "thumbnail": "https://hmizate.ma/img/cms/IMG-20260314-WA0002.jpg",
       "link": "supeco"
-    },
-    "new7": {
-      "title": "Atacadão Market",
-      "date": "Offre du 14 au 25 Mars 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2012%20au%2025%20Mars%202026%20(2).jpg",
-      "link": "atacadao"
     },
     "new8": {
       "title": "Carrefour Méga",
@@ -171,10 +171,12 @@
   "AswakAssalam1": {
     "title": "Aswak Assalam",
     "link": "aswak1",
-    "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/656228970_941113875184492_9094643225071521895_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzg1ODM0MDk0MTYxOTA0MzE0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=550eAlifTugQ7kNvwF55WMS&_nc_oc=Adq1r7r0SvNeZ7C3MEAQfQ-EM1vMnFhhV7dAUd9pQXeS8YgLa4txa2R7znMhdo5G5UA&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=Pkbmcdpf7lViFExWNfSEFA&_nc_ss=7a32e&oh=00_Afx0ENVAVf2atYkucaqFO8IboA0_Mbx58x625nlRMRRk4Q&oe=69C790C8",
-    "date": "A partir de Mardi 24 Mars 2026",
+    "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/658981941_945203151442231_9200112937017666949_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg2MTU3NzA0NjI4MzY2MjE5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=Dcw4OemzR68Q7kNvwEMCB44&_nc_oc=AdpJIX2zZlAugbsZjtUI4WNt3rly0fUo-0PaiMhdYtKfSvEJTnkBsAZymQ2ZYX1lCck&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=IDo9TYG8g-w2w0WG7_TSUg&_nc_ss=7a32e&oh=00_AfwsnPHL7O-o3lQvaKJj_0ilkcK6UGdBskhQmOHiS2smrg&oe=69CB87AF",
+    "date": "A partir de Vendredi 27 Mars 2026",
     "images": [
-      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/656228970_941113875184492_9094643225071521895_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzg1ODM0MDk0MTYxOTA0MzE0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=550eAlifTugQ7kNvwF55WMS&_nc_oc=Adq1r7r0SvNeZ7C3MEAQfQ-EM1vMnFhhV7dAUd9pQXeS8YgLa4txa2R7znMhdo5G5UA&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=Pkbmcdpf7lViFExWNfSEFA&_nc_ss=7a32e&oh=00_Afx0ENVAVf2atYkucaqFO8IboA0_Mbx58x625nlRMRRk4Q&oe=69C790C8"
+      "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/658981941_945203151442231_9200112937017666949_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg2MTU3NzA0NjI4MzY2MjE5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=Dcw4OemzR68Q7kNvwEMCB44&_nc_oc=AdpJIX2zZlAugbsZjtUI4WNt3rly0fUo-0PaiMhdYtKfSvEJTnkBsAZymQ2ZYX1lCck&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=IDo9TYG8g-w2w0WG7_TSUg&_nc_ss=7a32e&oh=00_AfwsnPHL7O-o3lQvaKJj_0ilkcK6UGdBskhQmOHiS2smrg&oe=69CB87AF",
+      "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/659086657_945203204775559_793068526470311049_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=111&ig_cache_key=Mzg2MTU3NzA0ODIxMzA2OTk4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=67iK0-66AcYQ7kNvwHLVxxe&_nc_oc=AdoL7mx0qKkdvENKRLI5uw6XV5Vd6Pk7maSQM9eTNEYm1Xv0F_6JmmAnwzl9EMlOUug&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=IDo9TYG8g-w2w0WG7_TSUg&_nc_ss=7a32e&oh=00_AfyD-t8KnDaTGKKe4fnMYjDUs7Ad2GewqqdpU6beN0nNuQ&oe=69CB8477",
+      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/658139675_945203281442218_8926628924336936336_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=103&ig_cache_key=Mzg2MTU3NzA0NTM3NzY4Nzg0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=DKpij9qldasQ7kNvwHygk6g&_nc_oc=AdqLyVKlBZUP9Q1-OYZ5tl-99voVACttQZakiUeL2FWu7x6MPb22lYlqG6orYNO30lk&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=IDo9TYG8g-w2w0WG7_TSUg&_nc_ss=7a32e&oh=00_Afw14r2hr0Zc5huHjCKei4bzKhAytAk2JIJQ1xHFQxh4Jw&oe=69CB7348"
     ]
   },
   "marjans": {
@@ -288,11 +290,17 @@
   "Atacadão": {
     "title": "Atacadão",
     "link": "atacadao",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2012%20au%2025%20Mars%202026%20(2).jpg",
-    "date": "Offre du 14 au 25 Mars 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-5.jpg",
+    "date": "Offre du 26 mars au 15 avril",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2012%20au%2025%20Mars%202026%20(2).jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2012%20au%2025%20Mars%202026%20(3).jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-5.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-8.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-3.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-4.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-7.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-6.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-1.jpg"
     ]
   },
   "Kitea": {
