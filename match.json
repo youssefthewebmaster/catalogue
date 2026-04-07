@@ -33,43 +33,43 @@
     },
     "events": {
       "event1": {
-      "team1": "سبورتينغ لشبونة",
-      "team2": "أرسنال",
-      "team1Image": "https://images.elbotola.com/stats/logos/kn54qllhyydqvy9.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/z318q66hdd1qo9j.png",
+      "team1": "سبورتينغ براغا",
+      "team2": "ريال بيتيس",
+      "team1Image": "https://images.elbotola.com/stats/logos/9vjxm8ghoojr6od.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/d23xmvkhz9nqg8n.png",
+      "time": "16:45",
+      "championName": "الدوري الأوروبي",
+      "channelName": "Bein Sport 3",
+      "folder": "beinSport",
+      "link": "beinSport3",
+      "comment": "نوفل باشي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png"
+    },
+    "event2": {
+      "team1": "برشلونة",
+      "team2": "أتليتيكو مدريد",
+      "team1Image": "https://images.elbotola.com/stats/logos/e4wyrn4h127q86p.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/9vjxm8ghodjr6od.png",
       "time": "19:00",
       "championName": "دوري أبطال أوروبا",
       "channelName": "Bein Sport 2",
       "folder": "beinSport",
       "link": "beinSport2",
-      "comment": "عصام الشوالي",
+      "comment": "حفيظ دراجي",
       "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png"
     },
-    "event2": {
-      "team1": "ريال مدريد",
-      "team2": "بايرن ميونخ",
-      "team1Image": "https://images.elbotola.com/stats/logos/e4wyrn4h111q86p.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/yl5ergphjy2r8k0.png",
+    "event3": {
+      "team1": "باريس سان جيرمان",
+      "team2": "ليفربول",
+      "team1Image": "https://images.elbotola.com/stats/logos/kjw2r09hv44rz84.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/gpxwrxlhw8gryk0.png",
       "time": "19:00",
       "championName": "دوري أبطال أوروبا",
       "channelName": "Bein Sport 1",
       "folder": "beinSport",
       "link": "beinSport1",
-      "comment": "علي سعيد الكعبي",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png"
-    },
-    "event3": {
-      "team1": "ديپورتيڢو لاجويرا",
-      "team2": "فلومينينسي",
-      "team1Image": "https://images.elbotola.com/stats/logos/ednm9whk153ryox.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/p3glrw7he4vqdyj.png",
-      "time": "22:00",
-      "championName": "كوبا ليبرتادوريس",
-      "channelName": "Bein Sport 2",
-      "folder": "beinSport",
-      "link": "beinSport2",
       "comment": "حسن العيدروس",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2.png"
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png"
     }
     },
     "*alwan": {
