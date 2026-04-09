@@ -52,11 +52,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/kdj2ryoh3wyq1zp.png",
       "time": "18:30",
       "championName": "الدوري الألماني (البوندسليغا)",
-      "channelName": "Bein Sport n",
-      "folder": "beinSport",
-      "link": "beinSportn",
+      "channelName": "MBC Action",
+      "folder": "mbc",
+      "link": "mbcAction",
       "comment": "عبد العزيز الزيد",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/bn.png"
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/mbcAction.png"
     },
     "event3": {
       "team1": "وست هام",
@@ -98,7 +98,7 @@
       "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png"
     },
     "event6": {
-      "team1": "وست بروميتش ألبيون",
+      "team1": "وست بروميتش",
       "team2": "ميلوول",
       "team1Image": "https://images.elbotola.com/stats/logos/d23xmvkhzwnqg8n.png",
       "team2Image": "https://images.elbotola.com/stats/logos/gy0or5jhk8lqwzv.png",
