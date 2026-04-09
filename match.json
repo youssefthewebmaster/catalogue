@@ -91,11 +91,11 @@
       "team2Image": "https://images.elbotola.com/stats/logos/4wyrn4h8889q86p.png",
       "time": "19:00",
       "championName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "Bein Sport 1",
+      "channelName": "Bein Sport 3",
       "folder": "beinSport",
-      "link": "beinSport1",
-      "comment": "",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png"
+      "link": "beinSport3",
+      "comment": "محمد بركات",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3.png"
     },
     "event6": {
       "team1": "وست بروميتش",
