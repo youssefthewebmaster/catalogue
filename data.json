@@ -7,46 +7,46 @@
       "link": "bim1"
     },
     "new2": {
+      "title": "Atacadão Market",
+      "date": "Offre du du 16 au 29 Avril 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2016%20au%2029%20avril%202026-1.jpg",
+      "link": "atacadao"
+    },
+    "new3": {
+      "title": "Supeco Market",
+      "date": "Offre du 15 au 21 Avril 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2015%20au%2021%20avril%202026-1.jpg",
+      "link": "supeco"
+    },
+    "new4": {
       "title": "Kazyon Market",
       "date": "Offre du 16 au 22 Avril 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%209%20au%2015%20Avril%202026-4%20(1).jpg",
       "link": "kazyon"
     },
-    "new3": {
+    "new5": {
       "title": "Kitea Géant",
       "date": "A partir de Mercredi 18 Mars 2026",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/651828001_1374360861398997_2029104344802528816_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg1NDIwMjk4OTI1OTQ3ODkxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE1MDB4MTg3Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=7fWbRwEioY8Q7kNvwHXufYM&_nc_oc=AdnJL02gf4joDyryX6WAM_sCj1KRqyU3AtWTlwDXxG5YopNLXdJHSbXqAoDQ0P0zau0&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=VuVKLbaEyiPeKH7if4sxYg&_nc_ss=8&oh=00_Afy38RryBFhXLD0duxTgYDxDXGkv_9R5o79az7QCyZ7IWA&oe=69BFD2F2",
       "link": "kitea"
     },
-    "new4": {
+    "new6": {
       "title": "Marjane Market",
       "date": "Offre valable jusqu'au 12 Avril 2026",
       "thumbnail": "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/670485445_1243941061238611_7365856084140084415_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg3MjE3NDQ2MjAyMDg1Mjg2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=QEz_xr3CYZoQ7kNvwHBKzRW&_nc_oc=Adqv3q4HlVxhpmS-7eaqISeQjhw4BwEoihiEdNkeYJ6WVdvwNKGS20ulAzcfSSteoMg&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=g757I-aHed8bCVm_ryTAig&_nc_ss=7a32e&oh=00_Af0eK8plJ8vNi4rjgQTe2dp9opo0Z_kdrKtHixyyiU1Njw&oe=69DF2F30",
       "link": "marjaneMarket"
     },
-    "new5": {
+    "new7": {
       "title": "Aswak Assalam",
       "date": "Offre du 10 Avril au 3 Mai 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-1.jpg",
       "link": "aswak"
     },
-    "new6": {
-      "title": "Supeco Market",
-      "date": "Offre du 08 au 14 Avril 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/catalogue%20supeco%20du%2008%20au%2014%20avril%202026-2.jpg",
-      "link": "supeco"
-    },
-    "new7": {
+    "new8": {
       "title": "Marjane Méga",
       "date": "Offre du 26 Mars au 12 Avril",
       "thumbnail": "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0001.jpg",
       "link": "marjane1"
-    },
-    "new8": {
-      "title": "Atacadão Market",
-      "date": "Offre du 26 mars au 15 avril",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-5.jpg",
-      "link": "atacadao"
     },
     "new9": {
       "title": "Carrefour Méga",
@@ -120,11 +120,11 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco Market",
-    "thumbnail": "https://hmizate.ma/img/cms/catalogue%20supeco%20du%2008%20au%2014%20avril%202026-2.jpg",
-    "date": "Offre du 08 au 14 Avril 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2015%20au%2021%20avril%202026-1.jpg",
+    "date": "Offre du 15 au 21 Avril 2026",
     "images": [
-      "https://hmizate.ma/img/cms/catalogue%20supeco%20du%2008%20au%2014%20avril%202026-2.jpg",
-      "https://hmizate.ma/img/cms/catalogue%20supeco%20du%2008%20au%2014%20avril%202026-1.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2015%20au%2021%20avril%202026-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2015%20au%2021%20avril%202026-2.jpg"
     ]
   },
   "Supeco1": {
@@ -334,17 +334,11 @@
   "Atacadão": {
     "title": "Atacadão",
     "link": "atacadao",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-5.jpg",
-    "date": "Offre du 26 mars au 15 avril",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2016%20au%2029%20avril%202026-1.jpg",
+    "date": "Offre du du 16 au 29 Avril 2026",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-5.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-8.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-3.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-4.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-7.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-2.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-6.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2026%20mars%20au%2015%20avril%202026-1.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2016%20au%2029%20avril%202026-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2016%20au%2029%20avril%202026-2.jpg"
     ]
   },
   "Kitea": {
