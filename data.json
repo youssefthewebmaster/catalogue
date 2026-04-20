@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "Offre de Mardi 21 Avril 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2021%20Avril%202026-1.jpg",
+      "link": "bim2"
+    },
+    "new2": {
       "title": "Aswak Assalam",
       "date": "A partir de Lundi 20 Avril 2026",
       "thumbnail": "https://instagram.frba1-4.fna.fbcdn.net/v/t39.30808-6/672685155_962790993016780_4639576500075022954_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg3ODA2NTkwMDI0Mjg4NTI2MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyMDB4MTUwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=sWUEPBCaV_QQ7kNvwF9iaWI&_nc_oc=Adp01cedziHv6Zlfmn_lxiTbKq-L00K0zv8sDrDGbW65wTIk_2NhgHB-LLDj5xLsMTA&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-4.fna&_nc_gid=zaO2stxmZfQTkVT0LPpEgw&_nc_ss=7a32e&oh=00_Af0cQHA3eSFUVHNWSrfaSDHOT7b3M-Gr7bClmX0A55qHLQ&oe=69EB3482",
       "link": "aswak1"
     },
-    "new2": {
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre du 20 au 22 Avril 2026",
       "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t39.99422-6/672051297_1442650450876770_1541113634855518416_n.png?_nc_cat=1&ig_cache_key=Mzg3ODkzNjAwNjE0MTc2MzEyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=BrRk5I_TuIMQ7kNvwGpKHiq&_nc_oc=AdroHc9f5JmZurRLj3TMhezQ_8T2QSfStw-3_WCkcsXvTkebFEAjRoVfq6cnMHqzIY8&_nc_ad=z-m&_nc_cid=1404&_nc_zt=14&_nc_ht=instagram.frba1-1.fna&_nc_gid=c4HUFx2QeefcltC0BFA-Aw&_nc_ss=7a32e&oh=00_Af11_KEJvcn6WObzW81LOBTO7yDsx7khF8CU1Yi53MBtdg&oe=69EB2B0C",
       "link": "kazyon1"
-    },
-    "new3": {
-      "title": "Bim Market",
-      "date": "Offre de Vendredi 17 Avril 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2017%20Avril%202026-1.jpg",
-      "link": "bim1"
     },
     "new4": {
       "title": "Atacadão Market",
@@ -104,14 +104,14 @@
     "bim2": {
       "title": "Bim",
       "link": "bim2",
-      "date": "Offre de Mardi 14 Avril 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2014%20Avril%202026-1.jpg",
+      "date": "Offre de Mardi 21 Avril 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%2021%20Avril%202026-1.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2014%20Avril%202026-1.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2014%20Avril%202026-2.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2014%20Avril%202026-4.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2014%20Avril%202026-3.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%2014%20Avril%202026-5.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2021%20Avril%202026-1.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2021%20Avril%202026-2.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2021%20Avril%202026-3.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2021%20Avril%202026-4.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%2021%20Avril%202026-5.jpg"
       ]
     }
   },
