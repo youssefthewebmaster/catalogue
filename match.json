@@ -126,10 +126,10 @@
             }
         }
     },
-    "*tamaniya": {
+    "tamaniya": {
         "tamaniya1": {
             "links": {
-                "480p": "https://s4.alajil24.com/thamnya_sd/index.m3u8?token=299770e262b6873a66eaeecc144ffa1068b18c34-7bcab0ad84c285d4a0ae76a90b374f6d-1774111562-1774100762&remote=41.143.19.195"
+                "480p": "https://dflive.app.tc/20.m3u8"
             }
         },
         "tamaniya2": {
@@ -642,7 +642,8 @@
         },
         "sonnaSA": {
             "links":{
-                "الرابط 1": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+                "الرابط 1": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+                "720p": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8"
             }
         },
         "so3odiya": {
@@ -883,32 +884,27 @@
     "kass": {
         "alkass1": {
             "links":{
-                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260219T144449Z/mux_video_1080p_ts/index-1.m3u8",
-                "360p": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260219T144449Z/mux_video_360p_ts/index-1.m3u8"
+                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8"
             }
         },
         "alkass2": {
             "links":{
-                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass2-p/20260219T144749Z/mux_video_1080p_ts/index-1.m3u8",
-                "360p": "https://liveeu-gcp.alkassdigital.net/alkass2-p/20260219T144749Z/mux_video_360p_ts/index-1.m3u8"
+                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8"
             }
         },
         "alkass3": {
             "links":{
-                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass3-p/20260219T144836Z/mux_video_1080p_ts/index-1.m3u8",
-                "360p": "https://liveeu-gcp.alkassdigital.net/alkass3-p/20260219T144836Z/mux_video_360p_ts/index-1.m3u8"
+                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8"
             }
         },
         "alkass4": {
             "links":{
-                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass4-p/20260219T145101Z/mux_video_1080p_ts/index-1.m3u8",
-                "360p": "https://liveeu-gcp.alkassdigital.net/alkass4-p/20260219T145101Z/mux_video_360p_ts/index-1.m3u8"
+                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8"
             }
         },
         "alkass5": {
             "links":{
-                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass5-p/20260219T145227Z/mux_video_1080p_ts/index-1.m3u8",
-                "360p": "https://liveeu-gcp.alkassdigital.net/alkass5-p/20260219T145227Z/mux_video_360p_ts/index-1.m3u8"
+                "1080p": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8"
             }
         }
     },
