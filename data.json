@@ -1,40 +1,40 @@
 {
   "news": {
     "new1": {
+      "title": "Supeco Market",
+      "date": "Offre du 29 Avril au 05 Mai",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2029%20avril%20au%2005%20mai%202026-1.jpg",
+      "link": "supeco"
+    },
+    "new2": {
       "title": "Bim Market",
-      "date": "Offre de Mardi 28 Avril  2026",
+      "date": "Offre de Mardi 28 Avril 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2028%20Avril%202026-5.jpg",
       "link": "bim2"
     },
-    "new2": {
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre du 27 au 29 Avril 2026",
       "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/681889608_842240155589925_5207180749441264544_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=1&ig_cache_key=Mzg4NDAwOTg5OTM2MDgzMTk4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=IK76voWe20gQ7kNvwGNKFng&_nc_oc=Adq2ROz0s0nASW0syRrwiHgvEhb92FXfuK2Mc2X203jmSftsvg8_xZ19rMstIvK1LgY&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=NANpqBCMKdIpRyBea1Go2A&_nc_ss=7a22e&oh=00_Af20JodROFMw9s_zXkyBGIDLNYIz8dFp1QyamfEG3CxCXQ&oe=69F4450B",
       "link": "kazyon1"
     },
-    "new3": {
+    "new4": {
       "title": "Aswak Assalam",
       "date": "Offre valable jusqu'au 27 Avril",
       "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t51.82787-15/673170431_18201757231341461_3418710172586517412_n.webp?_nc_cat=100&ig_cache_key=Mzg4MjQ5OTM3NTU3ODc5MDE5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=Qi1hWdPbFe4Q7kNvwFAx73i&_nc_oc=AdpZ6J_E_-aaFI0xyrBVlF6YGgBrPtp01Q31rvRADvPczRPD8x8pOLnMyB6ZocFh1Ag&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=dzv_gL3P8jWsuXb30Gx_yg&_nc_ss=7a22e&oh=00_Af3xwcI6MkboNyazIr5gVqKYAQriDGFVBbC3G7u8lR4iyA&oe=69F1D3F1",
       "link": "aswak1"
     },
-    "new4": {
+    "new5": {
       "title": "Marjane Méga",
       "date": "Offre valable jusqu'au 26 Avril",
       "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t51.82787-15/671770239_18101778736953462_5283745124834262385_n.webp?_nc_cat=106&ig_cache_key=Mzg4MjI3NzMzMzgzMDkyMzY1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=hlz4_hUX5E8Q7kNvwFkyWp6&_nc_oc=AdrYS8Vah0OUpFMQAuUIBQXQ52vPD6IOuhhO7aeesKeph3NTNiSVTd23XLFAG2YOGxs&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af25HcsoqlSewGXdkof811hnSSMzQxF9jCyYR7e9i05lUg&oe=69F1C7B3",
       "link": "marjane"
     },
-    "new5": {
+    "new6": {
       "title": "Kitea Géant",
       "date": "Offre du 22 au 29 Avril 2026",
       "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/680033622_1406307238204359_5011050098609059790_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzg4MTgxNTk4NjMyOTIyOTcxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=aYlgrd76rW8Q7kNvwF9XlVC&_nc_oc=AdotFuXkDDLZNcO9CYULCkLgalV6Ilu0-sb83U4xmglARY0qmTJr6LvdooCUPzPfpd8&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=-vAPC15A-UhqFxHiXKS1Cw&_nc_ss=7a22e&oh=00_Af3nmGQHHg8GKxX8W4ziuaIXWdTmSYQUV8NcUolURjBr5g&oe=69F0800A",
       "link": "kitea"
-    },
-    "new6": {
-      "title": "Supeco Market",
-      "date": "Offre de Mercredi 22 Avril 2026",
-      "thumbnail": "https://instagram.frba1-1.fna.fbcdn.net/v/t51.82787-15/674420569_18084324719578884_8738349127580129632_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzg3ODA0NjM3MTMwMzY1NjEwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=neIHz2WiBwwQ7kNvwG-7XUi&_nc_oc=AdqpQA0uVDRMRSAae1d9fIvOldfJ36NCEXlo_8pvtLs1alA6TrYTT4WU4pt_ylEL3tU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-1.fna&_nc_gid=MBwnqOh8oZUns2cIVc-N_Q&_nc_ss=7a32e&oh=00_Af1EunSss6cM7DjCuO1uEhyidA-nyoZpdR1MgbWTEaVgpQ&oe=69EDDBB0",
-      "link": "supeco1"
     },
     "new7": {
       "title": "Atacadão Market",
@@ -123,11 +123,11 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco Market",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2015%20au%2021%20avril%202026-1.jpg",
-    "date": "Offre du 15 au 21 Avril 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2029%20avril%20au%2005%20mai%202026-1.jpg",
+    "date": "Offre du 29 Avril au 05 Mai 2026",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2015%20au%2021%20avril%202026-1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2015%20au%2021%20avril%202026-2.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2029%20avril%20au%2005%20mai%202026-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2029%20avril%20au%2005%20mai%202026-2.jpg"
     ]
   },
   "Supeco1": {
