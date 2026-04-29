@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre du 30 Avril au 6 Mai 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-5_1.jpg",
+      "link": "kazyon"
+    },
+    "new2": {
       "title": "Supeco Market",
       "date": "Offre du 29 Avril au 05 Mai",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2029%20avril%20au%2005%20mai%202026-1.jpg",
       "link": "supeco"
     },
-    "new2": {
+    "new3": {
       "title": "Bim Market",
       "date": "Offre de Mardi 28 Avril 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2028%20Avril%202026-5.jpg",
       "link": "bim2"
-    },
-    "new3": {
-      "title": "Kazyon Market",
-      "date": "Offre du 27 au 29 Avril 2026",
-      "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/681889608_842240155589925_5207180749441264544_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=1&ig_cache_key=Mzg4NDAwOTg5OTM2MDgzMTk4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=IK76voWe20gQ7kNvwGNKFng&_nc_oc=Adq2ROz0s0nASW0syRrwiHgvEhb92FXfuK2Mc2X203jmSftsvg8_xZ19rMstIvK1LgY&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=NANpqBCMKdIpRyBea1Go2A&_nc_ss=7a22e&oh=00_Af20JodROFMw9s_zXkyBGIDLNYIz8dFp1QyamfEG3CxCXQ&oe=69F4450B",
-      "link": "kazyon1"
     },
     "new4": {
       "title": "Aswak Assalam",
@@ -64,13 +64,14 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20Avril%202026-.jpg",
-    "date": "Offre du 23 au 29 Avril 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-5_1.jpg",
+    "date": "Offre du 30 Avril au 6 Mai 2026",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20Avril%202026-.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20Avril%202026-2_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20Avril%202026-3_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2023%20au%2029%20Avril%202026-4_1.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-5_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-4_1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-3.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-2.jpg"
     ]
   },
   "Kazyon1": {
