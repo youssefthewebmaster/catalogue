@@ -1,22 +1,22 @@
 {
   "news": {
     "new1": {
+      "title": "Bim Market",
+      "date": "Offre de Vendredi 01 Mai 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-4.jpg",
+      "link": "bim1"
+    },
+    "new2": {
       "title": "Kazyon Market",
       "date": "Offre du 30 Avril au 6 Mai 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-5_1.jpg",
       "link": "kazyon"
     },
-    "new2": {
+    "new3": {
       "title": "Supeco Market",
       "date": "Offre du 29 Avril au 05 Mai",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2029%20avril%20au%2005%20mai%202026-1.jpg",
       "link": "supeco"
-    },
-    "new3": {
-      "title": "Bim Market",
-      "date": "Offre de Mardi 28 Avril 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2028%20Avril%202026-5.jpg",
-      "link": "bim2"
     },
     "new4": {
       "title": "Aswak Assalam",
@@ -92,17 +92,13 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "Offre de Vendredi 24 Avril 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%2024%20Avril%202026-1.jpg",
+      "date": "Offre de Vendredi 01 Mai 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-4.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%2024%20Avril%202026-1.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%2024%20Avril%202026-2.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%2024%20Avril%202026-3.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%2024%20Avril%202026-5.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%2024%20Avril%202026-4.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%2024%20Avril%202026-6.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%2024%20Avril%202026-7.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20vendredi%2024%20Avril%202026-8.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-4.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-3.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-1.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-2.jpg"
       ]
     },
     "bim2": {
