@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Marjane Méga",
+      "date": "Offre du 28 Avril au 26 Mai 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Marjane%20mai%202026.jpg",
+      "link": "marjane"
+    },
+    "new2": {
+      "title": "Kazyon Market",
+      "date": "Offre du 02 au 03 Mai 2026",
+      "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/686370577_846541725159768_7773943677453793301_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg4NzYzMzQ3OTM4MzU0OTk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=tFcVgnk-DFwQ7kNvwHx_gZu&_nc_oc=AdrpuXcX8oOWhfnPzJo9rVaHPtV6JkF27iSOxKNa1Vgzxy6y2NT1qaPrbzvVnXX6NdE&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=9AkGnadi4VYz6N74pNmZTw&_nc_ss=7a22e&oh=00_Af7VaNcFjy9Jlkj3llDxr08RLxR4rnSoA1xaYDOWaOxyGg&oe=69FB8D03",
+      "link": "kazyon1"
+    },
+    "new3": {
       "title": "Bim Market",
       "date": "Offre de Vendredi 01 Mai 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-4.jpg",
       "link": "bim1"
     },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre du 30 Avril au 6 Mai 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-5_1.jpg",
-      "link": "kazyon"
-    },
-    "new3": {
+    "new4": {
       "title": "Supeco Market",
       "date": "Offre du 29 Avril au 05 Mai",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2029%20avril%20au%2005%20mai%202026-1.jpg",
       "link": "supeco"
     },
-    "new4": {
+    "new5": {
       "title": "Aswak Assalam",
       "date": "Offre valable jusqu'au 27 Avril",
       "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t51.82787-15/673170431_18201757231341461_3418710172586517412_n.webp?_nc_cat=100&ig_cache_key=Mzg4MjQ5OTM3NTU3ODc5MDE5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=Qi1hWdPbFe4Q7kNvwFAx73i&_nc_oc=AdpZ6J_E_-aaFI0xyrBVlF6YGgBrPtp01Q31rvRADvPczRPD8x8pOLnMyB6ZocFh1Ag&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=dzv_gL3P8jWsuXb30Gx_yg&_nc_ss=7a22e&oh=00_Af3xwcI6MkboNyazIr5gVqKYAQriDGFVBbC3G7u8lR4iyA&oe=69F1D3F1",
       "link": "aswak1"
-    },
-    "new5": {
-      "title": "Marjane Méga",
-      "date": "Offre valable jusqu'au 26 Avril",
-      "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t51.82787-15/671770239_18101778736953462_5283745124834262385_n.webp?_nc_cat=106&ig_cache_key=Mzg4MjI3NzMzMzgzMDkyMzY1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=hlz4_hUX5E8Q7kNvwFkyWp6&_nc_oc=AdrYS8Vah0OUpFMQAuUIBQXQ52vPD6IOuhhO7aeesKeph3NTNiSVTd23XLFAG2YOGxs&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af25HcsoqlSewGXdkof811hnSSMzQxF9jCyYR7e9i05lUg&oe=69F1C7B3",
-      "link": "marjane"
     },
     "new6": {
       "title": "Kitea Géant",
@@ -77,15 +77,12 @@
   "Kazyon1": {
     "title": "Kazyon",
     "link": "kazyon1",
-    "thumbnail": "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/681889608_842240155589925_5207180749441264544_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=1&ig_cache_key=Mzg4NDAwOTg5OTM2MDgzMTk4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=IK76voWe20gQ7kNvwGNKFng&_nc_oc=Adq2ROz0s0nASW0syRrwiHgvEhb92FXfuK2Mc2X203jmSftsvg8_xZ19rMstIvK1LgY&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=NANpqBCMKdIpRyBea1Go2A&_nc_ss=7a22e&oh=00_Af20JodROFMw9s_zXkyBGIDLNYIz8dFp1QyamfEG3CxCXQ&oe=69F4450B",
-    "date": "Offre du 27 au 29 Avril 2026",
+    "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/686370577_846541725159768_7773943677453793301_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg4NzYzMzQ3OTM4MzU0OTk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=tFcVgnk-DFwQ7kNvwHx_gZu&_nc_oc=AdrpuXcX8oOWhfnPzJo9rVaHPtV6JkF27iSOxKNa1Vgzxy6y2NT1qaPrbzvVnXX6NdE&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=9AkGnadi4VYz6N74pNmZTw&_nc_ss=7a22e&oh=00_Af7VaNcFjy9Jlkj3llDxr08RLxR4rnSoA1xaYDOWaOxyGg&oe=69FB8D03",
+    "date": "Offre du 02 au 03 Mai 2026",
     "images": [
-      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/681889608_842240155589925_5207180749441264544_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=1&ig_cache_key=Mzg4NDAwOTg5OTM2MDgzMTk4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=IK76voWe20gQ7kNvwGNKFng&_nc_oc=Adq2ROz0s0nASW0syRrwiHgvEhb92FXfuK2Mc2X203jmSftsvg8_xZ19rMstIvK1LgY&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=NANpqBCMKdIpRyBea1Go2A&_nc_ss=7a22e&oh=00_Af20JodROFMw9s_zXkyBGIDLNYIz8dFp1QyamfEG3CxCXQ&oe=69F4450B",
-      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/679948578_842240162256591_8396258905796584864_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=1&ig_cache_key=Mzg4NDAwOTkwMDM1MDY1Nzk1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=bxUzx9bTsukQ7kNvwFwerK1&_nc_oc=AdrGSFJNEfgXVw1-WedQ4nFm6WpfAjas5eNRB77Aq8VftLpVhHeKQdAnByexGvOQgzA&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=NANpqBCMKdIpRyBea1Go2A&_nc_ss=7a22e&oh=00_Af3x1xpR1otRs0I94AWO2ZCAWqu7UvOEB9FUxnWp2noBkw&oe=69F46485",
-      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/681204914_842240148923259_9193082417327330053_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzg4NDAwOTg5OTQzNjI4ODg1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=5lIq-BDg0d4Q7kNvwFGN0Xu&_nc_oc=AdqzEhNgrUKndfBjmAK2VKzet0wFVRn-cPPmwNz1xp0B0ILAf0_PySh6YrYmBi7Uy8k&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=NANpqBCMKdIpRyBea1Go2A&_nc_ss=7a22e&oh=00_Af3CJ-64i2ChlvFkDCa393U7Sljjt8BiEPiJnyR2DESM8g&oe=69F455EB",
-      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/679571146_842240145589926_7594244977051914402_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzg4NDAwOTg5OTk0ODAwOTgzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=wssU2FdSluIQ7kNvwEbRWBq&_nc_oc=Adp8I7beQW6dlIP88V9ra7Tk3F_4BY6a45Ok81jjJ2ge6BaXuQmrvPctuFefKZTFsvM&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=NANpqBCMKdIpRyBea1Go2A&_nc_ss=7a22e&oh=00_Af1sYZY3dGD3pyYXP2r0PuKY8Ib3KFoaQBnjXlkUGm0mfQ&oe=69F472DD",
-      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/679665046_842240152256592_7901517962544569399_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzg4NDAwOTg5OTUyODYwMzM5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=nBjo6sOuHnQQ7kNvwFYSuaN&_nc_oc=Adp_cRselZWJfWCmr-caWm1zM-fNHTGThf0JGW2uD1d5rQW9Z3gnVRp3QI3N7s4rrEw&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=NANpqBCMKdIpRyBea1Go2A&_nc_ss=7a22e&oh=00_Af2n1_No0qN41yuNtwsMI7nGhQ6F9tdBKIYcKpnohD4hhA&oe=69F45798",
-      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/680432552_842240158923258_8747811519715635060_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzg4NDAwOTg5OTc5NzAyMzMzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=pmpExSNJYloQ7kNvwEpb7MW&_nc_oc=AdrGUKJsT9vTpaVspFyEepyuXCfEzFulnXPJFJzliNor1sHwURYieIRPw1q8CPy6B28&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=NANpqBCMKdIpRyBea1Go2A&_nc_ss=7a22e&oh=00_Af3UNy8dKf9FWcozZelQP_BpV6Sdx6PQaBiEsRbI_x3HJQ&oe=69F44243"
+      "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/686370577_846541725159768_7773943677453793301_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg4NzYzMzQ3OTM4MzU0OTk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=tFcVgnk-DFwQ7kNvwHx_gZu&_nc_oc=AdrpuXcX8oOWhfnPzJo9rVaHPtV6JkF27iSOxKNa1Vgzxy6y2NT1qaPrbzvVnXX6NdE&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=9AkGnadi4VYz6N74pNmZTw&_nc_ss=7a22e&oh=00_Af7VaNcFjy9Jlkj3llDxr08RLxR4rnSoA1xaYDOWaOxyGg&oe=69FB8D03",
+      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/687033833_846541721826435_4166828083032322314_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=101&ig_cache_key=Mzg4NzYzMzQ3Nzk1NzUwNjIxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=AEOaY1E7AGAQ7kNvwECNnOa&_nc_oc=Adraar6s6RzDNvs1ESjZf4400YoXs3_mTz4sSz1HCQnhgbolN5EOS9Q4IsBtKpN5_sg&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=9AkGnadi4VYz6N74pNmZTw&_nc_ss=7a22e&oh=00_Af7wzqqELh9k7ybmYo93ZxyMeMe6c07z__lWckA7wqzRyw&oe=69FB8CD5",
+      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/686950753_846541728493101_8572375727911518263_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzg4NzYzMzQ3OTI2NjA4OTM3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=HmCtOd5cIscQ7kNvwElqlmO&_nc_oc=AdpPoVyPywI3wPA9iOs2oju6MzRmrMzoHjLCYd9pC96T8iazAoLo09uA38rTMG2JZww&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=9AkGnadi4VYz6N74pNmZTw&_nc_ss=7a22e&oh=00_Af7p7a7BUXVAA-OthruKCbGd_dGg4TPVb2y5Zh_3yjWMQg&oe=69FB9276"
     ]
   },
   "bims": {
@@ -192,69 +189,49 @@
     "marjan": {
       "title": "Marjane",
       "link": "marjane",
-      "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t51.82787-15/671770239_18101778736953462_5283745124834262385_n.webp?_nc_cat=106&ig_cache_key=Mzg4MjI3NzMzMzgzMDkyMzY1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=hlz4_hUX5E8Q7kNvwFkyWp6&_nc_oc=AdrYS8Vah0OUpFMQAuUIBQXQ52vPD6IOuhhO7aeesKeph3NTNiSVTd23XLFAG2YOGxs&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af25HcsoqlSewGXdkof811hnSSMzQxF9jCyYR7e9i05lUg&oe=69F1C7B3",
-      "date": "Offre valable jusqu'au 26 Avril 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Marjane%20mai%202026.jpg",
+      "date": "Offre du 28 Avril au 26 Mai 2026",
       "images": [
-        "https://instagram.fcmn1-4.fna.fbcdn.net/v/t51.82787-15/671770239_18101778736953462_5283745124834262385_n.webp?_nc_cat=106&ig_cache_key=Mzg4MjI3NzMzMzgzMDkyMzY1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=hlz4_hUX5E8Q7kNvwFkyWp6&_nc_oc=AdrYS8Vah0OUpFMQAuUIBQXQ52vPD6IOuhhO7aeesKeph3NTNiSVTd23XLFAG2YOGxs&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af25HcsoqlSewGXdkof811hnSSMzQxF9jCyYR7e9i05lUg&oe=69F1C7B3",
-        "https://instagram.fcmn1-2.fna.fbcdn.net/v/t51.82787-15/671782895_18101778745953462_8516932519259319071_n.webp?_nc_cat=109&ig_cache_key=Mzg4MjI3NzMzNTQ5MTgyNDM0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YlKvoe5npj8Q7kNvwH-q3UE&_nc_oc=Adqxi5XGZiD3KglJZspoSgJWeqMErkGEum4ukwx63H8SDxVD3jOF1ul7Ff3v3TH2Jdc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af2dbMNnnWKhZIJW7HRwX-FWm1nAqCRiQE-iHRXWTsqZ2w&oe=69F1B939",
-        "https://instagram.fcmn1-1.fna.fbcdn.net/v/t51.82787-15/670393807_18101778733953462_6408415674910512371_n.webp?_nc_cat=104&ig_cache_key=Mzg4MjI3NzMzNzM3OTI0NTUxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zLz6X74-Br0Q7kNvwFHCX0q&_nc_oc=AdqAjUAHlCktwQzrYhcB7jUXajUELSevYnAPAfYCPNOwnxAl4WpbMURzRy1hTxOLoXM&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af2I7espw382FYjTsMlw9wx5JEhViTsVlHCZX4MTOtDqkw&oe=69F1CDD4",
-        "https://instagram.fcmn1-4.fna.fbcdn.net/v/t51.82787-15/657789792_18101778754953462_4785580452670764238_n.webp?_nc_cat=111&ig_cache_key=Mzg4MjI3NzM0MjQ5NjMzNDIzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=70m2OOzhMIQQ7kNvwEyawzg&_nc_oc=AdoOxouYTBaPajiSx6j9hoUidGP1gpUfFoSnP2lFJxmjrkAwbM2chynHqA8lRidOBQA&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af1pya--oUrwlpkyhi4cS71q-MwPyRf_GQhuzJEQwKf--A&oe=69F1E199",
-        "https://instagram.fcmn1-2.fna.fbcdn.net/v/t51.82787-15/673168321_18101778766953462_3338651342828530158_n.webp?_nc_cat=100&ig_cache_key=Mzg4MjI3NzM0MzYzNzE4MDkyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=ItPmVMA5x-oQ7kNvwHKzmfX&_nc_oc=AdoaxzXx8_ClQZKdW0d3RMSCdBcslCbOIk-TOLPveEcUSi7E6Xu99dAACZs5XnRVRp0&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af0ECzfutV_IpoWcQP4whiC4R1dGACLRTo7_CQLaPeZcig&oe=69F1E11A",
-        "https://instagram.fcmn1-4.fna.fbcdn.net/v/t51.82787-15/657863852_18101778775953462_3235877631850356983_n.webp?_nc_cat=108&ig_cache_key=Mzg4MjI3NzM0Njk3NTgzODk4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=mXhtm6IxWAwQ7kNvwFLP041&_nc_oc=Adob4LywTLl6hHsMcl3gXeQwRXTMRMUuWOEDlGaPNG646oZUxeKJ4NrG-x3hQKRi56g&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af0m1b29cwi2kFk4GWzSksYM3-erO5p7bVY-bhnQ0zfUEQ&oe=69F1B1E9",
-        "https://instagram.fcmn1-2.fna.fbcdn.net/v/t51.82787-15/673789905_18101778784953462_3123852808593695337_n.webp?stp=dst-webp_p1080x1080&_nc_cat=105&ig_cache_key=Mzg4MjI3NzM1MTc0MDU3ODY3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=5u3TUJc93tcQ7kNvwHOvwaH&_nc_oc=AdqX4WAUrRshl-6V-mPafajAb-X-t-ofWQw2LeHN-T6eHmBGs4XRZe-MhXE2RC-NJ4E&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af2xTW9N2x-StQ-apr9CvPj8sE3M5_pVEyVfcDbEE0a6pA&oe=69F1DDAA",
-        "https://instagram.fcmn1-4.fna.fbcdn.net/v/t51.82787-15/674515812_18101778793953462_1789393095711666152_n.webp?_nc_cat=110&ig_cache_key=Mzg4MjI3NzM1NjA1MjM0NDYzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=Ww7P5DIFBHQQ7kNvwHlKIhq&_nc_oc=AdrrrasBdUw08RESoqQMO9vKuaqgm1QsA1zl07475puwquQhYMcdebIWJpGWiGZ5cAw&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af3VP2cjtQEf5Epv7HPVsYp47bHTSIPLmxtvsJ2yEhpYfg&oe=69F1D366",
-        "https://instagram.fcmn1-3.fna.fbcdn.net/v/t51.82787-15/674440012_18101778820953462_4745135080096096244_n.webp?_nc_cat=101&ig_cache_key=Mzg4MjI3NzM2NDExMzc1MTE0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=CGP7NARr04MQ7kNvwFMQQIi&_nc_oc=Adom76suZajNFUI519CW7T7tN6w79Yi3FE3zmPbfbGd3PrxOmB5cuvX9OTvQJDO3vMg&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af0OfNwu1sCCr_zlnT9FSgFxz1kn8FDbFwq8lnc7yvS1Dw&oe=69F1CF0C",
-        "https://instagram.fcmn1-1.fna.fbcdn.net/v/t51.82787-15/672419786_18101778802953462_7855257862154825257_n.webp?_nc_cat=107&ig_cache_key=Mzg4MjI3NzM2MTM3OTA5NjgwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=GsEqbTGPdxcQ7kNvwGEAHKR&_nc_oc=Adq6inkzOH9ovvksZIaAoRgIOERsVh-xsIU4CiVYMmR7_8uo0zBlSqr2_s-4LP6fPyM&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af2IvVjE2hxsh8Clbcb5O3XjTbNHFf1beU_fVhwe5ssu7A&oe=69F1DD70",
-        "https://instagram.fcmn1-4.fna.fbcdn.net/v/t51.82787-15/673020363_18101778811953462_5008933845008399079_n.webp?_nc_cat=106&ig_cache_key=Mzg4MjI3NzM2NjQwMzg0MzY3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=eCTvC4edrHsQ7kNvwH3-t9n&_nc_oc=AdonrubhoCkuSFqLCroIkeCpeFE477dnTGEfseEyDSdHglKNweKDu5Cq1l-2dosZmeU&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af0MY5e7zbmeB_KarpBvouzUb45TZxu6_DDYEcT_BuC9ng&oe=69F1BFF9",
-        "https://instagram.fcmn1-2.fna.fbcdn.net/v/t51.82787-15/671863307_18101778829953462_1441351752817198666_n.webp?_nc_cat=105&ig_cache_key=Mzg4MjI3NzM2NjU5NjgwNDU0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NxGWoUJmx5kQ7kNvwEyI9eJ&_nc_oc=AdqCcB_2Q9LpRObCzofXOl6z8xvwRU8F_UuN7tVoEoUW6Cj1sP2ki_K3B8VJ3yW0CY8&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=wOEItMSicxOOj_RDqXHTGQ&_nc_ss=7a22e&oh=00_Af22hFUjBllxZ7h1Jra-JOPW_tqu1gxhASSmsRaYFw0pGg&oe=69F1C4E3"
-      ]
-    },
-    "marjan1": {
-      "title": "Marjane",
-      "link": "marjane1",
-      "thumbnail": "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0001.jpg",
-      "date": "Offre du 26 Mars au 12 Avril",
-      "images": [
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0001.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0002.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0003.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0005.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0006.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0007.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0008.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0009.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0011.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0010.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0012.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0013.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0015.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0016.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0017.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0018.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0019.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0020.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0021.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0023.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0025.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0027.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0029.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0030.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0031.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0032.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0033.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0035.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0035.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0036.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0037.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0038.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0039.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0040.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0041.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0042.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0043.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0044.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0045.jpg",
-        "https://hmizate.ma/img/cms/Marjane%20casse%20les%20prix%20(1)_page-0049.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20mai%202026.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2016.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2015.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2014.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2013.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2012.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20mai%202026-1.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2026.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2025.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2024.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2023.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2022.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2021.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2020.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2019.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2018.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2017.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2035.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2034.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2033.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2032.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2031.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2030.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2029.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2028.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2027.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2043.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2042.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2040.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2039.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2037.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2036.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20Marjane%20mai%202026%2050.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2050.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2049.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2048.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2047.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2046.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2045.jpg",
+        "https://hmizate.ma/img/cms/catalogue%20marjane%2044.jpg"
       ]
     },
     "marjanMarket": {
