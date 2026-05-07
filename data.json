@@ -1,28 +1,28 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre du 7 au 13 Mai 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%207%20au%2013%20Mai%202026-4%20(1).jpg",
+      "link": "kazyon"
+    },
+    "new2": {
+      "title": "Supeco Market",
+      "date": "Offre du 06 au 12 Mai 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2006%20au%2012%20Mai%202026-1.webp",
+      "link": "supeco"
+    },
+    "new3": {
       "title": "Marjane Méga",
       "date": "Offre du 28 Avril au 26 Mai 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Marjane%20mai%202026.jpg",
       "link": "marjane"
     },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre du 02 au 03 Mai 2026",
-      "thumbnail": "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/686370577_846541725159768_7773943677453793301_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg4NzYzMzQ3OTM4MzU0OTk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE2Mzh4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=tFcVgnk-DFwQ7kNvwHx_gZu&_nc_oc=AdrpuXcX8oOWhfnPzJo9rVaHPtV6JkF27iSOxKNa1Vgzxy6y2NT1qaPrbzvVnXX6NdE&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=9AkGnadi4VYz6N74pNmZTw&_nc_ss=7a22e&oh=00_Af7VaNcFjy9Jlkj3llDxr08RLxR4rnSoA1xaYDOWaOxyGg&oe=69FB8D03",
-      "link": "kazyon1"
-    },
-    "new3": {
+    "new4": {
       "title": "Bim Market",
       "date": "Offre de Vendredi 01 Mai 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-4.jpg",
       "link": "bim1"
-    },
-    "new4": {
-      "title": "Supeco Market",
-      "date": "Offre du 29 Avril au 05 Mai",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2029%20avril%20au%2005%20mai%202026-1.jpg",
-      "link": "supeco"
     },
     "new5": {
       "title": "Aswak Assalam",
@@ -64,14 +64,13 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-5_1.jpg",
-    "date": "Offre du 30 Avril au 6 Mai 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%207%20au%2013%20Mai%202026-4%20(1).jpg",
+    "date": "Offre du 7 au 13 Mai 2026",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-5_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-4_1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-3.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2030%20Avril%20au%206%20Mai%202026-2.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%207%20au%2013%20Mai%202026-4%20(1).jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%207%20au%2013%20Mai%202026-3%20(1).jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%207%20au%2013%20Mai%202026-2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%207%20au%2013%20Mai%202026-1.jpg"
     ]
   },
   "Kazyon1": {
@@ -117,11 +116,11 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco Market",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2029%20avril%20au%2005%20mai%202026-1.jpg",
-    "date": "Offre du 29 Avril au 05 Mai 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2006%20au%2012%20Mai%202026-1.webp",
+    "date": "Offre du 06 au 12 Mai 2026",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2029%20avril%20au%2005%20mai%202026-1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2029%20avril%20au%2005%20mai%202026-2.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2006%20au%2012%20Mai%202026-1.webp",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2006%20au%2012%20Mai%202026-2.webp"
     ]
   },
   "Supeco1": {
