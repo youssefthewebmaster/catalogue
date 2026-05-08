@@ -1,34 +1,34 @@
 {
   "news": {
     "new1": {
+      "title": "Aswak Assalam",
+      "date": "Offre du 08 Mai au 01 Juin 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-1.jpg",
+      "link": "aswak"
+    },
+    "new2": {
+      "title": "Bim Market",
+      "date": "Offre de Vendredi 08 Mai 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%208%20Mai%202026-9.jpg",
+      "link": "bim1"
+    },
+    "new3": {
       "title": "Kazyon Market",
       "date": "Offre du 7 au 13 Mai 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%207%20au%2013%20Mai%202026-4%20(1).jpg",
       "link": "kazyon"
     },
-    "new2": {
+    "new4": {
       "title": "Supeco Market",
       "date": "Offre du 06 au 12 Mai 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2006%20au%2012%20Mai%202026-1.webp",
       "link": "supeco"
     },
-    "new3": {
+    "new5": {
       "title": "Marjane Méga",
       "date": "Offre du 28 Avril au 26 Mai 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Marjane%20mai%202026.jpg",
       "link": "marjane"
-    },
-    "new4": {
-      "title": "Bim Market",
-      "date": "Offre de Vendredi 01 Mai 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-4.jpg",
-      "link": "bim1"
-    },
-    "new5": {
-      "title": "Aswak Assalam",
-      "date": "Offre valable jusqu'au 27 Avril",
-      "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t51.82787-15/673170431_18201757231341461_3418710172586517412_n.webp?_nc_cat=100&ig_cache_key=Mzg4MjQ5OTM3NTU3ODc5MDE5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=Qi1hWdPbFe4Q7kNvwFAx73i&_nc_oc=AdpZ6J_E_-aaFI0xyrBVlF6YGgBrPtp01Q31rvRADvPczRPD8x8pOLnMyB6ZocFh1Ag&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=dzv_gL3P8jWsuXb30Gx_yg&_nc_ss=7a22e&oh=00_Af3xwcI6MkboNyazIr5gVqKYAQriDGFVBbC3G7u8lR4iyA&oe=69F1D3F1",
-      "link": "aswak1"
     },
     "new6": {
       "title": "Kitea Géant",
@@ -88,13 +88,19 @@
     "bim1": {
       "title": "Bim",
       "link": "bim1",
-      "date": "Offre de Vendredi 01 Mai 2026",
-      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-4.jpg",
+      "date": "Offre de Vendredi 08 Mai 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%208%20Mai%202026-9.jpg",
       "images": [
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-4.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-3.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-1.jpg",
-        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%201%20Mai%202026-2.jpg"
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%208%20Mai%202026-9.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%208%20Mai%202026-10.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%208%20Mai%202026-8.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%208%20Mai%202026-7.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%208%20Mai%202026-6.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%208%20Mai%202026-5.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%208%20Mai%202026-8.webp",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%208%20Mai%202026-3.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%208%20Mai%202026-1.jpg",
+        "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%208%20Mai%202026-2.jpg"
       ]
     },
     "bim2": {
@@ -135,33 +141,41 @@
   "AswakAssalam": {
     "title": "Aswak Assalam",
     "link": "aswak",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-1.jpg",
-    "date": "Offre du 10 Avril au 3 Mai 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-1.jpg",
+    "date": "Offre du 08 Mai au 01 Juin 2026",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-1.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-2.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-4.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-5.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-6.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-7.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-8.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-9.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-11.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-12.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-13.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-14.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-16.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-17.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-18.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-19.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-20.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-21.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-24.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-23.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-25.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-26.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-27.jpg",
-      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20Avril%202026%20Maroc-28.jpg"
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-1.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-2.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-3.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-4.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-6.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-5.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-7.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-8.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-10.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-9.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-11.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-12.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-13.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-14.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-16.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-15.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-17.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-18.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-20.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-19.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-22.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-21.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-24.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-23.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-26.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-25.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-28.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-27.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-30.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-29.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-31.jpg",
+      "https://hmizate.ma/img/cms/Catalogue%20Aswak%20Assalam%20A%C3%AFd%20Al%20Adha%202026-32.jpg"
     ]
   },
   "AswakAssalam1": {
