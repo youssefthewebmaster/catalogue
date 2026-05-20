@@ -1,40 +1,40 @@
 {
   "news": {
     "new1": {
+      "title": "Kazyon Market",
+      "date": "Offre du 21 au 27 Mai 2026",
+      "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/701292903_860523687094905_1363885083547940720_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=103&ig_cache_key=Mzg5OTk3OTc0NzI2NzkxODY3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=apDxNOKZa4oQ7kNvwET_HT1&_nc_oc=AdqN5-h7VqpkZQFrEV1IUqjG62e5wEum0_x4sDZ2Tp0rOuizsR3_YnIeJxTggJ0VWI4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=heTCTXu4C2urGbOWdA7NuA&_nc_ss=7a22e&oh=00_Af4bzAs6bleyAk9IqUiBClRQo5Hgb-A9JBD7oK3DTZspgw&oe=6A140564",
+      "link": "kazyon"
+    },
+    "new2": {
+      "title": "Supeco Market",
+      "date": "Offre du 20 au 26 Mai 2026",
+      "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2020%20au%2026%20Mai%202026-1.webp",
+      "link": "supeco"
+    },
+    "new3": {
       "title": "Bim Market",
       "date": "Offre de Mardi 19 Mai 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20BIM%20du%2019%20Mai%202026.webp",
       "link": "bim2"
     },
-    "new2": {
-      "title": "Kazyon Market",
-      "date": "Offre du 18 au 20 Mai 2026",
-      "thumbnail": "https://instagram.fcmn2-1.fna.fbcdn.net/v/t39.30808-6/702259324_859448607202413_1317414893769714294_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzg5OTIyOTczODU3NzUwNDU0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZUpIZl2GnM0Q7kNvwFAwJS3&_nc_oc=AdrWvDBWMVgjgAhXwTbylu9FKNfKN3l1V0PqYDo3QQjhPA7_avipIGAD7ZvmpfF9cj4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcmn2-1.fna&_nc_gid=KNnnKBpvBzMWXdsWcxb9YQ&_nc_ss=7a22e&oh=00_Af5wrrLyqYxdaBgu6xfwKDSXjt6ZQJA2dX3p5tV1weBZCQ&oe=6A10AC26",
-      "link": "kazyon1"
-    },
-    "new3": {
+    "new4": {
       "title": "Marjane Méga",
       "date": "Offre du 15 Mai au 15 Juin 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Coupe%20du%20monde%202026_page-0001.jpg",
       "link": "marjane1"
     },
-    "new4": {
+    "new5": {
       "title": "Atacadão Market",
       "date": "Offre du 14 Mai au 03 Juin 2026",
       "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Atacadao%20du%2014%20Mai%20au%2003%20Juin%202026-1.webp",
       "link": "atacadao"
     },
-    "new5": {
+    "new6": {
       "title": "Aswak Assalam",
       "date": " À partir du Mercredi 13 Mai 2026",
       "thumbnail": "https://instagram.frba1-3.fna.fbcdn.net/v/t39.30808-6/696490440_980660251229854_7502047892779307890_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzg5NDA1MjU4ODM3MTQzMTAzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wYvC-dNPJAgQ7kNvwHPb8OX&_nc_oc=AdqbLJuDtoQF_4ajTNhD5umLmCTUrsC5Faxjet4OxaAf0GgpFxOl81DfRpufe1qkzc8&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-3.fna&_nc_gid=LnJPaXsfJph5cyInrY1J9g&_nc_ss=7a22e&oh=00_Af5hVMe0EvPvCb0dnp_0o6RnM9DaZjrtuVQjTy8fbckj5g&oe=6A095FEB",
       "link": "aswak1"
-    },
-    "new6": {
-      "title": "Supeco Market",
-      "date": "Offre de Mercredi 13 Mai 2026",
-      "thumbnail": "https://instagram.frba1-2.fna.fbcdn.net/v/t51.82787-15/695781732_18087210278578884_8378259503968834097_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzg5NTM3NjQ1NTkzOTQ5MTQ4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTYwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mb5nGKCn5mIQ7kNvwFnlMrl&_nc_oc=AdpDUXyrYxMDytcxpkCeMyKg3kJ6JLXl2Z0loSwqFfCtBbyEofIhpxvcKjssZSOdePE&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.frba1-2.fna&_nc_gid=hw3f48aNfTMjj2EIPcyVUQ&_nc_ss=7a22e&oh=00_Af5Gg7g8RZ-FqZ5TY-d_lMK6ntgrDbnTGrV8LJdKtA28IA&oe=6A0973F5",
-      "link": "supeco1"
     },
     "new7": {
       "title": "Kitea Géant",
@@ -64,18 +64,17 @@
   "Kazyon": {
     "link": "kazyon",
     "title": "Kazyon",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2014%20au%2020%20Mai%202026-1.webp",
-    "date": "Offre du 14 au 27 Mai 2026",
+    "thumbnail": "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/701292903_860523687094905_1363885083547940720_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=103&ig_cache_key=Mzg5OTk3OTc0NzI2NzkxODY3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=apDxNOKZa4oQ7kNvwET_HT1&_nc_oc=AdqN5-h7VqpkZQFrEV1IUqjG62e5wEum0_x4sDZ2Tp0rOuizsR3_YnIeJxTggJ0VWI4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=heTCTXu4C2urGbOWdA7NuA&_nc_ss=7a22e&oh=00_Af4bzAs6bleyAk9IqUiBClRQo5Hgb-A9JBD7oK3DTZspgw&oe=6A140564",
+    "date": "Offre du 21 au 27 Mai 2026",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2014%20au%2020%20Mai%202026-1.webp",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2014%20au%2020%20Mai%202026-2.webp",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2014%20au%2020%20Mai%202026-4.webp",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2014%20au%2020%20Mai%202026-3.webp",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2014%20au%2020%20Mai%202026-5.webp",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2014%20au%2020%20Mai%202026-6.webp",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2014%20au%2020%20Mai%202026-7.webp",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2014%20au%2020%20Mai%202026-8.webp",
-      "https://hmizate.ma/img/cms/Catalogue%20Kazyon%20du%2014%20au%2020%20Mai%202026-9.webp"
+      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/701292903_860523687094905_1363885083547940720_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=103&ig_cache_key=Mzg5OTk3OTc0NzI2NzkxODY3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=apDxNOKZa4oQ7kNvwET_HT1&_nc_oc=AdqN5-h7VqpkZQFrEV1IUqjG62e5wEum0_x4sDZ2Tp0rOuizsR3_YnIeJxTggJ0VWI4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=heTCTXu4C2urGbOWdA7NuA&_nc_ss=7a22e&oh=00_Af4bzAs6bleyAk9IqUiBClRQo5Hgb-A9JBD7oK3DTZspgw&oe=6A140564",
+      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/700762906_860523600428247_1273081775547830312_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=101&ig_cache_key=Mzg5OTk3OTc0NzM2MDIxNTU3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=B4jrmqMw_nwQ7kNvwH6XEXL&_nc_oc=Adr-5mvkh1wMoHCSNnsQm_epk9FgdYFRzgyvVjVzvIUVRR4-Kk8oqjZzpUGztyN9cXE&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=heTCTXu4C2urGbOWdA7NuA&_nc_ss=7a22e&oh=00_Af7FBEIoMCgB2Xsby6QLaP2P5xie46-tznj1RVUNG2iZpw&oe=6A1401A3",
+      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/701663532_860523617094912_3710153143221840096_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzg5OTk3OTc0Nzc0NjA2MTM1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YwHp2ehavR0Q7kNvwF-a-nH&_nc_oc=AdoKnvpj_dfliucj6AM2PptWXsuCYGe8ORQi4eVUJoFmjC_dWRxpYS5lAEMcbdO5O8A&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=heTCTXu4C2urGbOWdA7NuA&_nc_ss=7a22e&oh=00_Af5abqNBUX3OlXJy_S1lh-31zHIwi14KxGC-7KYMrlolPA&oe=6A1415B5",
+      "https://instagram.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/703136419_860523650428242_3769319049889067506_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=100&ig_cache_key=Mzg5OTk3OTc0NzYyMDI2NjE0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=D8ObIw-h39sQ7kNvwHZ-L09&_nc_oc=Adp-9beYXtPfUUp0MRqXlPCrLEu_CrRncjDlJoumOhyQ8Ma-1SDk3U2akFJDCzdCK0E&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-2.fna&_nc_gid=heTCTXu4C2urGbOWdA7NuA&_nc_ss=7a22e&oh=00_Af41SJHAv803UOqaSb7wK8ZqlKSTWnQxjD6nFW60tlxdFw&oe=6A140B11",
+      "https://instagram.fcmn1-1.fna.fbcdn.net/v/t39.30808-6/701286125_860523643761576_2900881205258827620_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=Mzg5OTk3OTc0NzY0NTQxMDEyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lmS-kRtivj0Q7kNvwHrMULi&_nc_oc=AdomgCVaKbiCX6Om4QnxWfuh28WQ3_dFN9z6SabaQKPkTdYu2jIfz5oEfEKhwjUbFk4&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-1.fna&_nc_gid=heTCTXu4C2urGbOWdA7NuA&_nc_ss=7a22e&oh=00_Af5E3rUIJkzdSGT34Arzy9Cpn1aUfbkFgRbAf9u-YYMwWA&oe=6A140CBC",
+      "https://instagram.fcmn1-3.fna.fbcdn.net/v/t39.30808-6/701696848_860554910425116_6317718619300020920_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=101&ig_cache_key=Mzg5OTk3OTc0NTg5MjIxNjI5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=NidZK8MiFJYQ7kNvwGwbggQ&_nc_oc=Adr5GbCcZesFlqtqSNpHpZ717C8383D9IO005sQur0lql8Ez4HslTQaKOB1-Mra33sc&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-3.fna&_nc_gid=heTCTXu4C2urGbOWdA7NuA&_nc_ss=7a22e&oh=00_Af5yS0ejWFrHJvlBu7y-HoAJLWG42yu4iSpYTGKXKrCtbA&oe=6A13FF1A",
+      "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/701471286_860554907091783_2010041101537405588_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=106&ig_cache_key=Mzg5OTk3OTc0NTY5MDg5NTMzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KKQAtTqkBJgQ7kNvwEwP4HP&_nc_oc=Ado-4fTVaNg10SeRgzdFb-CZAO_uhx7NqlVCPYKYOFxbeNS6CQnqgXV6iNAkMbpIOzk&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=heTCTXu4C2urGbOWdA7NuA&_nc_ss=7a22e&oh=00_Af7b_-966ODK5XO-mzjwO9w_Y9OvbOzq3q8r0kv2tzdR6g&oe=6A14176D",
+      "https://instagram.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/702100264_860523670428240_5028509684710534172_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=111&ig_cache_key=Mzg5OTk3OTc0Njk3NDMyODc1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=t6e17Qq0TcUQ7kNvwFQbaZT&_nc_oc=AdqOC8jFbk2F73Mvp8uCm7zV8wHrR3WVn9yB3OVmR5LO0ypk9Rb-nVoAchY3ZedWjVI&_nc_ad=z-m&_nc_cid=1404&_nc_zt=23&_nc_ht=instagram.fcmn1-4.fna&_nc_gid=heTCTXu4C2urGbOWdA7NuA&_nc_ss=7a22e&oh=00_Af6h4Pn37b5_3BndoLJSxmX8pogoOoZ11poHyJ26EqIgSA&oe=6A13EBCE"
     ]
   },
   "Kazyon1": {
@@ -118,11 +117,15 @@
   "Supeco": {
     "link": "supeco",
     "title": "Supeco Market",
-    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2006%20au%2012%20Mai%202026-1.webp",
-    "date": "Offre du 06 au 12 Mai 2026",
+    "thumbnail": "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2020%20au%2026%20Mai%202026-1.webp",
+    "date": "Offre du 20 au 26 Mai 2026",
     "images": [
-      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2006%20au%2012%20Mai%202026-1.webp",
-      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2006%20au%2012%20Mai%202026-2.webp"
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2020%20au%2026%20Mai%202026-1.webp",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2020%20au%2026%20Mai%202026-4.webp",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2020%20au%2026%20Mai%202026-2.webp",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2020%20au%2026%20Mai%202026-6.webp",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2020%20au%2026%20Mai%202026-3.webp",
+      "https://hmizate.ma/img/cms/Catalogue%20Supeco%20du%2020%20au%2026%20Mai%202026-5.webp"
     ]
   },
   "Supeco1": {
