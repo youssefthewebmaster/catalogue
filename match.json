@@ -44,58 +44,6 @@
       "link": "beinSport4",
       "comment": "أحمد سوكو",
       "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png"
-    },
-    "event2": {
-      "team1": "مالي تحت 17",
-      "team2": "تنزانيا تحت 17",
-      "team1Image": "https://images.elbotola.com/stats/logos/dj2ryohkw4oq1zp.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/jw2r09hl9z8rz84.png",
-      "time": "16:00",
-      "championName": "كأس أمم أفريقيا تحت 17 سنة",
-      "channelName": "Bein Sport 5",
-      "folder": "beinSport",
-      "link": "beinSport5",
-      "comment": "أحمد فؤاد",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b5.png"
-    },
-    "event3": {
-      "team1": "فرايبورغ",
-      "team2": "أستون فيلا",
-      "team1Image": "https://images.elbotola.com/stats/logos/l965mkyh924r1ge.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/j1l4rjnh06om7vx.png",
-      "time": "19:00",
-      "championName": "الدوري الأوروبي",
-      "channelName": "Bein Sport 1",
-      "folder": "beinSport",
-      "link": "beinSport1",
-      "comment": "عامر الخوذيري",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1.png"
-    },
-    "event4": {
-      "team1": "السنغال تحت 17",
-      "team2": "الجزائر تحت 17",
-      "team1Image": "https://images.elbotola.com/stats/logos/2y8m4zhj416ql07.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/2y8m4zhj484ql07.png",
-      "time": "19:00",
-      "championName": "كأس أمم أفريقيا تحت 17 سنة",
-      "channelName": "Bein Sport 5",
-      "folder": "beinSport",
-      "link": "beinSport5",
-      "comment": "محمد مبروكي",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b5.png"
-    },
-    "event5": {
-      "team1": "جنوب أفريقيا تحت 17",
-      "team2": "غانا تحت 17",
-      "team1Image": "https://images.elbotola.com/stats/logos/2y8m4zhj09yql07.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/ednm9whk949ryox.png",
-      "time": "19:00",
-      "championName": "كأس أمم أفريقيا تحت 17 سنة",
-      "channelName": "Bein Sport 4",
-      "folder": "beinSport",
-      "link": "beinSport4",
-      "comment": "أحمد عبده",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png"
     }
     },
     "*alwan": {
