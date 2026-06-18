@@ -33,18 +33,44 @@
     },
     "events": {
       "event1": {
-      "team1": "أنغولا تحت 17",
-      "team2": "موزمبيق تحت 17",
-      "team1Image": "https://images.elbotola.com/stats/logos/dj2ryohyd2eq1zp.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/d23xmvkh1jyqg8n.png",
+      "team1": "جمهورية التشيك",
+      "team2": "جنوب أفريقيا",
+      "team1Image": "https://images.elbotola.com/stats/logos/56ypq3nhy07md7o.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/j1l4rjnhpwnm7vx.png",
       "time": "16:00",
-      "championName": "كأس أمم أفريقيا تحت 17 سنة",
-      "channelName": "Bein Sport 4",
+      "championName": "كأس العالم",
+      "channelName": "Bein Sport MAX 1",
       "folder": "beinSport",
-      "link": "beinSport4",
-      "comment": "أحمد سوكو",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4.png"
-        }
+      "link": "beinXtra1",
+      "comment": "علي محمد علي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png"
+    },
+    "event2": {
+      "team1": "سويسرا",
+      "team2": "البوسنة والهرسك",
+      "team1Image": "https://images.elbotola.com/stats/logos/e4wyrn4hn3gq86p.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/gx7lm7phewxm2wd.png",
+      "time": "19:00",
+      "championName": "كأس العالم",
+      "channelName": "Bein Sport MAX 2",
+      "folder": "beinSport",
+      "link": "beinXtra2",
+      "comment": "أحمد البلوشي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png"
+    },
+    "event3": {
+      "team1": "كندا",
+      "team2": "قطر",
+      "team1Image": "https://images.elbotola.com/stats/logos/gy0or5jhyj4qwzv.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/d23xmvkh1y9qg8n.png",
+      "time": "22:00",
+      "championName": "كأس العالم",
+      "channelName": "Bein Sport MAX 1",
+      "folder": "beinSport",
+      "link": "beinXtra1",
+      "comment": "حسن العيدروس",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png"
+    }
     },
     "newEvents": {
         "main": {
