@@ -142,7 +142,7 @@
             }
         }
     },
-    "*alwan": {
+    "alwan": {
         "alwan1": {
             "links": {
                 "الرابط 1": "https://raw.githubusercontent.com/himasabry/xpola-player/refs/heads/main/GOGO1.m3u8"
