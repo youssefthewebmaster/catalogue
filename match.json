@@ -122,6 +122,7 @@
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
                     "title": "Bein MAX 1",
                     "links": {
+                        "جودة متعددة": "https://so-nn-mf-t.for-sav-ogr-403-cf.monster/bmax1480/tracks-v1a1/mono.m3u8?token=11a170f5056e4d6f73a94bc9e8122f04ebd86fda-5f02dc52fd37605d-1782599065-1782595165&remote=196.117.139.95",
                         "الرابط 1": "http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=CzvFw5-czoWAFrYLRApJEQ&e=1781780951",
                         "الرابط 2": "http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=LRAYbdycSUIYRatgH9u_zQ&e=1781784138",
                         "الرابط 3": "http://het4444.ycn-redirect.com/live/115451004/index.m3u8?t=dTJyQSjct9LpRPLS0xoA_g&e=1781784172",
@@ -132,6 +133,7 @@
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png",
                     "title": "Bein MAX 2",
                     "links": {
+                        "جودة متعددة": "https://so-nn-mf-t.for-sav-ogr-403-cf.lol/bmax2480/tracks-v1a1/mono.m3u8?token=ba18399fe15c4723c503305549e73ef97bd5811e-c2c6f6fa419e6379-1782599278-1782595378&remote=196.117.139.95",
                         "الرابط 1": "http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=kkU2FKroeIYD47T0qV5uwg&e=1781784136",
                         "الرابط 2": "http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=KaUIH7Adf5Gy5c3JNYmMzA&e=1781784189",
                         "الرابط 3": "http://het4444.ycn-redirect.com/live/788550011/index.m3u8?t=S56THbajr3eXsCqUgbsAQQ&e=1781784146",
@@ -342,6 +344,7 @@
         },
         "beinXtra1": {
             "links": {
+                "جودة متعددة": "https://so-nn-mf-t.for-sav-ogr-403-cf.monster/bmax1480/tracks-v1a1/mono.m3u8?token=11a170f5056e4d6f73a94bc9e8122f04ebd86fda-5f02dc52fd37605d-1782599065-1782595165&remote=196.117.139.95",
                 "الرابط 1": "http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=CzvFw5-czoWAFrYLRApJEQ&e=1781780951",
                 "الرابط 2": "http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=LRAYbdycSUIYRatgH9u_zQ&e=1781784138",
                 "الرابط 3": "http://het4444.ycn-redirect.com/live/115451004/index.m3u8?t=dTJyQSjct9LpRPLS0xoA_g&e=1781784172",
@@ -350,6 +353,7 @@
         },
         "beinXtra2": {
             "links": {
+                "جودة متعددة": "https://so-nn-mf-t.for-sav-ogr-403-cf.lol/bmax2480/tracks-v1a1/mono.m3u8?token=ba18399fe15c4723c503305549e73ef97bd5811e-c2c6f6fa419e6379-1782599278-1782595378&remote=196.117.139.95",
                 "الرابط 1": "http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=kkU2FKroeIYD47T0qV5uwg&e=1781784136",
                 "الرابط 2": "http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=KaUIH7Adf5Gy5c3JNYmMzA&e=1781784189",
                 "الرابط 3": "http://het4444.ycn-redirect.com/live/788550011/index.m3u8?t=S56THbajr3eXsCqUgbsAQQ&e=1781784146",
