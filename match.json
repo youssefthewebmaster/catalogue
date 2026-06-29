@@ -34,16 +34,42 @@
     },
     "events": {
       "event1": {
-      "team1": "جنوب أفريقيا",
-      "team2": "كندا",
-      "team1Image": "https://images.elbotola.com/stats/logos/j1l4rjnhpwnm7vx.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/gy0or5jhyj4qwzv.png",
-      "time": "19:00",
+      "team1": "البرازيل",
+      "team2": "اليابان",
+      "team1Image": "https://images.elbotola.com/stats/logos/9vjxm8gh68er6od.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/318q66hooj2qo9j.png",
+      "time": "17:00",
       "championName": "كأس العالم",
       "channelName": "Bein MAX 1",
       "folder": "beinSport",
       "link": "beinXtra1",
-      "comment": "أحمد البلوشي",
+      "comment": "حفيظ دراجي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png"
+    },
+    "event2": {
+      "team1": "ألمانيا",
+      "team2": "باراغواي",
+      "team1Image": "https://images.elbotola.com/stats/logos/d23xmvkh590qg8n.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/e4wyrn4hg02q86p.png",
+      "time": "20:30",
+      "championName": "كأس العالم",
+      "channelName": "Bein MAX 2",
+      "folder": "beinSport",
+      "link": "beinXtra2",
+      "comment": "خليل البلوشي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png"
+    },
+    "event3": {
+      "team1": "هولندا",
+      "team2": "المغرب",
+      "team1Image": "https://images.elbotola.com/stats/logos/9dn1m1ghzj5moep.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/56ypq3nh9nzmd7o.png",
+      "time": "01:00",
+      "championName": "كأس العالم",
+      "channelName": "Bein MAX 1",
+      "folder": "beinSport",
+      "link": "beinXtra1",
+      "comment": "جواد بدة",
       "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png"
     }
     },
