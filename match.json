@@ -34,43 +34,43 @@
     },
     "events": {
       "event1": {
-      "team1": "البرازيل",
-      "team2": "اليابان",
-      "team1Image": "https://images.elbotola.com/stats/logos/9vjxm8gh68er6od.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/318q66hooj2qo9j.png",
+      "team1": "الكوت ديفوار",
+      "team2": "النرويج",
+      "team1Image": "https://images.elbotola.com/stats/logos/4zp5rzghv0xq82w.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/8y39mp1h77lmojx.png",
       "time": "17:00",
       "championName": "كأس العالم",
       "channelName": "Bein MAX 1",
       "folder": "beinSport",
       "link": "beinXtra1",
-      "comment": "حفيظ دراجي",
+      "comment": "علي سعيد الكعبي",
       "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png"
     },
     "event2": {
-      "team1": "ألمانيا",
-      "team2": "باراغواي",
-      "team1Image": "https://images.elbotola.com/stats/logos/d23xmvkh590qg8n.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/e4wyrn4hg02q86p.png",
-      "time": "20:30",
+      "team1": "فرنسا",
+      "team2": "السويد",
+      "team1Image": "https://images.elbotola.com/stats/logos/p4jwq2ghdj9m0ve.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/z318q66hpe5qo9j.png",
+      "time": "21:00",
       "championName": "كأس العالم",
       "channelName": "Bein MAX 2",
       "folder": "beinSport",
       "link": "beinXtra2",
-      "comment": "خليل البلوشي",
+      "comment": "عصام الشوالي",
       "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png"
     },
     "event3": {
-      "team1": "هولندا",
-      "team2": "المغرب",
-      "team1Image": "https://images.elbotola.com/stats/logos/9dn1m1ghzj5moep.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/56ypq3nh9nzmd7o.png",
+      "team1": "المكسيك",
+      "team2": "الإكوادور",
+      "team1Image": "https://images.elbotola.com/stats/logos/gpxwrxlh43jryk0.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/p3glrw7h2z5qdyj.png",
       "time": "01:00",
       "championName": "كأس العالم",
-      "channelName": "Bein MAX 1",
+      "channelName": "Bein MAX 3",
       "folder": "beinSport",
-      "link": "beinXtra1",
-      "comment": "جواد بدة",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png"
+      "link": "beinXtra3",
+      "comment": "عبدالله الغامدي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3max.png"
     }
     },
     "newEvents": {
@@ -83,48 +83,48 @@
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
                     "title": "Bein MAX 1",
                     "links": {
-                        "الرابط 1": "http://re.ycn-redirect.com/live/610303030/index.m3u8?t=AxZv46BB00pAwx9psnXYdg&e=1782796561",
-                        "الرابط 2": "http://re.ycn-redirect.com/live/115451004/index.m3u8?t=tR3PDRLYgDwu9BKXwMLKDg&e=1782796650"
+                        "الرابط 1": "http://re.ycn-redirect.com/live/610303030/index.m3u8?t=vO5ELbJFrNsD9_uSHPrlqw&e=1782849943",
+                        "الرابط 2": "http://re.ycn-redirect.com/live/115451004/index.m3u8?t=-CUUEx1VzJAf-4yjkp0b7g&e=1782850083"
                     }
                 },
                 "element2": {
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png",
                     "title": "Bein MAX 2",
                     "links": {
-                        "الرابط 1": "http://re.ycn-redirect.com/live/1515000000/index.m3u8?t=mNvsCFmtlc4DMqQaB-Rqzg&e=1782796600",
-                        "الرابط 2": "http://re.ycn-redirect.com/live/788550011/index.m3u8?t=SvSwYr3y227hgxjGYYcTQQ&e=1782796656"
+                        "الرابط 1": "http://re.ycn-redirect.com/live/1515000000/index.m3u8?t=O9MX7xJ8g7_Hmx9g5Nqy2Q&e=1782849974",
+                        "الرابط 2": "http://re.ycn-redirect.com/live/788550011/index.m3u8?t=CI8G-c0AKlSkFfpOdxU80A&e=1782850154"
                     }
                 },
                 "element3": {
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b3max.png",
                     "title": "Bein MAX 3",
                     "links": {
-                        "الرابط 1": "http://re.ycn-redirect.com/live/33523510/index.m3u8?t=fJvlrLr7F_p_f7r3o4mHTA&e=1782796619",
-                        "الرابط 2": "http://re.ycn-redirect.com/live/33523510/index.m3u8?t=adshaC1TeugYwZi2HCZrzA&e=1782796653"
+                        "الرابط 1": "http://re.ycn-redirect.com/live/33523510/index.m3u8?t=nnfkE9Nr7jkKXyTwpdQ4xw&e=1782849993",
+                        "الرابط 2": "http://re.ycn-redirect.com/live/14066007/index.m3u8?t=qyZLLThwuSl-ye7v-4t24w&e=1782850224"
                     }
                 },
                 "element4": {
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b4max.png",
                     "title": "Bein MAX 4",
                     "links": {
-                        "الرابط 1": "http://re.ycn-redirect.com/live/918454578001/index.m3u8?t=sG5JsoxtIGNfKb_QKClyRQ&e=1782796637",
-                        "الرابط 2": "http://re.ycn-redirect.com/live/918454578001/index.m3u8?t=sKOoTXUMs80ctswrbUkV0w&e=1782796651"
+                        "الرابط 1": "http://re.ycn-redirect.com/live/918454578001/index.m3u8?t=TrM9HFaOVALxU_NfveD15Q&e=1782850011",
+                        "الرابط 2": "http://re.ycn-redirect.com/live/978480008877005/index.m3u8?t=zooje5BJIHYZf-mez40x7Q&e=1782850273"
                     }
                 },
                 "element5": {
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b5max.png",
                     "title": "Bein MAX 5",
                     "links": {
-                        "الرابط 1": "http://re.ycn-redirect.com/live/69854211/index.m3u8?t=qs1SGQnGd3_Km3-lMeo2Kg&e=1782796651",
-                        "الرابط 2": "http://re.ycn-redirect.com/live/69854211/index.m3u8?t=v8ocvmNNtCLkWdbAs-oPlw&e=1782796656"
+                        "الرابط 1": "http://re.ycn-redirect.com/live/69854211/index.m3u8?t=dz7YeJWykgTd0OJOeuf_oA&e=1782850034",
+                        "الرابط 2": "http://re.ycn-redirect.com/live/10011244/index.m3u8?t=vulbM3RKlYn4w0Ki6UwFwg&e=1782850293"
                     }
                 },
                 "element6": {
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b6max.png",
                     "title": "Bein MAX 6",
                     "links": {
-                        "الرابط 1": "http://re.ycn-redirect.com/live/645587700/index.m3u8?t=e11x6nWs8GhWG7nXexO8TQ&e=1782796656",
-                        "الرابط 2": "http://re.ycn-redirect.com/live/645587700/index.m3u8?t=uTdJYB2rFR3xOsMTIZAXLA&e=1782796660"
+                        "الرابط 1": "http://re.ycn-redirect.com/live/645587700/index.m3u8?t=xzQx6A17dvQX_mLLoo15gQ&e=1782850052",
+                        "الرابط 2": "http://re.ycn-redirect.com/live/161988840/index.m3u8?t=nr2pREDTfjQnwr4kBn2L_w&e=1782850313"
                     }
                 }
             }
@@ -283,27 +283,26 @@
         },
         "beinSport9": {
             "links": {
-                "الرابط 1": "http://re.ycn-redirect.com/live/918454578001/index.m3u8?t=sG5JsoxtIGNfKb_QKClyRQ&e=1782796637",
-                "الرابط 2": "http://re.ycn-redirect.com/live/918454578001/index.m3u8?t=sKOoTXUMs80ctswrbUkV0w&e=1782796651"
+                "الرابط 1": "http://re.ycn-redirect.com/live/918454578001/index.m3u8?t=TrM9HFaOVALxU_NfveD15Q&e=1782850011",
+                "الرابط 2": "http://re.ycn-redirect.com/live/978480008877005/index.m3u8?t=zooje5BJIHYZf-mez40x7Q&e=1782850273"
             }
         },
         "beinXtra1": {
             "links": {
-                "الرابط 1": "http://re.ycn-redirect.com/live/610303030/index.m3u8?t=AxZv46BB00pAwx9psnXYdg&e=1782796561",
-                "الرابط 2": "http://re.ycn-redirect.com/live/115451004/index.m3u8?t=tR3PDRLYgDwu9BKXwMLKDg&e=1782796650"
+                "الرابط 1": "http://re.ycn-redirect.com/live/610303030/index.m3u8?t=vO5ELbJFrNsD9_uSHPrlqw&e=1782849943",
+                "الرابط 2": "http://re.ycn-redirect.com/live/115451004/index.m3u8?t=-CUUEx1VzJAf-4yjkp0b7g&e=1782850083"
             }
         },
         "beinXtra2": {
             "links": {
-                "الرابط 1": "http://re.ycn-redirect.com/live/1515000000/index.m3u8?t=mNvsCFmtlc4DMqQaB-Rqzg&e=1782796600",
-                "الرابط 2": "http://re.ycn-redirect.com/live/788550011/index.m3u8?t=SvSwYr3y227hgxjGYYcTQQ&e=1782796656"
+                "الرابط 1": "http://re.ycn-redirect.com/live/1515000000/index.m3u8?t=O9MX7xJ8g7_Hmx9g5Nqy2Q&e=1782849974",
+                "الرابط 2": "http://re.ycn-redirect.com/live/788550011/index.m3u8?t=CI8G-c0AKlSkFfpOdxU80A&e=1782850154"
             }
         },
         "beinXtra3": {
             "links": {
-                "الرابط 1": "http://re.ycn-redirect.com/live/33523510/index.m3u8?t=fJvlrLr7F_p_f7r3o4mHTA&e=1782796619",
-                "الرابط 2": "http://re.ycn-redirect.com/live/33523510/index.m3u8?t=adshaC1TeugYwZi2HCZrzA&e=1782796653"
-            }
+                "الرابط 1": "http://re.ycn-redirect.com/live/33523510/index.m3u8?t=nnfkE9Nr7jkKXyTwpdQ4xw&e=1782849993",
+                "الرابط 2": "http://re.ycn-redirect.com/live/14066007/index.m3u8?t=qyZLLThwuSl-ye7v-4t24w&e=1782850224"            }
         },
         "beinSportEng1": {
             "links": {
