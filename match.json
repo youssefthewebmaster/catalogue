@@ -6,8 +6,8 @@
         "updateLink": "https://youssefdeveloper.com/prime/index.html"
     },
     "globalHeaders": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-        "Referer": "https://912acsss8af382.shootny.com/"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+        "Referer": "https://x.com/"
     },
     "specialDomains": {
         "s1.news-api-gen.lol": {
@@ -70,7 +70,6 @@
                     "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png",
                     "title": "Bein MAX 1",
                     "links": {
-                        "جودة متعددة": "https://jqyjghfms1mu8zc.foozlive.co/tw/media?channel=11d511e6d27a&q=720",
                         "الرابط 1": "http://re.mediox.online/live/610303030/index.m3u8?t=T3ah656crqNUeNMCAyDb6w&e=1783034289",
                         "الرابط 2": "http://re.mediox.online/live/115451004/index.m3u8?t=pB95hyIqSFSgRvd0J5QR-Q&e=1783036202"
                     }
