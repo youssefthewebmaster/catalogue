@@ -34,43 +34,30 @@
     },
     "events": {
       "event1": {
-      "team1": "إسبانيا",
-      "team2": "النمسا",
-      "team1Image": "https://images.elbotola.com/stats/logos/dn1m1gh4vgymoep.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/gpxwrxlh6d1ryk0.png",
-      "time": "19:00",
+      "team1": "البرازيل",
+      "team2": "النرويج",
+      "team1Image": "https://images.elbotola.com/stats/logos/9vjxm8gh68er6od.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/8y39mp1h77lmojx.png",
+      "time": "20:00",
+      "championName": "كأس العالم",
+      "channelName": "Bein MAX 1",
+      "folder": "beinSport",
+      "link": "beinXtra1",
+      "comment": "علي سعيد الكعبي",
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png"
+    },
+    "event2": {
+      "team1": "المكسيك",
+      "team2": "إنجلترا",
+      "team1Image": "https://images.elbotola.com/stats/logos/gpxwrxlh43jryk0.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/z8yomo4hl08q0j6.png",
+      "time": "00:00",
       "championName": "كأس العالم",
       "channelName": "Bein MAX 2",
       "folder": "beinSport",
       "link": "beinXtra2",
-      "comment": "عامر الخوذيري",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png"
-    },
-    "event2": {
-      "team1": "البرتغال",
-      "team2": "كرواتيا",
-      "team1Image": "https://images.elbotola.com/stats/logos/z8yomo4hwpeq0j6.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/kdj2ryohoj7q1zp.png",
-      "time": "23:00",
-      "championName": "كأس العالم",
-      "channelName": "Bein MAX 1",
-      "folder": "beinSport",
-      "link": "beinXtra1",
-      "comment": "حسن العيدروس",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png"
-    },
-    "event3": {
-      "team1": "سويسرا",
-      "team2": "الجزائر",
-      "team1Image": "https://images.elbotola.com/stats/logos/e4wyrn4hn3gq86p.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/y0or5jhlw90qwzv.png",
-      "time": "03:00",
-      "championName": "كأس العالم",
-      "channelName": "Bein MAX 1",
-      "folder": "beinSport",
-      "link": "beinXtra1",
       "comment": "حفيظ دراجي",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png"
+      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png"
     }
     },
     "newEvents": {
