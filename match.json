@@ -34,29 +34,16 @@
     },
     "events": {
         "event1": {
-      "team1": "الأرجنتين",
-      "team2": "مصر",
-      "team1Image": "https://images.elbotola.com/stats/logos/kdj2ryoh868q1zp.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/4zp5rzgh84yq82w.png",
-      "time": "16:00",
-      "championName": "كأس العالم",
-      "channelName": "Bein MAX 1",
-      "folder": "beinSport",
-      "link": "beinXtra1",
-      "comment": "علي محمد علي",
-      "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b1max.png"
-    },
-    "event2": {
-      "team1": "سويسرا",
-      "team2": "كولومبيا",
-      "team1Image": "https://images.elbotola.com/stats/logos/e4wyrn4hn3gq86p.png",
-      "team2Image": "https://images.elbotola.com/stats/logos/p3glrw7h5y7qdyj.png",
+      "team1": "فرنسا",
+      "team2": "المغرب",
+      "team1Image": "https://images.elbotola.com/stats/logos/p4jwq2ghdj9m0ve.png",
+      "team2Image": "https://images.elbotola.com/stats/logos/56ypq3nh9nzmd7o.png",
       "time": "20:00",
       "championName": "كأس العالم",
       "channelName": "Bein MAX 2",
       "folder": "beinSport",
       "link": "beinXtra2",
-      "comment": "علي سعيد الكعبي",
+      "comment": "علي الكعبي",
       "picture": "https://raw.githubusercontent.com/youssefthewebmaster/catalogue/refs/heads/main/teamsImages/channels/b2max.png"
     }
     },
